@@ -1,1 +1,1 @@
-VLA = "countries/West Russia.txt"
+VLD = "countries/West Russia.txt"
