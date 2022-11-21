@@ -1,0 +1,148 @@
+
+ideologies = {
+
+	controlled_democracy = {
+		types = {
+			controlled_democracy_default = {}
+		}
+		dynamic_faction_names = {}
+		color = { 100 100 100 }
+		rules = {
+			can_create_collaboration_government = no
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+	liberalism = {
+		types = {
+			liberalism_default = {}
+		}
+		dynamic_faction_names = {}
+		color = { 81 146 156 }
+		rules = {
+			can_create_collaboration_government = no
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+	mainstream_socialism = {
+		types = {
+			mainstream_socialism_default = {}
+		}
+		dynamic_faction_names = {}
+		color = { 161 55 93 }
+		rules = {
+			can_create_collaboration_government = no
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+	conservatism = {
+		types = {
+			conservatism_default = {}
+		}
+		dynamic_faction_names = {}
+		color = { 63 62 138 }
+		rules = {
+			can_create_collaboration_government = no
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+	militarism = {
+		types = {
+			militarism_default = {}
+		}
+		dynamic_faction_names = {}
+		color = { 66 66 66 }
+		rules = {
+			can_create_collaboration_government = no
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+	socialism = {
+		types = {
+			socialism_default = {}
+		}
+		dynamic_faction_names = {}
+		color = { 176 37 54 }
+		rules = {
+			can_create_collaboration_government = no
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+	communism = {
+		types = {
+			communism_default = {}
+		}
+		dynamic_faction_names = {}
+		color = { 120 13 26 }
+		rules = {
+			can_create_collaboration_government = no
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+	ultraradicalism = {
+		types = {
+			ultraradicalism_default = {}
+		}
+		dynamic_faction_names = {}
+		color = { 13 13 13 }
+		rules = {
+			can_create_collaboration_government = no
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+	goyda = {
+		types = {
+			goyda_default = {}
+		}
+		dynamic_faction_names = {}
+		color = { 92 24 88 }
+		rules = {
+			can_create_collaboration_government = no
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+}

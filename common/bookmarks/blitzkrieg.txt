@@ -1,0 +1,17 @@
+bookmarks = {
+	bookmark = {
+		name = "PISS"
+		desc = "PISS"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1936"
+		default_country = "---"
+		default = yes
+		"---"={
+			history = "OTHER_DARKCLOUDS_DESC"
+		}
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

@@ -1,0 +1,4 @@
+VLA = {
+	color = rgb { 59 83 107 }
+	color_ui = rgb { 59 83 107 }
+}

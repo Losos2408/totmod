@@ -1,0 +1,27 @@
+
+state={
+	id=2
+	name="STATE_2" # Vladimir
+	manpower = 467150
+	
+	state_category = town
+
+	history={
+	    owner = VLA
+		add_core_of = VLA
+		victory_points = { 4484 15 }
+		victory_points = { 7897 7 }
+		victory_points = { 3408 3 }
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	local_supplies = 0.0 
+	provinces={
+	4484
+	7897
+	4764
+	3408
+	3269
+	}
+}
