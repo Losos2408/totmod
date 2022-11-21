@@ -1,0 +1,13 @@
+bitmapfonts = {
+    bitmapfont = {
+        name = "tot_font"
+        fontfiles = {
+            "gfx/fonts/tot_font"
+        }
+        color = 0xffffffff
+
+        textcolors = {
+            G = { 86 172 91 }
+        }
+    }
+}
