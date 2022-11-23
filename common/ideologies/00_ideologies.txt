@@ -33,22 +33,6 @@ ideologies = {
 		ai_neutral = yes
 		can_be_boosted = no
 	}
-	mainstream_socialism = {
-		types = {
-			mainstream_socialism_default = {}
-		}
-		dynamic_faction_names = {}
-		color = { 161 55 93 }
-		rules = {
-			can_create_collaboration_government = no
-			can_force_government = no
-			can_puppet = no
-			can_join_factions = no
-			can_send_volunteers = yes
-		}
-		ai_neutral = yes
-		can_be_boosted = no
-	}
 	conservatism = {
 		types = {
 			conservatism_default = {}
