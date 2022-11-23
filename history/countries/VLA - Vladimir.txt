@@ -11,8 +11,8 @@ set_politics = {
 }
 
 set_popularities = {
-    liberalism = 60
+        liberalism = 60
 	mainstream_socialism = 20
-	conservatism = 5
-	goyda = 5
+	conservatism = 10
+	goyda = 10
 }
