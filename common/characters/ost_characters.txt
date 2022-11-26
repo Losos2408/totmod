@@ -1,0 +1,15 @@
+characters = {
+    OST_Vladimir_Solovyov = {
+        name = OST_Vladimir_Solovyov
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/OST/solovyov.png"
+            }
+        }
+        country_leader = {
+            ideology = national_conservatism
+            traits = { }
+            desc = OST_Vladimir_Solovyov_desc
+        }
+	}
+}

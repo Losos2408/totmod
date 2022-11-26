@@ -26,8 +26,8 @@ defined_text = {
 		localization_key = "communism"
 	}
 	text = {
-		trigger = { has_country_leader_ideology = ultraradicalism_default }
-		localization_key = "ultraradicalism"
+		trigger = { has_country_leader_ideology = radicalism_default }
+		localization_key = "radicalism"
 	}
 	text = {
 		trigger = { has_country_leader_ideology = goyda_default }
@@ -44,5 +44,17 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = technosocialism }
 		localization_key = "technosocialism"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = social_democracy }
+		localization_key = "social_democracy"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = national_bolshevism }
+		localization_key = "national_bolshevism"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = national_conservatism }
+		localization_key = "national_conservatism"
 	}
 }

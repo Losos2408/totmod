@@ -1,1 +1,5 @@
 SKO = "countries/Russia.txt"
+LYB = "countries/Russia.txt"
+BLS = "countries/Russia.txt"
+OST = "countries/Russia.txt"
+KHM = "countries/Russia.txt"

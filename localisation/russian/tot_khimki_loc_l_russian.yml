@@ -1,0 +1,26 @@
+﻿l_russian:
+
+ KHM_Roman_Yuneman:0 "Роман Юнеман"
+ KHM_Roman_Yuneman_desc:0 "База"
+ 
+ KHM_Maksim_Katz:0 "Максим Кац"
+ KHM_Maksim_Katz_desc:0 "Здесь не будет шуток про собак"
+ 
+ KHM:0 "Химки"
+ KHM_DEF:0 "Московская Республика"
+ KHM_ADJ:0 "Химкинск."
+ 
+ KHM_socialism_party:0 "ОБ - Л"
+ KHM_socialism_party_long:0 "Общество Будущее - Левые"
+ KHM_liberalism_party:0 "СДД"
+ KHM_liberalism_party:0 "Социал-Демократическое Движение"
+ KHM_controlled_democracy_party:0 "ЛДПМ"
+ KHM_controlled_democracy_party_long:0 "Либерально-Демократическая Партия Москвы"
+ KHM_conservatism_party:0 "Общество Будущее"
+ KHM_militarism_party:0 "ВСМ"
+ KHM_militarism_party_long:0 "Вооруженные Силы Мытищь"
+ KHM_communism_party:0 "КР - МО"
+ KHM_communism_party_long:0 "Коммунисты России - Московское Отделение"
+ KHM_radicalism_party:0 "УПР"
+ KHM_radicalism_party_long:0 "Урбанистическая Партия России"
+ KHM_goyda_party:0 "§R[ГОЙДА]"

@@ -13,7 +13,27 @@ spriteTypes = {
 			texturefile = "gfx/interface/ideologies/Technosocialism.dds"
 	    }
 		spriteType = {
-			name = "GFX_ideology_goyda"
+			name = "GFX_ideology_goyda_default"
 			texturefile = "gfx/interface/ideologies/goyda.dds"
+	    }
+		spriteType = {
+			name = "GFX_ideology_controlled_democracy_default"
+			texturefile = "gfx/interface/ideologies/controlled_democracy.dds"
+	    }
+		spriteType = {
+			name = "GFX_ideology_conservatism_default"
+			texturefile = "gfx/interface/ideologies/conservatism.dds"
+	    }
+		spriteType = {
+			name = "GFX_ideology_social_democracy"
+			texturefile = "gfx/interface/ideologies/social_democracy.dds"
+	    }
+		spriteType = {
+			name = "GFX_ideology_national_bolshevism"
+			texturefile = "gfx/interface/ideologies/national_bolshevism.dds"
+	    }
+		spriteType = {
+			name = "GFX_ideology_national_conservatism"
+			texturefile = "gfx/interface/ideologies/national_conservatism.dds"
 	    }
 	}

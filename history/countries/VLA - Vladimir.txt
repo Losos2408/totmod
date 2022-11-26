@@ -18,5 +18,5 @@ set_popularities = {
 	conservatism = 10
 	goyda = 10
 	militarism = 20
-	ultraradicalism = 10
+	radicalism = 10
 }

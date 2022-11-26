@@ -1,0 +1,20 @@
+capital = 7864
+
+recruit_character = KHM_Roman_Yuneman
+recruit_character = KHM_Maksim_Katz
+
+add_ideas = {
+}
+
+set_politics = {
+	ruling_party = conservatism
+	last_election = "2022.30.9"
+	election_frequency = 30
+	elections_allowed = yes
+}
+
+set_popularities = {
+    conservatism = 60
+	socialism = 30
+	controlled_democracy = 10
+}

@@ -1,0 +1,28 @@
+characters = {
+    KHM_Roman_Yuneman = {
+        name = KHM_Roman_Yuneman
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/KHM/yuneman.png"
+            }
+        }
+        country_leader = {
+            ideology = conservatism_default
+            traits = { }
+            desc = KHM_Roman_Yuneman_desc
+        }
+	}
+	KHM_Maksim_Katz = {
+        name = KHM_Maksim_Katz
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/KHM/katz.png"
+            }
+        }
+        country_leader = {
+            ideology = social_democracy
+            traits = { }
+            desc = KHM_Maksim_Katz_desc
+        }
+	}
+}

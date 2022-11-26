@@ -21,6 +21,7 @@ ideologies = {
 		types = {
 			liberalism_default = {}
 			european_liberalism = { can_be_randomly_selected = no }
+			social_democracy = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 81 146 156 }
@@ -53,9 +54,10 @@ ideologies = {
 	militarism = {
 		types = {
 			militarism_default = {}
+			national_conservatism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
-		color = { 66 66 66 }
+		color = { 55 55 55 }
 		rules = {
 			can_create_collaboration_government = no
 			can_force_government = no
@@ -99,9 +101,10 @@ ideologies = {
 		ai_neutral = yes
 		can_be_boosted = no
 	}
-	ultraradicalism = {
+	radicalism = {
 		types = {
-			ultraradicalism_default = {}
+			radicalism_default = {}
+			national_bolshevism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 13 13 13 }

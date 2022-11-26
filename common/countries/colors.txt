@@ -7,3 +7,23 @@ SKO = {
 	color = rgb { 156 62 79 }
 	color_ui = rgb { 156 62 79 }
 }
+
+LYB = {
+	color = rgb { 89 51 99 }
+	color_ui = rgb { 89 51 99 }
+}
+
+BLS = {
+	color = rgb { 145 100 107 }
+	color_ui = rgb { 145 100 107 }
+}
+
+OST = {
+	color = rgb { 125 116 91 }
+	color_ui = rgb { 125 116 91 }
+}
+
+KHM = {
+	color = rgb { 82 58 26 }
+	color_ui = rgb { 82 58 26 }
+}

@@ -1,0 +1,15 @@
+characters = {
+    BLS_Sergey_Sobyanin = {
+        name = BLS_Sergey_Sobyanin
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/BLS/sobyanin.png"
+            }
+        }
+        country_leader = {
+            ideology = controlled_democracy_default
+            traits = { }
+            desc = BLS_Sergey_Sobyanin_desc
+        }
+	}
+}

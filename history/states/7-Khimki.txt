@@ -1,0 +1,21 @@
+
+state={
+	id=7
+	name="STATE_7" # Khimki
+	manpower = 467150
+	
+	state_category = town
+
+	history={
+	    owner = KHM
+		add_core_of = KHM
+		victory_points = { 7864 15 }
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	local_supplies = 0.0 
+	provinces={
+	7864
+	}
+}

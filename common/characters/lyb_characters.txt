@@ -1,0 +1,15 @@
+characters = {
+    LYB_Ivan_Okhlobystin = {
+        name = LYB_Ivan_Okhlobystin
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/LYB/okhlobystin.png"
+            }
+        }
+        country_leader = {
+            ideology = goyda_default
+            traits = { }
+            desc = LYB_Ivan_Okhlobystin_desc
+        }
+	}
+}

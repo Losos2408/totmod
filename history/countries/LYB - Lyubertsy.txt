@@ -1,0 +1,17 @@
+capital = 2622
+
+recruit_character = LYB_Ivan_Okhlobystin
+
+add_ideas = {
+}
+
+set_politics = {
+	ruling_party = goyda
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	goyda = 100
+}

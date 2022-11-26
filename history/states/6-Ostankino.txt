@@ -1,0 +1,21 @@
+
+state={
+	id=6
+	name="STATE_6" # Ostankino
+	manpower = 467150
+	
+	state_category = town
+
+	history={
+	    owner = OST
+		add_core_of = OST
+		victory_points = { 5026 15 }
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	local_supplies = 0.0 
+	provinces={
+	5026
+	}
+}
