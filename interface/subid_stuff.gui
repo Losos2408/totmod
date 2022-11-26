@@ -1,0 +1,36 @@
+guiTypes = {
+
+ContainerWindowType = {
+		name = "Subideology"
+		position = { x = 0 y = 0 }
+		
+		instantTextboxType = {
+			name = "ideology"
+			position = { x = 263 y = 145 }
+			font = "hoi_16mbs"
+			text = [GetIdeologyName]
+			alwaystransparent = yes
+			maxWidth = 270
+			maxHeight = 30
+			format = left
+			fixedsize = yes
+		}
+	}
+
+ContainerWindowType = {
+		name = "Subideology_pol"
+		position = { x = 0 y = 0 }
+		
+		instantTextboxType = {
+			name = "ideology"
+			position = { x = 97 y = 310 }
+			font = "hoi_18mbs"
+			text = [GetIdeologyName]
+			alwaystransparent = yes
+			maxWidth = 150
+			maxHeight = 50
+			format = left
+			fixedsize = yes
+		}
+	}
+}

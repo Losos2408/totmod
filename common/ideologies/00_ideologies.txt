@@ -20,6 +20,7 @@ ideologies = {
 	liberalism = {
 		types = {
 			liberalism_default = {}
+			european_liberalism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 81 146 156 }
@@ -68,6 +69,7 @@ ideologies = {
 	socialism = {
 		types = {
 			socialism_default = {}
+			technosocialism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 176 37 54 }

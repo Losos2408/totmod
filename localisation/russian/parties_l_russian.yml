@@ -1,0 +1,18 @@
+﻿l_russian:
+
+ #only for existing tags, только для существующих тегов
+ VLA_socialism_party:0 "РБ (В)"
+ VLA_socialism_party_long:0 "Россия Будущего (Волков)"
+ VLA_liberalism_party:0 "Россия Будущего"
+ VLA_liberalism_party_long:0 "Россия Будущего"
+ VLA_controlled_democracy_party:0 "ЛДПР (В)"
+ VLA_controlled_democracy_party_long:0 "Либерально-Демократическая Партия России (Владимир)"
+ VLA_conservatism_party:0 "РБ (Ж)"
+ VLA_conservatism_party_long:0 "Россия Будущего (Жданов)"
+ VLA_militarism_party:0 "ВССР"
+ VLA_militarism_party_long:0 "Вооруженные Силы Свободной России"
+ VLA_communism_party:0 "КПР (В)"
+ VLA_communism_party_long:0 "Коммунистическая Партия России (Владимир)"
+ VLA_ultraradicalism_party:0 "Л"СР""
+ VLA_ultraradicalism_party_long:0 "Легион "Свободная Россия""
+ VLA_goyda_party:0 "§R[ГОЙДА]"

@@ -1,5 +1,7 @@
 capital = 4484
 
+recruit_character = VLA_alexey_navalny
+
 add_ideas = {
 }
 
@@ -11,8 +13,10 @@ set_politics = {
 }
 
 set_popularities = {
-        liberalism = 60
-	socialism = 20
+    liberalism = 40
+	socialism = 10
 	conservatism = 10
 	goyda = 10
+	militarism = 20
+	ultraradicalism = 10
 }

@@ -2,3 +2,8 @@ VLA = {
 	color = rgb { 59 83 107 }
 	color_ui = rgb { 59 83 107 }
 }
+
+SKO = {
+	color = rgb { 156 62 79 }
+	color_ui = rgb { 156 62 79 }
+}

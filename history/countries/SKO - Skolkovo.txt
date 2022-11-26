@@ -1,0 +1,17 @@
+capital = 3160
+
+recruit_character = SKO_ksgn_80
+
+add_ideas = {
+}
+
+set_politics = {
+	ruling_party = socialism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	socialism = 100
+}

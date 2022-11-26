@@ -1,0 +1,15 @@
+spriteTypes = {
+        spriteType = {
+			name = "GFX_elections_text_icon"
+			texturefile = "gfx/interface/ideologies/elections.dds"
+			legacy_lazy_load = no
+	    }
+		spriteType = {
+			name = "GFX_ideology_european_liberalism"
+			texturefile = "gfx/interface/ideologies/Euroliberalism.dds"
+	    }
+		spriteType = {
+			name = "GFX_ideology_technosocialism"
+			texturefile = "gfx/interface/ideologies/Technosocialism.dds"
+	    }
+	}

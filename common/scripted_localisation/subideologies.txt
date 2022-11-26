@@ -1,0 +1,48 @@
+defined_text = {
+    name = GetIdeologyName
+	
+	text = {
+		trigger = { has_country_leader_ideology = controlled_democracy_default }
+		localization_key = "controlled_democracy"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = liberalism_default }
+		localization_key = "liberalism"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = conservatism_default }
+		localization_key = "conservatism"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = militarism_default }
+		localization_key = "militarism"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = socialism_default }
+		localization_key = "socialism"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = communism_default }
+		localization_key = "communism"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = ultraradicalism_default }
+		localization_key = "ultraradicalism"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = goyda_default }
+		localization_key = "goyda"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = european_liberalism }
+		localization_key = "european_liberalism"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = european_liberalism }
+		localization_key = "european_liberalism"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = technosocialism }
+		localization_key = "technosocialism"
+	}
+}

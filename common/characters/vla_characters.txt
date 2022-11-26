@@ -1,0 +1,15 @@
+characters = {
+    VLA_alexey_navalny = {
+        name = VLA_alexey_navalny
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/VLA/navalny.png"
+            }
+        }
+        country_leader = {
+            ideology = european_liberalism
+            traits = { freedom_fighter populist }
+            desc = VLA_alexey_navalny_desc
+        }
+	}
+}

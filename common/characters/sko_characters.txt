@@ -1,0 +1,15 @@
+characters = {
+    SKO_ksgn_80 = {
+        name = SKO_ksgn_80
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/SKO/ksgn_80.png"
+            }
+        }
+        country_leader = {
+            ideology = technosocialism
+            traits = { AI }
+            desc = SKO_ksgn_80_desc
+        }
+	}
+}

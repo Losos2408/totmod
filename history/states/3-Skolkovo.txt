@@ -1,0 +1,21 @@
+
+state={
+	id=3
+	name="STATE_3" # Skolkovo
+	manpower = 467150
+	
+	state_category = town
+
+	history={
+	    owner = SKO
+		add_core_of = SKO
+		victory_points = { 3160 15 }
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	local_supplies = 0.0 
+	provinces={
+	3160
+	}
+}
