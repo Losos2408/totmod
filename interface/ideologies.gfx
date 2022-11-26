@@ -12,4 +12,8 @@ spriteTypes = {
 			name = "GFX_ideology_technosocialism"
 			texturefile = "gfx/interface/ideologies/Technosocialism.dds"
 	    }
+		spriteType = {
+			name = "GFX_ideology_goyda"
+			texturefile = "gfx/interface/ideologies/goyda.dds"
+	    }
 	}
