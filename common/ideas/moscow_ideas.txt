@@ -1,0 +1,210 @@
+ideas = {
+ country = {
+        Moscow_in_shards = {
+
+			picture = moscow_in_shards
+
+			allowed = {
+				always = yes
+			}
+
+			modifier = {
+				custom_modifier_tooltip = SPR_military_disloyalty_tt
+			}
+		}
+		
+		### Ostankino
+		
+		OST_the_power_struggle = {
+
+			picture = OST_the_power_struggle
+
+			allowed = {
+				original_tag = OST
+			}
+			modifier = {
+			}
+			
+		}
+		
+		OST_the_tv_tower = {
+		
+			picture = OST_the_tv_tower
+
+			allowed = {
+				original_tag = OST
+			}
+			modifier = {
+			}
+			
+		}
+		
+		OST_internal_opposition = {
+
+			picture = OST_internal_opposition
+
+			allowed = {
+				original_tag = OST
+			}
+			modifier = {
+			}
+			
+		}
+		
+		### Lyubertsi
+		
+		LYB_okhlobystin_dictature = {
+
+			picture = LYB_okhlobystin_dictature
+
+			allowed = {
+				original_tag = LYB
+			}
+			modifier = {
+			}
+			
+		}
+		
+		LYB_the_goyda_order = {
+
+			picture = LYB_the_goyda_order
+
+			allowed = {
+				original_tag = LYB
+			}
+			modifier = {
+			}
+			
+		}
+		
+		LYB_hermit_state = {
+
+			picture = LYB_hermit_state
+
+			allowed = {
+				original_tag = LYB
+			}
+			modifier = {
+			}
+			
+		}
+		
+		### Khimki
+		
+		KHM_the_democratic_union = {
+
+			picture = KHM_the_democratic_union
+
+			allowed = {
+				original_tag = KHM
+			}
+			modifier = {
+			}
+			
+		}
+		
+		KHM_new_old_russia = {
+
+			picture = KHM_new_old_russia
+
+			allowed = {
+				original_tag = KHM
+			}
+			modifier = {
+			}
+			
+		}
+		
+		### Balashikha
+		
+		BLS_bipolar_government = {
+
+			picture = BLS_bipolar_government
+
+			allowed = {
+				original_tag = BLS
+			}
+			modifier = {
+			}
+			
+		}
+		
+		BLS_emergency_state = {
+
+			picture = BLS_emergency_state
+
+			allowed = {
+				original_tag = BLS
+			}
+			modifier = {
+			}
+			
+		}
+		
+		BLS_kremlin_leftovers = {
+
+			picture = BLS_kremlin_leftovers
+
+			allowed = {
+				original_tag = BLS
+			}
+			modifier = {
+			}
+			
+		}
+		
+		### Skolkovo
+		
+		Moscow_in_shards_sko_special = {
+
+			picture = moscow_in_shards
+
+			allowed = {
+				original_tag = SKO
+			}
+
+			modifier = {
+				custom_modifier_tooltip = SPR_military_disloyalty_tt
+			}
+		}
+		
+		SKO_1980 = {
+
+			picture = SKO_1980
+
+			allowed = {
+				original_tag = SKO
+			}
+			modifier = {
+			}
+			
+		}
+		
+		SKO_NAME_NOT_FOUND = {
+
+			picture = SKO_NAME_NOT_FOUND
+
+			allowed = {
+				original_tag = SKO
+			}
+			modifier = {
+			}
+			
+		}
+		
+		SKO_TRAINING_MODE = {
+
+			picture = SKO_TRAINING_MODE
+
+			allowed = {
+				original_tag = SKO
+			}
+			modifier = {
+			}
+			
+		}
+		
+		### Skolkovo
+		
+	}
+}

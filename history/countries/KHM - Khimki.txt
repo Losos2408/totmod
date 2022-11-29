@@ -4,6 +4,9 @@ recruit_character = KHM_Roman_Yuneman
 recruit_character = KHM_Maksim_Katz
 
 add_ideas = {
+Moscow_in_shards
+KHM_the_democratic_union
+KHM_new_old_russia
 }
 
 set_politics = {

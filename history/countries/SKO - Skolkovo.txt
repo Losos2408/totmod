@@ -3,6 +3,10 @@ capital = 3160
 recruit_character = SKO_ksgn_80
 
 add_ideas = {
+Moscow_in_shards_sko_special
+SKO_1980
+SKO_NAME_NOT_FOUND
+SKO_TRAINING_MODE
 }
 
 set_politics = {

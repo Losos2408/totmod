@@ -1,0 +1,20 @@
+﻿l_english:
+ BLS_Sergey_Sobyanin:0 "Sergey Sobyanin"
+ BLS_Sergey_Sobyanin_desc:0 "Метро пиздец"
+ 
+ BLS:0 "Balashikha"
+ BLS_DEF:0 "State Comitee for Moscow's Defense"
+ BLS_ADJ:0 "Балашихск."
+ 
+ BLS_socialism_party:0 "СР-М"
+ BLS_socialism_party_long:0 "Коммунистическая Партия Москвы"
+ BLS_liberalism_party:0 "Партия Роста"
+ BLS_controlled_democracy_party:0 "Moscow Administration"
+ BLS_conservatism_party:0 "Новые Люди"
+ BLS_militarism_party:0 "СТОМ"
+ BLS_militarism_party_long:0 "Силы Территориальной Обороны Москвы"
+ BLS_communism_party:0 "КПМ"
+ BLS_communism_party_long:0 "Коммунистическая Партия Москвы"
+ BLS_radicalism_party:0 "СС"
+ BLS_radicalism_party_long:0 "Славянский Союз"
+ BLS_goyda_party:0 "§R[ГОЙДА]"

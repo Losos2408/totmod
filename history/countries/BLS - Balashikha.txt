@@ -3,6 +3,10 @@ capital = 7860
 recruit_character = BLS_Sergey_Sobyanin
 
 add_ideas = {
+Moscow_in_shards
+BLS_bipolar_government
+BLS_emergency_state
+BLS_kremlin_leftovers
 }
 
 set_politics = {

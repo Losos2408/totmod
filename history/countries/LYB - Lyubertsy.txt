@@ -3,6 +3,10 @@ capital = 2622
 recruit_character = LYB_Ivan_Okhlobystin
 
 add_ideas = {
+Moscow_in_shards
+LYB_okhlobystin_dictature
+LYB_the_goyda_order
+LYB_hermit_state
 }
 
 set_politics = {

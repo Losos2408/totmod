@@ -3,6 +3,10 @@ capital = 5026
 recruit_character = OST_Vladimir_Solovyov
 
 add_ideas = {
+Moscow_in_shards
+OST_the_power_struggle
+OST_the_tv_tower
+OST_internal_opposition
 }
 
 set_politics = {
