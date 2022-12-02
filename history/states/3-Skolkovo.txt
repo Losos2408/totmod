@@ -2,7 +2,7 @@
 state={
 	id=3
 	name="STATE_3" # Skolkovo
-	manpower = 467150
+	manpower = 2741144
 	
 	state_category = town
 

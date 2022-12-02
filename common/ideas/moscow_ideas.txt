@@ -47,6 +47,8 @@ ideas = {
 				original_tag = OST
 			}
 			modifier = {
+				stability_factor = -0.05
+				political_power_gain = -0.3
 			}
 			
 		}

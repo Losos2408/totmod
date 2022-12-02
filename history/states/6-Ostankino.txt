@@ -2,7 +2,7 @@
 state={
 	id=6
 	name="STATE_6" # Ostankino
-	manpower = 467150
+	manpower = 1745754
 	
 	state_category = town
 

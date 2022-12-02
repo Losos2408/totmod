@@ -2,7 +2,7 @@
 state={
 	id=5
 	name="STATE_5" # Balashikha
-	manpower = 467150
+	manpower = 1886312
 	
 	state_category = town
 
