@@ -1,0 +1,16 @@
+﻿l_russian:
+ HLV_hoshimachi_suisei:0 "Хосимати Суисэй"
+ HLV_hoshimachi_suisei_desc:0 "Суитян"
+ 
+ HLV:0 "Японская Оккупационая Зона"
+ HLV_DEF:0 "Японская Оккупационая Зона"
+ HLV_ADJ:0 "Японск."
+ 
+ HLV_goyda_party:0 "Хололайв - Коронэ"
+ HLV_liberalism_party:0 "Хололайв - Суисэй"
+ HLV_controlled_democracy_party:0 "Хололайв - Ботан"
+ HLV_conservatism_party:0 "§R[НАЗВАНИЕ В РАЗРАБОТКЕ]"
+ HLV_militarism_party:0 "§R[НАЗВАНИЕ В РАЗРАБОТКЕ]"
+ HLV_communism_party:0 "§R[НАЗВАНИЕ В РАЗРАБОТКЕ]"
+ HLV_radicalism_party:0 "§R[НАЗВАНИЕ В РАЗРАБОТКЕ]"
+ HLV_socialism_party:0 "§R[НАЗВАНИЕ В РАЗРАБОТКЕ]"
