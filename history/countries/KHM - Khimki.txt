@@ -1,4 +1,4 @@
-capital = 7864
+capital = 7
 
 recruit_character = KHM_Roman_Yuneman
 recruit_character = KHM_Maksim_Katz

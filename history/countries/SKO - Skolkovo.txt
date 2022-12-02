@@ -1,4 +1,4 @@
-capital = 3160
+capital = 3
 
 recruit_character = SKO_ksgn_80
 

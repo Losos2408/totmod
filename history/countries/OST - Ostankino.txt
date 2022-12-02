@@ -1,4 +1,4 @@
-capital = 5026
+capital = 6
 
 recruit_character = OST_Vladimir_Solovyov
 

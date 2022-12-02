@@ -1,4 +1,4 @@
-capital = 2342
+capital = 8
 
 recruit_character = HLV_hoshimachi_suisei
 
