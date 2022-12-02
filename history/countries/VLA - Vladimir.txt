@@ -1,4 +1,4 @@
-capital = 4484
+capital = 2
 
 recruit_character = VLA_alexey_navalny
 

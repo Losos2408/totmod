@@ -1,4 +1,4 @@
-capital = 2622
+capital = 4
 
 recruit_character = LYB_Ivan_Okhlobystin
 

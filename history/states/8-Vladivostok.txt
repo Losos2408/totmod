@@ -9,7 +9,7 @@ state={
 	history={
 	    owner = HLV
 		add_core_of = HLV
-		victory_points = { 2342 15 }
+		victory_points = { 2342 30 }
 		buildings = {
 			infrastructure = 2
 		}

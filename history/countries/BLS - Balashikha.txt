@@ -1,4 +1,4 @@
-capital = 7860
+capital = 5
 
 recruit_character = BLS_Sergey_Sobyanin
 
