@@ -27,3 +27,8 @@ KHM = {
 	color = rgb { 82 58 26 }
 	color_ui = rgb { 82 58 26 }
 }
+
+HLV = {
+	color = rgb { 121 171 235 }
+	color_ui = rgb { 121 171 235 }
+}

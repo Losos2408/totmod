@@ -1,0 +1,20 @@
+capital = 2342
+
+recruit_character = HLV_hoshimachi_suisei
+
+add_ideas = {
+}
+
+set_politics = {
+	ruling_party = liberalism
+	last_election = "2022.30.9"
+	election_frequency = 33
+	elections_allowed = yes
+}
+
+set_popularities = {
+    liberalism = 60
+	socialism = 20
+	controlled_democracy = 10
+	goyda = 10
+}

@@ -1,0 +1,15 @@
+characters = {
+    HLV_hoshimachi_suisei = {
+        name = HLV_hoshimachi_suisei
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/HLV/suisei.png"
+            }
+        }
+        country_leader = {
+            ideology = personalistic_democracy
+            traits = {  }
+            desc = HLV_hoshimachi_suisei_desc
+        }
+	}
+}

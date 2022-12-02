@@ -1,0 +1,26 @@
+
+state={
+	id=9
+	name="STATE_9"
+
+	history={
+		owner = HLV
+		add_core_of = HLV
+		victory_points = {
+			1592 15 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		433 706 854 863 1015 1592 1816 2915 3168 3276 3501 3849 4052 4642 4717 4929 5277 5569 5616 6726 8367 8380 8391 8403 8439 8488 8513 8553 
+	}
+	manpower=735202
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,4 +1,4 @@
-﻿name="Times of Trouble"
+﻿name="Times of Trouble - Dev"
 replace_path="history/countries"
 replace_path="history/states"
 replace_path="history/units"

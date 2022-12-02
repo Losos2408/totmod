@@ -57,4 +57,8 @@ defined_text = {
 		trigger = { has_country_leader_ideology = national_conservatism }
 		localization_key = "national_conservatism"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = personalistic_democracy }
+		localization_key = "personalistic_democracy"
+	}
 }

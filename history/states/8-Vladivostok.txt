@@ -1,0 +1,21 @@
+
+state={
+	id=8
+	name="STATE_8" # Vladivostok
+	manpower = 825202
+	
+	state_category = town
+
+	history={
+	    owner = HLV
+		add_core_of = HLV
+		victory_points = { 2342 15 }
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	local_supplies = 0.0 
+	provinces={
+	752 1240 1347 1890 1992 2342 2368 2553 2668 3499 4904 5157 5285 6735 8620 8660 8695 8726 8740 8752 8758 
+	}
+}

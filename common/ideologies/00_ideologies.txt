@@ -22,6 +22,7 @@ ideologies = {
 			liberalism_default = {}
 			european_liberalism = { can_be_randomly_selected = no }
 			social_democracy = { can_be_randomly_selected = no }
+			personalistic_democracy = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 81 146 156 }

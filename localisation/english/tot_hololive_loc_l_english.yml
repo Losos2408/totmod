@@ -1,2 +1,16 @@
 ﻿l_english:
- # amogus
+ HLV_hoshimachi_suisei:0 "Hoshimachi Suisei"
+ HLV_hoshimachi_suisei_desc:0 "Suityan"
+ 
+ HLV:0 "Japanese Occupation Zone"
+ HLV_DEF:0 "Japanese Occupation Zone"
+ HLV_ADJ:0 "Japanese"
+ 
+ HLV_goyda_party:0 "Hololive - Koron"
+ HLV_liberalism_party:0 "Hololive - Suisei"
+ HLV_controlled_democracy_party:0 "Hololive - Botan"
+ HLV_conservatism_party:0 "§R[NAME PENDING]"
+ HLV_militarism_party:0 "§R[NAME PENDING]"
+ HLV_communism_party:0 "§R[NAME PENDING]"
+ HLV_radicalism_party:0 "§R[NAME PENDING]"
+ HLV_socialism_party:0 "§R[NAME PENDING]"
