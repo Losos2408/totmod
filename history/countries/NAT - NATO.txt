@@ -1,0 +1,21 @@
+capital = 14
+
+recruit_character = NAT_Nicola_Zanelli
+
+add_ideas = {
+}
+
+set_politics = {
+	ruling_party = militarism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+    militarism = 45
+	socialism = 10
+	controlled_democracy = 25
+	liberalism = 15
+	radicalism = 5
+}

@@ -3,6 +3,8 @@ state={
 	name="STATE_14" # Pskov
 
 	history={
+	    owner = NAT
+		add_core_of = NAT
             victory_points = { 5729 30 }
 		buildings = {
 			infrastructure = 2

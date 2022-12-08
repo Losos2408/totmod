@@ -48,4 +48,8 @@ spriteTypes = {
 			name = "GFX_ideology_silent_conservatism"
 			texturefile = "gfx/interface/ideologies/silent_conservatism.png"
 	    }
+		spriteType = {
+			name = "GFX_ideology_military_mandate"
+			texturefile = "gfx/interface/ideologies/military_mandate.png"
+	    }
 	}

@@ -4,6 +4,15 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = controlled_democracy_default }
 		localization_key = "controlled_democracy"
+	}text = {
+		trigger = { has_country_leader_ideology = controlled_democracy_default }
+		localization_key = "controlled_democracy"
+	}text = {
+		trigger = { has_country_leader_ideology = controlled_democracy_default }
+		localization_key = "controlled_democracy"
+	}text = {
+		trigger = { has_country_leader_ideology = controlled_democracy_default }
+		localization_key = "controlled_democracy"
 	}
 	text = {
 		trigger = { has_country_leader_ideology = liberalism_default }
@@ -68,5 +77,9 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = silent_conservatism }
 		localization_key = "silent_conservatism"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = military_mandate }
+		localization_key = "military_mandate"
 	}
 }

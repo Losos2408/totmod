@@ -1,0 +1,15 @@
+characters = {
+    NAT_Nicola_Zanelli = {
+        name = NAT_Nicola_Zanelli
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/NAT/NicolaZanelli.png"
+            }
+        }
+        country_leader = {
+            ideology = military_mandate
+            traits = { }
+            desc = NAT_Nicola_Zanelli_desc
+        }
+	}
+}

@@ -1,11 +1,10 @@
+
 state={
-	id=15
-	name="STATE_15" # Pskov Nothern
+	id=11
+	name="STATE_11" # Pskov
 
 	history={
-	    owner = NAT
-		add_core_of = NAT
-            victory_points = { 7520 30 }
+            victory_points = { 5729 30 }
 		buildings = {
 			infrastructure = 2
 
@@ -14,7 +13,7 @@ state={
 	}
 
 	provinces={
-	3008 3313 3473 7520   
+	436 876 3008 3313 3473 4296 4385 5729 7520 7599     
 	} 
 	manpower=467150
 	buildings_max_level_factor=1.000

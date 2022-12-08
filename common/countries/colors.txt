@@ -42,3 +42,7 @@ KOM = {
 	color = rgb { 99 77 142 }
 	color_ui = rgb { 99 77 142 }
 }
+NAT = {
+	color = rgb { 11 20 142 }
+	color_ui = rgb { 11 20 142 }
+}
