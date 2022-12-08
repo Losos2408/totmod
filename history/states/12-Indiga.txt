@@ -1,0 +1,26 @@
+
+state={
+	id=12
+	name="STATE_12"
+
+	history={
+		owner = NEN
+		add_core_of = NEN
+		victory_points = {
+			1686 15 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		1686 2810 3283 7424 7466 
+	}
+	manpower=505122
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,20 @@
+state={
+	id=15
+	name="STATE_15" # Pskov Nothern
+
+	history={
+            victory_points = { 7520 30 }
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+	3008 3313 3473 7520   
+	} 
+	manpower=467150
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

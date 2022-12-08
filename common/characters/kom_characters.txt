@@ -1,0 +1,15 @@
+characters = {
+    KOM_Komi_San = {
+        name = KOM_Komi_San
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/KOM/KomiSan.png"
+            }
+        }
+        country_leader = {
+            ideology = silent_conservatism
+            traits = {  }
+            desc = KOM_Komi_San_desc
+        }
+	}
+}

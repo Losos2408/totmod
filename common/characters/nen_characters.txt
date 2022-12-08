@@ -1,0 +1,15 @@
+characters = {
+    NEN_Momosuzu_Nene = {
+        name = NEN_Momosuzu_Nene
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/NEN/Nene.png"
+            }
+        }
+        country_leader = {
+            ideology = personalistic_democracy_nene
+            traits = {  }
+            desc = NEN_Momosuzu_Nene_desc
+        }
+	}
+}

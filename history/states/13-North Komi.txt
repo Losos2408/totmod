@@ -1,0 +1,26 @@
+
+state={
+	id=13
+	name="STATE_13"
+
+	history={
+		owner = KOM
+		add_core_of = KOM
+		victory_points = {
+			3364 15 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		1016 1287 2787 3102 3364 3364 3913 
+	}
+	manpower=505122
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

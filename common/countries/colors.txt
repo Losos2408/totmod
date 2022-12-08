@@ -32,3 +32,13 @@ HLV = {
 	color = rgb { 121 171 235 }
 	color_ui = rgb { 121 171 235 }
 }
+
+NEN = {
+	color = rgb { 232 207 158 }
+	color_ui = rgb { 232 207 158 }
+}
+
+KOM = {
+	color = rgb { 99 77 142 }
+	color_ui = rgb { 99 77 142 }
+}

@@ -1,43 +1,51 @@
 spriteTypes = {
         spriteType = {
 			name = "GFX_elections_text_icon"
-			texturefile = "gfx/interface/ideologies/elections.dds"
+			texturefile = "gfx/interface/ideologies/elections.png"
 			legacy_lazy_load = no
 	    }
 		spriteType = {
 			name = "GFX_ideology_european_liberalism"
-			texturefile = "gfx/interface/ideologies/Euroliberalism.dds"
+			texturefile = "gfx/interface/ideologies/Euroliberalism.png"
 	    }
 		spriteType = {
 			name = "GFX_ideology_technosocialism"
-			texturefile = "gfx/interface/ideologies/Technosocialism.dds"
+			texturefile = "gfx/interface/ideologies/Technosocialism.png"
 	    }
 		spriteType = {
 			name = "GFX_ideology_goyda_default"
-			texturefile = "gfx/interface/ideologies/goyda.dds"
+			texturefile = "gfx/interface/ideologies/goyda.png"
 	    }
 		spriteType = {
 			name = "GFX_ideology_controlled_democracy_default"
-			texturefile = "gfx/interface/ideologies/controlled_democracy.dds"
+			texturefile = "gfx/interface/ideologies/controlled_democracy.png"
 	    }
 		spriteType = {
 			name = "GFX_ideology_conservatism_default"
-			texturefile = "gfx/interface/ideologies/conservatism.dds"
+			texturefile = "gfx/interface/ideologies/conservatism.png"
 	    }
 		spriteType = {
 			name = "GFX_ideology_social_democracy"
-			texturefile = "gfx/interface/ideologies/social_democracy.dds"
+			texturefile = "gfx/interface/ideologies/social_democracy.png"
 	    }
 		spriteType = {
 			name = "GFX_ideology_national_bolshevism"
-			texturefile = "gfx/interface/ideologies/national_bolshevism.dds"
+			texturefile = "gfx/interface/ideologies/national_bolshevism.png"
 	    }
 		spriteType = {
 			name = "GFX_ideology_national_conservatism"
-			texturefile = "gfx/interface/ideologies/national_conservatism.dds"
+			texturefile = "gfx/interface/ideologies/national_conservatism.png"
 	    }
 		spriteType = {
 			name = "GFX_ideology_personalistic_democracy"
 			texturefile = "gfx/interface/ideologies/personalistic_democracy.png"
+	    }
+		spriteType = {
+			name = "GFX_ideology_personalistic_democracy_nene"
+			texturefile = "gfx/interface/ideologies/personalistic_democracy_nene.png"
+	    }
+		spriteType = {
+			name = "GFX_ideology_silent_conservatism"
+			texturefile = "gfx/interface/ideologies/silent_conservatism.png"
 	    }
 	}

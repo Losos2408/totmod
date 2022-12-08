@@ -1,0 +1,20 @@
+capital = 11
+
+recruit_character = NEN_Momosuzu_Nene
+
+add_ideas = {
+}
+
+set_politics = {
+	ruling_party = liberalism
+	last_election = "2022.30.9"
+	election_frequency = 33
+	elections_allowed = yes
+}
+
+set_popularities = {
+    liberalism = 50
+	socialism = 30
+	controlled_democracy = 5
+	goyda = 15
+}

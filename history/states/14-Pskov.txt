@@ -1,0 +1,20 @@
+state={
+	id=14
+	name="STATE_14" # Pskov
+
+	history={
+            victory_points = { 5729 30 }
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+	436 876 4296 4385 5729 7599     
+	} 
+	manpower=467150
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
