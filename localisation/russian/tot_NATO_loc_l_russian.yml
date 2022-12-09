@@ -1,0 +1,21 @@
+﻿l_russian:
+ NAT_Nicola_Zanelli:0 "Никола Дзанелли"
+ NAT_Nicola_Zanelli_desc:0 "ЛГБТ секс инструктор из НАТО"
+ 
+ NAT:0 "Военный Мандат НАТО в России"
+ NAT_DEF:0 "Военный Мандат НАТО в России"
+ NAT_ADJ:0 "НАИРвск."
+ 
+ NAT_socialism_party:0 "§R[ПАРТИЯ ЗАПРЕЩЕНА]"
+ NAT_liberalism_party:0 "АБСГ"
+ NAT_liberalism_party_long:0 "Адвокатское бюро Сола Гудмана"
+ NAT_controlled_democracy_party:0 "АБСГ"
+ NAT_controlled_democracy_party_long:0 "Адвокатское бюро Сола Гудмана"
+ NAT_conservatism_party:0 "АБСГ"
+ NAT_conservatism_party_long:0 "Адвокатское бюро Сола Гудмана"
+ NAT_militarism_party:0 "ВСНАТОВР"
+ NAT_militarism_party_long:0 "Военные Силы НАТО в России"
+ NAT_communism_party:0 "КПМ"
+ NAT_communism_party_long:0 "Коммунистическая Партия Москвы"
+ NAT_radicalism_party:0 "§R[ПАРТИЯ ЗАПРЕЩЕНА]"
+ NAT_goyda_party:0 "§R[ГОЙДА]"
