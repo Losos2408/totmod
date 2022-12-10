@@ -58,9 +58,9 @@ guiTypes = {
 				position = { x = 245 y = 3 }
 				font = "hoi_18mbs"
 				text = "Germanian"
-				maxWidth = 195
+				maxWidth = 225
 				fixedsize = yes
-				maxHeight = 20
+				maxHeight = 5
 				format = left
 			}
 

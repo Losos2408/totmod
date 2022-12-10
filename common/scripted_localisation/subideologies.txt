@@ -83,7 +83,7 @@ defined_text = {
 		localization_key = "military_mandate"
 	}
 	text = {
-		trigger = { has_country_leader_ideology = military_mandate }
+		trigger = { has_country_leader_ideology = civilian_dictatorship }
 		localization_key = "civilian_dictatorship"
 	}
 }
