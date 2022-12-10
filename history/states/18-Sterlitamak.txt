@@ -1,0 +1,26 @@
+
+state={
+	id=18
+	name="STATE_18"
+
+	history={
+		owner = BSK
+		add_core_of = BSK
+		victory_points = {
+			3740 15 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		1064 1535 2041 3740 4323 6397 8227 8296 8355 
+	}
+	manpower=467150
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

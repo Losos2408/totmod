@@ -1,0 +1,24 @@
+state={
+	id=16
+	name="STATE_16" # Ufa
+
+	history={
+	    owner = BSK
+		add_core_of = BSK
+            victory_points = { 8250 30 }
+			victory_points = { 2363 30 }
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+	8250 2363
+	} 
+	manpower=467150
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+}
