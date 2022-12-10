@@ -6,12 +6,12 @@ add_ideas = {
 }
 
 set_politics = {
-	ruling_party = militarism
+	ruling_party = controlled_democracy
 	last_election = "2022.30.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	militarism = 100
+	controlled_democracy = 100
 }
