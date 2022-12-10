@@ -1,0 +1,15 @@
+characters = {
+    BSK_Rustem_Khamitov = {
+        name = BSK_Rustem_Khamitov
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/BSK/Khamitov.png"
+            }
+        }
+        country_leader = {
+            ideology = civilian_dictatorship
+            traits = {  }
+            desc = BSK_Rustem_Khamitov_desc
+        }
+	}
+}
