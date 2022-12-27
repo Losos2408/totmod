@@ -1,0 +1,26 @@
+
+state={
+	id=29
+	name="STATE_29"
+
+	history={
+		owner = OST
+		add_core_of = OST
+		victory_points = {
+			762 15 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		210 461 762 899 925 1084 1154 1429 1477 1526 1615 1893 2175 2625 2874 2970 3162 3220 3296 3378 3427 3546 3635 4508 4883 4903 4921 4957 5009 6150 6228 6630 7721 7769 7811 7836 7926 
+	}
+	manpower=467150
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,13 +1,13 @@
 
 state={
-	id=13
-	name="STATE_13"
+	id=40
+	name="STATE_40"
 
 	history={
-		owner = KOM
-		add_core_of = KOM
+		owner = SUS
+		add_core_of = SUS
 		victory_points = {
-			3364 15 
+			8209 15 
 		}
 		buildings = {
 			infrastructure = 2
@@ -17,9 +17,9 @@ state={
 	}
 
 	provinces={
-		1016 1287 2787 3102 3364 3913 
+		509 1195 1899 4058 4587 5311 8152 8208 8209 
 	}
-	manpower=505122
+	manpower=467150
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=0.000

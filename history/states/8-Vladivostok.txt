@@ -1,21 +1,26 @@
 
 state={
 	id=8
-	name="STATE_8" # Vladivostok
-	manpower = 825202
-	
-	state_category = town
+	name="STATE_8"
 
 	history={
-	    owner = HLV
+		owner = HLV
 		add_core_of = HLV
-		victory_points = { 2342 30 }
+		victory_points = {
+			2342 30 
+		}
 		buildings = {
 			infrastructure = 2
+
 		}
+
 	}
-	local_supplies = 0.0 
+
 	provinces={
-	752 1240 1347 1890 1992 2342 2368 2553 2668 3499 4904 5157 5285 6735 8620 8660 8695 8726 8740 8752 8758 
+		752 868 1240 1347 1890 1992 2342 2368 2553 2668 2864 3499 3681 4471 4783 4904 5157 5181 5285 6323 6735 8620 8628 8660 8695 8715 8718 8726 8740 8752 8758 8814 
 	}
+	manpower=825202
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
 }

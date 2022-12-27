@@ -1,0 +1,26 @@
+
+state={
+	id=33
+	name="STATE_33"
+
+	history={
+		owner = OST
+		add_core_of = OST
+		victory_points = {
+			6338 15 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		104 535 594 988 1063 1572 1736 1743 1901 2431 2688 2690 2880 2945 2978 2998 4150 4769 5248 5559 5785 6159 6338 8006 8025 8038 8099 
+	}
+	manpower=467150
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

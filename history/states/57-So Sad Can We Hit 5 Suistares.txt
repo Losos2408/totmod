@@ -1,0 +1,26 @@
+
+state={
+	id=57
+	name="STATE_57"
+
+	history={
+		owner = WAL
+		add_core_of = WAL
+		victory_points = {
+			8170 15 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		120 206 468 530 590 775 869 918 1024 1080 1922 1983 2016 2239 3086 3307 3339 3530 3537 3726 4127 4673 4859 5295 6135 6589 8159 8170 8189 8200 8228 8235 8287 8313 
+	}
+	manpower=467150
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

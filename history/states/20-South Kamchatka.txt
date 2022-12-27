@@ -1,0 +1,26 @@
+
+state={
+	id=20
+	name="STATE_20"
+
+	history={
+		owner = KAM
+		add_core_of = KAM
+		victory_points = {
+			5156 15 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		184 486 691 751 1361 1894 2018 2236 2334 2768 2828 2980 3088 3780 4072 4108 4689 4785 4996 5012 5093 5156 5249 5358 5655 5880 5969 6571 6581 7587 7596 7603 7619 7622 7678 7740 7751 7770 7780 7793 7807 7809 7825 7854 7867 7870 7876 7890 7934 7936 
+	}
+	manpower=467150
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

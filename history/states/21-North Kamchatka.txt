@@ -1,0 +1,26 @@
+
+state={
+	id=21
+	name="STATE_21"
+
+	history={
+		owner = KAM
+		add_core_of = KAM
+		victory_points = {
+			495 15 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		237 328 495 511 827 940 1661 2201 2306 2313 2383 2725 2790 2949 3549 3772 4014 4558 5107 5394 5543 5970 5995 6231 6386 6559 6731 6743 6773 7167 7206 7279 7347 7379 7386 7394 7409 7440 7449 7455 7478 7514 7571 7613 
+	}
+	manpower=467150
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,13 +1,13 @@
 
 state={
-	id=13
-	name="STATE_13"
+	id=69
+	name="STATE_69"
 
 	history={
-		owner = KOM
-		add_core_of = KOM
+		owner = AAA
+		add_core_of = AAA
 		victory_points = {
-			3364 15 
+			2055 15 
 		}
 		buildings = {
 			infrastructure = 2
@@ -17,9 +17,9 @@ state={
 	}
 
 	provinces={
-		1016 1287 2787 3102 3364 3913 
+		53 2055 2652 8388 8399 8409 
 	}
-	manpower=505122
+	manpower=467150
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=0.000
