@@ -86,4 +86,7 @@ defined_text = {
 		trigger = { has_country_leader_ideology = civilian_dictatorship }
 		localization_key = "civilian_dictatorship"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = satanism }
+		localization_key = "satanism"
 }

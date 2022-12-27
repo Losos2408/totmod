@@ -110,6 +110,7 @@ ideologies = {
 		types = {
 			radicalism_default = {}
 			national_bolshevism = { can_be_randomly_selected = no }
+			satanism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 13 13 13 }

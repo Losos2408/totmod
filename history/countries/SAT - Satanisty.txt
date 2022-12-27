@@ -1,0 +1,20 @@
+capital = 60
+
+recruit_character = SAT_Jaldabaoth
+
+add_ideas = {
+}
+
+set_politics = {
+	ruling_party = radicalism 
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+    militarism = 35
+	controlled_democracy = 10
+	liberalism = 10
+	radicalism = 45
+}

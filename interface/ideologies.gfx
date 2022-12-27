@@ -56,4 +56,8 @@ spriteTypes = {
 			name = "GFX_ideology_civilian_dictatorship"
 			texturefile = "gfx/interface/ideologies/civilian_dictatorship.png"
 	    }
+		spriteType = {
+			name = "GFX_ideology_satanism"
+			texturefile = "gfx/interface/ideologies/satanism.png"
+	    }
 	}

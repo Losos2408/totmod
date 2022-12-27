@@ -1,0 +1,15 @@
+characters = {
+    SAT_Jaldabaoth = {
+        name = SAT_Jaldabaoth
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/SAT/Jaldabaoth.png"
+            }
+        }
+        country_leader = {
+            ideology = satanism
+            traits = {  }
+            desc = SAT_Jaldabaoth_desc
+        }
+	}
+}
