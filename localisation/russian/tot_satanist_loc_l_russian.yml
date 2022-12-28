@@ -1,0 +1,19 @@
+﻿l_russian:
+ SAT_Jaldabaoth:0 "Ялдаваоф"
+ SAT_Jaldabaoth_desc:0 "А страшна вырубай"
+ 
+ SAT:0 "Царство Преисподни"
+ SAT_DEF:0 "Царство Преисподни"
+ SAT_ADJ:0 "Сатанистк."
+ 
+ SAT_goyda_party:0 "Хололайв - Коронэ"
+ SAT_liberalism_party:0 "Либреалы"
+ SAT_controlled_democracy_party:0 "СЗИ"
+ SAT_controlled_democracy_party_long:0 "Союз Защиты Иркутска"
+ SAT_conservatism_party:0 "§R[НАЗВАНИЕ В РАЗРАБОТКЕ]"
+ SAT_militarism_party:0 "СЗИ"
+ SAT_militarism_party_long:0 "Союз Защиты Иркутска"
+ SAT_communism_party:0 "§R[НАЗВАНИЕ В РАЗРАБОТКЕ]"
+ SAT_radicalism_party:0 "§RСОБОР САТАНЫ"
+ SAT_socialism_party:0 "§R[НАЗВАНИЕ В РАЗРАБОТКЕ]"
+ 
