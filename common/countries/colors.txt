@@ -52,4 +52,9 @@ SAT = {
 	color_ui = rgb { 79 11 11 }
 }
 
+HRS = {
+	color = rgb { 45 45 255 }
+	color_ui = rgb { 45 45 255 }
+}
+
 

@@ -1,0 +1,21 @@
+capital = 38
+
+recruit_character = HRS_hirasawa_susumu
+
+promote_character = {
+	character = HRS_hirasawa_susumu
+	ideology = personalistic_democracy
+}
+
+set_politics = {
+	ruling_party = liberalism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+    liberalism = 80
+	goyda = 5
+	radicalism = 15
+}

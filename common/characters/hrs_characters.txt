@@ -1,0 +1,14 @@
+characters = {
+    HRS_hirasawa_susumu = {
+        name = HRS_hirasawa_susumu
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/HRS/.png"
+            }
+        }
+        country_leader = {
+            ideology = personalistic_democracy
+            traits = { }
+        }
+	}
+}
