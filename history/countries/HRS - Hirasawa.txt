@@ -19,3 +19,10 @@ set_popularities = {
 	goyda = 5
 	radicalism = 15
 }
+
+add_ideas = {
+	HRS_atom_siberia
+	HRS_the_second_revision
+	HRS_goyda_cultivation_stove
+	HRS_land_of_roll_call
+}

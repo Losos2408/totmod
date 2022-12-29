@@ -1,0 +1,51 @@
+ideas = {
+	country = {
+		HRS_atom_siberia = {
+
+			picture = x
+
+			allowed = {
+				original_tag = HRS
+			}
+			modifier = {
+
+			}			
+		}
+
+		HRS_the_second_revision = {
+
+			picture = x
+
+			allowed = {
+				original_tag = HRS
+			}
+			modifier = {
+				
+			}			
+		}
+
+		HRS_goyda_cultivation_stove = {
+
+			picture = x
+
+			allowed = {
+				original_tag = HRS
+			}
+			modifier = {
+				
+			}			
+		}
+
+		HRS_land_of_roll_call = {
+
+			picture = x
+
+			allowed = {
+				original_tag = HRS
+			}
+			modifier = {
+				
+			}			
+		}
+	}
+}

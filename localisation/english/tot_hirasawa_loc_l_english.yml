@@ -1,8 +1,8 @@
 ﻿l_english:
  
- HRS: "O. G. B."
+ HRS: "O.G.B."
  HRS_DEF: "Ohōtsuku Goida Baiyō-ku"
- HRS_ADJ: "O. G. B."
+ HRS_ADJ: "O.G.B."
 
  HRS_hirasawa_susumu: "Hirasawa Susumu"
  
@@ -22,3 +22,12 @@
  HRS_radicalism_party_long: "Layer Green no Kiki Gitei-sho Dōmei"
  HRS_goyda_party: "GB"
  HRS_goyda_party_long: "Goida Baiyō-ro"
+
+ HRS_atom_siberia: "Atom Siberia"
+ HRS_atom_siberia_desc: "Are you ready? Are you ready?"
+ HRS_the_second_revision: "The Second Revision"
+ HRS_the_second_revision_desc: "Close your eyes, can you see here?"
+ HRS_goyda_cultivation_stove: "Goyda Cultivation Stove"
+ HRS_goyda_cultivation_stove_desc: "A white and huge dream of nothingness, in a instant."
+ HRS_land_of_roll_call: "Land of Roll Call"
+ HRS_land_of_roll_call_desc: "Today, in the instant of roll calls of 1000 times."
