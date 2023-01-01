@@ -1,0 +1,38 @@
+ideas = {
+ country = {
+ 
+            ### Stas
+		
+		SUS_Russian_people_rev = {
+
+			picture = SUS_Russian_people_rev
+
+			allowed = {
+				original_tag = SUS
+			}
+			modifier = {
+			}
+			
+		}
+		SUS_REZNYA1 = {
+
+			picture = SUS_REZNYA1
+
+			allowed = {
+				original_tag = SUS
+			}
+			modifier = {
+			}
+			
+		}
+		SUS_RMEP = {
+
+			picture = SUS_RMEP
+
+			allowed = {
+				original_tag = SUS
+			}
+			modifier = {
+			}
+			
+		}

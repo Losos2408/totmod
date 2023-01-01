@@ -1,0 +1,15 @@
+characters = {
+    SUS_SAS = {
+        name = SUS_SAS
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/SUS/SAS.png"
+            }
+        }
+        country_leader = {
+            ideology = maoism
+            traits = { }
+            desc = SUS_SAS_desc
+        }
+	}
+}

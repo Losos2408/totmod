@@ -56,5 +56,9 @@ HRS = {
 	color = rgb { 45 45 255 }
 	color_ui = rgb { 45 45 255 }
 }
+SUS = {
+	color = rgb { 223 15 15 }
+	color_ui = rgb { 223 15 15 }
+}
 
 

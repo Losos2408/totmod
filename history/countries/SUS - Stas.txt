@@ -1,0 +1,19 @@
+capital = 42
+
+recruit_character = SUS_SAS
+
+add_ideas = {
+}
+
+set_politics = {
+	ruling_party = communism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+    communism = 60
+	socialism = 30
+	militarism = 10
+}

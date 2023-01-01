@@ -60,4 +60,8 @@ spriteTypes = {
 			name = "GFX_ideology_satanism"
 			texturefile = "gfx/interface/ideologies/satanism.png"
 	    }
+		spriteType = {
+			name = "GFX_ideology_maoism"
+			texturefile = "gfx/interface/ideologies/maoism.png"
+	    }
 	}
