@@ -3,7 +3,7 @@
  HLV_hoshimachi_suisei_desc:0 "Suityan"
  
  HLV:0 "Japanese Occupation Zone"
- HLV_DEF:0 "Japanese Occupation Zone"
+ HLV_DEF:0 "the Japanese Occupation Zone"
  HLV_ADJ:0 "Japanese"
  
  HLV_goyda_party:0 "Hololive - Koron"
@@ -19,7 +19,7 @@
  NEN_Momosuzu_Nene:0 "Super Hyper Ultra Ultimate Deluxe Perfect Amazing Shining God Master Ginga Victory Strong Cute Beautiful Galaxy Baby NENECHI (!)"
  
  NEN:0 "Nene Autonomous Region"
- NEN_DEF:0 "Nene Autonomous Region"
+ NEN_DEF:0 "the Nene Autonomous Region"
  NEN_ADJ:0 "Nenechis"
  
  NEN_goyda_party:0 "§R[ONLY NENECHI]"

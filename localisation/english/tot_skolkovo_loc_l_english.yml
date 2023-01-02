@@ -3,11 +3,11 @@
  SKO_ksgn_80_desc:0 "Да"
  
  SKO:0 "Skolkovo"
- SKO_DEF:0 "Technosocialist Party Comitee of Skolkovo"
+ SKO_DEF:0 "the Technosocialist Party Comitee of Skolkovo"
  SKO_ADJ:0 "Skolkovan"
  
- SKO_socialism_party:0 "TSPSU"
- SKO_socialism_party_long:0 "Technosocialist Party of the Soviet Union"
+ SKO_socialism_party:0 "TSPSS"
+ SKO_socialism_party_long:0 "Tekhnosotsialisticheskaya Partiya Sovetskogo Soyuza"
  SKO_liberalism_party:0 "§R[UNDER ADMINISTRATION CONTROL]"
  SKO_controlled_democracy_party:0 "§R[UNDER ADMINISTRATION CONTROL]"
  SKO_conservatism_party:0 "§R[UNDER ADMINISTRATION CONTROL]"

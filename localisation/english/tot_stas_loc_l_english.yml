@@ -3,8 +3,8 @@
  SUS_SAS_desc:0 "Stas How Simple!"
  
  SUS:0 "Transamur"
- SUS_DEF:0 "Transamur People's Republic"
- SUS_ADJ:0 "Transamursk"
+ SUS_DEF:0 "the Transamur People's Republic"
+ SUS_ADJ:0 "Transamur's"
  
  SUS_socialism_party:0 "PSiS"
  SUS_socialism_party_long:0 "Partiya Sotsializma i Svobody"

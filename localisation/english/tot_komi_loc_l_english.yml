@@ -4,13 +4,13 @@
  KOM_Komi_San_desc:0 "silence"
 
  KOM:0 "Komi Republic"
- KOM_DEF:0 "Komi Republic"
+ KOM_DEF:0 "the Komi Republic"
  KOM_ADJ:0 "Komi"
  
- KOM_socialism_party:0 "A-Socialists Party"
+ KOM_socialism_party:0 "Partiya A-Sotsialistov"
  KOM_liberalism_party:0 "§R[NO PARTY]"
  KOM_controlled_democracy_party:0 "§R[NO PARTY]"
- KOM_conservatism_party:0 "Silent Conservators"
+ KOM_conservatism_party:0 "Molchalivye Konservatory"
  KOM_militarism_party:0 "§R[NO PARTY]"
  KOM_communism_party:0 "§R[NO PARTY]"
  KOM_radicalism_party:0 "§R[NO PARTY]"
