@@ -1,0 +1,62 @@
+spriteTypes = {
+		spriteType = {
+			name = "GFX_idea_SUS_Russian_people_rev"
+			texturefile = "gfx/interface/ideas/SUS_Russian_people_rev.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_SUS_REZNYA1"
+			texturefile = "gfx/interface/ideas/SUS_REZNYA1.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_SUS_RMEP"
+			texturefile = "gfx/interface/ideas/SUS_RMEP.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_OST_internal_opposition"
+			texturefile = "gfx/interface/ideas/GFX_idea_OST_internal_opposition.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_LYB_okhlobystin_dictature"
+			texturefile = "gfx/interface/ideas/GFX_idea_LYB_okhlobystin_dictature.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_LYB_the_goyda_order"
+			texturefile = "gfx/interface/ideas/GFX_idea_LYB_the_goyda_order.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_LYB_hermit_state"
+			texturefile = "gfx/interface/ideas/GFX_idea_LYB_hermit_state.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_KHM_the_democratic_union"
+			texturefile = "gfx/interface/ideas/GFX_idea_KHM_the_democratic_union.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_KHM_new_old_russia"
+			texturefile = "gfx/interface/ideas/GFX_idea_KHM_new_old_russia.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_BLS_bipolar_government"
+			texturefile = "gfx/interface/ideas/GFX_idea_BLS_bipolar_government.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_BLS_emergency_state"
+			texturefile = "gfx/interface/ideas/GFX_idea_BLS_emergency_state.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_BLS_kremlin_leftovers"
+			texturefile = "gfx/interface/ideas/GFX_idea_BLS_kremlin_leftovers.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_SKO_1980"
+			texturefile = "gfx/interface/ideas/SKO_1980.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_SKO_NAME_NOT_FOUND"
+			texturefile = "gfx/interface/ideas/SKO_NAME_NOT_FOUND.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_SKO_TRAINING_MODE"
+			texturefile = "gfx/interface/ideas/SKO_TRAINING_MODE.png"
+	    }
+	}

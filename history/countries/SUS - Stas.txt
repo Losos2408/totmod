@@ -17,3 +17,9 @@ set_popularities = {
 	socialism = 30
 	militarism = 10
 }
+
+add_ideas = {
+	SUS_Russian_people_rev
+	SUS_REZNYA1
+	SUS_RMEP
+}
