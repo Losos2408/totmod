@@ -47,6 +47,18 @@ ideas = {
 				
 			}			
 		}
+
+		HRS_protectors_pawn = {
+
+			picture = x
+
+			allowed = {
+				original_tag = HRS
+			}
+			modifier = {
+				
+			}			
+		}
 		
 		SUS_Russian_people_rev = {
 

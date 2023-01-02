@@ -25,4 +25,5 @@ add_ideas = {
 	HRS_the_second_revision
 	HRS_goyda_cultivation_stove
 	HRS_land_of_roll_call
+	HRS_protectors_pawn
 }
