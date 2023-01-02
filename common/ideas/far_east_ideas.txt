@@ -2,7 +2,7 @@ ideas = {
 	country = {
 		HRS_atom_siberia = {
 
-			picture = x
+			picture = HRS_Atom_Siberia
 
 			allowed = {
 				original_tag = HRS
@@ -14,7 +14,7 @@ ideas = {
 
 		HRS_the_second_revision = {
 
-			picture = x
+			picture = HRS_The_Second_Revision
 
 			allowed = {
 				original_tag = HRS
@@ -26,7 +26,7 @@ ideas = {
 
 		HRS_goyda_cultivation_stove = {
 
-			picture = x
+			picture = HRS_Goyda_Cultivation_Stove
 
 			allowed = {
 				original_tag = HRS
@@ -38,7 +38,7 @@ ideas = {
 
 		HRS_land_of_roll_call = {
 
-			picture = x
+			picture = HRS_Land_of_Roll_Call
 
 			allowed = {
 				original_tag = HRS

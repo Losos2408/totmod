@@ -1,4 +1,20 @@
 spriteTypes = {
+	spriteType = {
+		name = "GFX_idea_HRS_Atom_Siberia"
+		texturefile = "gfx/interface/ideas/GFX_idea_HRS_Atom_Siberia.png"
+	}
+	spriteType = {
+		name = "GFX_idea_HRS_Goyda_Cultivation_Stove"
+		texturefile = "gfx/interface/ideas/GFX_idea_HRS_Goyda_Cultivation_Stove.png"
+	}
+	spriteType = {
+		name = "GFX_idea_HRS_Land_of_Roll_Call"
+		texturefile = "gfx/interface/ideas/GFX_idea_HRS_Land_of_Roll_Call.png"
+	}
+	spriteType = {
+		name = "GFX_idea_HRS_The_Second_Revision"
+		texturefile = "gfx/interface/ideas/GFX_idea_HRS_The_Second_Revision.png"
+	}
 		spriteType = {
 			name = "GFX_idea_SUS_Russian_people_rev"
 			texturefile = "gfx/interface/ideas/SUS_Russian_people_rev.png"

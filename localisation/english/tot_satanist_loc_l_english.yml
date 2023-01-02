@@ -1,0 +1,19 @@
+﻿l_english:
+ SAT_Jaldabaoth:0 "Jaldabaoth"
+ SAT_Jaldabaoth_desc:0 "And fear carves out"
+ 
+ SAT:0 "Kingdom of the Underworld"
+ SAT_DEF:0 "Kingdom of the Underworld"
+ SAT_ADJ:0 "Satanist"
+ 
+ SAT_goyda_party:0 "Hololive - Kronii"
+ SAT_liberalism_party:0 "Liberals"
+ SAT_controlled_democracy_party:0 "SZI"
+ SAT_controlled_democracy_party_long:0 "Soyuz Zashchity Irkutska"
+ SAT_conservatism_party:0 "§R[NAME PENDING]"
+ SAT_militarism_party:0 "SZI"
+ SAT_militarism_party_long:0 "Soyuz Zashchity Irkutska"
+ SAT_communism_party:0 "§R[NAME PENDING]"
+ SAT_radicalism_party:0 "§RSOBOR SATANY"
+ SAT_socialism_party:0 "§R[NAME PENDING]"
+ 
