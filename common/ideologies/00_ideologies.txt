@@ -25,6 +25,7 @@ ideologies = {
 			social_democracy = { can_be_randomly_selected = no }
 			personalistic_democracy = { can_be_randomly_selected = no }
 			personalistic_democracy_nene = { can_be_randomly_selected = no }
+			libertarianism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 81 146 156 }

@@ -7,7 +7,7 @@ characters = {
             }
         }
         country_leader = {
-            ideology = personalistic_democracy
+            ideology = libertarianism
             traits = { }
         }
 	}

@@ -1,0 +1,33 @@
+﻿l_russian:
+ 
+ HRS: "О.Г.Б."
+ HRS_DEF: "Охотсуку Гойда Баийоку"
+ HRS_ADJ: "О.Г.Б."
+
+ HRS_hirasawa_susumu: "Хирасава Сусуму"
+ 
+ HRS_liberalism_party: "ЛГ-КГД"
+ HRS_liberalism_party_long: "Лэа Грин но Кики Гитэйшо Домей"
+ HRS_controlled_democracy_party: "-"
+ HRS_controlled_democracy_party_long: "-"
+ HRS_conservatism_party: "-"
+ HRS_conservatism_party_long: "-"
+ HRS_militarism_party: "-"
+ HRS_militarism_party_long: "-"
+ HRS_socialism_party: "-"
+ HRS_socialism_party_long: "-"
+ HRS_communism_party: "-"
+ HRS_communism_party_long: "-"
+ HRS_radicalism_party: "ЛГ-КГД"
+ HRS_radicalism_party_long: "Лэа Грин но Кики Гитэйшо Домей"
+ HRS_goyda_party: "Гойда Баийоро"
+ HRS_goyda_party_long: "Гойда Баийоро"
+
+ HRS_atom_siberia: "Атом Сибирь"
+ HRS_atom_siberia_desc: "Вы готовы? Вы готовы?"
+ HRS_the_second_revision: "Вторая редакция"
+ HRS_the_second_revision_desc: "Закрой глаза, ты видишь здесь?"
+ HRS_goyda_cultivation_stove: "Культивирующая печь Гойда"
+ HRS_goyda_cultivation_stove_desc: "Белый и огромный сон небытия, в одно мгновение."
+ HRS_land_of_roll_call: "Земля переклички"
+ HRS_land_of_roll_call_desc: "Сегодня в миг переклички 1000 раз."
