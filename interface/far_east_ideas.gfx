@@ -33,15 +33,15 @@ spriteTypes = {
 	    }
 		spriteType = {
 			name = "GFX_idea_CHU_PERSPECTIVE_TERRITORY"
-			texturefile = "gfx/interface/ideas/GFX_idea_CHU_PERSPECTIVE_TERRITORY.png"
+			texturefile = "gfx/interface/ideas/CHU_PERSPECTIVE_TERRITORY.png"
 	    }
 		spriteType = {
 			name = "GFX_idea_CHU_MIGRANT_CRISIS"
-			texturefile = "gfx/interface/ideas/GFX_idea_CHU_MIGRANT_CRISIS.png"
+			texturefile = "gfx/interface/ideas/CHU_MIGRANT_CRISIS.png"
 	    }
 		spriteType = {
 			name = "GFX_idea_CHU_OUR_DEAR_OPPONENTS"
-			texturefile = "gfx/interface/ideas/GFX_idea_CHU_OUR_DEAR_OPPONENTS.png"
+			texturefile = "gfx/interface/ideas/CHU_OUR_DEAR_OPPONENTS.png"
 	    }
 		spriteType = {
 			name = "GFX_idea_KHM_the_democratic_union"
