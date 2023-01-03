@@ -1,7 +1,13 @@
 ﻿l_english:
 
  OST_Vladimir_Solovyov:0 "Vladimir Solovyov"
- OST_Vladimir_Solovyov_desc:0 "None of it matters! None of it!\n\nSo what if more and more the chicken-like noises Solovyov made to mock Navalniy and others are now being sounded at him on the streets whenever he leaves VGTRK headquarters? So what if they call him 'Nightingale Shit' more than they ever did on the First Channel?\n\nSo what if the Russian state has collapsed and President Putin has died? So what if Solovyov has lost everything he held west of the Don River, and can never again return to Lake Como or any of his other creature comforts?\n\nSo what if Moscow has fallen to anarchy, Sobyanin has opportunistically turned traitor and declared VGTRK itself a foreign agent, Yuneman has somehow convinced the dupes in Khimki to let him rule, Skoletch claims to be ruled by Kosygin, and one of Solovyov's old colleagues is now a literal cultist dark mage?\n\nIt is all of no account! None! The President's will must be fulfilled, no matter the cost!\n\nThese are the words Solovyov repeats in his head as often as he repeated government talking points in a bygone, simpler age. But they are not helping him nearly as much now that far more is at stake. Heedful of daggers at his back and swords ahead of him, all Solovyov knows to do is to repeat his worthless words to the people of Ostankino and hope it suffices to prevent disaster."
+ OST_Vladimir_Solovyov_desc:0 "None of it matters! None of it!\n\nSo what if more and more the chicken-like noises Solovyov made to mock Navalny and others are now being sounded at him on the streets whenever he leaves VGTRK headquarters? So what if they call him 'Nightingale Shit' more than they ever did on the First Channel?\n\nSo what if the Russian state has collapsed and President Putin has died? So what if Solovyov has lost everything he held west of the Don River, and can never again return to Lake Como or any of his other creature comforts?\n\nSo what if Moscow has fallen to anarchy, Sobyanin has opportunistically turned traitor and declared VGTRK itself a foreign agent, Yuneman has somehow convinced the dupes in Khimki to let him rule, Skoletch claims to be ruled by Kosygin, and one of Solovyov's old colleagues is now a literal cultist dark mage?\n\nIt is all of no account! None! The President's will must be fulfilled, no matter the cost!\n\nThese are the words Solovyov repeats in his head as often as he repeated government talking points in a bygone, simpler age. But they are not helping him nearly as much now that far more is at stake. Heedful of daggers at his back and swords ahead of him, all Solovyov knows to do is to repeat his worthless words to the people of Ostankino and hope it suffices to prevent disaster."
+ OST_Vladimir_Pozner: "Vladimir Pozner"
+ OST_Dmitry_Nazarov: "Dmitry Nazarov"
+ OST_Ivan_Urgant: "Ivan Urgant"
+ OST_Magarita_Simonyan: "Magarita Simonyan"
+ OST_Dmitry_Kiselyov: "Dmitry Kiselyov"
+ OST_Anton_Krasovsky: "Anton Krasovsky"
 
  OST:0 "Ostankino"
  OST_DEF:0 "the VGTRK Union"
@@ -15,7 +21,7 @@
  OST_controlled_democracy_party_long:0 "Vserossiyskaya Gosudarstvennaya Televizionnaya i Radioveshchatel'naya Kompaniya - Simonyan"
  OST_conservatism_party:0 "VGTRK - P"
  OST_conservatism_party_long:0 "Vserossiyskaya Gosudarstvennaya Televizionnaya i Radioveshchatel'naya Kompaniya - Pozner"
- OST_militarism_party:0 "Vserossiyskaya Gosudarstvennaya Televizionnaya i Radioveshchatel'naya Kompaniya - SO"
+ OST_militarism_party:0 "VGTRK - SO"
  OST_militarism_party_long:0 "Vserossiyskaya Gosudarstvennaya Televizionnaya i Radioveshchatel'naya Kompaniya - Solovyov"
  OST_communism_party:0 "VGTRK - KM"
  OST_communism_party_long:0 "Vserossiyskaya Gosudarstvennaya Televizionnaya i Radioveshchatel'naya Kompaniya - Kommunisty"

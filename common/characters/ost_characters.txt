@@ -12,4 +12,82 @@ characters = {
             desc = OST_Vladimir_Solovyov_desc
         }
 	}
+
+    OST_Vladimir_Pozner = {
+        name = OST_Vladimir_Pozner
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/OST/.png"
+            }
+        }
+        country_leader = {
+            ideology = conservatism_default
+            traits = { }
+        }
+	}
+
+    OST_Dmitry_Nazarov = {
+        name = OST_Dmitry_Nazarov
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/OST/.png"
+            }
+        }
+        country_leader = {
+            ideology = socialism_default
+            traits = { }
+        }
+	}
+
+    OST_Ivan_Urgant = {
+        name = OST_Ivan_Urgant
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/OST/.png"
+            }
+        }
+        country_leader = {
+            ideology = liberalism_default
+            traits = { }
+        }
+	}
+
+    OST_Magarita_Simonyan = {
+        name = OST_Magarita_Simonyan
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/OST/.png"
+            }
+        }
+        country_leader = {
+            ideology = controlled_democracy_default
+            traits = { }
+        }
+	}
+
+    OST_Dmitry_Kiselyov = {
+        name = OST_Dmitry_Kiselyov
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/OST/.png"
+            }
+        }
+        country_leader = {
+            ideology = radicalism_default
+            traits = { }
+        }
+	}
+
+    OST_Anton_Krasovsky = {
+        name = OST_Anton_Krasovsky
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/OST/.png"
+            }
+        }
+        country_leader = {
+            ideology = goyda_default
+            traits = { }
+        }
+	}
 }

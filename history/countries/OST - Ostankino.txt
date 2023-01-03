@@ -1,6 +1,12 @@
 capital = 6
 
 recruit_character = OST_Vladimir_Solovyov
+recruit_character = OST_Vladimir_Pozner
+recruit_character = OST_Dmitry_Nazarov
+recruit_character = OST_Ivan_Urgant
+recruit_character = OST_Magarita_Simonyan
+recruit_character = OST_Dmitry_Kiselyov
+recruit_character = OST_Anton_Krasovsky
 
 add_ideas = {
 Moscow_in_shards
