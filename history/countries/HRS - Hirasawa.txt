@@ -1,9 +1,9 @@
 capital = 38
 
-recruit_character = HRS_hirasawa_susumu
+recruit_character = HRS_Hirasawa_Susumu
 
 promote_character = {
-	character = HRS_hirasawa_susumu
+	character = HRS_Hirasawa_Susumu
 	ideology = personalistic_democracy
 }
 

@@ -52,8 +52,8 @@ characters = {
         }
 	}
 
-    OST_Magarita_Simonyan = {
-        name = OST_Magarita_Simonyan
+    OST_Margarita_Simonyan = {
+        name = OST_Margarita_Simonyan
         portraits = {
             civilian = {
                 #large = "gfx/leaders/OST/.png"

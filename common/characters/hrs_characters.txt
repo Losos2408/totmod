@@ -1,13 +1,13 @@
 characters = {
-    HRS_hirasawa_susumu = {
-        name = HRS_hirasawa_susumu
+    HRS_Hirasawa_Susumu = {
+        name = HRS_Hirasawa_Susumu
         portraits = {
             civilian = {
                 #large = "gfx/leaders/HRS/hirasawa.png"
             }
         }
         country_leader = {
-            desc = "HRS_hirasawa_susumu_desc"
+            desc = "HRS_Hirasawa_Susumu_desc"
             ideology = libertarianism
             traits = { }
         }
