@@ -3,7 +3,7 @@ characters = {
         name = OST_Vladimir_Solovyov
         portraits = {
             civilian = {
-                large = "gfx/leaders/OST/solovyov.png"
+                large = "gfx/leaders/OST/Portrait_OST_Vladimir_Solovyov.png"
             }
         }
         country_leader = {
@@ -56,7 +56,7 @@ characters = {
         name = OST_Margarita_Simonyan
         portraits = {
             civilian = {
-                #large = "gfx/leaders/OST/.png"
+                large = "gfx/leaders/OST/Portrait_OST_Margarita_Simonyan.png"
             }
         }
         country_leader = {
@@ -69,7 +69,7 @@ characters = {
         name = OST_Dmitry_Kiselyov
         portraits = {
             civilian = {
-                #large = "gfx/leaders/OST/.png"
+                large = "gfx/leaders/OST/Portrait_OST_Dmitry_Kiselyov.png"
             }
         }
         country_leader = {
@@ -82,11 +82,24 @@ characters = {
         name = OST_Anton_Krasovsky
         portraits = {
             civilian = {
-                #large = "gfx/leaders/OST/.png"
+                large = "gfx/leaders/OST/Portrait_OST_Anton_Kravsovsky.png"
             }
         }
         country_leader = {
             ideology = goyda_default
+            traits = { }
+        }
+	}
+
+    OST_Tigran_Keosayan = {
+        name = OST_Tigran_Keosayan
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/OST/Portrait_OST_Tigran_Keosayan.png"
+            }
+        }
+        country_leader = {
+            ideology = controlled_democracy_default
             traits = { }
         }
 	}

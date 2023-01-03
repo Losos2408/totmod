@@ -7,6 +7,12 @@ recruit_character = OST_Ivan_Urgant
 recruit_character = OST_Magarita_Simonyan
 recruit_character = OST_Dmitry_Kiselyov
 recruit_character = OST_Anton_Krasovsky
+recruit_character = OST_Tigran_Keosayan
+
+promote_character = {
+	character = OST_Magarita_Simonyan
+	ideology = controlled_democracy_default
+}
 
 add_ideas = {
 Moscow_in_shards

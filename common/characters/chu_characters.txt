@@ -3,7 +3,7 @@ characters = {
         name = CHU_Sergey_Furgal
         portraits = {
             civilian = {
-                large = "gfx/leaders/CHU/Furgal.png"
+                large = "gfx/leaders/CHU/Portrait_CHU_Sergey_Furgal.png"
             }
         }
         country_leader = {
