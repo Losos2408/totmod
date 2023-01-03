@@ -64,4 +64,9 @@ spriteTypes = {
 			name = "GFX_ideology_maoism"
 			texturefile = "gfx/interface/ideologies/maoism.png"
 	    }
+		spriteType = {
+			name = "GFX_ideology_provisional_government"
+			texturefile = "gfx/interface/ideologies/provisional_government.png"
+	    }
 	}
+provisional_government

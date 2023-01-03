@@ -7,7 +7,7 @@ characters = {
             }
         }
         country_leader = {
-            ideology = controlled_democracy_default
+            ideology = provisional_government
             traits = { }
             desc = CHU_Sergey_Furgal_desc
         }

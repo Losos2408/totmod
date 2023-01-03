@@ -98,4 +98,8 @@ defined_text = {
 		trigger = { has_country_leader_ideology = libertarianism }
 		localization_key = "libertarianism"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = provisional_government }
+		localization_key = "provisional_government"
+	}
 }
