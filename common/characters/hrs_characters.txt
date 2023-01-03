@@ -7,6 +7,7 @@ characters = {
             }
         }
         country_leader = {
+            desc = "HRS_hirasawa_susumu_desc"
             ideology = libertarianism
             traits = { }
         }
