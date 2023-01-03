@@ -60,5 +60,8 @@ SUS = {
 	color = rgb { 223 15 15 }
 	color_ui = rgb { 223 15 15 }
 }
-
+CHU = {
+	color = rgb { 185 182 170 }
+	color_ui = rgb { 185 182 170 }
+}
 

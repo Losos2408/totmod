@@ -93,5 +93,49 @@ ideas = {
 			}
 			
 		}
+		CHU_LAST_BASTION_OF_FREEDOM = {
+
+			picture = CHU_LAST_BASTION_OF_FREEDOM
+
+			allowed = {
+				original_tag = CHU
+			}
+			modifier = {
+			}
+			
+		}
+		CHU_PERSPECTIVE_TERRITORY = {
+
+			picture = CHU_PERSPECTIVE_TERRITORY
+
+			allowed = {
+				original_tag = CHU
+			}
+			modifier = {
+			}
+			
+		}
+		CHU_MIGRANT_CRISIS = {
+
+			picture = CHU_MIGRANT_CRISIS
+
+			allowed = {
+				original_tag = CHU
+			}
+			modifier = {
+			}
+			
+		}
+		CHU_OUR_DEAR_OPPONENTS = {
+
+			picture = CHU_OUR_DEAR_OPPONENTS
+
+			allowed = {
+				original_tag = CHU
+			}
+			modifier = {
+			}
+			
+		}
 	}
 }

@@ -1,0 +1,15 @@
+characters = {
+    CHU_Sergey_Furgal = {
+        name = CHU_Sergey_Furgal
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/CHU/Furgal.png"
+            }
+        }
+        country_leader = {
+            ideology = controlled_democracy_default
+            traits = { }
+            desc = CHU_Sergey_Furgal_desc
+        }
+	}
+}

@@ -1,0 +1,27 @@
+capital = 30
+
+recruit_character = CHU_Sergey_Furgal
+
+add_ideas = {
+}
+
+set_politics = {
+	ruling_party = controlled_democracy
+	last_election = "2022.30.9"
+	election_frequency = 33
+	elections_allowed = no
+}
+
+set_popularities = {
+    liberalism = 15
+	socialism = 15
+	controlled_democracy = 40
+	conservatism = 10
+	militarism = 20
+}
+add_ideas = {
+CHU_LAST_BASTION_OF_FREEDOM
+CHU_PERSPECTIVE_TERRITORY
+CHU_MIGRANT_CRISIS
+CHU_OUR_DEAR_OPPONENTS
+}
