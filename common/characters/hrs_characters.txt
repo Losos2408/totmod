@@ -3,7 +3,7 @@ characters = {
         name = HRS_Hirasawa_Susumu
         portraits = {
             civilian = {
-                #large = "gfx/leaders/HRS/hirasawa.png"
+                large = "gfx/leaders/HRS/Portrait_HRS_Hirasawa_Susumu.png"
             }
         }
         country_leader = {
