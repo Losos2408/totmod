@@ -64,4 +64,7 @@ CHU = {
 	color = rgb { 185 182 170 }
 	color_ui = rgb { 185 182 170 }
 }
-
+IRK = {
+	color = rgb { 109 97 99 }
+	color_ui = rgb { 109 97 99 }
+}

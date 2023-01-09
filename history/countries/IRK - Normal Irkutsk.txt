@@ -1,0 +1,19 @@
+capital = 60
+
+recruit_character = IRK_Alexander_Bortnikov
+
+add_ideas = {
+}
+
+set_politics = {
+	ruling_party = militarism 
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+    militarism = 50
+	controlled_democracy = 30
+	radicalism = 20
+}

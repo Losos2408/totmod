@@ -1,0 +1,15 @@
+characters = {
+    IRK_Alexander_Bortnikov = {
+        name = IRK_Alexander_Bortnikov
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/IRK/Alexander_Bortnikov.png"
+            }
+        }
+        country_leader = {
+            ideology = securitocracy
+            traits = {  }
+            desc = IRK_Alexander_Bortnikov_desc
+        }
+	}
+}

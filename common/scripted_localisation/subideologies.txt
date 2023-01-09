@@ -102,4 +102,8 @@ defined_text = {
 		trigger = { has_country_leader_ideology = provisional_government }
 		localization_key = "provisional_government"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = securitocracy }
+		localization_key = "securitocracy"
+	}
 }

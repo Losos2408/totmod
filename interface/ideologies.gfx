@@ -68,5 +68,8 @@ spriteTypes = {
 			name = "GFX_ideology_provisional_government"
 			texturefile = "gfx/interface/ideologies/provisional_government.png"
 	    }
+		spriteType = {
+			name = "GFX_ideology_securitocracy"
+			texturefile = "gfx/interface/ideologies/securitocracy.png"
+	    }
 	}
-provisional_government
