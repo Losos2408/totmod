@@ -3,7 +3,7 @@ characters = {
         name = HLV_hoshimachi_suisei
         portraits = {
             civilian = {
-                large = "gfx/leaders/HLV/suisei.png"
+                large = "gfx/leaders/HLV/Portrait_HLV_Hoshimachi_Suisei.png"
             }
         }
         country_leader = {
