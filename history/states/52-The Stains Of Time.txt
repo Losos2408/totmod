@@ -4,8 +4,8 @@ state={
 	name="STATE_52"
 
 	history={
-		owner = GUS
-		add_core_of = GUS
+		owner = TBK
+		add_core_of = TBK
 		victory_points = {
 			8338 15 
 		}

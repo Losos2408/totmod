@@ -1,5 +1,12 @@
 ﻿l_english:
+ BRY:0 "Buryatia"
+ BRY_DEF:0 "the Republic of Buryatia"
+ BRY_ADJ:0 "Buryatian"
+
+ TBK:0 "Transbaikal"
+ TBK_DEF:0 "the Tsardom of Transbaikal"
+ TBK_ADJ:0 "Transbaikal"
+
  VLA:0 "Vladimir"
  VLA_DEF:0 "the Russian Republic"
- VLA_ADJ:0 "Vladimir's"
- laberalism:0 "European Liberalism"
+ VLA_ADJ:0 "Vladimir"

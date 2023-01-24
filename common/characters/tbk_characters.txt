@@ -1,0 +1,15 @@
+characters = {
+    TBK_Anton_Bakov = {
+        name = TBK_Anton_Bakov
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/TBK/Portrait_TBK_Anton_Bakov.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = {  }
+            desc = x
+        }
+	}
+}

@@ -1,0 +1,16 @@
+capital = 76
+
+recruit_character = BRY_Nika_Vodvud
+
+set_politics = {
+	ruling_party = controlled_democracy
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	controlled_democracy = 40
+	radicalism = 20
+	socialism = 40
+}

@@ -68,3 +68,11 @@ IRK = {
 	color = rgb { 109 97 99 }
 	color_ui = rgb { 109 97 99 }
 }
+BRY = {
+	color = rgb { 33 54 166 }
+	color_ui = rgb { 33 54 166 }
+}
+TBK = {
+	color = rgb { 64 148 63 }
+	color_ui = rgb { 64 148 63 }
+}
