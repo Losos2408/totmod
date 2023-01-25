@@ -3,14 +3,14 @@ capital = 75
 recruit_character = TBK_Anton_Bakov
 
 set_politics = {
-	ruling_party = militarism
+	ruling_party = controlled_democracy
 	last_election = "2022.30.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	militarism = 50
+	controlled_democracy = 50
 	radicalism = 30
-	controlled_democracy = 20
+	militarism = 20
 }
