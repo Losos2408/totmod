@@ -13,6 +13,14 @@ spriteTypes = {
 			texturefile = "gfx/interface/ideologies/Technosocialism.png"
 	    }
 		spriteType = {
+			name = "GFX_ideology_theocracy"
+			texturefile = "gfx/interface/ideologies/theocracy.png"
+	    }
+		spriteType = {
+			name = "GFX_ideology_libertarianism"
+			texturefile = "gfx/interface/ideologies/libertarianism.png"
+	    }
+		spriteType = {
 			name = "GFX_ideology_goyda_default"
 			texturefile = "gfx/interface/ideologies/goyda.png"
 	    }

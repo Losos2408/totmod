@@ -63,6 +63,7 @@ ideologies = {
 			national_conservatism = { can_be_randomly_selected = no }
 			military_mandate = { can_be_randomly_selected = no }
 			securitocracy = { can_be_randomly_selected = no }
+			theocracy = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 55 55 55 }

@@ -7,6 +7,10 @@
  TBK_DEF:0 "the Tsardom of Transbaikal"
  TBK_ADJ:0 "Transbaikal"
 
+ VIS:0 "Votchina of the Vissarionists"
+ VIS_DEF:0 "the Votchina of the Vissarionists"
+ VIS_ADJ:0 "Vissarionist"
+
  VLA:0 "Vladimir"
  VLA_DEF:0 "the Russian Republic"
  VLA_ADJ:0 "Vladimir"

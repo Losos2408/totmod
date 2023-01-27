@@ -1,0 +1,15 @@
+characters = {
+    VIS_Vissarion = {
+        name = VIS_Vissarion
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/VIS/Portrait_VIS_Vissarion.png"
+            }
+        }
+        country_leader = {
+            ideology = theocracy
+            traits = {  }
+            desc = x
+        }
+	}
+}

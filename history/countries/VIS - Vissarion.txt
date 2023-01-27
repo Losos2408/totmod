@@ -1,0 +1,17 @@
+capital = 5
+
+recruit_character = VIS_Vissarion
+
+set_politics = {
+	ruling_party = militarism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	militarism = 40
+	socialism = 20
+	radicalism = 20
+	liberalism = 20
+}

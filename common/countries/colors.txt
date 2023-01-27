@@ -76,3 +76,7 @@ TBK = {
 	color = rgb { 64 148 63 }
 	color_ui = rgb { 64 148 63 }
 }
+VIS = {
+	color = rgb { 180 180 180 }
+	color_ui = rgb { 180 180 180 }
+}
