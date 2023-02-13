@@ -1,0 +1,15 @@
+characters = {
+    SAK_Alexander_Gabyshev = {
+        name = SAK_Alexander_Gabyshev
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/SAK/Portrait_SAK_Alexander_Gabyshev.png"
+            }
+        }
+        country_leader = {
+            ideology = civilian_dictatorship
+            traits = { }
+            desc = x
+        }
+	}
+}

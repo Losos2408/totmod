@@ -1,0 +1,15 @@
+characters = {
+    BRB_Maxim_Katz = {
+        name = BRB_Maxim_Katz
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/BRB/Portrait_BRB_Maxim_Katz.png"
+            }
+        }
+        country_leader = {
+            ideology = warlordism
+            traits = { }
+            desc = x
+        }
+	}
+}

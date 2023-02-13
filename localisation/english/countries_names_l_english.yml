@@ -14,3 +14,15 @@
  VLA:0 "Vladimir"
  VLA_DEF:0 "the Russian Republic"
  VLA_ADJ:0 "Vladimir"
+
+ SAK:0 "Sakha"
+ SAK_DEF:0 "the Republic of Sakha"
+ SAK_ADJ:0 "Sakha"
+
+ TAI:0 "Taiga"
+ TAI_DEF:0 "the Taiga Territories"
+ TAI_ADJ:0 "Taiga"
+
+ BRB:0 "Birobidzhan"
+ BRB_DEF:0 "the Independent District of Birobidzhan"
+ BRB_ADJ:0 "Birobidzhan"

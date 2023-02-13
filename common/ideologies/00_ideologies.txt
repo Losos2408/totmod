@@ -64,6 +64,7 @@ ideologies = {
 			military_mandate = { can_be_randomly_selected = no }
 			securitocracy = { can_be_randomly_selected = no }
 			theocracy = { can_be_randomly_selected = no }
+			warlordism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 55 55 55 }
@@ -81,6 +82,7 @@ ideologies = {
 		types = {
 			socialism_default = {}
 			technosocialism = { can_be_randomly_selected = no }
+			deep_anarchy = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 176 37 54 }

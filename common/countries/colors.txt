@@ -80,3 +80,15 @@ VIS = {
 	color = rgb { 180 180 180 }
 	color_ui = rgb { 180 180 180 }
 }
+SAK = {
+	color = rgb { 81 153 253 }
+	color_ui = rgb { 81 153 253 }
+}
+TAI = {
+	color = rgb { 182 173 113 }
+	color_ui = rgb { 182 173 113 }
+}
+BRB = {
+	color = rgb { 50 97 172 }
+	color_ui = rgb { 50 97 172 }
+}

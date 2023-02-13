@@ -110,4 +110,12 @@ defined_text = {
 		trigger = { has_country_leader_ideology = theocracy }
 		localization_key = "theocracy"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = deep_anarchy }
+		localization_key = "deep_anarchy"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = warlordism }
+		localization_key = "warlordism"
+	}
 }

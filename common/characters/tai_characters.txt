@@ -1,0 +1,15 @@
+characters = {
+    TAI_Anarchy = {
+        name = TAI_Anarchy
+        portraits = {
+            civilian = {
+                large = ""
+            }
+        }
+        country_leader = {
+            ideology = deep_anarchy
+            traits = { }
+            desc = x
+        }
+	}
+}

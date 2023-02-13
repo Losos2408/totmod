@@ -80,4 +80,12 @@ spriteTypes = {
 			name = "GFX_ideology_securitocracy"
 			texturefile = "gfx/interface/ideologies/securitocracy.png"
 	    }
+		spriteType = {
+			name = "GFX_ideology_warlordism"
+			texturefile = "gfx/interface/ideologies/warlordism.png"
+	    }
+		spriteType = {
+			name = "GFX_ideology_deep_anarchy"
+			texturefile = "gfx/interface/ideologies/deep_anarchy.png"
+	    }
 	}
