@@ -6,6 +6,7 @@ ideologies = {
 			controlled_democracy_default = {}
 			civilian_dictatorship = { can_be_randomly_selected = no }
 			provisional_government = { can_be_randomly_selected = no }
+			oligarchy = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 100 100 100 }
@@ -100,6 +101,7 @@ ideologies = {
 		types = {
 			communism_default = {}
 			maoism = { can_be_randomly_selected = no }
+			leninist = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 120 13 26 }
@@ -118,6 +120,7 @@ ideologies = {
 			radicalism_default = {}
 			national_bolshevism = { can_be_randomly_selected = no }
 			satanism = { can_be_randomly_selected = no }
+			piracy = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 13 13 13 }

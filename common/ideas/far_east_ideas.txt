@@ -5,7 +5,7 @@ ideas = {
 			picture = HRS_Atom_Siberia
 
 			allowed = {
-				original_tag = HRS
+				always = no
 			}
 			modifier = {
 
@@ -17,7 +17,7 @@ ideas = {
 			picture = HRS_The_Second_Revision
 
 			allowed = {
-				original_tag = HRS
+				always = no
 			}
 			modifier = {
 				
@@ -29,7 +29,7 @@ ideas = {
 			picture = HRS_Goyda_Cultivation_Stove
 
 			allowed = {
-				original_tag = HRS
+				always = no
 			}
 			modifier = {
 				
@@ -41,7 +41,7 @@ ideas = {
 			picture = HRS_Land_of_Roll_Call
 
 			allowed = {
-				original_tag = HRS
+				always = no
 			}
 			modifier = {
 				
@@ -53,7 +53,7 @@ ideas = {
 			picture = x
 
 			allowed = {
-				original_tag = HRS
+				always = no
 			}
 			modifier = {
 				
@@ -65,7 +65,7 @@ ideas = {
 			picture = SUS_Russian_people_rev
 
 			allowed = {
-				original_tag = SUS
+				always = no
 			}
 			modifier = {
 			}
@@ -76,7 +76,7 @@ ideas = {
 			picture = SUS_REZNYA1
 
 			allowed = {
-				original_tag = SUS
+				always = no
 			}
 			modifier = {
 			}
@@ -87,7 +87,7 @@ ideas = {
 			picture = SUS_RMEP
 
 			allowed = {
-				original_tag = SUS
+				always = no
 			}
 			modifier = {
 			}
@@ -98,7 +98,7 @@ ideas = {
 			picture = CHU_LAST_BASTION_OF_FREEDOM
 
 			allowed = {
-				original_tag = CHU
+				always = no
 			}
 			modifier = {
 			}
@@ -109,7 +109,7 @@ ideas = {
 			picture = CHU_PERSPECTIVE_TERRITORY
 
 			allowed = {
-				original_tag = CHU
+				always = no
 			}
 			modifier = {
 			}
@@ -120,7 +120,7 @@ ideas = {
 			picture = CHU_MIGRANT_CRISIS
 
 			allowed = {
-				original_tag = CHU
+				always = no
 			}
 			modifier = {
 			}
@@ -131,7 +131,31 @@ ideas = {
 			picture = CHU_OUR_DEAR_OPPONENTS
 
 			allowed = {
-				original_tag = CHU
+				always = no
+			}
+			modifier = {
+			}
+			
+		}
+		
+		PRR_Pirate_Republic = {
+
+			picture = PRR_Pirate_Republic
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+			}
+			
+		}
+		
+		PRR_Pirate_Nationalism = {
+
+			picture = PRR_Pirate_Nationalism
+
+			allowed = {
+				always = no
 			}
 			modifier = {
 			}

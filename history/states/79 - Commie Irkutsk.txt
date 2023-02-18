@@ -1,0 +1,24 @@
+
+state={
+	id=79
+	name="STATE_79"
+	history={
+		owner = CIK
+		add_core_of = CIK
+		victory_points = {
+			3339 15 
+		}
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces={
+		3339 2016 8313
+	}
+	manpower=467150
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

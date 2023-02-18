@@ -1,0 +1,87 @@
+ideas = {
+	country = {
+		Biba_vs_Boba = {
+
+			picture = Biba_vs_Boba
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+
+			}			
+		}
+		
+		kalishuk_idea = {
+
+			picture = kalishuk_idea
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+
+			}			
+		}
+		
+		ilychev_idea = {
+
+			picture = ilychev_idea
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+
+			}			
+		}
+		
+		bortnikov_opposition = {
+
+			picture = bortnikov_opposition
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+
+			}			
+		}
+		
+		rouble_country = {
+
+			picture = rouble_country
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+
+			}			
+		}
+		
+	    lenin_spirit = {
+
+			picture = lenin_spirit
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+
+			}			
+		}
+		
+		irkutsk_revolution = {
+
+			picture = irkutsk_revolution
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+
+			}			
+		}
+	}
+}

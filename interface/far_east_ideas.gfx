@@ -44,35 +44,43 @@ spriteTypes = {
 			texturefile = "gfx/interface/ideas/CHU_OUR_DEAR_OPPONENTS.png"
 	    }
 		spriteType = {
-			name = "GFX_idea_KHM_the_democratic_union"
-			texturefile = "gfx/interface/ideas/GFX_idea_KHM_the_democratic_union.png"
+			name = "GFX_idea_ilychev_idea"
+			texturefile = "gfx/interface/ideas/CHU_OUR_DEAR_OPPONENTS.png"
 	    }
 		spriteType = {
-			name = "GFX_idea_KHM_new_old_russia"
-			texturefile = "gfx/interface/ideas/GFX_idea_KHM_new_old_russia.png"
+			name = "GFX_idea_ilychev_idea"
+			texturefile = "gfx/interface/ideas/GFX_idea_ilychev_idea.png"
 	    }
 		spriteType = {
-			name = "GFX_idea_BLS_bipolar_government"
-			texturefile = "gfx/interface/ideas/GFX_idea_BLS_bipolar_government.png"
+			name = "GFX_idea_kalishuk_idea"
+			texturefile = "gfx/interface/ideas/GFX_idea_kalishuk_idea.png"
 	    }
 		spriteType = {
-			name = "GFX_idea_BLS_emergency_state"
-			texturefile = "gfx/interface/ideas/GFX_idea_BLS_emergency_state.png"
+			name = "GFX_idea_Biba_vs_Boba"
+			texturefile = "gfx/interface/ideas/GFX_idea_Biba_vs_Boba.png"
 	    }
 		spriteType = {
-			name = "GFX_idea_BLS_kremlin_leftovers"
-			texturefile = "gfx/interface/ideas/GFX_idea_BLS_kremlin_leftovers.png"
+			name = "GFX_idea_rouble_country"
+			texturefile = "gfx/interface/ideas/GFX_idea_rouble_country.png"
 	    }
 		spriteType = {
-			name = "GFX_idea_SKO_1980"
-			texturefile = "gfx/interface/ideas/SKO_1980.png"
+			name = "GFX_idea_bortnikov_opposition"
+			texturefile = "gfx/interface/ideas/GFX_idea_bortnikov_opposition.png"
 	    }
 		spriteType = {
-			name = "GFX_idea_SKO_NAME_NOT_FOUND"
-			texturefile = "gfx/interface/ideas/SKO_NAME_NOT_FOUND.png"
+			name = "GFX_idea_lenin_spirit"
+			texturefile = "gfx/interface/ideas/GFX_idea_lenin_spirit.png"
 	    }
 		spriteType = {
-			name = "GFX_idea_SKO_TRAINING_MODE"
-			texturefile = "gfx/interface/ideas/SKO_TRAINING_MODE.png"
+			name = "GFX_idea_irkutsk_revolution"
+			texturefile = "gfx/interface/ideas/GFX_idea_iruktsk_revolution.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_PRR_Pirate_Republic"
+			texturefile = "gfx/interface/ideas/GFX_idea_PRR_Pirate_Republic.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_PRR_Pirate_Nationalism"
+			texturefile = "gfx/interface/ideas/GFX_idea_PRR_Pirate_Nationalism.png"
 	    }
 	}

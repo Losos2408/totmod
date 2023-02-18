@@ -1,0 +1,20 @@
+capital = 79
+
+recruit_character = CIK_Sergey_Levchenko
+
+set_politics = {
+	ruling_party = communism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+add_ideas = {
+	lenin_spirit
+	irkutsk_revolution
+}
+
+set_popularities = {
+	communism = 72
+	socialism = 28
+}

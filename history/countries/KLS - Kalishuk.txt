@@ -1,0 +1,19 @@
+capital = 65
+
+recruit_character = KLS_Kalishuk
+
+set_politics = {
+	ruling_party = controlled_democracy
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+add_ideas = {
+Biba_vs_Boba
+kalishuk_idea
+}
+
+set_popularities = {
+	controlled_democracy = 100
+}

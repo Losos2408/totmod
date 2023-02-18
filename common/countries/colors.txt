@@ -92,3 +92,23 @@ BRB = {
 	color = rgb { 50 97 172 }
 	color_ui = rgb { 50 97 172 }
 }
+ILC = {
+	color = rgb { 126 131 133 }
+	color_ui = rgb { 126 131 133 }
+}
+KLS = {
+	color = rgb { 103 115 107 }
+	color_ui = rgb { 103 115 107 }
+}
+ILG = {
+	color = rgb { 144 157 166 }
+	color_ui = rgb { 144 157 166 }
+}
+CIK = {
+	color = rgb { 173 99 114 }
+	color_ui = rgb { 173 99 114 }
+}
+PRR = {
+	color = rgb { 43 43 43 }
+	color_ui = rgb { 43 43 43 }
+}

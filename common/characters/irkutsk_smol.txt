@@ -1,0 +1,46 @@
+characters = {
+    KLS_Kalishuk = {
+        name = KLS_Kalishuk
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/MINOR/KLS.png"
+            }
+        }
+        country_leader = {
+            ideology = civilian_dictatorship
+        }
+	}
+	ILC_Ilychev = {
+        name = ILC_Ilychev
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/MINOR/ILC.png"
+            }
+        }
+        country_leader = {
+            ideology = civilian_dictatorship
+        }
+	}
+	ILG_Igor_Kobzev = {
+        name = ILG_Igor_Kobzev
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/MINOR/igor_kobzev.png"
+            }
+        }
+        country_leader = {
+            ideology = oligarchy
+        }
+	}
+	CIK_Sergey_Levchenko = {
+        name = CIK_Sergey_Levchenko
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/MINOR/Sergey_Levchenko.png"
+            }
+        }
+        country_leader = {
+            ideology = leninist
+        }
+	}
+}

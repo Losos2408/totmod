@@ -1,0 +1,19 @@
+capital = 73
+
+recruit_character = PRR_Pistoletov
+
+set_politics = {
+	ruling_party = radicalism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+add_ideas = {
+	PRR_Pirate_Republic
+	PRR_Pirate_Nationalism
+}
+
+set_popularities = {
+	radicalism = 100
+}

@@ -118,4 +118,16 @@ defined_text = {
 		trigger = { has_country_leader_ideology = warlordism }
 		localization_key = "warlordism"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = oligarchy }
+		localization_key = "oligarchy"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = leninist }
+		localization_key = "leninist"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = piracy }
+		localization_key = "piracy"
+	}
 }

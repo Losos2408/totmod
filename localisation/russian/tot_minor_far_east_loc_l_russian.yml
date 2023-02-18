@@ -1,0 +1,19 @@
+﻿l_russian:
+ ILC_militarism_party:0 "Клика Ильичева"
+ KLS_militarism_party:0 "Клика Калищука"
+ ILG_controlled_democracy_party:0 "Администрация Иркутска"
+ CIK_communism_party:0 "КПРФ - Иркутск"
+ 
+ KLS_Kalishuk: "Андрей Калищук"
+ ILC_Ilychev: "Дмитрий Ильичев"
+ ILG_Igor_Kobzev: "Игорь Кобзев"
+ 
+ ILG: "Легитимное Правительство Иркутска"
+ ILG_DEF: "Легитимное Правительство Иркутска"
+ ILG_ADJ: "Иркутск."
+ 
+ CIK: "Коммунистический Иркутск"
+ CIK_DEF: "Коммунистический Иркутск"
+ CIK_ADJ: "Иркутск."
+ 
+ CIK_Sergey_Levchenko: "Сергей Левченко"

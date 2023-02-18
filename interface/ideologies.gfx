@@ -88,4 +88,16 @@ spriteTypes = {
 			name = "GFX_ideology_deep_anarchy"
 			texturefile = "gfx/interface/ideologies/deep_anarchy.png"
 	    }
+		spriteType = {
+			name = "GFX_ideology_oligarchy"
+			texturefile = "gfx/interface/ideologies/oligarchy_tot.png"
+	    }
+		spriteType = {
+			name = "GFX_ideology_leninist"
+			texturefile = "gfx/interface/ideologies/lenininsm.png"
+	    }
+		spriteType = {
+			name = "GFX_ideology_piracy"
+			texturefile = "gfx/interface/ideologies/piracy.png"
+	    }
 	}

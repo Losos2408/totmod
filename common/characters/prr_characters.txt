@@ -1,0 +1,15 @@
+characters = {
+    PRR_Pistoletov = {
+        name = PRR_Pistoletov
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/PRR/pistoletov.png"
+            }
+        }
+        country_leader = {
+            ideology = piracy
+            traits = { }
+            desc = x
+        }
+	}
+}

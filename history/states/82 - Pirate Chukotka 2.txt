@@ -1,0 +1,23 @@
+
+state={
+	id=82
+	name="STATE_82"
+	history={
+		owner = PRR
+		add_core_of = PRR
+		victory_points = {
+		}
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces={
+		5241
+	}
+	manpower=467150
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}
