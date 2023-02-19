@@ -1,0 +1,13 @@
+
+state={
+	id=97
+	name="STATE_97"
+	provinces={
+		5 1101 2295 3228 3743 4872 5630 6797 6810 8088 8104 8130 8132 8138 8196 
+	}
+	manpower = 1348134 
+	
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
