@@ -6,8 +6,8 @@
 
  HRS_Hirasawa_Susumu: "Хирасава Сусуму"
  
- HRS_liberalism_party: "ЛГ-КГД"
- HRS_liberalism_party_long: "Лэа Грин но Кики Гитэйшо Домей"
+ HRS_liberalism_party: "СХ"
+ HRS_liberalism_party_long: "Chaos Union (Союз Хаоса)"
  HRS_controlled_democracy_party: "-"
  HRS_controlled_democracy_party_long: "-"
  HRS_conservatism_party: "-"
@@ -18,10 +18,10 @@
  HRS_socialism_party_long: "-"
  HRS_communism_party: "-"
  HRS_communism_party_long: "-"
- HRS_radicalism_party: "ЛГ-КГД"
- HRS_radicalism_party_long: "Лэа Грин но Кики Гитэйшо Домей"
- HRS_goyda_party: "Гойда Баийоро"
- HRS_goyda_party_long: "Гойда Баийоро"
+ HRS_radicalism_party: "СХ"
+ HRS_radicalism_party_long: "Союз Хаоса"
+ HRS_goyda_party: "Культивирующая печь Гойда"
+ HRS_goyda_party_long: "Культивирующая печь Гойда"
 
  HRS_atom_siberia: "Атом Сибирь"
  HRS_atom_siberia_desc: "Вы готовы? Вы готовы?"
