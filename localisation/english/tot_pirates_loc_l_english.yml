@@ -1,0 +1,12 @@
+﻿l_english:
+ PRR_Pistoletov:0 "Alexander Pistoletov"
+ 
+ PRR:0 "Russian Pirate Republic"
+ PRR_DEF:0 "the Russian Pirate Republic"
+ PRR_ADJ:0 "Pirates'"
+ 
+ PRR_radicalism_party:0 "SNP"
+ PRR_radicalism_party_long:0 "Soyuz Novykh Piratov"
+ 
+ PRR_Pirate_Republic: "Pirate State"
+ PRR_Pirate_Nationalism: "Pirate Nationalism"

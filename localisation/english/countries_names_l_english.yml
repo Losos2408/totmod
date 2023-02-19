@@ -30,3 +30,35 @@
  IRK:0 "Irkutsk"
  IRK_DEF:0 "the Territorial Protectorate of Irkutsk"
  IRK_ADJ:0 "Irkutsk"
+
+ ILC: "Police Department of Irkutsk"
+ ILC_DEF: "the Squad "Irkutsk" of VS-MBD-RF"
+ ILC_ADJ: "Irkutsk"
+ 
+ KLS: "Irkutsk Police"
+ KLS_DEF: "the Loyal Forces of the Irkutsk Police"
+ KLS_ADJ: "Irkutsk"
+
+ CHU: "Far Eastern Siberian Government"
+ CHU_DEF: "the Far Eastern Siberian Government"
+ CHU_ADJ: "Chukchi"
+
+ USS: ""USS Nimitz" Remains"
+ USS_DEF: "the "USS Nimitz" Remains"
+ USS_ADJ: "American"
+ 
+ DSD: "Union of Dissidents of Russia"
+ DSD_DEF: "the Union of Dissidents of Russia"
+ DSD_ADJ: "Dissidents'"
+ 
+ FSB: "Squad "Vissarion" of FSB"
+ FSB_DEF: "the Squad "Vissarion" of FSB"
+ FSB_ADJ: "FSB'"
+
+ ILG: "Legitimate Government of Irkutsk"
+ ILG_DEF: "the Legitimate Government of Irkutsk"
+ ILG_ADJ: "Irkutsk"
+ 
+ CIK: "Communist Irkutsk"
+ CIK_DEF: "the Communist Irkutsk"
+ CIK_ADJ: "Irkutsk"

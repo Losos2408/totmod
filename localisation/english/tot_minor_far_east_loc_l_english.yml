@@ -1,0 +1,26 @@
+﻿l_english:
+ ILC_controlled_democracy_party: "Klika Ilicheva"
+ ILC_controlled_democracy_party_long: "Клика Ильичева"
+ KLS_controlled_democracy_party: "Klika Kalishchuka"
+ KLS_controlled_democracy_party_long: "Klika Kalishchuka"
+ ILG_controlled_democracy_party: "AI"
+ ILG_controlled_democracy_party_long: "Administratsiya Irkutska"
+ CIK_communism_party: "KPRF - Irkutsk"
+ CIK_communism_party_long: "Иркутск Kommunisticheskaya Partiya Rosssiyskoy Federatsii - Irkutsk"
+ DSD_liberalism_party: "SD"
+ DSD_liberalism_party_long: "Sovet Dissdentov"
+ DSD_Dissident_Council: "Dissident Council"
+ 
+ KLS_Kalishuk: "Andrey Kalishchuk"
+ ILC_Ilychev: "Dmitry Ilichev"
+ ILG_Igor_Kobzev: "Igor Kobzev"
+ 
+ CIK_Sergey_Levchenko: "Sergey Levchenko"
+ 
+ USS_Matthew_C_Thomas: "Capitain Matthew Thomas"
+ USS_liberalism_party: "Thomas Clique"
+ USS_liberalism_party_long: "Thomas Clique"
+
+ FSB_militarism_party: "FSB - Vissarion"
+ FSB_militarism_party_long: "Federalnaya Sluzhba Bezopasnosti - Vissarion"
+ FSB_Mayor: "Codename "Major""

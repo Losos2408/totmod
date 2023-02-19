@@ -1,9 +1,14 @@
-﻿l_russian:
- ILC_controlled_democracy_party:0 "Клика Ильичева"
- KLS_controlled_democracy_party:0 "Клика Калищука"
- ILG_controlled_democracy_party:0 "Администрация Иркутска"
- CIK_communism_party:0 "КПРФ - Иркутск"
- DSD_liberalism_party: "Совет Диссидентов"
+﻿l_english:
+ ILC_controlled_democracy_party: "Клика Ильичева"
+ ILC_controlled_democracy_party_long: "Клика Ильичева"
+ KLS_controlled_democracy_party: "Клика Калищука"
+ KLS_controlled_democracy_party_long: "Клика Калищука"
+ ILG_controlled_democracy_party: "АИ"
+ ILG_controlled_democracy_party_long: "Администрация Иркутска"
+ CIK_communism_party: "КПРФ - Иркутск"
+ CIK_communism_party_long: "Коммунистическая Партия Российской Федерации - Иркутск"
+ DSD_liberalism_party: "СД"
+ DSD_liberalism_party_long: "Совет Диссидентов"
  DSD_Dissident_Council: "Совет Диссидентов"
  
  KLS_Kalishuk: "Андрей Калищук"
@@ -22,17 +27,8 @@
  
  USS_Matthew_C_Thomas: "Капитан Мэттью Томас"
  USS_liberalism_party: "Клика Томаса"
- 
- USS: "Остатки "USS Nimitz""
- USS_DEF: "Остатки "USS Nimitz""
- USS_ADJ: "Американск."
- 
- DSD: "Союз Диссидентов России"
- DSD_DEF: "Союз Диссидентов России"
- DSD_ADJ: "Диссидентск."
- 
- FSB: "Отделение ФСБ "Виссарион""
- FSB_DEF: "Отделение ФСБ "Виссарион""
- FSB: "Силовицк."
- FSB_militarism_party:0 "ФСБ - Виссарион"
+ USS_liberalism_party_long: "Клика Томаса"
+
+ FSB_militarism_party: "ФСБ - Виссарион"
+ FSB_militarism_party_long: "Федеральная Служба Безопасности - Виссарион"
  FSB_Mayor: "Позывной "Майор""
