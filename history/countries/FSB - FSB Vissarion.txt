@@ -1,0 +1,17 @@
+capital = 71
+
+recruit_character = FSB_Mayor
+
+set_politics = {
+	ruling_party = militarism
+	last_election = "2021.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+add_ideas = {
+}
+
+set_popularities = {
+	militarism = 100
+}

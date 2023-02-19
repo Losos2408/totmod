@@ -43,4 +43,37 @@ characters = {
             ideology = leninist
         }
 	}
+	USS_Matthew_C_Thomas = {
+        name = USS_Matthew_C_Thomas
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/MINOR/Matthew_C_Thomas.png"
+            }
+        }
+        country_leader = {
+            ideology = depressive_liberalism
+        }
+	}
+	DSD_Dissident_Council = {
+        name = DSD_Dissident_Council
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/MINOR/Dissident_Council.png"
+            }
+        }
+        country_leader = {
+            ideology = social_democracy
+        }
+	}
+	FSB_Mayor = {
+        name = FSB_Mayor
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/MINOR/fsb_chel.png"
+            }
+        }
+        country_leader = {
+            ideology = securitocracy
+        }
+	}
 }

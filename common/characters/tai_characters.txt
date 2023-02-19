@@ -3,7 +3,7 @@ characters = {
         name = TAI_Anarchy
         portraits = {
             civilian = {
-                large = ""
+                large = "gfx/leaders/Portrait_Anarchy.png"
             }
         }
         country_leader = {

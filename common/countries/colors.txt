@@ -109,6 +109,18 @@ CIK = {
 	color_ui = rgb { 173 99 114 }
 }
 PRR = {
-	color = rgb { 43 43 43 }
-	color_ui = rgb { 43 43 43 }
+	color = rgb { 70 70 70 }
+	color_ui = rgb { 70 70 70 }
+}
+USS = {
+	color = rgb { 118 146 173 }
+	color_ui = rgb { 118 146 173 }
+}
+DSD = {
+	color = rgb { 77 104 184 }
+	color_ui = rgb { 77 104 184 }
+}
+FSB = {
+	color = rgb { 78 82 94 }
+	color_ui = rgb { 78 82 94 }
 }

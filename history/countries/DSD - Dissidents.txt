@@ -1,0 +1,19 @@
+capital = 41
+
+recruit_character = DSD_Dissident_Council
+
+set_politics = {
+	ruling_party = liberalism
+	last_election = "2021.30.9"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+add_ideas = {
+}
+
+set_popularities = {
+	liberalism = 55
+	socialism = 24
+	conservatism = 21
+}

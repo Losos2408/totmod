@@ -1,8 +1,10 @@
 ﻿l_russian:
- ILC_militarism_party:0 "Клика Ильичева"
- KLS_militarism_party:0 "Клика Калищука"
+ ILC_controlled_democracy_party:0 "Клика Ильичева"
+ KLS_controlled_democracy_party:0 "Клика Калищука"
  ILG_controlled_democracy_party:0 "Администрация Иркутска"
  CIK_communism_party:0 "КПРФ - Иркутск"
+ DSD_liberalism_party: "Совет Диссидентов"
+ DSD_Dissident_Council: "Совет Диссидентов"
  
  KLS_Kalishuk: "Андрей Калищук"
  ILC_Ilychev: "Дмитрий Ильичев"
@@ -17,3 +19,20 @@
  CIK_ADJ: "Иркутск."
  
  CIK_Sergey_Levchenko: "Сергей Левченко"
+ 
+ USS_Matthew_C_Thomas: "Капитан Мэттью Томас"
+ USS_liberalism_party: "Клика Томаса"
+ 
+ USS: "Остатки "USS Nimitz""
+ USS_DEF: "Остатки "USS Nimitz""
+ USS_ADJ: "Американск."
+ 
+ DSD: "Союз Диссидентов России"
+ DSD_DEF: "Союз Диссидентов России"
+ DSD_ADJ: "Диссидентск."
+ 
+ FSB: "Отделение ФСБ "Виссарион""
+ FSB_DEF: "Отделение ФСБ "Виссарион""
+ FSB: "Силовицк."
+ FSB_militarism_party:0 "ФСБ - Виссарион"
+ FSB_Mayor: "Позывной "Майор""

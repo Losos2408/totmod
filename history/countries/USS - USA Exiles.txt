@@ -1,0 +1,18 @@
+capital = 88
+
+recruit_character = USS_Matthew_C_Thomas
+
+set_politics = {
+	ruling_party = liberalism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+add_ideas = {
+}
+
+set_popularities = {
+	liberalism = 65
+	controlled_democracy = 35
+}
