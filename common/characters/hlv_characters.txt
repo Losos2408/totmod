@@ -20,7 +20,7 @@ characters = {
             }
         }
         country_leader = {
-            ideology = personalistic_democracy
+            ideology = goyda_default
             traits = {  }
             desc = HLV_Hoshimachi_Suisei_desc
         }
@@ -33,7 +33,7 @@ characters = {
             }
         }
         country_leader = {
-            ideology = personalistic_democracy
+            ideology = controlled_democracy_default
             traits = {  }
             desc = HLV_Hoshimachi_Suisei_desc
         }
