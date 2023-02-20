@@ -2,6 +2,19 @@
 state={
 	id=126
 	name="STATE_126"
+
+	history={
+		owner = UKR
+		add_core_of = UKR
+		victory_points = {
+			6441 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
 	provinces={
 		5510 5976 6441 
 	}

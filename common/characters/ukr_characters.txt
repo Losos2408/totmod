@@ -1,0 +1,15 @@
+characters = {
+    UKR_Volodymyr_Zelenskyy = {
+        name = UKR_Volodymyr_Zelenskyy
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/UKR/Volodymyr_Zelenskyy.png"
+            }
+        }
+        country_leader = {
+            ideology = big_tent_party
+            traits = {  }
+            desc = UKR_Volodymyr_Zelenskyy_desc
+        }
+	}
+}

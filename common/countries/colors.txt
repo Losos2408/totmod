@@ -124,3 +124,7 @@ FSB = {
 	color = rgb { 78 82 94 }
 	color_ui = rgb { 78 82 94 }
 }
+UKR = {
+	color = rgb { 47 96 147 }
+	color_ui = rgb { 47 96 147 }
+}

@@ -7,6 +7,7 @@ ideologies = {
 			civilian_dictatorship = { can_be_randomly_selected = no }
 			provisional_government = { can_be_randomly_selected = no }
 			oligarchy = { can_be_randomly_selected = no }
+			big_tent_party = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 100 100 100 }

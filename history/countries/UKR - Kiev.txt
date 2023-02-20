@@ -1,0 +1,16 @@
+capital = 124
+
+recruit_character = UKR_Volodymyr_Zelenskyy
+
+set_politics = {
+	ruling_party = controlled_democracy
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	controlled_democracy = 55
+	militarism = 20
+	conservatism = 25
+}

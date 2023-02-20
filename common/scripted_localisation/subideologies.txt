@@ -134,4 +134,8 @@ defined_text = {
 		trigger = { has_country_leader_ideology = depressive_liberalism }
 		localization_key = "depressive_liberalism"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = big_tent_party }
+		localization_key = "big_tent_party"
+	}
 }
