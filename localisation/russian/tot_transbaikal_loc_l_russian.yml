@@ -1,2 +1,9 @@
 ﻿l_russian:
  TBK_Anton_Bakov: "Антон Баков"
+
+ TBK_controlled_democracy_party: "МПР - К"
+ TBK_controlled_democracy_party_long: "Монархическая Партия России - Конституционалисты"
+ TBK_militarism_party: "МПР - Н"
+ TBK_militarism_party_long: "Монархическая Партия России - Националисты"
+ TBK_radicalism_party: "МПР - УН"
+ TBK_radicalism_party_long: "Монархическая Партия России - Ультранационалисты"

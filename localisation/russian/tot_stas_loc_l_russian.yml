@@ -2,10 +2,6 @@
  SUS_SAS:0 "Стас Васильев"
  SUS_SAS_desc:0 "Сас Какай Просто!"
  
- SUS:0 "Трансамур"
- SUS_DEF:0 "Народная Республика Трансамур"
- SUS_ADJ:0 "Трансамурск."
- 
  SUS_socialism_party:0 "ПСиС"
  SUS_socialism_party_long:0 "Партия Социализма и Свободы"
  SUS_liberalism_party:0 "Г"

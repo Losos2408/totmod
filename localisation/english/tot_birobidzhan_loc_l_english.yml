@@ -1,2 +1,9 @@
 ﻿l_english:
  BRB_Maxim_Katz: "Maxim Katz"
+
+ BRB_militarism_party: "BB"
+ BRB_militarism_party_long: "Birobidzhanskaya Brigada"
+ BRB_liberalism_party: "NY - L"
+ BRB_liberalism_party_long: "Novoe Yabloko - Liberaly"
+ BRB_radicalism_party: "NY - A"
+ BRB_radicalism_party_long: "Novoe Yabloko - Antiradikaly"

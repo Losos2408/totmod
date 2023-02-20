@@ -1,2 +1,9 @@
 ﻿l_english:
  TBK_Anton_Bakov: "Anton Bakov"
+
+ TBK_controlled_democracy_party: "MPR - K"
+ TBK_controlled_democracy_party_long: "Monarkhicheskaya Partiya Rossii - Konstitutsionalisty"
+ TBK_militarism_party: "MPR - N"
+ TBK_militarism_party_long: "Monarkhicheskaya Partiya Rossii - Natsionalisty"
+ TBK_radicalism_party: "MPR - UN"
+ TBK_radicalism_party_long: "Monarkhicheskaya Partiya Rossii - Ultranatsionalisty"

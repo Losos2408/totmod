@@ -1,6 +1,13 @@
 ﻿l_russian:
 
  CHU_Sergey_Furgal: "Сергей Фургал"
+
+ CHU_controlled_democracy_party: "ПНД - ЧК"
+ CHU_controlled_democracy_party_long: "Партия Новой Демократии - Чрезвычайная Комитет"
+ CHU_conservatism_party: "ПНД - Д"
+ CHU_conservatism_party_long: "Партия Новой Демократии - Демократы"
+ CHU_militarism_party: "НПП"
+ CHU_militarism_party_long: "Народно-Патриотическая Партия"
  
  CHU_LAST_BASTION_OF_FREEDOM: "Последний оплот свободы"
  CHU_PERSPECTIVE_TERRITORY: "Перспективная территория"

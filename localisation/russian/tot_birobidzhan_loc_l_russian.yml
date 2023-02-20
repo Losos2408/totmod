@@ -1,2 +1,9 @@
 ﻿l_russian:
  BRB_Maxim_Katz: "Максим Кац"
+
+ BRB_militarism_party: "ББ"
+ BRB_militarism_party_long: "Биробиджанская Бригада"
+ BRB_liberalism_party: "НЯ - Л"
+ BRB_liberalism_party_long: "Новое Яблоко - Либералы"
+ BRB_radicalism_party: "НЯ - А"
+ BRB_radicalism_party_long: "Новое Яблоко - Антирадикалы"

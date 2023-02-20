@@ -1,9 +1,9 @@
 ﻿l_english:
- BRY:0 "Buryatia"
+ BRY:0 "Republic of Buryatia"
  BRY_DEF:0 "the Republic of Buryatia"
  BRY_ADJ:0 "Buryatian"
 
- TBK:0 "Transbaikal"
+ TBK:0 "Transbaikal Tsardom"
  TBK_DEF:0 "the Tsardom of Transbaikal"
  TBK_ADJ:0 "Transbaikal"
 
@@ -15,7 +15,7 @@
  VLA_DEF:0 "the Russian Republic"
  VLA_ADJ:0 "Vladimir"
 
- SAK:0 "Sakha"
+ SAK:0 "Republic of Sakha"
  SAK_DEF:0 "the Republic of Sakha"
  SAK_ADJ:0 "Sakha"
 
@@ -27,7 +27,7 @@
  BRB_DEF:0 "the Independent District of Birobidzhan"
  BRB_ADJ:0 "Birobidzhan"
 
- IRK:0 "Irkutsk"
+ IRK:0 "Territorial Protectorate of Irkutsk"
  IRK_DEF:0 "the Territorial Protectorate of Irkutsk"
  IRK_ADJ:0 "Irkutsk"
 
@@ -39,8 +39,8 @@
  KLS_DEF: "the Loyal Forces of the Irkutsk Police"
  KLS_ADJ: "Irkutsk"
 
- CHU: "Far Eastern Siberian Government"
- CHU_DEF: "the Far Eastern Siberian Government"
+ CHU: "Far-East Government"
+ CHU_DEF: "the Far-East Government"
  CHU_ADJ: "Chukchi"
 
  USS: ""USS Nimitz" Remains"
@@ -62,3 +62,7 @@
  CIK: "Communist Irkutsk"
  CIK_DEF: "the Communist Irkutsk"
  CIK_ADJ: "Irkutsk"
+
+ SUS: "People's Republic of Transamur"
+ SUS_DEF: "the People's Republic of Transamur"
+ SUS_ADJ: "Transamur's"
