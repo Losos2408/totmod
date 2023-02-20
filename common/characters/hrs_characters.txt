@@ -11,5 +11,22 @@ characters = {
             ideology = libertarianism
             traits = { }
         }
+        country_leader = {
+            desc = "HRS_Hirasawa_Susumu_desc"
+            ideology = radicalism_default
+            traits = { }
+        }
+	}
+    HRS_Top_Secret = {
+        name = HRS_Top_Secret
+        portraits = {
+            civilian = {
+                large = ""
+            }
+        }
+        country_leader = {
+            ideology = goyda_default
+            traits = { }
+        }
 	}
 }

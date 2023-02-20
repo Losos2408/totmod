@@ -1,10 +1,11 @@
 capital = 38
 
 recruit_character = HRS_Hirasawa_Susumu
+recruit_character = HRS_Top_Secret
 
 promote_character = {
 	character = HRS_Hirasawa_Susumu
-	ideology = personalistic_democracy
+	ideology = libertarianism
 }
 
 set_politics = {

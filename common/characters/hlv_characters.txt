@@ -1,6 +1,6 @@
 characters = {
-    HLV_hoshimachi_suisei = {
-        name = HLV_hoshimachi_suisei
+    HLV_Hoshimachi_Suisei = {
+        name = HLV_Hoshimachi_Suisei
         portraits = {
             civilian = {
                 large = "gfx/leaders/HLV/Portrait_HLV_Hoshimachi_Suisei.png"
@@ -9,7 +9,33 @@ characters = {
         country_leader = {
             ideology = personalistic_democracy
             traits = {  }
-            desc = HLV_hoshimachi_suisei_desc
+            desc = HLV_Hoshimachi_Suisei_desc
+        }
+	}
+    HLV_Inugami_Korone = {
+        name = HLV_Inugami_Korone
+        portraits = {
+            civilian = {
+                large = ""
+            }
+        }
+        country_leader = {
+            ideology = personalistic_democracy
+            traits = {  }
+            desc = HLV_Hoshimachi_Suisei_desc
+        }
+	}
+    HLV_Shishiro_Botan = {
+        name = HLV_Shishiro_Botan
+        portraits = {
+            civilian = {
+                large = ""
+            }
+        }
+        country_leader = {
+            ideology = personalistic_democracy
+            traits = {  }
+            desc = HLV_Hoshimachi_Suisei_desc
         }
 	}
 }

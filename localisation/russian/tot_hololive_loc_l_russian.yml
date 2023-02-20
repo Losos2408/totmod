@@ -1,6 +1,9 @@
 ﻿l_russian:
- HLV_hoshimachi_suisei:0 "Хосимати Суисэй"
- HLV_hoshimachi_suisei_desc:0 "Суитян"
+ HLV_Hoshimachi_Suisei:0 "Хосимати Суисэй"
+ HLV_Inugami_Korone:0 "Инугами Коронэ"
+ HLV_Shishiro_Botan:0 "Шиширо Ботан"
+
+ HLV_Hoshimachi_Suisei_desc:0 "Суитян"
  
  HLV:0 "Японская Оккупационая Зона"
  HLV_DEF:0 "Японская Оккупационая Зона"

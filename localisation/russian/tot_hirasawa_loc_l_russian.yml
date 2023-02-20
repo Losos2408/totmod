@@ -5,6 +5,7 @@
  HRS_ADJ: "О.Г.Б."
 
  HRS_Hirasawa_Susumu: "Хирасава Сусуму"
+ HRS_Top_Secret: "[Совершенно Секретно]"
  
  HRS_liberalism_party: "СХ"
  HRS_liberalism_party_long: "Союз Хаоса"
@@ -20,8 +21,8 @@
  HRS_communism_party_long: "-"
  HRS_radicalism_party: "СХ"
  HRS_radicalism_party_long: "Союз Хаоса"
- HRS_goyda_party: "Культивирующая печь Гойда"
- HRS_goyda_party_long: "Культивирующая печь Гойда"
+ HRS_goyda_party: "§RКультивирующая печь Гойда"
+ HRS_goyda_party_long: "§RКультивирующая печь Гойда"
 
  HRS_atom_siberia: "Атом Сибирь"
  HRS_atom_siberia_desc: "Вы готовы? Вы готовы?"

@@ -1,6 +1,8 @@
 capital = 8
 
-recruit_character = HLV_hoshimachi_suisei
+recruit_character = HLV_Hoshimachi_Suisei
+recruit_character = HLV_Inugami_Korone
+recruit_character = HLV_Shishiro_Botan
 
 add_ideas = {
 }
