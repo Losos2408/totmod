@@ -441,7 +441,7 @@ shared_focus = {
 }
 
 shared_focus = {
-	id = LYB_militant_genders
+	id = LYB_soldier_priests
 	icon = x
 	cost = 1
 	prerequisite = {
@@ -468,7 +468,7 @@ shared_focus = {
 	}
 	prerequisite = {
 		focus = LYB_khrushchev_temples
-		focus = LYB_militant_genders
+		focus = LYB_soldier_priests
 	}
 	x = 0
 	y = 7
