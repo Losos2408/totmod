@@ -1,0 +1,19 @@
+spriteTypes = {
+		spriteType = {
+			name = "GFX_idea_UKR_Wake_up_Ukraine"
+			texturefile = "gfx/interface/ideas/UKR_Wake_up_Ukraine.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_UKR_house_of_cards"
+			texturefile = "gfx/interface/ideas/UKR_house_of_cards.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_UKR_our_western_friends"
+			texturefile = "gfx/interface/ideas/UKR_our_western_friends.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_UKR_AFU_condition"
+			texturefile = "gfx/interface/ideas/UKR_AFU_condition.png"
+	    }
+
+	}

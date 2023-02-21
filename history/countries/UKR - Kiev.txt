@@ -9,6 +9,13 @@ set_politics = {
 	elections_allowed = no
 }
 
+add_ideas = {
+UKR_Wake_up_Ukraine
+UKR_house_of_cards
+UKR_our_western_friends
+UKR_AFU_condition
+}
+
 set_popularities = {
 	controlled_democracy = 55
 	militarism = 20

@@ -1,0 +1,49 @@
+ideas = {
+	country = {
+		UKR_Wake_up_Ukraine = {
+
+			picture = UKR_Wake_up_Ukraine
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+
+			}			
+		}
+
+		UKR_house_of_cards = {
+
+			picture = UKR_house_of_cards
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+
+			}			
+		}
+
+		UKR_our_western_friends = {
+
+			picture = UKR_our_western_friends
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+
+			}			
+		}
+
+		UKR_AFU_condition = {
+
+			picture = UKR_AFU_condition
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+
+			}			
+		}
