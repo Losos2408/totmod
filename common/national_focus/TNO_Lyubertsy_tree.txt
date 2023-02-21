@@ -1,0 +1,827 @@
+
+shared_focus = {
+	id = LYB_it_began
+	icon = x
+	cost = 1
+	x = 10
+	y = 0
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_it_began"
+	}
+}
+
+shared_focus = {
+	id = LYB_gather_the_order
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_it_began
+	}
+	x = -2
+	y = 1
+	relative_position_id = LYB_it_began
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_gather_the_order"
+	}
+}
+
+shared_focus = {
+	id = LYB_consolidate_okhlobystins_power
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_it_began
+	}
+	x = 0
+	y = 1
+	relative_position_id = LYB_it_began
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_consolidate_okhlobystins_power"
+	}
+}
+
+shared_focus = {
+	id = LYB_draw_frontiers
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_it_began
+	}
+	x = 2
+	y = 1
+	relative_position_id = LYB_it_began
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_draw_frontiers"
+	}
+}
+
+shared_focus = {
+	id = LYB_battle_for_moscow
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_gather_the_order
+	}
+	prerequisite = {
+		focus = LYB_consolidate_okhlobystins_power
+	}
+	prerequisite = {
+		focus = LYB_draw_frontiers
+	}
+	x = 0
+	y = 2
+	relative_position_id = LYB_it_began
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_draw_frontiers"
+	}
+}
+
+shared_focus = {
+	id = LYB_goyda_state
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_battle_for_moscow
+	}
+	x = 0
+	y = 1
+	relative_position_id = LYB_battle_for_moscow
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_goyda_state"
+	}
+}
+
+shared_focus = {
+	id = LYB_those_who_are_faithful
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_goyda_state
+	}
+	x = -2
+	y = 1
+	relative_position_id = LYB_goyda_state
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_those_who_are_faithful"
+	}
+}
+
+shared_focus = {
+	id = LYB_and_those_who_will_be_punished
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_those_who_are_faithful
+	}
+	x = 0
+	y = 1
+	relative_position_id = LYB_those_who_are_faithful
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_and_those_who_will_be_punished"
+	}
+}
+
+shared_focus = {
+	id = LYB_goyda_cult
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_and_those_who_will_be_punished
+	}
+	mutually_exclusive = {
+		focus = LYB_new_orthodoxy
+	}
+	x = 0
+	y = 2
+	relative_position_id = LYB_those_who_are_faithful
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_goyda_cult"
+	}
+}
+
+shared_focus = {
+	id = LYB_goyda_and_schools
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_goyda_cult
+	}
+	mutually_exclusive = {
+		focus = LYB_hermits_head
+	}
+	x = -2
+	y = 1
+	relative_position_id = LYB_goyda_cult
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_goyda_and_schools"
+	}
+}
+
+shared_focus = {
+	id = LYB_hermits_head
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_goyda_cult
+	}
+	mutually_exclusive = {
+		focus = LYB_goyda_and_schools
+	}
+	x = 0
+	y = 1
+	relative_position_id = LYB_goyda_cult
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_hermits_head"
+	}
+}
+
+shared_focus = {
+	id = LYB_goyda_youth
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_goyda_and_schools
+		focus = LYB_hermits_head
+	}
+	mutually_exclusive = {
+		focus = LYB_whip_rather_than_bread
+	}
+	x = -2
+	y = 2
+	relative_position_id = LYB_goyda_cult
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_goyda_youth"
+	}
+}
+
+shared_focus = {
+	id = LYB_whip_rather_than_bread
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_goyda_and_schools
+		focus = LYB_hermits_head
+	}
+	mutually_exclusive = {
+		focus = LYB_goyda_youth
+	}
+	x = 0
+	y = 2
+	relative_position_id = LYB_goyda_cult
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_whip_rather_than_bread"
+	}
+}
+
+shared_focus = {
+	id = LYB_mass_propaganda
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_goyda_youth
+		focus = LYB_whip_rather_than_bread
+	}
+	mutually_exclusive = {
+		focus = LYB_lyubertsy_in_fear
+	}
+	x = -2
+	y = 3
+	relative_position_id = LYB_goyda_cult
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_mass_propaganda"
+	}
+}
+
+shared_focus = {
+	id = LYB_lyubertsy_in_fear
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_goyda_youth
+		focus = LYB_whip_rather_than_bread
+	}
+	mutually_exclusive = {
+		focus = LYB_mass_propaganda
+	}
+	x = 0
+	y = 3
+	relative_position_id = LYB_goyda_cult
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_lyubertsy_in_fear"
+	}
+}
+
+shared_focus = {
+	id = LYB_everything_goes_as_planned
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_goyda_state
+	}
+	x = 0
+	y = 1
+	relative_position_id = LYB_goyda_state
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_everything_goes_as_planned"
+	}
+}
+
+shared_focus = {
+	id = LYB_and_goyda_will_hear_our_prayers
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_everything_goes_as_planned
+	}
+	x = 0
+	y = 1
+	relative_position_id = LYB_everything_goes_as_planned
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_and_goyda_will_hear_our_prayers"
+	}
+}
+
+shared_focus = {
+	id = LYB_crush_the_opposition
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_and_goyda_will_hear_our_prayers
+	}
+	x = 0
+	y = 4
+	relative_position_id = LYB_everything_goes_as_planned
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_crush_the_opposition"
+	}
+}
+
+shared_focus = {
+	id = LYB_goyda_security_service
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_crush_the_opposition
+	}
+	x = 0
+	y = 5
+	relative_position_id = LYB_everything_goes_as_planned
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_goyda_security_service"
+	}
+}
+
+shared_focus = {
+	id = LYB_we_remember_you_our_great_leader
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_goyda_state
+	}
+	x = 2
+	y = 1
+	relative_position_id = LYB_goyda_state
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_we_remember_you_our_great_leader"
+	}
+}
+
+shared_focus = {
+	id = LYB_and_all_the_predecessors
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_we_remember_you_our_great_leader
+	}
+	x = 0
+	y = 1
+	relative_position_id = LYB_we_remember_you_our_great_leader
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_and_all_the_predecessors"
+	}
+}
+
+shared_focus = {
+	id = LYB_new_orthodoxy
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_and_all_the_predecessors
+	}
+	mutually_exclusive = {
+		focus = LYB_goyda_cult
+	}
+	x = 0
+	y = 2
+	relative_position_id = LYB_we_remember_you_our_great_leader
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_new_orthodoxy"
+	}
+}
+
+shared_focus = {
+	id = LYB_reform_rpts
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_new_orthodoxy
+	}
+	mutually_exclusive = {
+		focus = LYB_contact_kirill
+	}
+	x = 0
+	y = 1
+	relative_position_id = LYB_new_orthodoxy
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_reform_rpts"
+	}
+}
+
+shared_focus = {
+	id = LYB_contact_kirill
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_new_orthodoxy
+	}
+	mutually_exclusive = {
+		focus = LYB_reform_rpts
+	}
+	x = 2
+	y = 1
+	relative_position_id = LYB_new_orthodoxy
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_contact_kirill"
+	}
+}
+
+shared_focus = {
+	id = LYB_a_new_patriach
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_reform_rpts
+	}
+	x = 0
+	y = 2
+	relative_position_id = LYB_new_orthodoxy
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_new_patriach"
+	}
+}
+
+shared_focus = {
+	id = LYB_canonize_putin
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_contact_kirill
+	}
+	x = 2
+	y = 2
+	relative_position_id = LYB_new_orthodoxy
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_canonize_putin"
+	}
+}
+
+shared_focus = {
+	id = LYB_khrushchev_temples
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_a_new_patriach
+	}
+	x = 0
+	y = 3
+	relative_position_id = LYB_new_orthodoxy
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_khrushchev_temples"
+	}
+}
+
+shared_focus = {
+	id = LYB_militant_genders
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_canonize_putin
+	}
+	x = 2
+	y = 3
+	relative_position_id = LYB_new_orthodoxy
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_militant_gender"
+	}
+}
+
+shared_focus = {
+	id = LYB_the_eternal_oprichnina
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_mass_propaganda
+		focus = LYB_lyubertsy_in_fear
+	}
+	prerequisite = {
+		focus = LYB_goyda_security_service
+	}
+	prerequisite = {
+		focus = LYB_khrushchev_temples
+		focus = LYB_militant_genders
+	}
+	x = 0
+	y = 7
+	relative_position_id = LYB_goyda_state
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_the_eternal_oprichnina"
+	}
+}
+
+shared_focus = {
+	id = LYB_orders_allies
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_battle_for_moscow
+	}
+	x = -8
+	y = 1
+	relative_position_id = LYB_battle_for_moscow
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_goyda_state"
+	}
+}
+
+shared_focus = {
+	id = LYB_back_to_the_screens
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_orders_allies
+	}
+	mutually_exclusive = {
+		focus = LYB_a_visit_to_the_city_hall
+	}
+	x = -1
+	y = 1
+	relative_position_id = LYB_orders_allies
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_back_to_the_screens"
+	}
+}
+
+shared_focus = {
+	id = LYB_dismiss_nazarov
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_back_to_the_screens
+	}
+	x = -1
+	y = 1
+	relative_position_id = LYB_back_to_the_screens
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_dismiss_nazarov"
+	}
+}
+
+shared_focus = {
+	id = LYB_propaganda_axis
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_dismiss_nazarov
+	}
+	x = 0
+	y = 2
+	relative_position_id = LYB_back_to_the_screens
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_propaganda_axis"
+	}
+}
+
+shared_focus = {
+	id = LYB_chapter_of_screen_time
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_dismiss_nazarov
+	}
+	x = -2
+	y = 2
+	relative_position_id = LYB_back_to_the_screens
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_chapter_of_screen_time"
+	}
+}
+
+shared_focus = {
+	id = LYB_polonium_flavored_tea
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_chapter_of_screen_time
+	}
+	prerequisite = {
+		focus = LYB_propaganda_axis
+	}
+	x = -1
+	y = 3
+	relative_position_id = LYB_back_to_the_screens
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_polonium_flavored_tea"
+	}
+}
+
+shared_focus = {
+	id = LYB_a_visit_to_the_city_hall
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_orders_allies
+	}
+	mutually_exclusive = {
+		focus = LYB_back_to_the_screens
+	}
+	x = 1
+	y = 1
+	relative_position_id = LYB_orders_allies
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_a_visit_to_the_city_hall"
+	}
+}
+
+shared_focus = {
+	id = LYB_feigned_loyalty
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_a_visit_to_the_city_hall
+	}
+	x = 1
+	y = 1
+	relative_position_id = LYB_a_visit_to_the_city_hall
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_feigned_loyalty"
+	}
+}
+
+shared_focus = {
+	id = LYB_non_formal_union
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_feigned_loyalty
+	}
+	x = 0
+	y = 2
+	relative_position_id = LYB_a_visit_to_the_city_hall
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_non_formal_union"
+	}
+}
+
+shared_focus = {
+	id = LYB_break_with_the_past_at_ostankino
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_feigned_loyalty
+	}
+	x = 2
+	y = 2
+	relative_position_id = LYB_a_visit_to_the_city_hall
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_break_with_the_past_at_ostankino"
+	}
+}
+
+shared_focus = {
+	id = LYB_krasovskys_last_broadcast
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_non_formal_union
+	}
+	prerequisite = {
+		focus = LYB_break_with_the_past_at_ostankino
+	}
+	x = 1
+	y = 3
+	relative_position_id = LYB_a_visit_to_the_city_hall
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_krasovskys_last_broadcast"
+	}
+}
+
+shared_focus = {
+	id = LYB_intransigent_enemies
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_battle_for_moscow
+	}
+	x = 8
+	y = 1
+	relative_position_id = LYB_battle_for_moscow
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_goyda_state"
+	}
+}
+
+shared_focus = {
+	id = LYB_the_weak_minded_conservative
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_intransigent_enemies
+	}
+	x = -1
+	y = 1
+	relative_position_id = LYB_intransigent_enemies
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_the_weak_minded_conservative"
+	}
+}
+
+shared_focus = {
+	id = LYB_crush_liberal_trash
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_the_weak_minded_conservative
+	}
+	x = -1
+	y = 1
+	relative_position_id = LYB_the_weak_minded_conservative
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_crush_liberal_trash"
+	}
+}
+
+shared_focus = {
+	id = LYB_the_man_with_heater
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_crush_liberal_trash
+	}
+	x = 0
+	y = 2
+	relative_position_id = LYB_the_weak_minded_conservative
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_the_man_with_heater"
+	}
+}
+
+shared_focus = {
+	id = LYB_eliminate_the_fifth_column
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_crush_liberal_trash
+	}
+	x = -2
+	y = 2
+	relative_position_id = LYB_the_weak_minded_conservative
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_eliminate_the_fifth_column"
+	}
+}
+
+shared_focus = {
+	id = LYB_eternal_exile_to_mariupol
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_eliminate_the_fifth_column
+	}
+	prerequisite = {
+		focus = LYB_the_man_with_heater
+	}
+	x = -1
+	y = 3
+	relative_position_id = LYB_the_weak_minded_conservative
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_eternal_exile_to_mariupol"
+	}
+}
+
+shared_focus = {
+	id = LYB_the_uncontrollable_machine
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_intransigent_enemies
+	}
+	x = 1
+	y = 1
+	relative_position_id = LYB_intransigent_enemies
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_the_uncontrollable_machine"
+	}
+}
+
+shared_focus = {
+	id = LYB_no_mercy_for_the_communists
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_the_uncontrollable_machine
+	}
+	x = 1
+	y = 1
+	relative_position_id = LYB_the_uncontrollable_machine
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_no_mercy_for_the_communists"
+	}
+}
+
+shared_focus = {
+	id = LYB_man_against_machine
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_no_mercy_for_the_communists
+	}
+	x = 0
+	y = 2
+	relative_position_id = LYB_the_uncontrollable_machine
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_man_against_machine"
+	}
+}
+
+shared_focus = {
+	id = LYB_hack_into_skolkovos_data
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_no_mercy_for_the_communists
+	}
+	x = 2
+	y = 2
+	relative_position_id = LYB_the_uncontrollable_machine
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_hack_into_skolkovos_data"
+	}
+}
+
+shared_focus = {
+	id = LYB_erase_kosygins_code
+	icon = x
+	cost = 1
+	prerequisite = {
+		focus = LYB_man_against_machine
+	}
+	prerequisite = {
+		focus = LYB_hack_into_skolkovos_data
+	}
+	x = 1
+	y = 3
+	relative_position_id = LYB_the_uncontrollable_machine
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_erase_kosygins_code"
+	}
+}
