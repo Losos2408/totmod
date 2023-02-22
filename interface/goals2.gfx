@@ -155,4 +155,12 @@ spriteTypes = {
 			name = "GFX_LYB_goyda_in_schools"
 			texturefile = "gfx/interface/goals/LYB_goyda_in_schools.png"
 	    }
+		spriteType = {
+			name = "GFX_LYB_it_began"
+			texturefile = "gfx/interface/goals/LYB_it_began.png"
+	    }
+		spriteType = {
+			name = "GFX_LYB_goyda_youth"
+			texturefile = "gfx/interface/goals/LYB_goyda_youth.png"
+	    }
 	}

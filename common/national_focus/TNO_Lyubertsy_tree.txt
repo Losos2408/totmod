@@ -1,7 +1,7 @@
 
 shared_focus = {
 	id = LYB_it_began
-	icon = x
+	icon = GFX_LYB_it_began
 	cost = 1
 	x = 10
 	y = 0
@@ -177,7 +177,7 @@ shared_focus = {
 
 shared_focus = {
 	id = LYB_goyda_youth
-	icon = x
+	icon = GFX_LYB_goyda_youth
 	cost = 1
 	prerequisite = {
 		focus = LYB_goyda_in_schools
