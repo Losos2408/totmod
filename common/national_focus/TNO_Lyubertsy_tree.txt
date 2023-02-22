@@ -462,13 +462,11 @@ shared_focus = {
 	prerequisite = {
 		focus = LYB_mass_propaganda
 		focus = LYB_keep_lyubertsy_in_fear
+		focus = LYB_khrushchevka_churches
+		focus = LYB_soldier_priests
 	}
 	prerequisite = {
 		focus = LYB_day_of_oprichnik
-	}
-	prerequisite = {
-		focus = LYB_khrushchevka_churches
-		focus = LYB_soldier_priests
 	}
 	x = 0
 	y = 7
