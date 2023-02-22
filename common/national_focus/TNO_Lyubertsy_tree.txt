@@ -12,7 +12,7 @@ shared_focus = {
 
 shared_focus = {
 	id = LYB_gather_the_order
-	icon = x
+	icon = GFX_LYB_gather_the_order
 	cost = 1
 	prerequisite = {
 		focus = LYB_it_began
@@ -26,8 +26,8 @@ shared_focus = {
 }
 
 shared_focus = {
-	id = LYB_consolidate_okhlobystins_power
-	icon = x
+	id = LYB_good_morning_moscow
+	icon = GFX_LYB_good_morning_moscow
 	cost = 1
 	prerequisite = {
 		focus = LYB_it_began
@@ -36,13 +36,13 @@ shared_focus = {
 	y = 1
 	relative_position_id = LYB_it_began
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_consolidate_okhlobystins_power"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_good_morning_moscow"
 	}
 }
 
 shared_focus = {
-	id = LYB_draw_frontiers
-	icon = x
+	id = LYB_draw_the_borderline
+	icon = GFX_LYB_draw_the_borderline
 	cost = 1
 	prerequisite = {
 		focus = LYB_it_began
@@ -51,49 +51,49 @@ shared_focus = {
 	y = 1
 	relative_position_id = LYB_it_began
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_draw_frontiers"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_draw_the_borderline"
 	}
 }
 
 shared_focus = {
-	id = LYB_battle_for_moscow
-	icon = x
+	id = LYB_goyda_day_is_near
+	icon = GFX_LYB_goyda_day_is_near
 	cost = 1
 	prerequisite = {
 		focus = LYB_gather_the_order
 	}
 	prerequisite = {
-		focus = LYB_consolidate_okhlobystins_power
+		focus = LYB_good_morning_moscow
 	}
 	prerequisite = {
-		focus = LYB_draw_frontiers
+		focus = LYB_draw_the_borderline
 	}
 	x = 0
 	y = 2
 	relative_position_id = LYB_it_began
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_draw_frontiers"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_draw_the_borderline"
 	}
 }
 
 shared_focus = {
 	id = LYB_goyda_state
-	icon = x
+	icon = GFX_LYB_goyda_state
 	cost = 1
 	prerequisite = {
-		focus = LYB_battle_for_moscow
+		focus = LYB_goyda_day_is_near
 	}
 	x = 0
 	y = 1
-	relative_position_id = LYB_battle_for_moscow
+	relative_position_id = LYB_goyda_day_is_near
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus LYB_goyda_state"
 	}
 }
 
 shared_focus = {
-	id = LYB_those_who_are_faithful
-	icon = x
+	id = LYB_those_who_belive_in_us
+	icon = GFX_LYB_those_who_belive_in_us
 	cost = 1
 	prerequisite = {
 		focus = LYB_goyda_state
@@ -102,7 +102,7 @@ shared_focus = {
 	y = 1
 	relative_position_id = LYB_goyda_state
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_those_who_are_faithful"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_those_who_belive_in_us"
 	}
 }
 
@@ -111,11 +111,11 @@ shared_focus = {
 	icon = x
 	cost = 1
 	prerequisite = {
-		focus = LYB_those_who_are_faithful
+		focus = LYB_those_who_belive_in_us
 	}
 	x = 0
 	y = 1
-	relative_position_id = LYB_those_who_are_faithful
+	relative_position_id = LYB_those_who_belive_in_us
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus LYB_and_those_who_will_be_punished"
 	}
@@ -123,7 +123,7 @@ shared_focus = {
 
 shared_focus = {
 	id = LYB_goyda_cult
-	icon = x
+	icon = GFX_LYB_goyda_cult
 	cost = 1
 	prerequisite = {
 		focus = LYB_and_those_who_will_be_punished
@@ -133,45 +133,45 @@ shared_focus = {
 	}
 	x = 0
 	y = 2
-	relative_position_id = LYB_those_who_are_faithful
+	relative_position_id = LYB_those_who_belive_in_us
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus LYB_goyda_cult"
 	}
 }
 
 shared_focus = {
-	id = LYB_goyda_and_schools
-	icon = x
+	id = LYB_goyda_in_schools
+	icon = GFX_LYB_goyda_in_schools
 	cost = 1
 	prerequisite = {
 		focus = LYB_goyda_cult
 	}
 	mutually_exclusive = {
-		focus = LYB_hermits_head
+		focus = LYB_hermits_government
 	}
 	x = -2
 	y = 1
 	relative_position_id = LYB_goyda_cult
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_goyda_and_schools"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_goyda_in_schools"
 	}
 }
 
 shared_focus = {
-	id = LYB_hermits_head
-	icon = x
+	id = LYB_hermits_government
+	icon = GFX_LYB_hermits_government
 	cost = 1
 	prerequisite = {
 		focus = LYB_goyda_cult
 	}
 	mutually_exclusive = {
-		focus = LYB_goyda_and_schools
+		focus = LYB_goyda_in_schools
 	}
 	x = 0
 	y = 1
 	relative_position_id = LYB_goyda_cult
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_hermits_head"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_hermits_government"
 	}
 }
 
@@ -180,11 +180,11 @@ shared_focus = {
 	icon = x
 	cost = 1
 	prerequisite = {
-		focus = LYB_goyda_and_schools
-		focus = LYB_hermits_head
+		focus = LYB_goyda_in_schools
+		focus = LYB_hermits_government
 	}
 	mutually_exclusive = {
-		focus = LYB_whip_rather_than_bread
+		focus = LYB_whip_is_better_than_break
 	}
 	x = -2
 	y = 2
@@ -195,12 +195,12 @@ shared_focus = {
 }
 
 shared_focus = {
-	id = LYB_whip_rather_than_bread
-	icon = x
+	id = LYB_whip_is_better_than_break
+	icon = GFX_LYB_whip_is_better_than_break
 	cost = 1
 	prerequisite = {
-		focus = LYB_goyda_and_schools
-		focus = LYB_hermits_head
+		focus = LYB_goyda_in_schools
+		focus = LYB_hermits_government
 	}
 	mutually_exclusive = {
 		focus = LYB_goyda_youth
@@ -209,20 +209,20 @@ shared_focus = {
 	y = 2
 	relative_position_id = LYB_goyda_cult
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_whip_rather_than_bread"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_whip_is_better_than_break"
 	}
 }
 
 shared_focus = {
 	id = LYB_mass_propaganda
-	icon = x
+	icon = GFX_LYB_mass_propaganda
 	cost = 1
 	prerequisite = {
 		focus = LYB_goyda_youth
-		focus = LYB_whip_rather_than_bread
+		focus = LYB_whip_is_better_than_break
 	}
 	mutually_exclusive = {
-		focus = LYB_lyubertsy_in_fear
+		focus = LYB_keep_lyubertsy_in_fear
 	}
 	x = -2
 	y = 3
@@ -233,12 +233,12 @@ shared_focus = {
 }
 
 shared_focus = {
-	id = LYB_lyubertsy_in_fear
-	icon = x
+	id = LYB_keep_lyubertsy_in_fear
+	icon = GFX_LYB_keep_lyubertsy_in_fear
 	cost = 1
 	prerequisite = {
 		focus = LYB_goyda_youth
-		focus = LYB_whip_rather_than_bread
+		focus = LYB_whip_is_better_than_break
 	}
 	mutually_exclusive = {
 		focus = LYB_mass_propaganda
@@ -247,13 +247,13 @@ shared_focus = {
 	y = 3
 	relative_position_id = LYB_goyda_cult
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_lyubertsy_in_fear"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_keep_lyubertsy_in_fear"
 	}
 }
 
 shared_focus = {
-	id = LYB_everything_goes_as_planned
-	icon = x
+	id = LYB_all_as_planned
+	icon = GFX_LYB_all_as_planned
 	cost = 1
 	prerequisite = {
 		focus = LYB_goyda_state
@@ -262,58 +262,58 @@ shared_focus = {
 	y = 1
 	relative_position_id = LYB_goyda_state
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_everything_goes_as_planned"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_all_as_planned"
 	}
 }
 
 shared_focus = {
 	id = LYB_and_goyda_will_hear_our_prayers
-	icon = x
+	icon = GFX_LYB_and_goyda_will_hear_our_prayers
 	cost = 1
 	prerequisite = {
-		focus = LYB_everything_goes_as_planned
+		focus = LYB_all_as_planned
 	}
 	x = 0
 	y = 1
-	relative_position_id = LYB_everything_goes_as_planned
+	relative_position_id = LYB_all_as_planned
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus LYB_and_goyda_will_hear_our_prayers"
 	}
 }
 
 shared_focus = {
-	id = LYB_crush_the_opposition
-	icon = x
+	id = LYB_destroy_the_opposition
+	icon = GFX_LYB_destroy_the_opposition
 	cost = 1
 	prerequisite = {
 		focus = LYB_and_goyda_will_hear_our_prayers
 	}
 	x = 0
 	y = 4
-	relative_position_id = LYB_everything_goes_as_planned
+	relative_position_id = LYB_all_as_planned
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_crush_the_opposition"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_destroy_the_opposition"
 	}
 }
 
 shared_focus = {
-	id = LYB_goyda_security_service
-	icon = x
+	id = LYB_day_of_oprichnik
+	icon = GFX_LYB_day_of_oprichnik
 	cost = 1
 	prerequisite = {
-		focus = LYB_crush_the_opposition
+		focus = LYB_destroy_the_opposition
 	}
 	x = 0
 	y = 5
-	relative_position_id = LYB_everything_goes_as_planned
+	relative_position_id = LYB_all_as_planned
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_goyda_security_service"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_day_of_oprichnik"
 	}
 }
 
 shared_focus = {
 	id = LYB_we_remember_you_our_great_leader
-	icon = x
+	icon = GFX_LYB_we_remember_you_our_great_leader
 	cost = 1
 	prerequisite = {
 		focus = LYB_goyda_state
@@ -327,8 +327,8 @@ shared_focus = {
 }
 
 shared_focus = {
-	id = LYB_and_all_the_predecessors
-	icon = x
+	id = LYB_and_all_before
+	icon = GFX_LYB_and_all_before
 	cost = 1
 	prerequisite = {
 		focus = LYB_we_remember_you_our_great_leader
@@ -337,16 +337,16 @@ shared_focus = {
 	y = 1
 	relative_position_id = LYB_we_remember_you_our_great_leader
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_and_all_the_predecessors"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_and_all_before"
 	}
 }
 
 shared_focus = {
 	id = LYB_new_orthodoxy
-	icon = x
+	icon = GFX_LYB_new_orthodoxy
 	cost = 1
 	prerequisite = {
-		focus = LYB_and_all_the_predecessors
+		focus = LYB_and_all_before
 	}
 	mutually_exclusive = {
 		focus = LYB_goyda_cult
@@ -360,47 +360,47 @@ shared_focus = {
 }
 
 shared_focus = {
-	id = LYB_reform_rpts
-	icon = x
+	id = LYB_reform_the_roc
+	icon = GFX_LYB_reform_the_roc
 	cost = 1
 	prerequisite = {
 		focus = LYB_new_orthodoxy
 	}
 	mutually_exclusive = {
-		focus = LYB_contact_kirill
+		focus = LYB_on_line_with_kirill
 	}
 	x = 0
 	y = 1
 	relative_position_id = LYB_new_orthodoxy
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_reform_rpts"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_reform_the_roc"
 	}
 }
 
 shared_focus = {
-	id = LYB_contact_kirill
-	icon = x
+	id = LYB_on_line_with_kirill
+	icon = GFX_LYB_on_line_with_kirill
 	cost = 1
 	prerequisite = {
 		focus = LYB_new_orthodoxy
 	}
 	mutually_exclusive = {
-		focus = LYB_reform_rpts
+		focus = LYB_reform_the_roc
 	}
 	x = 2
 	y = 1
 	relative_position_id = LYB_new_orthodoxy
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_contact_kirill"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_on_line_with_kirill"
 	}
 }
 
 shared_focus = {
 	id = LYB_a_new_patriach
-	icon = x
+	icon = GFX_LYB_a_new_patriach
 	cost = 1
 	prerequisite = {
-		focus = LYB_reform_rpts
+		focus = LYB_reform_the_roc
 	}
 	x = 0
 	y = 2
@@ -412,10 +412,10 @@ shared_focus = {
 
 shared_focus = {
 	id = LYB_canonize_putin
-	icon = x
+	icon = GFX_LYB_canonize_putin
 	cost = 1
 	prerequisite = {
-		focus = LYB_contact_kirill
+		focus = LYB_on_line_with_kirill
 	}
 	x = 2
 	y = 2
@@ -426,8 +426,8 @@ shared_focus = {
 }
 
 shared_focus = {
-	id = LYB_khrushchev_temples
-	icon = x
+	id = LYB_khrushchevka_churches
+	icon = GFX_LYB_khrushchevka_churches
 	cost = 1
 	prerequisite = {
 		focus = LYB_a_new_patriach
@@ -436,13 +436,13 @@ shared_focus = {
 	y = 3
 	relative_position_id = LYB_new_orthodoxy
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_khrushchev_temples"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_khrushchevka_churches"
 	}
 }
 
 shared_focus = {
 	id = LYB_soldier_priests
-	icon = x
+	icon = GFX_LYB_soldier_priests
 	cost = 1
 	prerequisite = {
 		focus = LYB_canonize_putin
@@ -456,73 +456,73 @@ shared_focus = {
 }
 
 shared_focus = {
-	id = LYB_the_eternal_oprichnina
-	icon = x
+	id = LYB_eternal_rule_of_oprichnina
+	icon = GFX_LYB_eternal_rule_of_oprichnina
 	cost = 1
 	prerequisite = {
 		focus = LYB_mass_propaganda
-		focus = LYB_lyubertsy_in_fear
+		focus = LYB_keep_lyubertsy_in_fear
 	}
 	prerequisite = {
-		focus = LYB_goyda_security_service
+		focus = LYB_day_of_oprichnik
 	}
 	prerequisite = {
-		focus = LYB_khrushchev_temples
+		focus = LYB_khrushchevka_churches
 		focus = LYB_soldier_priests
 	}
 	x = 0
 	y = 7
 	relative_position_id = LYB_goyda_state
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_the_eternal_oprichnina"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_eternal_rule_of_oprichnina"
 	}
 }
 
 shared_focus = {
-	id = LYB_orders_allies
+	id = LYB_orders_partners
 	icon = x
 	cost = 1
 	prerequisite = {
-		focus = LYB_battle_for_moscow
+		focus = LYB_goyda_day_is_near
 	}
 	x = -8
 	y = 1
-	relative_position_id = LYB_battle_for_moscow
+	relative_position_id = LYB_goyda_day_is_near
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus LYB_goyda_state"
 	}
 }
 
 shared_focus = {
-	id = LYB_back_to_the_screens
+	id = LYB_back_on_the_blue_screen
 	icon = x
 	cost = 1
 	prerequisite = {
-		focus = LYB_orders_allies
+		focus = LYB_orders_partners
 	}
 	mutually_exclusive = {
-		focus = LYB_a_visit_to_the_city_hall
+		focus = LYB_tea_time_with_sobyanin
 	}
 	x = -1
 	y = 1
-	relative_position_id = LYB_orders_allies
+	relative_position_id = LYB_orders_partners
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_back_to_the_screens"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_back_on_the_blue_screen"
 	}
 }
 
 shared_focus = {
-	id = LYB_dismiss_nazarov
-	icon = x
+	id = LYB_fire_nazarov
+	icon = GFX_LYB_fire_nazarov
 	cost = 1
 	prerequisite = {
-		focus = LYB_back_to_the_screens
+		focus = LYB_back_on_the_blue_screen
 	}
 	x = -1
 	y = 1
-	relative_position_id = LYB_back_to_the_screens
+	relative_position_id = LYB_back_on_the_blue_screen
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_dismiss_nazarov"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_fire_nazarov"
 	}
 }
 
@@ -531,296 +531,296 @@ shared_focus = {
 	icon = x
 	cost = 1
 	prerequisite = {
-		focus = LYB_dismiss_nazarov
+		focus = LYB_fire_nazarov
 	}
 	x = 0
 	y = 2
-	relative_position_id = LYB_back_to_the_screens
+	relative_position_id = LYB_back_on_the_blue_screen
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus LYB_propaganda_axis"
 	}
 }
 
 shared_focus = {
-	id = LYB_chapter_of_screen_time
-	icon = x
+	id = LYB_its_screen_time
+	icon = GFX_LYB_its_screen_time
 	cost = 1
 	prerequisite = {
-		focus = LYB_dismiss_nazarov
+		focus = LYB_fire_nazarov
 	}
 	x = -2
 	y = 2
-	relative_position_id = LYB_back_to_the_screens
+	relative_position_id = LYB_back_on_the_blue_screen
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_chapter_of_screen_time"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_its_screen_time"
 	}
 }
 
 shared_focus = {
-	id = LYB_polonium_flavored_tea
-	icon = x
+	id = LYB_polonium_flavored_drink
+	icon = GFX_LYB_polonium_flavored_drink
 	cost = 1
 	prerequisite = {
-		focus = LYB_chapter_of_screen_time
+		focus = LYB_its_screen_time
 	}
 	prerequisite = {
 		focus = LYB_propaganda_axis
 	}
 	x = -1
 	y = 3
-	relative_position_id = LYB_back_to_the_screens
+	relative_position_id = LYB_back_on_the_blue_screen
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_polonium_flavored_tea"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_polonium_flavored_drink"
 	}
 }
 
 shared_focus = {
-	id = LYB_a_visit_to_the_city_hall
-	icon = x
+	id = LYB_tea_time_with_sobyanin
+	icon = GFX_LYB_tea_time_with_sobyanin
 	cost = 1
 	prerequisite = {
-		focus = LYB_orders_allies
+		focus = LYB_orders_partners
 	}
 	mutually_exclusive = {
-		focus = LYB_back_to_the_screens
+		focus = LYB_back_on_the_blue_screen
 	}
 	x = 1
 	y = 1
-	relative_position_id = LYB_orders_allies
+	relative_position_id = LYB_orders_partners
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_a_visit_to_the_city_hall"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_tea_time_with_sobyanin"
 	}
 }
 
 shared_focus = {
-	id = LYB_feigned_loyalty
+	id = LYB_fake_loyalty
 	icon = x
 	cost = 1
 	prerequisite = {
-		focus = LYB_a_visit_to_the_city_hall
+		focus = LYB_tea_time_with_sobyanin
 	}
 	x = 1
 	y = 1
-	relative_position_id = LYB_a_visit_to_the_city_hall
+	relative_position_id = LYB_tea_time_with_sobyanin
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_feigned_loyalty"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_fake_loyalty"
 	}
 }
 
 shared_focus = {
-	id = LYB_non_formal_union
+	id = LYB_informal_union
 	icon = x
 	cost = 1
 	prerequisite = {
-		focus = LYB_feigned_loyalty
+		focus = LYB_fake_loyalty
 	}
 	x = 0
 	y = 2
-	relative_position_id = LYB_a_visit_to_the_city_hall
+	relative_position_id = LYB_tea_time_with_sobyanin
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_non_formal_union"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_informal_union"
 	}
 }
 
 shared_focus = {
-	id = LYB_break_with_the_past_at_ostankino
-	icon = x
+	id = LYB_tear_up_the_ostankino_past
+	icon = GFX_LYB_tear_up_the_ostankino_past
 	cost = 1
 	prerequisite = {
-		focus = LYB_feigned_loyalty
+		focus = LYB_fake_loyalty
 	}
 	x = 2
 	y = 2
-	relative_position_id = LYB_a_visit_to_the_city_hall
+	relative_position_id = LYB_tea_time_with_sobyanin
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_break_with_the_past_at_ostankino"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_tear_up_the_ostankino_past"
 	}
 }
 
 shared_focus = {
 	id = LYB_krasovskys_last_broadcast
-	icon = x
+	icon = GFX_LYB_krasovskys_last_broadcast
 	cost = 1
 	prerequisite = {
-		focus = LYB_non_formal_union
+		focus = LYB_informal_union
 	}
 	prerequisite = {
-		focus = LYB_break_with_the_past_at_ostankino
+		focus = LYB_tear_up_the_ostankino_past
 	}
 	x = 1
 	y = 3
-	relative_position_id = LYB_a_visit_to_the_city_hall
+	relative_position_id = LYB_tea_time_with_sobyanin
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus LYB_krasovskys_last_broadcast"
 	}
 }
 
 shared_focus = {
-	id = LYB_intransigent_enemies
-	icon = x
+	id = LYB_unsalvagable_enemies
+	icon = GFX_LYB_unsalvagable_enemies
 	cost = 1
 	prerequisite = {
-		focus = LYB_battle_for_moscow
+		focus = LYB_goyda_day_is_near
 	}
 	x = 8
 	y = 1
-	relative_position_id = LYB_battle_for_moscow
+	relative_position_id = LYB_goyda_day_is_near
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus LYB_goyda_state"
 	}
 }
 
 shared_focus = {
-	id = LYB_the_weak_minded_conservative
+	id = LYB_weak_willed_conservative
 	icon = x
 	cost = 1
 	prerequisite = {
-		focus = LYB_intransigent_enemies
+		focus = LYB_unsalvagable_enemies
 	}
 	x = -1
 	y = 1
-	relative_position_id = LYB_intransigent_enemies
+	relative_position_id = LYB_unsalvagable_enemies
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_the_weak_minded_conservative"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_weak_willed_conservative"
 	}
 }
 
 shared_focus = {
-	id = LYB_crush_liberal_trash
-	icon = x
+	id = LYB_crush_the_liberal_scum
+	icon = GFX_LYB_crush_the_liberal_scum
 	cost = 1
 	prerequisite = {
-		focus = LYB_the_weak_minded_conservative
+		focus = LYB_weak_willed_conservative
 	}
 	x = -1
 	y = 1
-	relative_position_id = LYB_the_weak_minded_conservative
+	relative_position_id = LYB_weak_willed_conservative
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_crush_liberal_trash"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_crush_the_liberal_scum"
 	}
 }
 
 shared_focus = {
-	id = LYB_the_man_with_heater
-	icon = x
+	id = LYB_a_man_with_heater
+	icon = GFX_LYB_a_man_with_a_heater
 	cost = 1
 	prerequisite = {
-		focus = LYB_crush_liberal_trash
+		focus = LYB_crush_the_liberal_scum
 	}
 	x = 0
 	y = 2
-	relative_position_id = LYB_the_weak_minded_conservative
+	relative_position_id = LYB_weak_willed_conservative
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_the_man_with_heater"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_a_man_with_heater"
 	}
 }
 
 shared_focus = {
-	id = LYB_eliminate_the_fifth_column
+	id = LYB_end_the_fifth_column
 	icon = x
 	cost = 1
 	prerequisite = {
-		focus = LYB_crush_liberal_trash
+		focus = LYB_crush_the_liberal_scum
 	}
 	x = -2
 	y = 2
-	relative_position_id = LYB_the_weak_minded_conservative
+	relative_position_id = LYB_weak_willed_conservative
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_eliminate_the_fifth_column"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_end_the_fifth_column"
 	}
 }
 
 shared_focus = {
-	id = LYB_eternal_exile_to_mariupol
-	icon = x
+	id = LYB_jail_yuneman
+	icon = GFX_LYB_jail_yuneman
 	cost = 1
 	prerequisite = {
-		focus = LYB_eliminate_the_fifth_column
+		focus = LYB_end_the_fifth_column
 	}
 	prerequisite = {
-		focus = LYB_the_man_with_heater
+		focus = LYB_a_man_with_heater
 	}
 	x = -1
 	y = 3
-	relative_position_id = LYB_the_weak_minded_conservative
+	relative_position_id = LYB_weak_willed_conservative
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_eternal_exile_to_mariupol"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_jail_yuneman"
 	}
 }
 
 shared_focus = {
-	id = LYB_the_uncontrollable_machine
+	id = LYB_uncontrollable_machine
 	icon = x
 	cost = 1
 	prerequisite = {
-		focus = LYB_intransigent_enemies
+		focus = LYB_unsalvagable_enemies
 	}
 	x = 1
 	y = 1
-	relative_position_id = LYB_intransigent_enemies
+	relative_position_id = LYB_unsalvagable_enemies
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_the_uncontrollable_machine"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_uncontrollable_machine"
 	}
 }
 
 shared_focus = {
-	id = LYB_no_mercy_for_the_communists
+	id = LYB_better_dead_than_red
 	icon = x
 	cost = 1
 	prerequisite = {
-		focus = LYB_the_uncontrollable_machine
+		focus = LYB_uncontrollable_machine
 	}
 	x = 1
 	y = 1
-	relative_position_id = LYB_the_uncontrollable_machine
+	relative_position_id = LYB_uncontrollable_machine
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_no_mercy_for_the_communists"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_better_dead_than_red"
 	}
 }
 
 shared_focus = {
-	id = LYB_man_against_machine
-	icon = x
+	id = LYB_man_versus_machine
+	icon = GFX_LYB_man_versus_machine
 	cost = 1
 	prerequisite = {
-		focus = LYB_no_mercy_for_the_communists
+		focus = LYB_better_dead_than_red
 	}
 	x = 0
 	y = 2
-	relative_position_id = LYB_the_uncontrollable_machine
+	relative_position_id = LYB_uncontrollable_machine
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_man_against_machine"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_man_versus_machine"
 	}
 }
 
 shared_focus = {
-	id = LYB_hack_into_skolkovos_data
+	id = LYB_hack_skolkovo_servers
 	icon = x
 	cost = 1
 	prerequisite = {
-		focus = LYB_no_mercy_for_the_communists
+		focus = LYB_better_dead_than_red
 	}
 	x = 2
 	y = 2
-	relative_position_id = LYB_the_uncontrollable_machine
+	relative_position_id = LYB_uncontrollable_machine
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_hack_into_skolkovos_data"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_hack_skolkovo_servers"
 	}
 }
 
 shared_focus = {
 	id = LYB_erase_kosygins_code
-	icon = x
+	icon = GFX_LYB_erase_kosygins_code
 	cost = 1
 	prerequisite = {
-		focus = LYB_man_against_machine
+		focus = LYB_man_versus_machine
 	}
 	prerequisite = {
-		focus = LYB_hack_into_skolkovos_data
+		focus = LYB_hack_skolkovo_servers
 	}
 	x = 1
 	y = 3
-	relative_position_id = LYB_the_uncontrollable_machine
+	relative_position_id = LYB_uncontrollable_machine
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus LYB_erase_kosygins_code"
 	}
