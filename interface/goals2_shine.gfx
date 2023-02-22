@@ -3,11 +3,11 @@ spriteTypes = {
 
 
 	SpriteType = {
-		name = "GFX_LYB_whip_is_better_than_break_shine"
-		texturefile = "gfx/interface/goals/LYB_whip_is_better_than_break.png"
+		name = "GFX_LYB_whip_is_better_than_bread_shine"
+		texturefile = "gfx/interface/goals/LYB_whip_is_better_than_bread.png"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_whip_is_better_than_break.png"
+			animationmaskfile = "gfx/interface/goals/LYB_whip_is_better_than_bread.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -20,7 +20,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_whip_is_better_than_break.png"
+			animationmaskfile = "gfx/interface/goals/LYB_whip_is_better_than_bread.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -1155,11 +1155,11 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-		name = "GFX_LYB_a_new_patriach_shine"
-		texturefile = "gfx/interface/goals/LYB_a_new_patriach.png"
+		name = "GFX_LYB_a_new_patriarch_shine"
+		texturefile = "gfx/interface/goals/LYB_a_new_patriarch.png"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_a_new_patriach.png"
+			animationmaskfile = "gfx/interface/goals/LYB_a_new_patriarch.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -1172,7 +1172,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_a_new_patriach.png"
+			animationmaskfile = "gfx/interface/goals/LYB_a_new_patriarch.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no

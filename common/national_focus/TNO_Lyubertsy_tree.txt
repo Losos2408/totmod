@@ -184,7 +184,7 @@ shared_focus = {
 		focus = LYB_hermits_government
 	}
 	mutually_exclusive = {
-		focus = LYB_whip_is_better_than_break
+		focus = LYB_whip_is_better_than_bread
 	}
 	x = -2
 	y = 2
@@ -195,8 +195,8 @@ shared_focus = {
 }
 
 shared_focus = {
-	id = LYB_whip_is_better_than_break
-	icon = GFX_LYB_whip_is_better_than_break
+	id = LYB_whip_is_better_than_bread
+	icon = GFX_LYB_whip_is_better_than_bread
 	cost = 1
 	prerequisite = {
 		focus = LYB_goyda_in_schools
@@ -209,7 +209,7 @@ shared_focus = {
 	y = 2
 	relative_position_id = LYB_goyda_cult
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_whip_is_better_than_break"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_whip_is_better_than_bread"
 	}
 }
 
@@ -219,7 +219,7 @@ shared_focus = {
 	cost = 1
 	prerequisite = {
 		focus = LYB_goyda_youth
-		focus = LYB_whip_is_better_than_break
+		focus = LYB_whip_is_better_than_bread
 	}
 	mutually_exclusive = {
 		focus = LYB_keep_lyubertsy_in_fear
@@ -238,7 +238,7 @@ shared_focus = {
 	cost = 1
 	prerequisite = {
 		focus = LYB_goyda_youth
-		focus = LYB_whip_is_better_than_break
+		focus = LYB_whip_is_better_than_bread
 	}
 	mutually_exclusive = {
 		focus = LYB_mass_propaganda
@@ -396,8 +396,8 @@ shared_focus = {
 }
 
 shared_focus = {
-	id = LYB_a_new_patriach
-	icon = GFX_LYB_a_new_patriach
+	id = LYB_a_new_patriarch
+	icon = GFX_LYB_a_new_patriarch
 	cost = 1
 	prerequisite = {
 		focus = LYB_reform_the_roc
@@ -430,7 +430,7 @@ shared_focus = {
 	icon = GFX_LYB_khrushchevka_churches
 	cost = 1
 	prerequisite = {
-		focus = LYB_a_new_patriach
+		focus = LYB_a_new_patriarch
 	}
 	x = 0
 	y = 3

@@ -4,8 +4,8 @@ spriteTypes = {
 			texturefile = "gfx/interface/goals/LYB_a_man_with_a_heater.png"
 	    }
 		spriteType = {
-			name = "GFX_LYB_a_new_patriach"
-			texturefile = "gfx/interface/goals/LYB_a_new_patriach.png"
+			name = "GFX_LYB_a_new_patriarch"
+			texturefile = "gfx/interface/goals/LYB_a_new_patriarch.png"
 	    }
 		spriteType = {
 			name = "GFX_LYB_all_as_planned"
@@ -148,8 +148,8 @@ spriteTypes = {
 			texturefile = "gfx/interface/goals/LYB_we_remember_you_our_great_leader.png"
 	    }
 		spriteType = {
-			name = "GFX_LYB_whip_is_better_than_break"
-			texturefile = "gfx/interface/goals/LYB_whip_is_better_than_break.png"
+			name = "GFX_LYB_whip_is_better_than_bread"
+			texturefile = "gfx/interface/goals/LYB_whip_is_better_than_bread.png"
 	    }
 		spriteType = {
 			name = "GFX_LYB_goyda_in_schools"
