@@ -15,12 +15,12 @@ state={
 		}
 
 	}
+
 	provinces={
-		5779 10973 10975 10976 
+		5779 10973 10975 
 	}
-	manpower = 1348134 
-	
-	state_category = town
+	manpower=1348134
 	buildings_max_level_factor=1.000
+	state_category=town
 	local_supplies=0.000
 }

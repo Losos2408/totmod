@@ -1,0 +1,13 @@
+
+state={
+	id=138
+	name="STATE_138"
+	provinces={
+		193 825 1649 2025 2854 3154 3204 3516 3580 3735 3984 4437 5068 5918 6024 8377 8386 8475 
+	}
+	manpower = 1348134 
+	
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
