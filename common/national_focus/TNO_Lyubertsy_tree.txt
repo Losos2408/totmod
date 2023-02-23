@@ -675,6 +675,9 @@ shared_focus = {
 	prerequisite = {
 		focus = LYB_unsalvagable_enemies
 	}
+	mutually_exclusive = {
+		focus = LYB_uncontrollable_machine
+	}
 	x = -1
 	y = 1
 	relative_position_id = LYB_unsalvagable_enemies
@@ -752,6 +755,9 @@ shared_focus = {
 	cost = 1
 	prerequisite = {
 		focus = LYB_unsalvagable_enemies
+	}
+	mutually_exclusive = {
+		focus = LYB_weak_willed_conservative
 	}
 	x = 1
 	y = 1
