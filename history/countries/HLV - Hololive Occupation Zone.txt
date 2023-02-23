@@ -1,5 +1,6 @@
 capital = 8
 
+recruit_character = HLV_Tanigo_Motoaki
 recruit_character = HLV_Hoshimachi_Suisei
 recruit_character = HLV_Inugami_Korone
 recruit_character = HLV_Shishiro_Botan
@@ -8,15 +9,14 @@ add_ideas = {
 }
 
 set_politics = {
-	ruling_party = liberalism
+	ruling_party = controlled_democracy
 	last_election = "2022.30.9"
 	election_frequency = 33
 	elections_allowed = yes
 }
 
 set_popularities = {
-    liberalism = 60
-	socialism = 20
-	controlled_democracy = 10
-	goyda = 10
+    controlled_democracy = 60
+	liberalism = 20
+	goyda = 20
 }

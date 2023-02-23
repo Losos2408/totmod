@@ -1,12 +1,12 @@
 
 shared_focus = {
-	id = LYB_it_began
-	icon = GFX_LYB_it_began
+	id = LYB_it_has_begun
+	icon = GFX_LYB_it_has_begun
 	cost = 1
 	x = 10
 	y = 0
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus LYB_it_began"
+		log = "[GetDateText]: [Root.GetName]: Focus LYB_it_has_begun"
 	}
 }
 
@@ -15,11 +15,11 @@ shared_focus = {
 	icon = GFX_LYB_gather_the_order
 	cost = 1
 	prerequisite = {
-		focus = LYB_it_began
+		focus = LYB_it_has_begun
 	}
 	x = -2
 	y = 1
-	relative_position_id = LYB_it_began
+	relative_position_id = LYB_it_has_begun
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus LYB_gather_the_order"
 	}
@@ -30,11 +30,11 @@ shared_focus = {
 	icon = GFX_LYB_good_morning_moscow
 	cost = 1
 	prerequisite = {
-		focus = LYB_it_began
+		focus = LYB_it_has_begun
 	}
 	x = 0
 	y = 1
-	relative_position_id = LYB_it_began
+	relative_position_id = LYB_it_has_begun
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus LYB_good_morning_moscow"
 	}
@@ -45,11 +45,11 @@ shared_focus = {
 	icon = GFX_LYB_draw_the_borderline
 	cost = 1
 	prerequisite = {
-		focus = LYB_it_began
+		focus = LYB_it_has_begun
 	}
 	x = 2
 	y = 1
-	relative_position_id = LYB_it_began
+	relative_position_id = LYB_it_has_begun
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus LYB_draw_the_borderline"
 	}
@@ -70,7 +70,7 @@ shared_focus = {
 	}
 	x = 0
 	y = 2
-	relative_position_id = LYB_it_began
+	relative_position_id = LYB_it_has_begun
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus LYB_draw_the_borderline"
 	}

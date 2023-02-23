@@ -10,8 +10,11 @@
  HLV_ADJ:0 "Japanese"
  
  HLV_goyda_party:0 "Hololive - Koron"
+ HLV_goyda_party_long:0 "Hololive - Koron"
  HLV_liberalism_party:0 "Hololive - Suisei"
- HLV_controlled_democracy_party:0 "Hololive - Botan"
+ HLV_liberalism_party_long:0 "Hololive - Suisei"
+ HLV_controlled_democracy_party:0 "Hololive - YAGOO"
+ HLV_controlled_democracy_party_long:0 "Hololive - YAGOO"
  HLV_conservatism_party:0 "§R[NAME PENDING]"
  HLV_militarism_party:0 "§R[NAME PENDING]"
  HLV_communism_party:0 "§R[NAME PENDING]"

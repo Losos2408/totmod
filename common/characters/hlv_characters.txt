@@ -1,4 +1,17 @@
 characters = {
+    HLV_Tanigo_Motoaki = {
+        name = HLV_Tanigo_Motoaki
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/HLV/Portrait_HLV_Tanigo_Motoaki.png"
+            }
+        }
+        country_leader = {
+            ideology = provisional_government
+            traits = {  }
+            desc = x
+        }
+	}
     HLV_Hoshimachi_Suisei = {
         name = HLV_Hoshimachi_Suisei
         portraits = {
@@ -22,7 +35,7 @@ characters = {
         country_leader = {
             ideology = goyda_default
             traits = {  }
-            desc = HLV_Hoshimachi_Suisei_desc
+            desc = x
         }
 	}
     HLV_Shishiro_Botan = {
@@ -35,7 +48,7 @@ characters = {
         country_leader = {
             ideology = controlled_democracy_default
             traits = {  }
-            desc = HLV_Hoshimachi_Suisei_desc
+            desc = x
         }
 	}
 }

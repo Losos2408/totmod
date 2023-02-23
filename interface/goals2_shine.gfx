@@ -1283,11 +1283,11 @@ spriteTypes = {
 	}
 	
 	SpriteType = {
-		name = "GFX_LYB_it_began_shine"
-		texturefile = "gfx/interface/goals/LYB_it_began.png"
+		name = "GFX_LYB_it_has_begun_shine"
+		texturefile = "gfx/interface/goals/LYB_it_has_begun.png"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_it_began.png"
+			animationmaskfile = "gfx/interface/goals/LYB_it_has_begun.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -1300,7 +1300,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_it_began.png"
+			animationmaskfile = "gfx/interface/goals/LYB_it_has_begun.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
