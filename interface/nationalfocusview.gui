@@ -664,7 +664,7 @@ guiTypes = {
 			name = "name"
 			position = { x = 30 y = 12 }
 			textureFile = ""
-			font = "hoi_24header"
+			font = "hoi_36header"
 			borderSize = {x = 0 y = 0}
 			text = ""
 			maxWidth = 450
@@ -674,9 +674,10 @@ guiTypes = {
 		}
 		iconType = {
 			name = "symbol"
-			position = { x = 42 y = 88 }
+			position = { x = 105 y = 120 }
 			spriteType = "GFX_goal_unknown"
 			alwaystransparent = yes
+			centerposition = yes
 		}
 		iconType = {
 			name = "prerequisites_bg"
@@ -714,14 +715,15 @@ guiTypes = {
 		}
 		instantTextboxType = {
 			name = "desc"
-			position = { x = 34 y = 250 }
+			position = { x = 32 y = 235 }
 			textureFile = ""
 			font = "hoi_18mbs"
 			borderSize = {x = 5 y = 0}
 			text = "Description"
 			maxWidth = 485
-			maxHeight = 70
+			maxHeight = 115
 			format = center
+			scrollbarType = standardtext_slider
 		}
 
 		iconType = {
