@@ -1,0 +1,12 @@
+focus_tree = {
+	id = SUS_Transamur_startup
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = SUS
+		}
+	}
+	default = no
+	shared_focus = SUS_red_sunrise_in_the_far_east
+}
