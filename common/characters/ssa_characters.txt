@@ -1,0 +1,15 @@
+characters = {
+    SSA_Oleh_Urusky = {
+        name = SSA_Oleh_Urusky
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/SSA/Portrait_SSA_Oleh_Urusky.png"
+            }
+        }
+        country_leader = {
+            ideology = controlled_democracy_default
+            traits = { }
+            desc = x
+        }
+	}
+}

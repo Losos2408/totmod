@@ -128,3 +128,7 @@ UKR = {
 	color = rgb { 47 96 147 }
 	color_ui = rgb { 47 96 147 }
 }
+SSA = {
+	color = rgb { 229 191 37 }
+	color_ui = rgb { 229 191 37 }
+}

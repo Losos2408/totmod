@@ -2,6 +2,10 @@
 state={
 	id=127
 	name="STATE_127"
+	history = {
+		owner = SSA
+		add_core_of = SSA
+	}
 	provinces={
 		1101 2295 3228 5630 6692 8104 8130 
 	}
