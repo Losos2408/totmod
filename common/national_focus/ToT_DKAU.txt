@@ -1,0 +1,12 @@
+focus_tree = {
+	id = SSA_dkau_startup
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = SSA
+		}
+	}
+	default = no
+	shared_focus = SSA_look
+}

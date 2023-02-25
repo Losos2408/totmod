@@ -1,0 +1,699 @@
+shared_focus = {
+	id = SSA_look
+	icon = x
+	cost = 1
+	x = 8
+	y = 0
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_look"
+	}
+}
+
+shared_focus = {
+	id = SSA_at_the_sky
+	icon = x
+	cost = 1
+	x = -1
+	y = 1
+	relative_position_id = SSA_look
+	prerequisite = {
+		focus = SSA_look
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_at_the_sky"
+	}
+}
+
+shared_focus = {
+	id = SSA_and_the_earth
+	icon = x
+	cost = 1
+	x = 1
+	y = 1
+	relative_position_id = SSA_look
+	prerequisite = {
+		focus = SSA_look
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_and_the_earth"
+	}
+}
+
+shared_focus = {
+	id = SSA_but_what_to_look_for
+	icon = x
+	cost = 1
+	x = 0
+	y = 2
+	relative_position_id = SSA_look
+	prerequisite = {
+		focus = SSA_at_the_sky
+	}
+	prerequisite = {
+		focus = SSA_and_the_earth
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_but_what_to_look_for"
+	}
+}
+
+shared_focus = {
+	id = SSA_for_the_problems_on_earth
+	icon = x
+	cost = 1
+	x = -5
+	y = 1
+	relative_position_id = SSA_but_what_to_look_for
+	mutually_exclusive = {
+		focus = SSA_for_the_stars_beyond
+	}
+	prerequisite = {
+		focus = SSA_but_what_to_look_for
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_for_the_problems_on_earth"
+	}
+}
+
+shared_focus = {
+	id = SSA_in_the_factories
+	icon = x
+	cost = 1
+	x = -2
+	y = 1
+	relative_position_id = SSA_for_the_problems_on_earth
+	prerequisite = {
+		focus = SSA_for_the_problems_on_earth
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_in_the_factories"
+	}
+}
+
+shared_focus = {
+	id = SSA_tighten_the_belts
+	icon = x
+	cost = 1
+	x = -2
+	y = 2
+	relative_position_id = SSA_for_the_problems_on_earth
+	prerequisite = {
+		focus = SSA_in_the_factories
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_tighten_the_belts"
+	}
+}
+
+shared_focus = {
+	id = SSA_childrens_helping_hand
+	icon = x
+	cost = 1
+	x = -2
+	y = 3
+	relative_position_id = SSA_for_the_problems_on_earth
+	prerequisite = {
+		focus = SSA_tighten_the_belts
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_childrens_helping_hand"
+	}
+}
+
+shared_focus = {
+	id = SSA_to_the_factories
+	icon = x
+	cost = 1
+	x = -2
+	y = 4
+	relative_position_id = SSA_for_the_problems_on_earth
+	prerequisite = {
+		focus = SSA_childrens_helping_hand
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_to_the_factories"
+	}
+}
+
+shared_focus = {
+	id = SSA_on_the_streets
+	icon = x
+	cost = 1
+	x = 0
+	y = 1
+	relative_position_id = SSA_for_the_problems_on_earth
+	prerequisite = {
+		focus = SSA_for_the_problems_on_earth
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_on_the_streets"
+	}
+}
+
+shared_focus = {
+	id = SSA_get_ready
+	icon = x
+	cost = 1
+	x = 0
+	y = 2
+	relative_position_id = SSA_for_the_problems_on_earth
+	prerequisite = {
+		focus = SSA_on_the_streets
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_get_ready"
+	}
+}
+
+shared_focus = {
+	id = SSA_change_shutdown_schedules
+	icon = x
+	cost = 1
+	x = 0
+	y = 3
+	relative_position_id = SSA_for_the_problems_on_earth
+	prerequisite = {
+		focus = SSA_get_ready
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_change_shutdown_schedules"
+	}
+}
+
+shared_focus = {
+	id = SSA_tough_times_tough_methods
+	icon = x
+	cost = 1
+	x = 0
+	y = 4
+	relative_position_id = SSA_for_the_problems_on_earth
+	prerequisite = {
+		focus = SSA_change_shutdown_schedules
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_tough_times_tough_methods"
+	}
+}
+
+shared_focus = {
+	id = SSA_in_the_hallway
+	icon = x
+	cost = 1
+	x = 2
+	y = 1
+	relative_position_id = SSA_for_the_problems_on_earth
+	prerequisite = {
+		focus = SSA_for_the_problems_on_earth
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_in_the_hallway"
+	}
+}
+
+shared_focus = {
+	id = SSA_those_damn_idealists
+	icon = x
+	cost = 1
+	x = 2
+	y = 2
+	relative_position_id = SSA_for_the_problems_on_earth
+	prerequisite = {
+		focus = SSA_in_the_hallway
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_those_damn_idealists"
+	}
+}
+
+shared_focus = {
+	id = SSA_nothing_money_cant_buy
+	icon = x
+	cost = 1
+	x = 2
+	y = 3
+	relative_position_id = SSA_for_the_problems_on_earth
+	prerequisite = {
+		focus = SSA_those_damn_idealists
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_nothing_money_cant_buy"
+	}
+}
+
+shared_focus = {
+	id = SSA_everyone_has_secrets
+	icon = x
+	cost = 1
+	x = 2
+	y = 4
+	relative_position_id = SSA_for_the_problems_on_earth
+	prerequisite = {
+		focus = SSA_nothing_money_cant_buy
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_everyone_has_secrets"
+	}
+}
+
+shared_focus = {
+	id = SSA_keep_our_eyes_peeled
+	icon = x
+	cost = 1
+	x = 0
+	y = 5
+	relative_position_id = SSA_for_the_problems_on_earth
+	prerequisite = {
+		focus = SSA_to_the_factories
+	}
+	prerequisite = {
+		focus = SSA_tough_times_tough_methods
+	}
+	prerequisite = {
+		focus = SSA_everyone_has_secrets
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_keep_our_eyes_peeled"
+	}
+}
+
+shared_focus = {
+	id = SSA_for_the_stars_beyond
+	icon = x
+	cost = 1
+	x = 5
+	y = 1
+	relative_position_id = SSA_but_what_to_look_for
+	mutually_exclusive = {
+		focus = SSA_for_the_problems_on_earth
+	}
+	prerequisite = {
+		focus = SSA_but_what_to_look_for
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_for_the_stars_beyond"
+	}
+}
+
+shared_focus = {
+	id = SSA_expand_our_research_institute
+	icon = x
+	cost = 1
+	x = -2
+	y = 1
+	relative_position_id = SSA_for_the_stars_beyond
+	prerequisite = {
+		focus = SSA_for_the_stars_beyond
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_expand_our_research_institute"
+	}
+}
+
+shared_focus = {
+	id = SSA_restart_the_scholarship_program
+	icon = x
+	cost = 1
+	x = -2
+	y = 2
+	relative_position_id = SSA_for_the_stars_beyond
+	prerequisite = {
+		focus = SSA_expand_our_research_institute
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_restart_the_scholarship_program"
+	}
+}
+
+shared_focus = {
+	id = SSA_recruit_engineers
+	icon = x
+	cost = 1
+	x = -2
+	y = 3
+	relative_position_id = SSA_for_the_stars_beyond
+	prerequisite = {
+		focus = SSA_restart_the_scholarship_program
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_recruit_engineers"
+	}
+}
+
+shared_focus = {
+	id = SSA_let_pivdenmash_loose
+	icon = x
+	cost = 1
+	x = -2
+	y = 4
+	relative_position_id = SSA_for_the_stars_beyond
+	prerequisite = {
+		focus = SSA_recruit_engineers
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_let_pivdenmash_loose"
+	}
+}
+
+shared_focus = {
+	id = SSA_inspire_the_people
+	icon = x
+	cost = 1
+	x = 0
+	y = 1
+	relative_position_id = SSA_for_the_stars_beyond
+	prerequisite = {
+		focus = SSA_for_the_stars_beyond
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_inspire_the_people"
+	}
+}
+
+shared_focus = {
+	id = SSA_the_worst_is_over
+	icon = x
+	cost = 1
+	x = 0
+	y = 2
+	relative_position_id = SSA_for_the_stars_beyond
+	prerequisite = {
+		focus = SSA_inspire_the_people
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_the_worst_is_over"
+	}
+}
+
+shared_focus = {
+	id = SSA_we_must_fight_for_present
+	icon = x
+	cost = 1
+	x = 0
+	y = 3
+	relative_position_id = SSA_for_the_stars_beyond
+	prerequisite = {
+		focus = SSA_the_worst_is_over
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_we_must_fight_for_present"
+	}
+}
+
+shared_focus = {
+	id = SSA_we_have_a_dream
+	icon = x
+	cost = 1
+	x = 0
+	y = 4
+	relative_position_id = SSA_for_the_stars_beyond
+	prerequisite = {
+		focus = SSA_we_must_fight_for_present
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_we_have_a_dream"
+	}
+}
+
+shared_focus = {
+	id = SSA_council_affairs
+	icon = x
+	cost = 1
+	x = 2
+	y = 1
+	relative_position_id = SSA_for_the_stars_beyond
+	prerequisite = {
+		focus = SSA_for_the_stars_beyond
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_council_affairs"
+	}
+}
+
+shared_focus = {
+	id = SSA_they_are_just_traitors
+	icon = x
+	cost = 1
+	x = 2
+	y = 2
+	relative_position_id = SSA_for_the_stars_beyond
+	prerequisite = {
+		focus = SSA_council_affairs
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_they_are_just_traitors"
+	}
+}
+
+shared_focus = {
+	id = SSA_and_where_do_you_get_so_much_money_from
+	icon = x
+	cost = 1
+	x = 2
+	y = 3
+	relative_position_id = SSA_for_the_stars_beyond
+	prerequisite = {
+		focus = SSA_they_are_just_traitors
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_and_where_do_you_get_so_much_money_from"
+	}
+}
+
+shared_focus = {
+	id = SSA_the_last_strike
+	icon = x
+	cost = 1
+	x = 2
+	y = 4
+	relative_position_id = SSA_for_the_stars_beyond
+	prerequisite = {
+		focus = SSA_and_where_do_you_get_so_much_money_from
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_the_last_strike"
+	}
+}
+
+shared_focus = {
+	id = SSA_korolevs_heirs
+	icon = x
+	cost = 1
+	x = 0
+	y = 5
+	relative_position_id = SSA_for_the_stars_beyond
+	prerequisite = {
+		focus = SSA_let_pivdenmash_loose
+	}
+	prerequisite = {
+		focus = SSA_we_have_a_dream
+	}
+	prerequisite = {
+		focus = SSA_the_last_strike
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_korolevs_heirs"
+	}
+}
+
+shared_focus = {
+	id = SSA_we_have_done_everything
+	icon = x
+	cost = 1
+	x = 0
+	y = 7
+	relative_position_id = SSA_but_what_to_look_for
+	prerequisite = {
+		focus = SSA_keep_our_eyes_peeled
+		focus = SSA_korolevs_heirs
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_we_have_done_everything"
+	}
+}
+
+shared_focus = {
+	id = SSA_back_to_the_middle_line
+	icon = x
+	cost = 1
+	x = 0
+	y = 1
+	relative_position_id = SSA_we_have_done_everything
+	prerequisite = {
+		focus = SSA_we_have_done_everything
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_back_to_the_middle_line"
+	}
+}
+
+shared_focus = {
+	id = SSA_or_well_not
+	icon = x
+	cost = 1
+	x = 0
+	y = 2
+	relative_position_id = SSA_we_have_done_everything
+	prerequisite = {
+		focus = SSA_back_to_the_middle_line
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_or_well_not"
+	}
+}
+
+shared_focus = {
+	id = SSA_its_time_to_decide
+	icon = x
+	cost = 1
+	x = 0
+	y = 3
+	relative_position_id = SSA_we_have_done_everything
+	prerequisite = {
+		focus = SSA_or_well_not
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_its_time_to_decide"
+	}
+}
+
+shared_focus = {
+	id = SSA_vilkul_plan
+	icon = x
+	cost = 1
+	x = -1
+	y = 1
+	relative_position_id = SSA_its_time_to_decide
+	mutually_exclusive = {
+		focus = SSA_benyas_ambition
+	}
+	prerequisite = {
+		focus = SSA_its_time_to_decide
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_vilkul_plan"
+	}
+}
+
+shared_focus = {
+	id = SSA_a_bitter_remedy
+	icon = x
+	cost = 1
+	x = -1
+	y = 2
+	relative_position_id = SSA_its_time_to_decide
+	prerequisite = {
+		focus = SSA_vilkul_plan
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_vilkul_plan"
+	}
+}
+
+shared_focus = {
+	id = SSA_benyas_ambition
+	icon = x
+	cost = 1
+	x = 1
+	y = 1
+	relative_position_id = SSA_its_time_to_decide
+	mutually_exclusive = {
+		focus = SSA_vilkul_plan
+	}
+	prerequisite = {
+		focus = SSA_its_time_to_decide
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_vilkul_plan"
+	}
+}
+
+shared_focus = {
+	id = SSA_joint_forces
+	icon = x
+	cost = 1
+	x = 1
+	y = 2
+	relative_position_id = SSA_its_time_to_decide
+	prerequisite = {
+		focus = SSA_benyas_ambition
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_joint_forces"
+	}
+}
+
+shared_focus = {
+	id = SSA_and_with_the_stroke_of_a_pen
+	icon = x
+	cost = 1
+	x = 0
+	y = 3
+	relative_position_id = SSA_its_time_to_decide
+	prerequisite = {
+		focus = SSA_a_bitter_remedy
+		focus = SSA_joint_forces
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_and_with_the_stroke_of_a_pen"
+	}
+}
+
+shared_focus = {
+	id = SSA_the_fate_is_decided
+	icon = x
+	cost = 1
+	x = 0
+	y = 1
+	relative_position_id = SSA_and_with_the_stroke_of_a_pen
+	prerequisite = {
+		focus = SSA_and_with_the_stroke_of_a_pen
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_the_fate_is_decided"
+	}
+}
+
+shared_focus = {
+	id = SSA_its_getting_hot
+	icon = x
+	cost = 1
+	x = 0
+	y = 2
+	relative_position_id = SSA_and_with_the_stroke_of_a_pen
+	prerequisite = {
+		focus = SSA_the_fate_is_decided
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_its_getting_hot"
+	}
+}
+
+shared_focus = {
+	id = SSA_its_time_to_move_out
+	icon = x
+	cost = 1
+	x = 0
+	y = 3
+	relative_position_id = SSA_and_with_the_stroke_of_a_pen
+	prerequisite = {
+		focus = SSA_its_getting_hot
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_its_time_to_move_out"
+	}
+}
+
+shared_focus = {
+	id = SSA_the_left_bank_belongs_to_us
+	icon = x
+	cost = 1
+	x = 0
+	y = 4
+	relative_position_id = SSA_and_with_the_stroke_of_a_pen
+	prerequisite = {
+		focus = SSA_its_time_to_move_out
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_the_left_bank_belongs_to_us"
+	}
+}
