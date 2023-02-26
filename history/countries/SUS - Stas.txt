@@ -14,8 +14,7 @@ set_politics = {
 
 set_popularities = {
     communism = 60
-	socialism = 30
-	militarism = 10
+	socialism = 40
 }
 
 add_ideas = {
