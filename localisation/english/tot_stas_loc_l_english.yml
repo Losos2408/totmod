@@ -2,14 +2,10 @@
  SUS_SAS:0 "Stas Vasiliev"
  SUS_SAS_desc:0 "Stas How Simple!"
  
- SUS_socialism_party:0 "PSiS"
- SUS_socialism_party_long:0 "Partiya Sotsializma i Svobody"
- SUS_liberalism_party:0 "G"
- SUS_controlled_democracy_party:0 "Gay"
- SUS_militarism_party:0 "AST"
- SUS_militarism_party_long:0 "Antikommunisticheskiye Sily Transamura"
- SUS_communism_party:0 "KPT"
- SUS_communism_party_long:0 "Kommunisticheskaya Partiya Transamura"
+ SUS_socialism_party:0 "KPSS - R"
+ SUS_socialism_party_long:0 "Kommunisticheskaya Partiya Sovetskogo Soyuza - Revizionisty"
+ SUS_communism_party:0 "KPSS - L"
+ SUS_communism_party_long:0 "Kommunisticheskaya Partiya Sovetskogo Soyuza - Loyalisty"
 
  SUS_red_sunrise_in_the_far_east:0 "Red Sunrise in the Far East"
  SUS_stipulated_conditions:0 "Stipulated Conditions"
