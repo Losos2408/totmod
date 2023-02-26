@@ -86,6 +86,7 @@ ideologies = {
 			socialism_default = {}
 			technosocialism = { can_be_randomly_selected = no }
 			deep_anarchy = { can_be_randomly_selected = no }
+			gachism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 176 37 54 }

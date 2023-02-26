@@ -12,4 +12,17 @@ characters = {
             desc = x
         }
 	}
+    SAK_Van_Darkholme = {
+        name = SAK_Van_Darkholme
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/SAK/Portrait_SAK_Van_Darkholme.png"
+            }
+        }
+        country_leader = {
+            ideology = gachism
+            traits = { }
+            desc = x
+        }
+	}
 }

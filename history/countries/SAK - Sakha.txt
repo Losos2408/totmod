@@ -1,6 +1,7 @@
 capital = 49
 
 recruit_character = SAK_Alexander_Gabyshev
+recruit_character = SAK_Van_Darkholme
 
 set_politics = {
 	ruling_party = controlled_democracy

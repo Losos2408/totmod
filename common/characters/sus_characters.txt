@@ -3,13 +3,27 @@ characters = {
         name = SUS_SAS
         portraits = {
             civilian = {
-                large = "gfx/leaders/SUS/SAS.png"
+                large = "gfx/leaders/SUS/Portrait_SUS_Stas_Vasiliev.png"
             }
         }
         country_leader = {
             ideology = maoism
             traits = { }
             desc = SUS_SAS_desc
+        }
+	}
+
+    SUS_Alexander_Shtefanov = {
+        name = SUS_Alexander_Shtefanov
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/SUS/Portrait_SUS_Alexander_Shtefanov.png"
+            }
+        }
+        country_leader = {
+            ideology = socialism_default
+            traits = { }
+            desc = x
         }
 	}
 }

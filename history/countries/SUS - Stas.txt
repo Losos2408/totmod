@@ -1,6 +1,7 @@
 capital = 42
 
 recruit_character = SUS_SAS
+recruit_character = SUS_Alexander_Shtefanov
 
 add_ideas = {
 }

@@ -138,4 +138,8 @@ defined_text = {
 		trigger = { has_country_leader_ideology = big_tent_party }
 		localization_key = "big_tent_party"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = gachism }
+		localization_key = "gachism"
+	}
 }
