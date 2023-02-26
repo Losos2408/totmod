@@ -751,7 +751,7 @@ shared_focus = {
 
 shared_focus = {
 	id = LYB_uncontrollable_machine
-	icon = x
+	icon = GFX_LYB_uncontrollable_machine
 	cost = 1
 	prerequisite = {
 		focus = LYB_unsalvagable_enemies

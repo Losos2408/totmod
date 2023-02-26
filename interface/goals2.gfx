@@ -163,4 +163,8 @@ spriteTypes = {
 			name = "GFX_LYB_goyda_youth"
 			texturefile = "gfx/interface/goals/LYB_goyda_youth.png"
 	    }
+		spriteType = {
+			name = "GFX_LYB_uncontrollable_machine"
+			texturefile = "gfx/interface/goals/LYB_uncontrollable_machine.png"
+	    }
 	}
