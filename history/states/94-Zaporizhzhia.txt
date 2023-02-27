@@ -3,9 +3,9 @@ state={
 	id=94
 	name="STATE_94"
 	provinces={
-		1102 2581 3140 5716 5839 6537 6671 8199 8214 8232 8234 8245 8256 10960 
+		1102 2581 5716 5839 6537 8199 8214 8232 8234 8245 8256 10960 
 	}
-	manpower=1348134
+	manpower=1474821
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=0.000

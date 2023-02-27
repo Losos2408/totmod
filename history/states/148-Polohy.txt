@@ -1,11 +1,11 @@
 
 state={
-	id=103
-	name="STATE_103"
+	id=148
+	name="STATE_148"
 	provinces={
-		3326 4407 6502 8007 8008 
+		3140 6671
 	}
-	manpower=912897
+	manpower=163641
 	buildings_max_level_factor=1.000
 	state_category=town
 	local_supplies=0.000
