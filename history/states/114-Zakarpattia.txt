@@ -2,6 +2,10 @@
 state={
 	id=114
 	name="STATE_114"
+	history = {
+		owner = ZKP
+		add_core_of = ZKP
+	}
 	provinces={
 		3804 3905 4396 7813 7835 7849 3586
 	}

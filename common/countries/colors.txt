@@ -132,3 +132,39 @@ SSA = {
 	color = rgb { 229 191 37 }
 	color_ui = rgb { 229 191 37 }
 }
+COU = {
+	color = rgb { 48 55 255 }
+	color_ui = rgb { 48 55 255 }
+}
+KKV = {
+	color = rgb { 64 148 70 }
+	color_ui = rgb { 64 148 70 }
+}
+ODS = {
+	color = rgb { 64 148 70 }
+	color_ui = rgb { 64 148 70 }
+}
+VNT = {
+	color = rgb { 219 0 24 }
+	color_ui = rgb { 219 0 24 }
+}
+TRT = {
+	color = rgb { 78 140 117 }
+	color_ui = rgb { 78 140 117 }
+}
+THM = {
+	color = rgb { 246 214 35 }
+	color_ui = rgb { 246 214 35 }
+}
+UMN = {
+	color = rgb { 59 119 186 }
+	color_ui = rgb { 59 119 186 }
+}
+HLP = {
+	color = rgb { 127 0 0 }
+	color_ui = rgb { 127 0 0 }
+}
+ZKP = {
+	color = rgb { 58 117 189 }
+	color_ui = rgb { 58 117 189 }
+}

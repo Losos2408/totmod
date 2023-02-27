@@ -74,3 +74,39 @@
  SSA: "SSAU"
  SSA_DEF: "the State Space Agency of Ukraine"
  SSA_ADJ: "SSAU's"
+
+ COU: "Corporation "Ukraine""
+ COU_DEF: "the Corporation "Ukraine""
+ COU_ADJ: "Corporation "Ukraine"'s"
+
+ KKV: "Kharkiv"
+ KKV_DEF: "the Kharkiv Oblast"
+ KKV_ADJ: "Kharkiv"
+
+ ODS: "Odessa"
+ ODS_DEF: "the Odessa Oblast"
+ ODS_ADJ: "Odessa"
+ 
+ VNT: "Vinnytsia"
+ VNT_DEF: "the Vinnytsia Oblast"
+ VNT_ADJ: "Vinnytsia"
+
+ TRT: "Territory"
+ TRT_DEF: "the Territory"
+ TRT_ADJ: "Territory's"
+ 
+ THM: "Third Hetmanate"
+ THM_DEF: "the Third Hetmanate"
+ THM_ADJ: "Hetmanate's"
+ 
+ UMN: "Uman"
+ UMN_DEF: "the Uman City"
+ UMN_ADJ: "Uman"
+
+ HLP: "Huliaipole"
+ HLP_DEF: "the Huliaipole City"
+ HLP_ADJ: "Huliaipole"
+
+ ZKP: "Zakarpattia"
+ ZKP_DEF: "the Zakarpattia Oblast"
+ ZKP_ADJ: "Zakarpattia"
