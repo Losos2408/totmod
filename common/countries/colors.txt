@@ -153,12 +153,12 @@ TRT = {
 	color_ui = rgb { 78 140 117 }
 }
 THM = {
-	color = rgb { 246 214 35 }
-	color_ui = rgb { 246 214 35 }
+	color = rgb { 214 194 24 }
+	color_ui = rgb { 214 194 24 }
 }
 UMN = {
-	color = rgb { 59 119 186 }
-	color_ui = rgb { 59 119 186 }
+	color = rgb { 36 8 99 }
+	color_ui = rgb { 36 8 99 }
 }
 HLP = {
 	color = rgb { 127 0 0 }
