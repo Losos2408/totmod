@@ -1,0 +1,15 @@
+characters = {
+    THM_Bohdan_Khodakovsky = {
+        name = THM_Bohdan_Khodakovsky
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/THM/Portrait_THM_Bohdan_Khodakovsky.png"
+            }
+        }
+        country_leader = {
+            ideology = radical_nationalism
+            traits = { }
+            desc = x
+        }
+	}
+}
