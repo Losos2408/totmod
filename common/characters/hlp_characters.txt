@@ -1,0 +1,15 @@
+characters = {
+    HLP_All_Ukrainian_Anarchist_Council = {
+        name = HLP_All_Ukrainian_Anarchist_Council
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/HLP/Portrait_HLP_All_Ukrainian_Anarchist_Council.png"
+            }
+        }
+        country_leader = {
+            ideology = anarchism
+            traits = { }
+            desc = x
+        }
+	}
+}

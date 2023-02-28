@@ -1,0 +1,15 @@
+characters = {
+    ZKP_Valery_Bebyk = {
+        name = ZKP_Valery_Bebyk
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/ZKP/Portrait_ZKP_Valery_Bebyk.png"
+            }
+        }
+        country_leader = {
+            ideology = controlled_democracy_default
+            traits = { }
+            desc = x
+        }
+	}
+}

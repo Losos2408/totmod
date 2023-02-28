@@ -1,5 +1,7 @@
 capital = 114
 
+recruit_character = ZKP_Valery_Bebyk
+
 set_politics = {
 	ruling_party = controlled_democracy
 	last_election = "2022.30.9"
@@ -8,7 +10,5 @@ set_politics = {
 }
 
 set_popularities = {
-	controlled_democracy = 55
-	militarism = 20
-	conservatism = 25
+	controlled_democracy = 100
 }

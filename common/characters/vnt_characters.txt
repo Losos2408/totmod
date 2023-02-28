@@ -1,0 +1,15 @@
+characters = {
+    VNT_Vitaly_Tsal = {
+        name = VNT_Vitaly_Tsal
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/VNT/Portrait_VNT_Vitaly_Tsal.png"
+            }
+        }
+        country_leader = {
+            ideology = controlled_democracy_default
+            traits = { }
+            desc = x
+        }
+	}
+}

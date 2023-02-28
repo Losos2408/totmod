@@ -1,0 +1,15 @@
+characters = {
+    ODS_Alexey_Shevtsov = {
+        name = ODS_Alexey_Shevtsov
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/ODS/Portrait_ODS_Alexey_Shevtsov.png"
+            }
+        }
+        country_leader = {
+            ideology = controlled_democracy_default
+            traits = { }
+            desc = x
+        }
+	}
+}
