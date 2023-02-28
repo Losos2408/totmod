@@ -1,0 +1,15 @@
+characters = {
+    TRT_Peter_Clement = {
+        name = TRT_Peter_Clement
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/TRT/Portrait_TRT_Peter_Clement.png"
+            }
+        }
+        country_leader = {
+            ideology = left_wing_populism
+            traits = { }
+            desc = x
+        }
+	}
+}

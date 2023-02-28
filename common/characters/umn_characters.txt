@@ -1,0 +1,15 @@
+characters = {
+    UMN_Religious_Union_of_Ukraine = {
+        name = UMN_Religious_Union_of_Ukraine
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/UMN/Portrait_UMN_Religious_Union_of_Ukraine.png"
+            }
+        }
+        country_leader = {
+            ideology = theocracy
+            traits = { }
+            desc = x
+        }
+	}
+}
