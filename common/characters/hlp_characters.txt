@@ -7,7 +7,7 @@ characters = {
             }
         }
         country_leader = {
-            ideology = anarchism
+            ideology = anarcho_communism
             traits = { }
             desc = x
         }

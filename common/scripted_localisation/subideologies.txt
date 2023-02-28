@@ -151,8 +151,8 @@ defined_text = {
 		localization_key = "left_wing_populism"
 	}
 	text = {
-		trigger = { has_country_leader_ideology = anarchism }
-		localization_key = "anarchism"
+		trigger = { has_country_leader_ideology = anarcho_communism }
+		localization_key = "anarcho_communism"
 	}
 	text = {
 		trigger = { has_country_leader_ideology = corporate_statism }
