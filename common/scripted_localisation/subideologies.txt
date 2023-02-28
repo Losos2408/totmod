@@ -142,4 +142,24 @@ defined_text = {
 		trigger = { has_country_leader_ideology = gachism }
 		localization_key = "gachism"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = avant_garde_patriotism }
+		localization_key = "avant_garde_patriotism"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = left_wing_populism }
+		localization_key = "left_wing_populism"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = anarchism }
+		localization_key = "anarchism"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = corporate_statism }
+		localization_key = "corporate_statism"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = radical_nationalism }
+		localization_key = "radical_nationalism"
+	}
 }

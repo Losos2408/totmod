@@ -1,0 +1,15 @@
+characters = {
+    COU_Rinat_Akhmetov = {
+        name = COU_Rinat_Akhmetov
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/COU/Portrait_COU_Rinat_Akhmetov.png"
+            }
+        }
+        country_leader = {
+            ideology = corporate_statism
+            traits = { }
+            desc = x
+        }
+	}
+}

@@ -108,4 +108,8 @@ spriteTypes = {
 			name = "GFX_ideology_big_tent_party"
 			texturefile = "gfx/interface/ideologies/big_tent_party.png"
 	    }
+		spriteType = {
+			name = "GFX_ideology_avant_garde_patriotism"
+			texturefile = "gfx/interface/ideologies/avant_garde_patriotism.png"
+	    }
 	}

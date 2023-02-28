@@ -1,0 +1,15 @@
+characters = {
+    KKV_Igor_Terekhov = {
+        name = KKV_Igor_Terekhov
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/KKV/Portrait_KKV_Igor_Terekhov.png"
+            }
+        }
+        country_leader = {
+            ideology = conservatism_default
+            traits = { }
+            desc = x
+        }
+	}
+}
