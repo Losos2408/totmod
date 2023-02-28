@@ -4,10 +4,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_whip_is_better_than_bread_shine"
-		texturefile = "gfx/interface/goals/LYB_whip_is_better_than_bread.png"
+		texturefile = "gfx/interface/goals/LYB_whip_is_better_than_bread.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_whip_is_better_than_bread.png"
+			animationmaskfile = "gfx/interface/goals/LYB_whip_is_better_than_bread.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -20,7 +20,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_whip_is_better_than_bread.png"
+			animationmaskfile = "gfx/interface/goals/LYB_whip_is_better_than_bread.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -36,10 +36,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_we_remember_you_our_great_leader_shine"
-		texturefile = "gfx/interface/goals/LYB_we_remember_you_our_great_leader.png"
+		texturefile = "gfx/interface/goals/LYB_we_remember_you_our_great_leader.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_we_remember_you_our_great_leader.png"
+			animationmaskfile = "gfx/interface/goals/LYB_we_remember_you_our_great_leader.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -52,7 +52,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_we_remember_you_our_great_leader.png"
+			animationmaskfile = "gfx/interface/goals/LYB_we_remember_you_our_great_leader.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -68,10 +68,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_unsalvagable_enemies_shine"
-		texturefile = "gfx/interface/goals/LYB_unsalvagable_enemies.png"
+		texturefile = "gfx/interface/goals/LYB_unsalvagable_enemies.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_unsalvagable_enemies.png"
+			animationmaskfile = "gfx/interface/goals/LYB_unsalvagable_enemies.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -84,7 +84,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_unsalvagable_enemies.png"
+			animationmaskfile = "gfx/interface/goals/LYB_unsalvagable_enemies.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -100,10 +100,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_trust_the_plan_shine"
-		texturefile = "gfx/interface/goals/LYB_trust_the_plan.png"
+		texturefile = "gfx/interface/goals/LYB_trust_the_plan.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_trust_the_plan.png"
+			animationmaskfile = "gfx/interface/goals/LYB_trust_the_plan.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -116,7 +116,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_trust_the_plan.png"
+			animationmaskfile = "gfx/interface/goals/LYB_trust_the_plan.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -132,10 +132,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_those_who_belive_in_us_shine"
-		texturefile = "gfx/interface/goals/LYB_those_who_belive_in_us.png"
+		texturefile = "gfx/interface/goals/LYB_those_who_belive_in_us.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_those_who_belive_in_us.png"
+			animationmaskfile = "gfx/interface/goals/LYB_those_who_belive_in_us.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -148,7 +148,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_those_who_belive_in_us.png"
+			animationmaskfile = "gfx/interface/goals/LYB_those_who_belive_in_us.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -164,10 +164,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_tear_up_the_ostankino_past_shine"
-		texturefile = "gfx/interface/goals/LYB_tear_up_the_ostankino_past.png"
+		texturefile = "gfx/interface/goals/LYB_tear_up_the_ostankino_past.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_tear_up_the_ostankino_past.png"
+			animationmaskfile = "gfx/interface/goals/LYB_tear_up_the_ostankino_past.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -180,7 +180,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_tear_up_the_ostankino_past.png"
+			animationmaskfile = "gfx/interface/goals/LYB_tear_up_the_ostankino_past.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -196,10 +196,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_tea_time_with_sobyanin_shine"
-		texturefile = "gfx/interface/goals/LYB_tea_time_with_sobyanin.png"
+		texturefile = "gfx/interface/goals/LYB_tea_time_with_sobyanin.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_tea_time_with_sobyanin.png"
+			animationmaskfile = "gfx/interface/goals/LYB_tea_time_with_sobyanin.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -212,7 +212,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_tea_time_with_sobyanin.png"
+			animationmaskfile = "gfx/interface/goals/LYB_tea_time_with_sobyanin.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -228,10 +228,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_soldier_priests_shine"
-		texturefile = "gfx/interface/goals/LYB_soldier_priests.png"
+		texturefile = "gfx/interface/goals/LYB_soldier_priests.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_soldier_priests.png"
+			animationmaskfile = "gfx/interface/goals/LYB_soldier_priests.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -244,7 +244,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_soldier_priests.png"
+			animationmaskfile = "gfx/interface/goals/LYB_soldier_priests.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -260,10 +260,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_reform_the_roc_shine"
-		texturefile = "gfx/interface/goals/LYB_reform_the_roc.png"
+		texturefile = "gfx/interface/goals/LYB_reform_the_roc.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_reform_the_roc.png"
+			animationmaskfile = "gfx/interface/goals/LYB_reform_the_roc.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -276,7 +276,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_reform_the_roc.png"
+			animationmaskfile = "gfx/interface/goals/LYB_reform_the_roc.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -292,10 +292,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_polonium_flavored_drink_shine"
-		texturefile = "gfx/interface/goals/LYB_polonium_flavored_drink.png"
+		texturefile = "gfx/interface/goals/LYB_polonium_flavored_drink.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_polonium_flavored_drink.png"
+			animationmaskfile = "gfx/interface/goals/LYB_polonium_flavored_drink.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -308,7 +308,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_polonium_flavored_drink.png"
+			animationmaskfile = "gfx/interface/goals/LYB_polonium_flavored_drink.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -324,10 +324,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_on_line_with_kirill_shine"
-		texturefile = "gfx/interface/goals/LYB_on_line_with_kirill.png"
+		texturefile = "gfx/interface/goals/LYB_on_line_with_kirill.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_on_line_with_kirill.png"
+			animationmaskfile = "gfx/interface/goals/LYB_on_line_with_kirill.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -340,7 +340,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_on_line_with_kirill.png"
+			animationmaskfile = "gfx/interface/goals/LYB_on_line_with_kirill.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -356,10 +356,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_new_orthodoxy_shine"
-		texturefile = "gfx/interface/goals/LYB_new_orthodoxy.png"
+		texturefile = "gfx/interface/goals/LYB_new_orthodoxy.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_new_orthodoxy.png"
+			animationmaskfile = "gfx/interface/goals/LYB_new_orthodoxy.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -372,7 +372,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_new_orthodoxy.png"
+			animationmaskfile = "gfx/interface/goals/LYB_new_orthodoxy.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -388,10 +388,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_mass_propaganda_shine"
-		texturefile = "gfx/interface/goals/LYB_mass_propaganda.png"
+		texturefile = "gfx/interface/goals/LYB_mass_propaganda.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_mass_propaganda.png"
+			animationmaskfile = "gfx/interface/goals/LYB_mass_propaganda.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -404,7 +404,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_mass_propaganda.png"
+			animationmaskfile = "gfx/interface/goals/LYB_mass_propaganda.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -420,10 +420,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_man_versus_machine_shine"
-		texturefile = "gfx/interface/goals/LYB_man_versus_machine.png"
+		texturefile = "gfx/interface/goals/LYB_man_versus_machine.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_man_versus_machine.png"
+			animationmaskfile = "gfx/interface/goals/LYB_man_versus_machine.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -436,7 +436,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_man_versus_machine.png"
+			animationmaskfile = "gfx/interface/goals/LYB_man_versus_machine.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -452,10 +452,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_krasovskys_last_broadcast_shine"
-		texturefile = "gfx/interface/goals/LYB_krasovskys_last_broadcast.png"
+		texturefile = "gfx/interface/goals/LYB_krasovskys_last_broadcast.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_krasovskys_last_broadcast.png"
+			animationmaskfile = "gfx/interface/goals/LYB_krasovskys_last_broadcast.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -468,7 +468,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_krasovskys_last_broadcast.png"
+			animationmaskfile = "gfx/interface/goals/LYB_krasovskys_last_broadcast.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -484,10 +484,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_khrushchevka_churches_shine"
-		texturefile = "gfx/interface/goals/LYB_khrushchevka_churches.png"
+		texturefile = "gfx/interface/goals/LYB_khrushchevka_churches.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_khrushchevka_churches.png"
+			animationmaskfile = "gfx/interface/goals/LYB_khrushchevka_churches.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -500,7 +500,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_khrushchevka_churches.png"
+			animationmaskfile = "gfx/interface/goals/LYB_khrushchevka_churches.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -516,10 +516,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_keep_lyubertsy_in_fear_shine"
-		texturefile = "gfx/interface/goals/LYB_keep_lyubertsy_in_fear.png"
+		texturefile = "gfx/interface/goals/LYB_keep_lyubertsy_in_fear.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_keep_lyubertsy_in_fear.png"
+			animationmaskfile = "gfx/interface/goals/LYB_keep_lyubertsy_in_fear.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -532,7 +532,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_keep_lyubertsy_in_fear.png"
+			animationmaskfile = "gfx/interface/goals/LYB_keep_lyubertsy_in_fear.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -548,10 +548,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_its_screen_time_shine"
-		texturefile = "gfx/interface/goals/LYB_its_screen_time.png"
+		texturefile = "gfx/interface/goals/LYB_its_screen_time.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_its_screen_time.png"
+			animationmaskfile = "gfx/interface/goals/LYB_its_screen_time.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -564,7 +564,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_its_screen_time.png"
+			animationmaskfile = "gfx/interface/goals/LYB_its_screen_time.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -580,10 +580,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_hermits_government_shine"
-		texturefile = "gfx/interface/goals/LYB_hermits_government.png"
+		texturefile = "gfx/interface/goals/LYB_hermits_government.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_hermits_government.png"
+			animationmaskfile = "gfx/interface/goals/LYB_hermits_government.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -596,7 +596,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_hermits_government.png"
+			animationmaskfile = "gfx/interface/goals/LYB_hermits_government.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -612,10 +612,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_goyda_state_shine"
-		texturefile = "gfx/interface/goals/LYB_goyda_state.png"
+		texturefile = "gfx/interface/goals/LYB_goyda_state.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_goyda_state.png"
+			animationmaskfile = "gfx/interface/goals/LYB_goyda_state.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -628,7 +628,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_goyda_state.png"
+			animationmaskfile = "gfx/interface/goals/LYB_goyda_state.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -644,10 +644,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_goyda_day_is_near_shine"
-		texturefile = "gfx/interface/goals/LYB_goyda_day_is_near.png"
+		texturefile = "gfx/interface/goals/LYB_goyda_day_is_near.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_goyda_day_is_near.png"
+			animationmaskfile = "gfx/interface/goals/LYB_goyda_day_is_near.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -660,7 +660,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_goyda_day_is_near.png"
+			animationmaskfile = "gfx/interface/goals/LYB_goyda_day_is_near.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -676,10 +676,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_goyda_cult_shine"
-		texturefile = "gfx/interface/goals/LYB_goyda_cult.png"
+		texturefile = "gfx/interface/goals/LYB_goyda_cult.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_goyda_cult.png"
+			animationmaskfile = "gfx/interface/goals/LYB_goyda_cult.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -692,7 +692,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_goyda_cult.png"
+			animationmaskfile = "gfx/interface/goals/LYB_goyda_cult.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -708,10 +708,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_good_morning_moscow_shine"
-		texturefile = "gfx/interface/goals/LYB_good_morning_moscow.png"
+		texturefile = "gfx/interface/goals/LYB_good_morning_moscow.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_good_morning_moscow.png"
+			animationmaskfile = "gfx/interface/goals/LYB_good_morning_moscow.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -724,7 +724,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_good_morning_moscow.png"
+			animationmaskfile = "gfx/interface/goals/LYB_good_morning_moscow.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -740,10 +740,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_gather_the_order_shine"
-		texturefile = "gfx/interface/goals/LYB_gather_the_order.png"
+		texturefile = "gfx/interface/goals/LYB_gather_the_order.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_gather_the_order.png"
+			animationmaskfile = "gfx/interface/goals/LYB_gather_the_order.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -756,7 +756,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_gather_the_order.png"
+			animationmaskfile = "gfx/interface/goals/LYB_gather_the_order.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -772,10 +772,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_fire_nazarov_shine"
-		texturefile = "gfx/interface/goals/LYB_fire_nazarov.png"
+		texturefile = "gfx/interface/goals/LYB_fire_nazarov.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_fire_nazarov.png"
+			animationmaskfile = "gfx/interface/goals/LYB_fire_nazarov.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -788,7 +788,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_fire_nazarov.png"
+			animationmaskfile = "gfx/interface/goals/LYB_fire_nazarov.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -804,10 +804,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_eternal_rule_of_oprichnina_shine"
-		texturefile = "gfx/interface/goals/LYB_eternal_rule_of_oprichnina.png"
+		texturefile = "gfx/interface/goals/LYB_eternal_rule_of_oprichnina.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_eternal_rule_of_oprichnina.png"
+			animationmaskfile = "gfx/interface/goals/LYB_eternal_rule_of_oprichnina.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -820,7 +820,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_eternal_rule_of_oprichnina.png"
+			animationmaskfile = "gfx/interface/goals/LYB_eternal_rule_of_oprichnina.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -836,10 +836,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_jail_yuneman_shine"
-		texturefile = "gfx/interface/goals/LYB_jail_yuneman.png"
+		texturefile = "gfx/interface/goals/LYB_jail_yuneman.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_jail_yuneman.png"
+			animationmaskfile = "gfx/interface/goals/LYB_jail_yuneman.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -852,7 +852,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_jail_yuneman.png"
+			animationmaskfile = "gfx/interface/goals/LYB_jail_yuneman.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -868,10 +868,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_erase_kosygins_code_shine"
-		texturefile = "gfx/interface/goals/LYB_erase_kosygins_code.png"
+		texturefile = "gfx/interface/goals/LYB_erase_kosygins_code.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_erase_kosygins_code.png"
+			animationmaskfile = "gfx/interface/goals/LYB_erase_kosygins_code.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -884,7 +884,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_erase_kosygins_code.png"
+			animationmaskfile = "gfx/interface/goals/LYB_erase_kosygins_code.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -900,10 +900,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_draw_the_borderline_shine"
-		texturefile = "gfx/interface/goals/LYB_draw_the_borderline.png"
+		texturefile = "gfx/interface/goals/LYB_draw_the_borderline.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_draw_the_borderline.png"
+			animationmaskfile = "gfx/interface/goals/LYB_draw_the_borderline.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -916,7 +916,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_draw_the_borderline.png"
+			animationmaskfile = "gfx/interface/goals/LYB_draw_the_borderline.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -932,10 +932,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_destroy_the_opposition_shine"
-		texturefile = "gfx/interface/goals/LYB_destroy_the_opposition.png"
+		texturefile = "gfx/interface/goals/LYB_destroy_the_opposition.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_destroy_the_opposition.png"
+			animationmaskfile = "gfx/interface/goals/LYB_destroy_the_opposition.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -948,7 +948,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_destroy_the_opposition.png"
+			animationmaskfile = "gfx/interface/goals/LYB_destroy_the_opposition.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -964,10 +964,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_day_of_oprichnik_shine"
-		texturefile = "gfx/interface/goals/LYB_day_of_oprichnik.png"
+		texturefile = "gfx/interface/goals/LYB_day_of_oprichnik.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_day_of_oprichnik.png"
+			animationmaskfile = "gfx/interface/goals/LYB_day_of_oprichnik.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -980,7 +980,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_day_of_oprichnik.png"
+			animationmaskfile = "gfx/interface/goals/LYB_day_of_oprichnik.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -996,10 +996,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_crush_the_liberal_scum_shine"
-		texturefile = "gfx/interface/goals/LYB_crush_the_liberal_scum.png"
+		texturefile = "gfx/interface/goals/LYB_crush_the_liberal_scum.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_crush_the_liberal_scum.png"
+			animationmaskfile = "gfx/interface/goals/LYB_crush_the_liberal_scum.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -1012,7 +1012,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_crush_the_liberal_scum.png"
+			animationmaskfile = "gfx/interface/goals/LYB_crush_the_liberal_scum.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -1028,10 +1028,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_canonize_putin_shine"
-		texturefile = "gfx/interface/goals/LYB_canonize_putin.png"
+		texturefile = "gfx/interface/goals/LYB_canonize_putin.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_canonize_putin.png"
+			animationmaskfile = "gfx/interface/goals/LYB_canonize_putin.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -1044,7 +1044,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_canonize_putin.png"
+			animationmaskfile = "gfx/interface/goals/LYB_canonize_putin.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -1060,10 +1060,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_and_goyda_will_hear_our_prayers_shine"
-		texturefile = "gfx/interface/goals/LYB_and_goyda_will_hear_our_prayers.png"
+		texturefile = "gfx/interface/goals/LYB_and_goyda_will_hear_our_prayers.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_and_goyda_will_hear_our_prayers.png"
+			animationmaskfile = "gfx/interface/goals/LYB_and_goyda_will_hear_our_prayers.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -1076,7 +1076,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_and_goyda_will_hear_our_prayers.png"
+			animationmaskfile = "gfx/interface/goals/LYB_and_goyda_will_hear_our_prayers.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -1092,10 +1092,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_and_all_before_shine"
-		texturefile = "gfx/interface/goals/LYB_and_all_before.png"
+		texturefile = "gfx/interface/goals/LYB_and_all_before.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_and_all_before.png"
+			animationmaskfile = "gfx/interface/goals/LYB_and_all_before.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -1108,7 +1108,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_and_all_before.png"
+			animationmaskfile = "gfx/interface/goals/LYB_and_all_before.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -1124,10 +1124,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_all_as_planned_shine"
-		texturefile = "gfx/interface/goals/LYB_all_as_planned.png"
+		texturefile = "gfx/interface/goals/LYB_all_as_planned.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_all_as_planned.png"
+			animationmaskfile = "gfx/interface/goals/LYB_all_as_planned.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -1140,7 +1140,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_all_as_planned.png"
+			animationmaskfile = "gfx/interface/goals/LYB_all_as_planned.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -1156,10 +1156,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_a_new_patriarch_shine"
-		texturefile = "gfx/interface/goals/LYB_a_new_patriarch.png"
+		texturefile = "gfx/interface/goals/LYB_a_new_patriarch.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_a_new_patriarch.png"
+			animationmaskfile = "gfx/interface/goals/LYB_a_new_patriarch.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -1172,7 +1172,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_a_new_patriarch.png"
+			animationmaskfile = "gfx/interface/goals/LYB_a_new_patriarch.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -1188,10 +1188,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_a_man_with_a_heater_shine"
-		texturefile = "gfx/interface/goals/LYB_a_man_with_a_heater.png"
+		texturefile = "gfx/interface/goals/LYB_a_man_with_a_heater.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_a_man_with_a_heater.png"
+			animationmaskfile = "gfx/interface/goals/LYB_a_man_with_a_heater.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -1204,7 +1204,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_a_man_with_a_heater.png"
+			animationmaskfile = "gfx/interface/goals/LYB_a_man_with_a_heater.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -1220,10 +1220,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_goyda_in_schools_shine"
-		texturefile = "gfx/interface/goals/LYB_goyda_in_schools.png"
+		texturefile = "gfx/interface/goals/LYB_goyda_in_schools.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_goyda_in_schools.png"
+			animationmaskfile = "gfx/interface/goals/LYB_goyda_in_schools.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -1236,7 +1236,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_goyda_in_schools.png"
+			animationmaskfile = "gfx/interface/goals/LYB_goyda_in_schools.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -1252,10 +1252,10 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_LYB_goyda_youth_shine"
-		texturefile = "gfx/interface/goals/LYB_goyda_youth.png"
+		texturefile = "gfx/interface/goals/LYB_goyda_youth.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_goyda_youth.png"
+			animationmaskfile = "gfx/interface/goals/LYB_goyda_youth.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -1268,7 +1268,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_goyda_youth.png"
+			animationmaskfile = "gfx/interface/goals/LYB_goyda_youth.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -1284,10 +1284,10 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_LYB_it_has_begun_shine"
-		texturefile = "gfx/interface/goals/LYB_it_has_begun.png"
+		texturefile = "gfx/interface/goals/LYB_it_has_begun.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_it_has_begun.png"
+			animationmaskfile = "gfx/interface/goals/LYB_it_has_begun.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -1300,7 +1300,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_it_has_begun.png"
+			animationmaskfile = "gfx/interface/goals/LYB_it_has_begun.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -1317,10 +1317,10 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_LYB_uncontrollable_machine_shine"
-		texturefile = "gfx/interface/goals/LYB_uncontrollable_machine.png"
+		texturefile = "gfx/interface/goals/LYB_uncontrollable_machine.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_uncontrollable_machine.png"
+			animationmaskfile = "gfx/interface/goals/LYB_uncontrollable_machine.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -1333,7 +1333,327 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/LYB_uncontrollable_machine.png"
+			animationmaskfile = "gfx/interface/goals/LYB_uncontrollable_machine.dds"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		legacy_lazy_load = no
+	}
+	
+	SpriteType = {
+		name = "GFX_LYB_weak_willed_conservative_shine"
+		texturefile = "gfx/interface/goals/LYB_weak_willed_conservative.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/LYB_weak_willed_conservative.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+
+		animation = {
+			animationmaskfile = "gfx/interface/goals/LYB_weak_willed_conservative.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		legacy_lazy_load = no
+	}
+	
+	SpriteType = {
+		name = "GFX_LYB_better_dead_than_red_shine"
+		texturefile = "gfx/interface/goals/LYB_better_dead_than_red.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/LYB_better_dead_than_red.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+
+		animation = {
+			animationmaskfile = "gfx/interface/goals/LYB_better_dead_than_red.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		legacy_lazy_load = no
+	}
+	
+	SpriteType = {
+		name = "GFX_LYB_hack_skolkovo_servers_shine"
+		texturefile = "gfx/interface/goals/LYB_hack_skolkovo_servers.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/LYB_hack_skolkovo_servers.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+
+		animation = {
+			animationmaskfile = "gfx/interface/goals/LYB_hack_skolkovo_servers.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		legacy_lazy_load = no
+	}
+	
+	SpriteType = {
+		name = "GFX_LYB_end_the_fifth_column_shine"
+		texturefile = "gfx/interface/goals/LYB_end_the_fifth_column.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/LYB_end_the_fifth_column.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+
+		animation = {
+			animationmaskfile = "gfx/interface/goals/LYB_end_the_fifth_column.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		legacy_lazy_load = no
+	}
+	
+	SpriteType = {
+		name = "GFX_LYB_propaganda_axis_shine"
+		texturefile = "gfx/interface/goals/LYB_propaganda_axis.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/LYB_propaganda_axis.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+
+		animation = {
+			animationmaskfile = "gfx/interface/goals/LYB_propaganda_axis.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		legacy_lazy_load = no
+	}
+	
+	SpriteType = {
+		name = "GFX_LYB_orders_partners_shine"
+		texturefile = "gfx/interface/goals/LYB_orders_partners.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/LYB_orders_partners.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+
+		animation = {
+			animationmaskfile = "gfx/interface/goals/LYB_orders_partners.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		legacy_lazy_load = no
+	}
+	
+	SpriteType = {
+		name = "GFX_LYB_fake_loyalty_shine"
+		texturefile = "gfx/interface/goals/LYB_fake_loyalty.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/LYB_fake_loyalty.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+
+		animation = {
+			animationmaskfile = "gfx/interface/goals/LYB_fake_loyalty.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		legacy_lazy_load = no
+	}
+	
+	SpriteType = {
+		name = "GFX_LYB_informal_union_shine"
+		texturefile = "gfx/interface/goals/LYB_informal_union.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/LYB_informal_union.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+
+		animation = {
+			animationmaskfile = "gfx/interface/goals/LYB_informal_union.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		legacy_lazy_load = no
+	}
+	
+	SpriteType = {
+		name = "GFX_LYB_back_on_the_blue_screen_shine"
+		texturefile = "gfx/interface/goals/LYB_back_on_the_blue_screen.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/LYB_back_on_the_blue_screen.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+
+		animation = {
+			animationmaskfile = "gfx/interface/goals/LYB_back_on_the_blue_screen.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = 90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+		legacy_lazy_load = no
+	}
+	
+	SpriteType = {
+		name = "GFX_LYB_and_those_who_will_be_punished_shine"
+		texturefile = "gfx/interface/goals/LYB_and_those_who_will_be_punished.png"
+		effectFile = "gfx/FX/buttonstate.lua"
+		animation = {
+			animationmaskfile = "gfx/interface/goals/LYB_and_those_who_will_be_punished.png"
+			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+			animationrotation = -90.0
+			animationlooping = no
+			animationtime = 0.75
+			animationdelay = 0
+			animationblendmode = "add"
+			animationtype = "scrolling"
+			animationrotationoffset = { x = 0.0 y = 0.0 }
+			animationtexturescale = { x = 1.0 y = 1.0 }
+		}
+
+		animation = {
+			animationmaskfile = "gfx/interface/goals/LYB_and_those_who_will_be_punished.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no

@@ -1,170 +1,210 @@
 spriteTypes = {
 		spriteType = {
 			name = "GFX_LYB_a_man_with_a_heater"
-			texturefile = "gfx/interface/goals/LYB_a_man_with_a_heater.png"
+			texturefile = "gfx/interface/goals/LYB_a_man_with_a_heater.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_a_new_patriarch"
-			texturefile = "gfx/interface/goals/LYB_a_new_patriarch.png"
+			texturefile = "gfx/interface/goals/LYB_a_new_patriarch.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_all_as_planned"
-			texturefile = "gfx/interface/goals/LYB_all_as_planned.png"
+			texturefile = "gfx/interface/goals/LYB_all_as_planned.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_and_all_before"
-			texturefile = "gfx/interface/goals/LYB_and_all_before.png"
+			texturefile = "gfx/interface/goals/LYB_and_all_before.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_and_goyda_will_hear_our_prayers"
-			texturefile = "gfx/interface/goals/LYB_and_goyda_will_hear_our_prayers.png"
+			texturefile = "gfx/interface/goals/LYB_and_goyda_will_hear_our_prayers.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_canonize_putin"
-			texturefile = "gfx/interface/goals/LYB_canonize_putin.png"
+			texturefile = "gfx/interface/goals/LYB_canonize_putin.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_crush_the_liberal_scum"
-			texturefile = "gfx/interface/goals/LYB_crush_the_liberal_scum.png"
+			texturefile = "gfx/interface/goals/LYB_crush_the_liberal_scum.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_day_of_oprichnik"
-			texturefile = "gfx/interface/goals/LYB_day_of_oprichnik.png"
+			texturefile = "gfx/interface/goals/LYB_day_of_oprichnik.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_destroy_the_opposition"
-			texturefile = "gfx/interface/goals/LYB_destroy_the_opposition.png"
+			texturefile = "gfx/interface/goals/LYB_destroy_the_opposition.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_draw_the_borderline"
-			texturefile = "gfx/interface/goals/LYB_draw_the_borderline.png"
+			texturefile = "gfx/interface/goals/LYB_draw_the_borderline.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_erase_kosygins_code"
-			texturefile = "gfx/interface/goals/LYB_erase_kosygins_code.png"
+			texturefile = "gfx/interface/goals/LYB_erase_kosygins_code.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_jail_yuneman"
-			texturefile = "gfx/interface/goals/LYB_jail_yuneman.png"
+			texturefile = "gfx/interface/goals/LYB_jail_yuneman.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_eternal_rule_of_oprichnina"
-			texturefile = "gfx/interface/goals/LYB_eternal_rule_of_oprichnina.png"
+			texturefile = "gfx/interface/goals/LYB_eternal_rule_of_oprichnina.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_fire_nazarov"
-			texturefile = "gfx/interface/goals/LYB_fire_nazarov.png"
+			texturefile = "gfx/interface/goals/LYB_fire_nazarov.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_gather_the_order"
-			texturefile = "gfx/interface/goals/LYB_gather_the_order.png"
+			texturefile = "gfx/interface/goals/LYB_gather_the_order.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_good_morning_moscow"
-			texturefile = "gfx/interface/goals/LYB_good_morning_moscow.png"
+			texturefile = "gfx/interface/goals/LYB_good_morning_moscow.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_goyda_cult"
-			texturefile = "gfx/interface/goals/LYB_goyda_cult.png"
+			texturefile = "gfx/interface/goals/LYB_goyda_cult.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_goyda_day_is_near"
-			texturefile = "gfx/interface/goals/LYB_goyda_day_is_near.png"
+			texturefile = "gfx/interface/goals/LYB_goyda_day_is_near.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_goyda_state"
-			texturefile = "gfx/interface/goals/LYB_goyda_state.png"
+			texturefile = "gfx/interface/goals/LYB_goyda_state.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_hermits_government"
-			texturefile = "gfx/interface/goals/LYB_hermits_government.png"
+			texturefile = "gfx/interface/goals/LYB_hermits_government.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_its_screen_time"
-			texturefile = "gfx/interface/goals/LYB_its_screen_time.png"
+			texturefile = "gfx/interface/goals/LYB_its_screen_time.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_keep_lyubertsy_in_fear"
-			texturefile = "gfx/interface/goals/LYB_keep_lyubertsy_in_fear.png"
+			texturefile = "gfx/interface/goals/LYB_keep_lyubertsy_in_fear.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_khrushchevka_churches"
-			texturefile = "gfx/interface/goals/LYB_khrushchevka_churches.png"
+			texturefile = "gfx/interface/goals/LYB_khrushchevka_churches.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_krasovskys_last_broadcast"
-			texturefile = "gfx/interface/goals/LYB_krasovskys_last_broadcast.png"
+			texturefile = "gfx/interface/goals/LYB_krasovskys_last_broadcast.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_man_versus_machine"
-			texturefile = "gfx/interface/goals/LYB_man_versus_machine.png"
+			texturefile = "gfx/interface/goals/LYB_man_versus_machine.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_mass_propaganda"
-			texturefile = "gfx/interface/goals/LYB_mass_propaganda.png"
+			texturefile = "gfx/interface/goals/LYB_mass_propaganda.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_new_orthodoxy"
-			texturefile = "gfx/interface/goals/LYB_new_orthodoxy.png"
+			texturefile = "gfx/interface/goals/LYB_new_orthodoxy.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_on_line_with_kirill"
-			texturefile = "gfx/interface/goals/LYB_on_line_with_kirill.png"
+			texturefile = "gfx/interface/goals/LYB_on_line_with_kirill.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_polonium_flavored_drink"
-			texturefile = "gfx/interface/goals/LYB_polonium_flavored_drink.png"
+			texturefile = "gfx/interface/goals/LYB_polonium_flavored_drink.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_reform_the_roc"
-			texturefile = "gfx/interface/goals/LYB_reform_the_roc.png"
+			texturefile = "gfx/interface/goals/LYB_reform_the_roc.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_soldier_priests"
-			texturefile = "gfx/interface/goals/LYB_soldier_priests.png"
+			texturefile = "gfx/interface/goals/LYB_soldier_priests.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_tea_time_with_sobyanin"
-			texturefile = "gfx/interface/goals/LYB_tea_time_with_sobyanin.png"
+			texturefile = "gfx/interface/goals/LYB_tea_time_with_sobyanin.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_tear_up_the_ostankino_past"
-			texturefile = "gfx/interface/goals/LYB_tear_up_the_ostankino_past.png"
+			texturefile = "gfx/interface/goals/LYB_tear_up_the_ostankino_past.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_those_who_belive_in_us"
-			texturefile = "gfx/interface/goals/LYB_those_who_belive_in_us.png"
+			texturefile = "gfx/interface/goals/LYB_those_who_belive_in_us.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_trust_the_plan"
-			texturefile = "gfx/interface/goals/LYB_trust_the_plan.png"
+			texturefile = "gfx/interface/goals/LYB_trust_the_plan.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_unsalvagable_enemies"
-			texturefile = "gfx/interface/goals/LYB_unsalvagable_enemies.png"
+			texturefile = "gfx/interface/goals/LYB_unsalvagable_enemies.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_we_remember_you_our_great_leader"
-			texturefile = "gfx/interface/goals/LYB_we_remember_you_our_great_leader.png"
+			texturefile = "gfx/interface/goals/LYB_we_remember_you_our_great_leader.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_whip_is_better_than_bread"
-			texturefile = "gfx/interface/goals/LYB_whip_is_better_than_bread.png"
+			texturefile = "gfx/interface/goals/LYB_whip_is_better_than_bread.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_goyda_in_schools"
-			texturefile = "gfx/interface/goals/LYB_goyda_in_schools.png"
+			texturefile = "gfx/interface/goals/LYB_goyda_in_schools.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_it_has_begun"
-			texturefile = "gfx/interface/goals/LYB_it_has_begun.png"
+			texturefile = "gfx/interface/goals/LYB_it_has_begun.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_goyda_youth"
-			texturefile = "gfx/interface/goals/LYB_goyda_youth.png"
+			texturefile = "gfx/interface/goals/LYB_goyda_youth.dds"
 	    }
 		spriteType = {
 			name = "GFX_LYB_uncontrollable_machine"
-			texturefile = "gfx/interface/goals/LYB_uncontrollable_machine.png"
+			texturefile = "gfx/interface/goals/LYB_uncontrollable_machine.dds"
+	    }
+		spriteType = {
+			name = "GFX_LYB_weak_willed_conservative"
+			texturefile = "gfx/interface/goals/LYB_weak_willed_conservative.png"
+	    }
+		spriteType = {
+			name = "GFX_LYB_better_dead_than_red"
+			texturefile = "gfx/interface/goals/LYB_better_dead_than_red.png"
+	    }
+		spriteType = {
+			name = "GFX_LYB_hack_skolkovo_servers"
+			texturefile = "gfx/interface/goals/LYB_hack_skolkovo_servers.png"
+	    }
+		spriteType = {
+			name = "GFX_LYB_end_the_fifth_column"
+			texturefile = "gfx/interface/goals/LYB_end_the_fifth_column.png"
+	    }
+		spriteType = {
+			name = "GFX_LYB_propaganda_axis"
+			texturefile = "gfx/interface/goals/LYB_propaganda_axis.png"
+	    }
+		spriteType = {
+			name = "GFX_LYB_orders_partners"
+			texturefile = "gfx/interface/goals/LYB_orders_partners.png"
+	    }
+		spriteType = {
+			name = "GFX_LYB_fake_loyalty"
+			texturefile = "gfx/interface/goals/LYB_fake_loyalty.png"
+	    }
+		spriteType = {
+			name = "GFX_LYB_informal_union"
+			texturefile = "gfx/interface/goals/LYB_informal_union.png"
+	    }
+		spriteType = {
+			name = "GFX_LYB_back_on_the_blue_screen"
+			texturefile = "gfx/interface/goals/LYB_back_on_the_blue_screen.png"
+	    }
+		spriteType = {
+			name = "GFX_LYB_and_those_who_will_be_punished"
+			texturefile = "gfx/interface/goals/LYB_and_those_who_will_be_punished.png"
 	    }
 	}

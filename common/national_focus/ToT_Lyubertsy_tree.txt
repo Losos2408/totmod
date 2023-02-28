@@ -108,7 +108,7 @@ shared_focus = {
 
 shared_focus = {
 	id = LYB_and_those_who_will_be_punished
-	icon = x
+	icon = GFX_LYB_and_those_who_will_be_punished
 	cost = 1
 	prerequisite = {
 		focus = LYB_those_who_belive_in_us
@@ -478,7 +478,7 @@ shared_focus = {
 
 shared_focus = {
 	id = LYB_orders_partners
-	icon = x
+	icon = GFX_LYB_orders_partners
 	cost = 1
 	prerequisite = {
 		focus = LYB_goyda_day_is_near
@@ -493,7 +493,7 @@ shared_focus = {
 
 shared_focus = {
 	id = LYB_back_on_the_blue_screen
-	icon = x
+	icon = GFX_LYB_back_on_the_blue_screen
 	cost = 1
 	prerequisite = {
 		focus = LYB_orders_partners
@@ -526,7 +526,7 @@ shared_focus = {
 
 shared_focus = {
 	id = LYB_propaganda_axis
-	icon = x
+	icon = GFX_LYB_propaganda_axis
 	cost = 1
 	prerequisite = {
 		focus = LYB_fire_nazarov
@@ -592,7 +592,7 @@ shared_focus = {
 
 shared_focus = {
 	id = LYB_fake_loyalty
-	icon = x
+	icon = GFX_LYB_fake_loyalty
 	cost = 1
 	prerequisite = {
 		focus = LYB_tea_time_with_sobyanin
@@ -607,7 +607,7 @@ shared_focus = {
 
 shared_focus = {
 	id = LYB_informal_union
-	icon = x
+	icon = GFX_LYB_informal_union
 	cost = 1
 	prerequisite = {
 		focus = LYB_fake_loyalty
@@ -670,7 +670,7 @@ shared_focus = {
 
 shared_focus = {
 	id = LYB_weak_willed_conservative
-	icon = x
+	icon = GFX_LYB_weak_willed_conservative
 	cost = 1
 	prerequisite = {
 		focus = LYB_unsalvagable_enemies
@@ -718,7 +718,7 @@ shared_focus = {
 
 shared_focus = {
 	id = LYB_end_the_fifth_column
-	icon = x
+	icon = GFX_LYB_end_the_fifth_column
 	cost = 1
 	prerequisite = {
 		focus = LYB_crush_the_liberal_scum
@@ -769,7 +769,7 @@ shared_focus = {
 
 shared_focus = {
 	id = LYB_better_dead_than_red
-	icon = x
+	icon = GFX_LYB_better_dead_than_red
 	cost = 1
 	prerequisite = {
 		focus = LYB_uncontrollable_machine
@@ -799,7 +799,7 @@ shared_focus = {
 
 shared_focus = {
 	id = LYB_hack_skolkovo_servers
-	icon = x
+	icon = GFX_LYB_hack_skolkovo_servers
 	cost = 1
 	prerequisite = {
 		focus = LYB_better_dead_than_red
