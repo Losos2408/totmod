@@ -1,0 +1,24 @@
+capital = 150
+
+recruit_character = ROA_Ilya_Ponomaryov
+recruit_character = ROA_Caesar
+
+add_ideas = {
+	ROA_You_Can_Kill_The_Man
+	ROA_The_Legion
+	ROA_ROA_Legacy
+}
+
+set_politics = {
+	ruling_party = militarism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+    militarism = 45
+	controlled_democracy = 45
+	radicalism = 5
+	liberalism = 5
+}

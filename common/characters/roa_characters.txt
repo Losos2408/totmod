@@ -1,0 +1,52 @@
+characters = {
+    ROA_Ilya_Ponomaryov = {
+        name = ROA_Ilya_Ponomaryov
+        portraits = {
+			army = {
+                large = "gfx/leaders/ROA/Ponomaryov.png"
+            }
+            civilian = {
+                large = "gfx/leaders/ROA/Ponomaryov.png"
+            }
+        }
+        country_leader = {
+            ideology = ponomaryovshina
+            traits = { }
+            desc = ROA_Ilya_Ponomaryov_desc
+        }
+		corps_commander = {
+			traits = { }
+			skill = 1
+			attack_skill = 1
+			defense_skill = 1
+			planning_skill = 1
+			logistics_skill = 1
+			legacy_id = -1
+		}
+	}
+	ROA_Caesar = {
+        name = ROA_Caesar
+        portraits = {
+            army = {
+                large = "gfx/leaders/ROA/Caesar.png"
+            }
+			civilian = {
+                large = "gfx/leaders/ROA/Caesar.png"
+            }
+        }
+        country_leader = {
+            ideology = ponomaryovshina
+            traits = { }
+            desc = ROA_Caesar_desc
+        }
+		corps_commander = {
+			traits = { infantry_leader }
+			skill = 3
+			attack_skill = 3
+			defense_skill = 1
+			planning_skill = 2
+			logistics_skill = 1
+			legacy_id = -1
+		}
+	}
+}

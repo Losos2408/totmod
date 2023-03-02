@@ -1,0 +1,14 @@
+spriteTypes = {
+		spriteType = {
+			name = "GFX_idea_ROA_ROA_Legacy"
+			texturefile = "gfx/interface/ideas/GFX_idea_ROA_ROA_Legacy.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_ROA_The_Legion"
+			texturefile = "gfx/interface/ideas/GFX_idea_ROA_The_Legion.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_ROA_You_Can_Kill_The_Man"
+			texturefile = "gfx/interface/ideas/GFX_idea_ROA_You_Can_Kill_The_Man.png"
+	    }
+	}

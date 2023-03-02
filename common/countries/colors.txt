@@ -168,3 +168,7 @@ ZKP = {
 	color = rgb { 58 117 189 }
 	color_ui = rgb { 58 117 189 }
 }
+ROA = {
+	color = rgb { 127 151 163 }
+	color_ui = rgb { 127 151 163 }
+}

@@ -1,0 +1,21 @@
+﻿l_russian:
+ ROA_Ilya_Ponomaryov:0 "Илья Пономарёв"
+ ROA_Caesar:0 "Цезарь"
+ 
+ ROA:0 "Легион "Свобода России""
+ ROA_DEF:0 "Легион "Свобода России""
+ ROA_ADJ:0 "РОАшн."
+ 
+ ROA_socialism_party:0 "§R[ЗАПРЕЩЕНА]"
+ ROA_liberalism_party:0 ""Свобода России" - Либералы"
+ ROA_controlled_democracy_party:0 ""Свобода России" - Умеренные"
+ ROA_conservatism_party:0 "§R[ЗАПРЕЩЕНА]"
+ ROA_militarism_party:0 ""Свобода России" - Пономарёвцы"
+ ROA_militarism_party_long:0 "Свобода России" - Пономарёвцы"
+ ROA_communism_party:0 "§R[ЗАПРЕЩЕНА]"
+ ROA_radicalism_party:0 "§R[ЗАПРЕЩЕНА]"
+ ROA_goyda_party:0 "§R[ГОЙДА]"
+
+ROA_You_Can_Kill_The_Man:0 "Вы можете убить человека, но не идею"
+ROA_The_Legion:0 ""Легион""
+ROA_ROA_Legacy:0 "Наследие РОА"

@@ -1,0 +1,38 @@
+ideas = {
+	country = {
+		ROA_You_Can_Kill_The_Man = {
+
+			picture = ROA_You_Can_Kill_The_Man
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				political_power_gain = 0.2
+			}			
+		}
+		ROA_The_Legion = {
+
+			picture = ROA_The_Legion
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				army_attack_factor   = -0.1
+			}			
+		}
+		ROA_ROA_Legacy = {
+
+			picture = ROA_ROA_Legacy
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				trade_opinion_factor   = -0.3
+				recruitable_population_factor  = -0.1
+			}			
+		}
+	}
+}

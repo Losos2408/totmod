@@ -162,4 +162,8 @@ defined_text = {
 		trigger = { has_country_leader_ideology = radical_nationalism }
 		localization_key = "radical_nationalism"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = ponomaryovshina }
+		localization_key = "ponomaryovshina"
+	}
 }

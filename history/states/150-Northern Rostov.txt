@@ -1,0 +1,16 @@
+
+state={
+	id=150
+	name="STATE_150"
+	history = {
+		owner = ROA
+		add_core_of = ROA
+	}
+	provinces={
+		8303 5545 3436 10982 10983
+	}
+	manpower=247847
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}
