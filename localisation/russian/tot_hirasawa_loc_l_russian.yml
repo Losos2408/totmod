@@ -6,7 +6,7 @@
 
  HRS_Hirasawa_Susumu: "Хирасава Сусуму"
  HRS_Top_Secret: "§R[Совершенно Секретно]§!"
- HRS_Kijin_Seija: "Киджин Сэйджа"
+ HRS_Kijin_Seija: "Киджин Сейдзя"
  
  HRS_liberalism_party: "СХ"
  HRS_liberalism_party_long: "Союз Хаоса"
@@ -35,3 +35,12 @@
  HRS_land_of_roll_call_desc: "Сегодня в миг переклички 1000 раз."
  HRS_protectors_pawn: "Пешка защитника"
  HRS_protectors_pawn_desc: "Часы Ашура, высоко держит голову, черная машина мчится по дороге."
+
+ HRS_start.1.t: ""
+ HRS_start.1.desc: ""
+ HRS_start.1.a: ""
+
+ HRS_start.2.t: ""
+ HRS_start.2.desc: ""
+ HRS_start.2.a: ""
+ HRS_start.2_tt: "§YКидзин Сейдзя §! присоединится к §RСоюз Хаоса§! и отвечать за безопасность Зоны культивирования. Ее талант мог бы привлечь больше людей в ряды §YХирасава Сусуму§!."
