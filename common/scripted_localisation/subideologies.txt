@@ -166,4 +166,8 @@ defined_text = {
 		trigger = { has_country_leader_ideology = ponomaryovshina }
 		localization_key = "ponomaryovshina"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = gekokujo }
+		localization_key = "gekokujo"
+	}
 }

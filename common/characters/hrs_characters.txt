@@ -29,4 +29,16 @@ characters = {
             traits = { }
         }
 	}
+    HRS_Kijin_Seija = {
+        name = HRS_Kijin_Seija
+        portraits = {
+            civilian = {
+                large = ""
+            }
+        }
+        country_leader = {
+            ideology = gekokujo
+            traits = { }
+        }
+	}
 }

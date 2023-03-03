@@ -1,0 +1,41 @@
+add_namespace = HRS_start
+
+country_event = { #Susumu Event
+	id = HRS_start.1
+	immediate = {log = "[GetDateText]: [Root.GetName]: event HRS_start.1"}
+	title = HRS_start.1.t
+	desc = HRS_start.1.desc
+	picture = x
+
+	is_triggered_only = yes
+
+	option = {
+		name = HRS_start.1.a
+	}
+}
+
+country_event = { #Seija Event
+	id = HRS_start.2
+	immediate = {log = "[GetDateText]: [Root.GetName]: event HRS_start.2"}
+	title = HRS_start.2.t
+	desc = HRS_start.2.desc
+	picture = x
+
+	is_triggered_only = yes
+
+	option = {
+		name = HRS_start.2.a
+		HRS_Kijin_Seija = {
+			promote_character = {
+				ideology = gekokujo
+			}
+			add_corps_commander_role = {
+				skill = 4
+    			attack_skill = 3
+    			defense_skill = 3
+    			planning_skill = 5
+    			logistics_skill = 3
+			}
+		}
+	}
+}

@@ -2,6 +2,7 @@ capital = 38
 
 recruit_character = HRS_Hirasawa_Susumu
 recruit_character = HRS_Top_Secret
+recruit_character = HRS_Kijin_Seija
 
 promote_character = {
 	character = HRS_Hirasawa_Susumu
