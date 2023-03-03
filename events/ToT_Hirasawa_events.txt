@@ -25,16 +25,18 @@ country_event = { #Seija Event
 
 	option = {
 		name = HRS_start.2.a
-		HRS_Kijin_Seija = {
-			promote_character = {
-				ideology = gekokujo
-			}
-			add_corps_commander_role = {
-				skill = 4
-    			attack_skill = 3
-    			defense_skill = 3
-    			planning_skill = 5
-    			logistics_skill = 3
+		HRS = {
+			HRS_Kijin_Seija = {
+				promote_character = {
+					ideology = gekokujo
+				}
+				add_corps_commander_role = {
+					skill = 4
+					attack_skill = 3
+					defense_skill = 3
+					planning_skill = 5
+					logistics_skill = 3
+				}
 			}
 		}
 	}
