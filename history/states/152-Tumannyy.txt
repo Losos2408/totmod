@@ -1,0 +1,16 @@
+
+state={
+	id=152
+	name="STATE_152"
+	history = {
+		owner = CCC
+		add_core_of = CCC
+	}
+	provinces={
+		1447 2691 5229 7077 7125 7084 7141
+	}
+	manpower=307257
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}
