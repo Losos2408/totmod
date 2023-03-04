@@ -1,0 +1,16 @@
+capital = 145
+
+recruit_character = NOS_Leonid_Rodin
+recruit_character = NOS_Makima
+
+set_politics = {
+	ruling_party = liberalism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	liberalism = 80
+	radicalism = 20
+}

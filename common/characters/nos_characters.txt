@@ -1,0 +1,26 @@
+characters = {
+    NOS_Leonid_Rodin = {
+        name = NOS_Leonid_Rodin
+        portraits = {
+            civilian = {
+                large = ""
+            }
+        }
+        country_leader = {
+            ideology = gamer_liberalism
+            traits = { }
+        }
+	}
+    NOS_Makima = {
+        name = NOS_Makima
+        portraits = {
+            civilian = {
+                large = ""
+            }
+        }
+        country_leader = {
+            ideology = radicalism_default
+            traits = { }
+        }
+	}
+}

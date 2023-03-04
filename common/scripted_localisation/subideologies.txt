@@ -170,4 +170,8 @@ defined_text = {
 		trigger = { has_country_leader_ideology = gekokujo }
 		localization_key = "gekokujo"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = gamer_liberalism }
+		localization_key = "gamer_liberalism"
+	}
 }

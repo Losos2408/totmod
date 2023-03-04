@@ -120,4 +120,8 @@ spriteTypes = {
 			name = "GFX_ideology_ponomaryovshina"
 			texturefile = "gfx/interface/ideologies/Ponomaryovhsina.png"
 	    }
+		spriteType = {
+			name = "GFX_ideology_gamer_liberalism"
+			texturefile = "gfx/interface/ideologies/gamer_liberalism.png"
+	    }
 	}
