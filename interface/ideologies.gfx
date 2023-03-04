@@ -124,4 +124,9 @@ spriteTypes = {
 			name = "GFX_ideology_gamer_liberalism"
 			texturefile = "gfx/interface/ideologies/gamer_liberalism.png"
 	    }
+		spriteType = {
+			name = "GFX_ideology_corporate_statism"
+			texturefile = "gfx/interface/ideologies/corporate_statism.png"
+	    }
 	}
+
