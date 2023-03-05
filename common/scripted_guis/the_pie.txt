@@ -1,0 +1,25 @@
+scripted_gui = {
+	tot_pie_gui = {
+		context_type = decision_category
+		window_name = "pie_gui_container"
+		#dirty = show_pie_gui
+		
+		dynamic_lists = {
+			tot_pie_grid = {
+				array = tot_pie_array
+				change_scope = no
+				entry_container = tot_pie_entry
+			}
+		}
+
+		effects = {
+		}
+
+		properties = {
+			tot_pie_icon = {
+				frame = v:tot_pie_frame
+				image = "GFX_pie_colour_[?v]"
+			}
+		}
+	}
+}

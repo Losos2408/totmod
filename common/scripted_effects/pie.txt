@@ -1,0 +1,25 @@
+than = { #but heres the scripted effect
+    clear_array = tot_pie_array
+
+    add_to_array = { tot_pie_array = 1 }
+    add_to_array = { tot_pie_array = 2 }
+    add_to_array = { tot_pie_array = 3 }
+
+    set_variable = { 1.tot_pie_value = 70 }
+    set_variable = { 2.tot_pie_value = 20 }
+    set_variable = { 3.tot_pie_value = 10 }
+
+    tot_pie_reload = yes
+}
+
+tot_pie_reload = {
+    clear_variable = tot_pie_value_prev
+
+    for_each_loop = {
+        array = tot_pie_array
+
+        set_variable = { v:tot_pie_frame = 100 }
+        subtract_from_variable = { v:tot_pie_frame = tot_pie_value_prev }
+        add_to_variable = { tot_pie_value_prev = v:tot_pie_value }
+    }
+}

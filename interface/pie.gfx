@@ -1,0 +1,30 @@
+spriteTypes = {
+        spriteType = {
+			name = "GFX_pie"
+			texturefile = "gfx/interface/pol_piechart_overlay.dds"
+	    }
+		circularProgressBarType = {
+			name = "GFX_pie_colour_1"
+			textureFile1 = "gfx/interface/maho_example_bleh/colour_red_none.png"
+			textureFile2 = "gfx/interface/maho_example_bleh/colour_red_green.png"
+			size = 60
+			rotation = 90
+			amount = 10
+		}
+		circularProgressBarType = {
+			name = "GFX_pie_colour_2"
+			textureFile1 = "gfx/interface/maho_example_bleh/colour_red_none.png"
+			textureFile2 = "gfx/interface/maho_example_bleh/colour_red_blue.png"
+			size = 60
+			rotation = 90
+			amount = 10
+		}
+		circularProgressBarType = {
+			name = "GFX_pie_colour_3"
+			textureFile1 = "gfx/interface/maho_example_bleh/colour_red_none.png"
+			textureFile2 = "gfx/interface/maho_example_bleh/colour_red_pie.png"
+			size = 60
+			rotation = 90
+			amount = 10
+		}
+	}

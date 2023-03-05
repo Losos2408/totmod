@@ -1,0 +1,17 @@
+TOT_Pie = {
+	icon = GFX_pie
+
+	allowed = {
+		original_tag = ROA
+	}
+
+	visible = { 
+	    always = yes
+	}
+
+	scripted_gui = tot_pie_gui
+
+	visible_when_empty = yes
+
+	priority = 1000
+}
