@@ -1,6 +1,6 @@
 characters = {
-    OST_Leonid_Rodin = {
-        name = OST_Leonid_Rodin
+    NOS_Leonid_Rodin = {
+        name = NOS_Leonid_Rodin
         portraits = {
             civilian = {
                 large = ""
@@ -11,8 +11,8 @@ characters = {
             traits = { }
         }
 	}
-    OST_Makima = {
-        name = OST_Makima
+    NOS_Makima = {
+        name = NOS_Makima
         portraits = {
             civilian = {
                 large = ""

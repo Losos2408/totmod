@@ -111,6 +111,6 @@
  ZKP_DEF: "the Zakarpattia Oblast"
  ZKP_ADJ: "Zakarpattia"
 
- OST: "North Ossetia"
- OST_DEF: "the Republic of North Ossetia-Alania"
- OST_ADJ: "North Ossetian"
+ NOS: "North Ossetia"
+ NOS_DEF: "the Republic of North Ossetia-Alania"
+ NOS_ADJ: "North Ossetian"

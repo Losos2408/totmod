@@ -1,7 +1,7 @@
 capital = 145
 
-recruit_character = OST_Leonid_Rodin
-recruit_character = OST_Makima
+recruit_character = NOS_Leonid_Rodin
+recruit_character = NOS_Makima
 
 set_politics = {
 	ruling_party = liberalism
