@@ -172,7 +172,7 @@ ROA = {
 	color = rgb { 127 151 163 }
 	color_ui = rgb { 127 151 163 }
 }
-NOS = {
+OST = {
 	color = rgb { 221 226 0 }
 	color_ui = rgb { 221 226 0 }
 }
