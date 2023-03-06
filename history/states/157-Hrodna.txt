@@ -1,15 +1,15 @@
 
 state={
-	id=155
-	name="STATE_155"
+	id=157
+	name="STATE_157"
 	history = {
 		owner = CCC
 		add_core_of = CCC
 	}
 	provinces={
-		346 378 2989 3340 4333 4639 4882 5165 5585 6179 6663 6681 7783
+		1779 2139 3337 3789 4423 5542 7635 7653 7668
 	}
-	manpower = 1018000 
+	manpower = 1037000 
 	
 	state_category = town
 	buildings_max_level_factor=1.000
