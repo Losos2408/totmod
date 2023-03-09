@@ -1,0 +1,15 @@
+Battle_for_moscow = {
+	icon = GFX_Decision_Battle_for_moscow
+
+	allowed = {
+		always = no
+	}
+
+	visible = { 
+	    always = yes
+	}
+
+	visible_when_empty = yes
+
+	priority = 1000
+}

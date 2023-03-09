@@ -1,0 +1,30 @@
+add_namespace = LYB_internal
+add_namespace = LYB_bfm
+
+country_event = { #goyda state event
+	id = LYB_internal.1
+	immediate = {log = "[GetDateText]: [Root.GetName]: event LYB_internal.1"}
+	title = LYB_internal.1.t
+	desc = LYB_internal.1.desc
+	picture = x
+
+	is_triggered_only = yes
+
+	option = {
+		name = LYB_internal.1.a
+	}
+}
+
+country_event = { #goyda youth
+	id = LYB_internal.7
+	immediate = {log = "[GetDateText]: [Root.GetName]: event LYB_internal.7"}
+	title = LYB_internal.7.t
+	desc = LYB_internal.7.desc
+	picture = x
+
+	is_triggered_only = yes
+
+	option = {
+		name = LYB_internal.7.a
+	}
+}

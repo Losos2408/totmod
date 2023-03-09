@@ -7,6 +7,7 @@ shared_focus = {
 	y = 0
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus LYB_it_has_begun"
+		add_political_power = 25
 	}
 }
 
@@ -22,6 +23,7 @@ shared_focus = {
 	relative_position_id = LYB_it_has_begun
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus LYB_gather_the_order"
+
 	}
 }
 
@@ -73,13 +75,14 @@ shared_focus = {
 	relative_position_id = LYB_it_has_begun
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus LYB_draw_the_borderline"
+		unlock_decision_category_tooltip = Battle_for_moscow
 	}
 }
 
 shared_focus = {
 	id = LYB_goyda_state
 	icon = GFX_LYB_goyda_state
-	cost = 1
+	cost = 3
 	prerequisite = {
 		focus = LYB_goyda_day_is_near
 	}
@@ -88,6 +91,7 @@ shared_focus = {
 	relative_position_id = LYB_goyda_day_is_near
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus LYB_goyda_state"
+		add_political_power = 70
 	}
 }
 
@@ -178,7 +182,7 @@ shared_focus = {
 shared_focus = {
 	id = LYB_goyda_youth
 	icon = GFX_LYB_goyda_youth
-	cost = 1
+	cost = 3
 	prerequisite = {
 		focus = LYB_goyda_in_schools
 		focus = LYB_hermits_government
@@ -191,6 +195,8 @@ shared_focus = {
 	relative_position_id = LYB_goyda_cult
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus LYB_goyda_youth"
+		add_stability = 0.10
+		add_war_support = 0.10
 	}
 }
 
@@ -488,6 +494,7 @@ shared_focus = {
 	relative_position_id = LYB_goyda_day_is_near
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus LYB_goyda_state"
+		add_political_power = 50
 	}
 }
 
@@ -665,6 +672,7 @@ shared_focus = {
 	relative_position_id = LYB_goyda_day_is_near
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus LYB_goyda_state"
+		add_political_power = 50
 	}
 }
 
