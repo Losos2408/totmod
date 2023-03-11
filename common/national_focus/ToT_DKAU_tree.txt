@@ -684,7 +684,7 @@ shared_focus = {
 }
 
 shared_focus = {
-	id = SSA_the_left_bank_belongs_to_us
+	id = SSA_the_left_bank_will_be_ours
 	icon = x
 	cost = 1
 	x = 0
@@ -694,6 +694,6 @@ shared_focus = {
 		focus = SSA_its_time_to_move_out
 	}
 	completion_reward = {
-		log = "[GetDateText]: [Root.GetName]: Focus SSA_the_left_bank_belongs_to_us"
+		log = "[GetDateText]: [Root.GetName]: Focus SSA_the_left_bank_will_be_ours"
 	}
 }
