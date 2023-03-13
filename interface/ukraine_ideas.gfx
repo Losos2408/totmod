@@ -16,4 +16,20 @@ spriteTypes = {
 			texturefile = "gfx/interface/ideas/UKR_AFU_condition.png"
 	    }
 
+		spriteType = {
+			name = "GFX_idea_SSA_and_reality"
+			texturefile = "gfx/interface/ideas/GFX_idea_SSA_and_reality.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_SSA_big_opportunities"
+			texturefile = "gfx/interface/ideas/GFX_idea_SSA_big_opportunities.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_SSA_dream"
+			texturefile = "gfx/interface/ideas/GFX_idea_SSA_dream.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_SSA_the_union_divided"
+			texturefile = "gfx/interface/ideas/GFX_idea_SSA_the_union_divided.png"
+	    }
 	}

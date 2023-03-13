@@ -9,6 +9,13 @@ set_politics = {
 	elections_allowed = no
 }
 
+add_ideas = {
+	SSA_dream
+	SSA_and_reality
+	SSA_big_opportunities
+	SSA_the_union_divided
+}
+
 set_popularities = {
 	controlled_democracy = 100
 }
