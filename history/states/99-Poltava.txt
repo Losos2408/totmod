@@ -2,6 +2,10 @@
 state={
 	id=99
 	name="STATE_99"
+	history = {
+		owner = NSR
+		add_core_of = NSR
+	}
 	provinces={
 		1975 2143 2478 3673 3916 4028 5917 6082 6418 
 	}

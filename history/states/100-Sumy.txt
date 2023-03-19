@@ -2,6 +2,10 @@
 state={
 	id=100
 	name="STATE_100"
+	history = {
+		owner = SUM
+		add_core_of = SUM
+	}
 	provinces={
 		1359 2059 2253 2630 7973 7992 
 	}

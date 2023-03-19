@@ -196,3 +196,39 @@ KML = {
 	color = rgb { 40 0 246 }
 	color_ui = rgb { 40 0 246 }
 }
+CNH = {
+	color = rgb { 67 155 51 }
+	color_ui = rgb { 67 155 51 }
+}
+SUM = {
+	color = rgb { 97 181 233 }
+	color_ui = rgb { 97 181 233 }
+}
+NSR = {
+	color = rgb { 51 106 167 }
+	color_ui = rgb { 51 106 167 }
+}
+KRV = {
+	color = rgb { 173 0 11 }
+	color_ui = rgb { 173 0 11 }
+}
+OLK = {
+	color = rgb { 189 94 142 }
+	color_ui = rgb { 189 94 142 }
+}
+CKS = {
+	color = rgb { 46 91 177 }
+	color_ui = rgb { 46 91 177 }
+}
+KHS = {
+	color = rgb { 59 114 186 }
+	color_ui = rgb { 59 114 186 }
+}
+MKL = {
+	color = rgb { 237 249 255 }
+	color_ui = rgb { 237 249 255 }
+}
+RUH = {
+	color = rgb { 33 64 104 }
+	color_ui = rgb { 33 64 104 }
+}

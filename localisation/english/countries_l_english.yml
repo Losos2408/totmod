@@ -134,3 +134,39 @@
  KML:0 "Khmelnytskyi"
  KML_DEF:0 "the Khmelnytskyi Oblast"
  KML_ADJ:0 "Khmelnytskyi"
+
+ CNH:0 "Chernihiv"
+ CNH_DEF:0 "the Ukrainian Radical Republic"
+ CNH_ADJ:0 "Chernihiv"
+
+ SUM:0 "Sumy"
+ SUM_DEF:0 "the Sumy Oblast"
+ SUM_ADJ:0 "Sumy"
+
+ NSR:0 "Nya Sverige"
+ NSR_DEF:0 "the Nya Sverige"
+ NSR_ADJ:0 "Ny Svenska"
+
+ KRV:0 "Kirovohrad"
+ KRV_DEF:0 "the Revolutionary Workers' Front of Ukraine"
+ KRV_ADJ:0 "Kirovohrad"
+
+ OLK:0 "Oleksandriia"
+ OLK_DEF:0 "the Kirovohrad Oblast Administration"
+ OLK_ADJ:0 "Oleksandriia"
+
+ CKS:0 "Cherkasy"
+ CKS_DEF:0 "the Cherkasy Oblast"
+ CKS_ADJ:0 "Cherkasy"
+
+ KHS:0 "Kherson"
+ KHS_DEF:0 "the Southern Group of Ukrainian Armed Forces"
+ KHS_ADJ:0 "Kherson"
+
+ MKL:0 "Mykolaiv"
+ MKL_DEF:0 "the Mykolaiv Oblast"
+ MKL_ADJ:0 "Mykolaiv"
+
+ RUH:0 "Russian Army"
+ RUH_DEF:0 "the Russian Army in Kherson Oblast"
+ RUH_ADJ:0 "Russian Kherson"
