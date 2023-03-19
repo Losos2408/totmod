@@ -2,6 +2,10 @@
 state={
 	id=107
 	name="STATE_107"
+	history = {
+		owner = KML
+		add_core_of = KML
+	}
 	provinces={
 		974 3357 3465 4151 4335 4362 7888 7932 
 	}

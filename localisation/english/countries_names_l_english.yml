@@ -99,9 +99,9 @@
  THM_DEF:0 "the Third Hetmanate"
  THM_ADJ:0 "Hetmanate's"
  
- UMN:0 "Uman"
- UMN_DEF:0 "the Uman City"
- UMN_ADJ:0 "Uman"
+ UMN:0 "New Jerusalem"
+ UMN_DEF:0 "the New Jerusalem"
+ UMN_ADJ:0 "New Jerusalem's"
 
  HLP:0 "Huliaipole"
  HLP_DEF:0 "the Huliaipole City"
@@ -126,3 +126,11 @@
  ZTM:0 "Zhytomyr"
  ZTM_DEF:0 "the Zhytomyr Oblast"
  ZTM_ADJ:0 "Zhytomyr"
+
+ UIA:0 "UIA"
+ UIA_DEF:0 "the Ukrainian Insurgent Army"
+ UIA_ADJ:0 "UIA's"
+
+ KML:0 "Khmelnytskyi"
+ KML_DEF:0 "the Khmelnytskyi Oblast"
+ KML_ADJ:0 "Khmelnytskyi"

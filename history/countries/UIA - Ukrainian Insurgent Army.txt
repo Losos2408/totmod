@@ -1,0 +1,14 @@
+capital = 110
+
+recruit_character = UIA_Andriy_Biletskyy
+
+set_politics = {
+	ruling_party = radicalism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	radicalism = 100
+}

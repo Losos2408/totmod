@@ -2,6 +2,10 @@
 state={
 	id=112
 	name="STATE_112"
+	history = {
+		owner = UIA
+		add_core_of = UIA
+	}
 	provinces={
 		1173 2797 3116 3458 4984 5521 7832 7878 
 	}

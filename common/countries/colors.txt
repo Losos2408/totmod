@@ -188,3 +188,11 @@ ZTM = {
 	color = rgb { 87 176 244 }
 	color_ui = rgb { 87 176 244 }
 }
+UIA = {
+	color = rgb { 45 32 32 }
+	color_ui = rgb { 45 32 32 }
+}
+KML = {
+	color = rgb { 40 0 246 }
+	color_ui = rgb { 40 0 246 }
+}

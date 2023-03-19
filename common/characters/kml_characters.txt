@@ -1,0 +1,15 @@
+characters = {
+    KML_Serhiy_Hamaliy = {
+        name = KML_Serhiy_Hamaliy
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/KML/Portrait_KML_Serhiy_Hamaliy.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

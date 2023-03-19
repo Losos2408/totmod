@@ -1,0 +1,15 @@
+characters = {
+    UIA_Andriy_Biletskyy = {
+        name = UIA_Andriy_Biletskyy
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/UIA/Portrait_UIA_Andriy_Biletskyy.png"
+            }
+        }
+        country_leader = {
+            ideology = radical_nationalism
+            traits = { }
+            desc = x
+        }
+	}
+}
