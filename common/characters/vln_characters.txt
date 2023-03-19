@@ -1,0 +1,15 @@
+characters = {
+    VLN_Grigoriy_Nedopad = {
+        name = VLN_Grigoriy_Nedopad
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/VLN/Portrait_VLN_Grigoriy_Nedopad.png"
+            }
+        }
+        country_leader = {
+            ideology = controlled_democracy_default
+            traits = { }
+            desc = x
+        }
+	}
+}

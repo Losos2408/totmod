@@ -114,3 +114,11 @@
  NOS:0 "Ossetia"
  NOS_DEF:0 "the Republic of Ossetia"
  NOS_ADJ:0 "Ossetian"
+
+ VLN:0 "Volyn"
+ VLN_DEF:0 "the Volynska Oblast"
+ VLN_ADJ:0 "Volyn"
+
+ RVN:0 "Rivne"
+ RVN_DEF:0 "the Rivnenska Oblast"
+ RVN_ADJ:0 "Rivne"

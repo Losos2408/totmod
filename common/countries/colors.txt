@@ -176,3 +176,11 @@ NOS = {
 	color = rgb { 221 226 0 }
 	color_ui = rgb { 221 226 0 }
 }
+VLN = {
+	color = rgb { 219 44 63 }
+	color_ui = rgb { 219 44 63 }
+}
+RVN = {
+	color = rgb { 246 211 35 }
+	color_ui = rgb { 246 211 35 }
+}

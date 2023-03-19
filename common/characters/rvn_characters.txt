@@ -1,0 +1,15 @@
+characters = {
+    RVN_Vitaliy_Koval = {
+        name = RVN_Vitaliy_Koval
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/RVN/Portrait_RVN_Vitaliy_Koval.png"
+            }
+        }
+        country_leader = {
+            ideology = controlled_democracy_default
+            traits = { }
+            desc = x
+        }
+	}
+}
