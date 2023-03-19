@@ -1,6 +1,6 @@
 capital = 106
 
-recruit_character = VNT_Vitaly_Tsal
+recruit_character = VNT_Vitaliy_Tsal
 
 set_politics = {
 	ruling_party = controlled_democracy

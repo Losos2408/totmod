@@ -1,9 +1,9 @@
 characters = {
-    VNT_Vitaly_Tsal = {
-        name = VNT_Vitaly_Tsal
+    VNT_Vitaliy_Tsal = {
+        name = VNT_Vitaliy_Tsal
         portraits = {
             civilian = {
-                large = "gfx/leaders/VNT/Portrait_VNT_Vitaly_Tsal.png"
+                large = "gfx/leaders/VNT/Portrait_VNT_Vitaliy_Tsal.png"
             }
         }
         country_leader = {
