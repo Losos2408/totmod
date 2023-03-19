@@ -2,6 +2,10 @@
 state={
 	id=108
 	name="STATE_108"
+	history = {
+		owner = RVN
+		add_core_of = RVN
+	}
 	provinces={
 		726 2607 3872 4294 4699 5022 7801 7808 
 	}

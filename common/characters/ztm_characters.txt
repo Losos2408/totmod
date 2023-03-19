@@ -1,0 +1,15 @@
+characters = {
+    ZTM_Vitaliy_Bunechko = {
+        name = ZTM_Vitaliy_Bunechko
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/ZTM/Portrait_ZTM_Vitaliy_Bunechko.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

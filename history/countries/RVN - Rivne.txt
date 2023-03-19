@@ -1,19 +1,12 @@
-capital = 97
+capital = 108
 
-recruit_character = SSA_Oleh_Urusky
+recruit_character = RVN_Vitaliy_Koval
 
 set_politics = {
 	ruling_party = controlled_democracy
 	last_election = "2022.30.9"
 	election_frequency = 48
 	elections_allowed = no
-}
-
-add_ideas = {
-	SSA_dream
-	SSA_and_reality
-	SSA_big_opportunities
-	SSA_the_union_divided
 }
 
 set_popularities = {

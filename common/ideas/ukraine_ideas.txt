@@ -47,3 +47,59 @@ ideas = {
 
 			}			
 		}
+
+		SSA_dream = {
+
+			picture = SSA_dream
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				production_factory_efficiency_gain_factor = 0.1
+				war_support_factor = 0.1
+				surrender_limit = 0.1
+			}			
+		}
+
+		SSA_and_reality = {
+
+			picture = SSA_and_reality
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				stability_factor = -0.1
+				political_power_gain = -0.15
+			}			
+		}
+
+		SSA_big_opportunities = {
+
+			picture = SSA_big_opportunities
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				production_factory_efficiency_gain_factor = 0.1
+				production_speed_buildings_factor = 0.1
+			}			
+		}
+
+		SSA_the_union_divided = {
+
+			picture = SSA_the_union_divided
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				political_power_gain = 0.1
+				#TODO
+				#for the nat. spirit about the state of the Union, when the Realists are in majority or dominant put some buffs to production and debuffs to research speed. when the Idealists are in majority or dominant put some debuffs to production and buffs to research speed. when no sides are dominant, no buffs, just +0.10 political power. the strength of buffs and debuffs are up to to you, just don't make them too weak or too OP.
+			}			
+		}
+	}
+}
