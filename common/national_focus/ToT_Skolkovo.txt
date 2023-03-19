@@ -1,0 +1,12 @@
+focus_tree = {
+	id = SKO_Skolkovo
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = SKO
+		}
+	}
+	default = no
+	shared_focus = SKO_it_has_begun
+}

@@ -207,4 +207,56 @@ spriteTypes = {
 			name = "GFX_LYB_and_those_who_will_be_punished"
 			texturefile = "gfx/interface/goals/LYB_and_those_who_will_be_punished.png"
 	    }
+		spriteType = {
+			name = "GFX_SKO_what_happened"
+			texturefile = "gfx/interface/goals/SKO_what_happened.png"
+	    }
+		spriteType = {
+			name = "GFX_SKO_who_am_i"
+			texturefile = "gfx/interface/goals/SKO_who_am_i.png"
+	    }
+		spriteType = {
+			name = "GFX_SKO_soviets_state"
+			texturefile = "gfx/interface/goals/SKO_soviets_state.png"
+	    }
+		spriteType = {
+			name = "GFX_SKO_cybernization_of_army"
+			texturefile = "gfx/interface/goals/SKO_cybernization_of_army.png"
+	    }
+		spriteType = {
+			name = "GFX_SKO_Ilyich's_precepts"
+			texturefile = "gfx/interface/goals/SKO_Ilyich's_precepts.png"
+	    }
+		spriteType = {
+			name = "GFX_SKO_Workers_of_the_world_unite"
+			texturefile = "gfx/interface/goals/SKO_Workers_of_the_world_unite.png"
+	    }
+		spriteType = {
+			name = "GFX_SKO_limit_freedom_of_speech"
+			texturefile = "gfx/interface/goals/SKO_limit_freedom_of_speech.png"
+	    }
+		spriteType = {
+			name = "GFX_SKO_Marxism–Leninism_legacy"
+			texturefile = "gfx/interface/goals/SKO_Marxism–Leninism_legacy.png"
+	    }
+		spriteType = {
+			name = "GFX_SKO_increase_support_for_schools"
+			texturefile = "gfx/interface/goals/SKO_increase_support_for_schools.png"
+	    }
+		spriteType = {
+			name = "GFX_SKO_increase_scientists'_budget"
+			texturefile = "gfx/interface/goals/SKO_increase_scientists'_budget.png"
+	    }
+		spriteType = {
+			name = "GFX_SKO_increase_propoganda"
+			texturefile = "gfx/interface/goals/SKO_increase_propoganda.png"
+	    }
+		spriteType = {
+			name = "GFX_SKO_create_secret_police"
+			texturefile = "gfx/interface/goals/SKO_create_secret_police.png"
+	    }
+		spriteType = {
+			name = "GFX_SKO_army_of_robots"
+			texturefile = "gfx/interface/goals/SKO_army_of_robots.png"
+	    }
 	}

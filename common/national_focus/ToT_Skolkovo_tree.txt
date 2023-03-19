@@ -1,0 +1,831 @@
+
+shared_focus = {
+	id = SKO_it_has_begun
+	icon = GFX_SKO_it_has_begun
+	cost = 1
+	x = 10
+	y = 0
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_it_has_begun"
+	}
+}
+
+shared_focus = {
+	id = SKO_who_am_i
+	icon = GFX_SKO_who_am_i
+	cost = 1
+	prerequisite = {
+		focus = SKO_it_has_begun
+	}
+	x = -2
+	y = 2
+	relative_position_id = SKO_it_has_begun
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_who_am_i"
+	}
+}
+
+shared_focus = {
+	id = SKO_what_happened
+	icon = GFX_SKO_what_happened
+	cost = 1
+	prerequisite = {
+		focus = SKO_it_has_begun
+	}
+	x = 0
+	y = 2
+	relative_position_id = SKO_it_has_begun
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_what_happened"
+	}
+}
+
+shared_focus = {
+	id = SKO_draw_the_borderline
+	icon = GFX_SKO_draw_the_borderline
+	cost = 1
+	prerequisite = {
+		focus = SKO_it_has_begun
+	}
+	x = 2
+	y = 2
+	relative_position_id = SKO_it_has_begun
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_draw_the_borderline"
+	}
+}
+
+shared_focus = {
+	id = SKO_victory_day_is_near
+	icon = GFX_SKO_victory_day_is_near
+	cost = 1
+	prerequisite = {
+		focus = SKO_who_am_i
+	}
+	prerequisite = {
+		focus = SKO_what_happened
+	}
+	prerequisite = {
+		focus = SKO_draw_the_borderline
+	}
+	x = 0
+	y = 3
+	relative_position_id = SKO_it_has_begun
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_draw_the_borderline"
+	}
+}
+
+shared_focus = {
+	id = SKO_soviets_state
+	icon = GFX_SKO_soviets_state
+	cost = 1
+	prerequisite = {
+		focus = SKO_victory_day_is_near
+	}
+	x = 0
+	y = 1
+	relative_position_id = SKO_victory_day_is_near
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_soviets_state"
+	}
+}
+
+shared_focus = {
+	id = SKO_increase_scientists'_budget 
+	icon = GFX_SKO_increase_scientists'_budget
+	cost = 1
+	prerequisite = {
+		focus = SKO_soviets_state
+	}
+	x = -2
+	y = 1
+	relative_position_id = SKO_soviets_state
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_increase_scientists'_budget"
+	}
+}
+
+shared_focus = {
+	id = SKO_increase_support_for_schools
+	icon = GFX_SKO_increase_support_for_schools
+	cost = 1
+	prerequisite = {
+		focus = SKO_increase_scientists'_budget
+	}
+	x = 0
+	y = 1
+	relative_position_id = SKO_increase_scientists'_budget
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_increase_support_for_schools"
+	}
+}
+
+shared_focus = {
+	id = SKO_pragmatic_solution
+	icon = GFX_SKO_pragmatic_solution
+	cost = 1
+	prerequisite = {
+		focus = SKO_increase_support_for_schools
+	}
+	mutually_exclusive = {
+		focus = SKO_beacon_of_socialism
+	}
+	x = 0
+	y = 2
+	relative_position_id = SKO_increase_scientists'_budget
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_pragmatic_solution"
+	}
+}
+
+shared_focus = {
+	id = SKO_limit_freedom_of_speech
+	icon = GFX_SKO_limit_freedom_of_speech
+	cost = 1
+	prerequisite = {
+		focus = SKO_pragmatic_solution
+	}
+	mutually_exclusive = {
+		focus = SKO_create_secret_police
+	}
+	x = -2
+	y = 1
+	relative_position_id = SKO_pragmatic_solution
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_limit_freedom_of_speech"
+	}
+}
+
+shared_focus = {
+	id = SKO_create_secret_police
+	icon = GFX_SKO_create_secret_police
+	cost = 1
+	prerequisite = {
+		focus = SKO_pragmatic_solution
+	}
+	mutually_exclusive = {
+		focus = SKO_limit_freedom_of_speech
+	}
+	x = 0
+	y = 1
+	relative_position_id = SKO_pragmatic_solution
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_create_secret_police"
+	}
+}
+
+shared_focus = {
+	id = SKO_cybernization_of_army
+	icon = GFX_SKO_cybernization_of_army
+	cost = 1
+	prerequisite = {
+		focus = SKO_limit_freedom_of_speech
+		focus = SKO_create_secret_police
+	}
+	mutually_exclusive = {
+		focus = SKO_army_of_robots
+	}
+	x = -2
+	y = 2
+	relative_position_id = SKO_pragmatic_solution
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_cybernization_of_army"
+	}
+}
+
+shared_focus = {
+	id = SKO_army_of_robots
+	icon = GFX_SKO_army_of_robots
+	cost = 1
+	prerequisite = {
+		focus = SKO_limit_freedom_of_speech
+		focus = SKO_create_secret_police
+	}
+	mutually_exclusive = {
+		focus = SKO_cybernization_of_army
+	}
+	x = 0
+	y = 2
+	relative_position_id = SKO_pragmatic_solution
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_army_of_robots"
+	}
+}
+
+shared_focus = {
+	id = SKO_mass_propaganda
+	icon = GFX_SKO_mass_propaganda
+	cost = 1
+	prerequisite = {
+		focus = SKO_cybernization_of_army
+		focus = SKO_army_of_robots
+	}
+	mutually_exclusive = {
+		focus = SKO_keep_lyubertsy_in_fear
+	}
+	x = -2
+	y = 3
+	relative_position_id = SKO_pragmatic_solution
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_mass_propaganda"
+	}
+}
+
+shared_focus = {
+	id = SKO_keep_lyubertsy_in_fear
+	icon = GFX_SKO_keep_lyubertsy_in_fear
+	cost = 1
+	prerequisite = {
+		focus = SKO_cybernization_of_army
+		focus = SKO_army_of_robots
+	}
+	mutually_exclusive = {
+		focus = SKO_mass_propaganda
+	}
+	x = 0
+	y = 3
+	relative_position_id = SKO_pragmatic_solution
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_keep_lyubertsy_in_fear"
+	}
+}
+
+shared_focus = {
+	id = SKO_all_as_planned
+	icon = GFX_SKO_all_as_planned
+	cost = 1
+	prerequisite = {
+		focus = SKO_soviets_state
+	}
+	x = 0
+	y = 1
+	relative_position_id = SKO_soviets_state
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_all_as_planned"
+	}
+}
+
+shared_focus = {
+	id = SKO_increase_propoganda
+	icon = GFX_SKO_increase_propoganda
+	cost = 1
+	prerequisite = {
+		focus = SKO_all_as_planned
+	}
+	x = 0
+	y = 1
+	relative_position_id = SKO_all_as_planned
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_increase_propoganda"
+	}
+}
+
+shared_focus = {
+	id = SKO_Workers_of_the_world_unite
+	icon = GFX_SKO_destroy_the_opposition
+	cost = 1
+	prerequisite = {
+		focus = SKO_increase_propoganda
+	}
+	x = 0
+	y = 4
+	relative_position_id = SKO_all_as_planned
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_destroy_the_opposition"
+	}
+}
+
+shared_focus = {
+	id = SKO_day_of_oprichnik
+	icon = GFX_SKO_day_of_oprichnik
+	cost = 1
+	prerequisite = {
+		focus = SKO_Workers_of_the_world_unite
+	}
+	x = 0
+	y = 5
+	relative_position_id = SKO_all_as_planned
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_day_of_oprichnik"
+	}
+}
+
+shared_focus = {
+	id = SKO_Ilyich's_precepts
+	icon = GFX_SKO_Ilyich's_precepts
+	cost = 1
+	prerequisite = {
+		focus = SKO_soviets_state
+	}
+	x = 2
+	y = 1
+	relative_position_id = SKO_soviets_state
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_Ilyich's_precepts"
+	}
+}
+
+shared_focus = {
+	id = SKO_Marxism–Leninism_legacy
+	icon = GFX_SKO_Marxism–Leninism_legacy
+	cost = 1
+	prerequisite = {
+		focus = SKO_Ilyich's_precepts
+	}
+	x = 0
+	y = 1
+	relative_position_id = SKO_Ilyich's_precepts
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_Marxism–Leninism_legacy"
+	}
+}
+
+shared_focus = {
+	id = SKO_beacon_of_socialism
+	icon = GFX_SKO_beacon_of_socialism
+	cost = 1
+	prerequisite = {
+		focus = SKO_Marxism–Leninism_legacy
+	}
+	mutually_exclusive = {
+		focus = SKO_pragmatic_solution
+	}
+	x = 0
+	y = 2
+	relative_position_id = SKO_Ilyich's_precepts
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_beacon_of_socialism"
+	}
+}
+
+shared_focus = {
+	id = SKO_haste_makes_waste
+	icon = GFX_SKO_haste_makes_waste
+	cost = 1
+	prerequisite = {
+		focus = SKO_beacon_of_socialism
+	}
+	mutually_exclusive = {
+		focus = SKO_new_socialism_for_new_age
+	}
+	x = 0
+	y = 1
+	relative_position_id = SKO_beacon_of_socialism
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_haste_makes_waste"
+	}
+}
+
+shared_focus = {
+	id = SKO_new_socialism_for_new_age
+	icon = GFX_SKO_new_socialism_for_new_age
+	cost = 1
+	prerequisite = {
+		focus = SKO_beacon_of_socialism
+	}
+	mutually_exclusive = {
+		focus = SKO_haste_makes_waste
+	}
+	x = 2
+	y = 1
+	relative_position_id = SKO_beacon_of_socialism
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_new_socialism_for_new_age"
+	}
+}
+
+shared_focus = {
+	id = SKO_robots_workers
+	icon = GFX_SKO_robots_workers
+	cost = 1
+	prerequisite = {
+		focus = SKO_haste_makes_waste
+	}
+	x = 0
+	y = 2
+	relative_position_id = SKO_beacon_of_socialism
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_robots_workers"
+	}
+}
+
+shared_focus = {
+	id = SKO_canonize_putin
+	icon = GFX_SKO_canonize_putin
+	cost = 1
+	prerequisite = {
+		focus = SKO_new_socialism_for_new_age
+	}
+	x = 2
+	y = 2
+	relative_position_id = SKO_beacon_of_socialism
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_canonize_putin"
+	}
+}
+
+shared_focus = {
+	id = SKO_better_economy_better_life
+	icon = GFX_SKO_better_economy_better_life
+	cost = 1
+	prerequisite = {
+		focus = SKO_robots_workers
+	}
+	x = 0
+	y = 3
+	relative_position_id = SKO_beacon_of_socialism
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_better_economy_better_life"
+	}
+}
+
+shared_focus = {
+	id = SKO_soldier_priests
+	icon = GFX_SKO_soldier_priests
+	cost = 1
+	prerequisite = {
+		focus = SKO_canonize_putin
+	}
+	x = 2
+	y = 3
+	relative_position_id = SKO_beacon_of_socialism
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_militant_gender"
+	}
+}
+
+shared_focus = {
+	id = SKO_eternal_rule_of_oprichnina
+	icon = GFX_SKO_eternal_rule_of_oprichnina
+	cost = 1
+	prerequisite = {
+		focus = SKO_mass_propaganda
+		focus = SKO_keep_lyubertsy_in_fear
+		focus = SKO_better_economy_better_life
+		focus = SKO_soldier_priests
+	}
+	prerequisite = {
+		focus = SKO_day_of_oprichnik
+	}
+	x = 0
+	y = 7
+	relative_position_id = SKO_soviets_state
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_eternal_rule_of_oprichnina"
+	}
+}
+
+shared_focus = {
+	id = SKO_dirty_capitalists
+	icon = GFX_SKO_dirty_capitalists
+	cost = 1
+	prerequisite = {
+		focus = SKO_victory_day_is_near
+	}
+	x = -8
+	y = 1
+	relative_position_id = SKO_victory_day_is_near
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_soviets_state"
+	}
+}
+
+shared_focus = {
+	id = SKO_bourgeois_democrat
+	icon = GFX_SKO_bourgeois_democrat
+	cost = 1
+	prerequisite = {
+		focus = SKO_dirty_capitalists
+	}
+	mutually_exclusive = {
+		focus = SKO_tea_time_with_sobyanin
+	}
+	x = -1
+	y = 1
+	relative_position_id = SKO_dirty_capitalists
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_bourgeois_democrat"
+	}
+}
+
+shared_focus = {
+	id = SKO_condemn_nationalism
+	icon = GFX_SKO_condemn_nationalism
+	cost = 1
+	prerequisite = {
+		focus = SKO_bourgeois_democrat
+	}
+	x = -1
+	y = 1
+	relative_position_id = SKO_bourgeois_democrat
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_condemn_nationalism"
+	}
+}
+
+shared_focus = {
+	id = SKO_rally_the_proletariat
+	icon = GFX_SKO_rally_the_proletariat
+	cost = 1
+	prerequisite = {
+		focus = SKO_condemn_nationalism
+	}
+	x = 0
+	y = 2
+	relative_position_id = SKO_bourgeois_democrat
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_rally_the_proletariat"
+	}
+}
+
+shared_focus = {
+	id = SKO_hack_them
+	icon = GFX_SKO_hack_them
+	cost = 1
+	prerequisite = {
+		focus = SKO_condemn_nationalism
+	}
+	x = -2
+	y = 2
+	relative_position_id = SKO_bourgeois_democrat
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_hack_them"
+	}
+}
+
+shared_focus = {
+	id = SKO_victory_of_the_true_freedom
+	icon = GFX_SKO_victory_of_the_true_freedom
+	cost = 1
+	prerequisite = {
+		focus = SKO_hack_them
+	}
+	prerequisite = {
+		focus = SKO_rally_the_proletariat
+	}
+	x = -1
+	y = 3
+	relative_position_id = SKO_bourgeois_democrat
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_victory_of_the_true_freedom"
+	}
+}
+
+shared_focus = {
+	id = SKO_tea_time_with_sobyanin
+	icon = GFX_SKO_tea_time_with_sobyanin
+	cost = 1
+	prerequisite = {
+		focus = SKO_dirty_capitalists
+	}
+	mutually_exclusive = {
+		focus = SKO_bourgeois_democrat
+	}
+	x = 1
+	y = 1
+	relative_position_id = SKO_dirty_capitalists
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_tea_time_with_sobyanin"
+	}
+}
+
+shared_focus = {
+	id = SKO_fake_loyalty
+	icon = GFX_SKO_fake_loyalty
+	cost = 1
+	prerequisite = {
+		focus = SKO_tea_time_with_sobyanin
+	}
+	x = 1
+	y = 1
+	relative_position_id = SKO_tea_time_with_sobyanin
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_fake_loyalty"
+	}
+}
+
+shared_focus = {
+	id = SKO_informal_union
+	icon = GFX_SKO_informal_union
+	cost = 1
+	prerequisite = {
+		focus = SKO_fake_loyalty
+	}
+	x = 0
+	y = 2
+	relative_position_id = SKO_tea_time_with_sobyanin
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_informal_union"
+	}
+}
+
+shared_focus = {
+	id = SKO_tear_up_the_ostankino_past
+	icon = GFX_SKO_tear_up_the_ostankino_past
+	cost = 1
+	prerequisite = {
+		focus = SKO_fake_loyalty
+	}
+	x = 2
+	y = 2
+	relative_position_id = SKO_tea_time_with_sobyanin
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_tear_up_the_ostankino_past"
+	}
+}
+
+shared_focus = {
+	id = SKO_krasovskys_last_broadcast
+	icon = GFX_SKO_krasovskys_last_broadcast
+	cost = 1
+	prerequisite = {
+		focus = SKO_informal_union
+	}
+	prerequisite = {
+		focus = SKO_tear_up_the_ostankino_past
+	}
+	x = 1
+	y = 3
+	relative_position_id = SKO_tea_time_with_sobyanin
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_krasovskys_last_broadcast"
+	}
+}
+
+shared_focus = {
+	id = SKO_unsalvagable_enemies
+	icon = GFX_SKO_unsalvagable_enemies
+	cost = 1
+	prerequisite = {
+		focus = SKO_victory_day_is_near
+	}
+	x = 8
+	y = 1
+	relative_position_id = SKO_victory_day_is_near
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_soviets_state"
+	}
+}
+
+shared_focus = {
+	id = SKO_weak_willed_conservative
+	icon = GFX_SKO_weak_willed_conservative
+	cost = 1
+	prerequisite = {
+		focus = SKO_unsalvagable_enemies
+	}
+	mutually_exclusive = {
+		focus = SKO_uncontrollable_machine
+	}
+	x = -1
+	y = 1
+	relative_position_id = SKO_unsalvagable_enemies
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_weak_willed_conservative"
+	}
+}
+
+shared_focus = {
+	id = SKO_crush_the_liberal_scum
+	icon = GFX_SKO_crush_the_liberal_scum
+	cost = 1
+	prerequisite = {
+		focus = SKO_weak_willed_conservative
+	}
+	x = -1
+	y = 1
+	relative_position_id = SKO_weak_willed_conservative
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_crush_the_liberal_scum"
+	}
+}
+
+shared_focus = {
+	id = SKO_a_man_with_heater
+	icon = GFX_SKO_a_man_with_a_heater
+	cost = 1
+	prerequisite = {
+		focus = SKO_crush_the_liberal_scum
+	}
+	x = 0
+	y = 2
+	relative_position_id = SKO_weak_willed_conservative
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_a_man_with_heater"
+	}
+}
+
+shared_focus = {
+	id = SKO_end_the_fifth_column
+	icon = GFX_SKO_end_the_fifth_column
+	cost = 1
+	prerequisite = {
+		focus = SKO_crush_the_liberal_scum
+	}
+	x = -2
+	y = 2
+	relative_position_id = SKO_weak_willed_conservative
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_end_the_fifth_column"
+	}
+}
+
+shared_focus = {
+	id = SKO_jail_yuneman
+	icon = GFX_SKO_jail_yuneman
+	cost = 1
+	prerequisite = {
+		focus = SKO_end_the_fifth_column
+	}
+	prerequisite = {
+		focus = SKO_a_man_with_heater
+	}
+	x = -1
+	y = 3
+	relative_position_id = SKO_weak_willed_conservative
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_jail_yuneman"
+	}
+}
+
+shared_focus = {
+	id = SKO_uncontrollable_machine
+	icon = GFX_SKO_uncontrollable_machine
+	cost = 1
+	prerequisite = {
+		focus = SKO_unsalvagable_enemies
+	}
+	mutually_exclusive = {
+		focus = SKO_weak_willed_conservative
+	}
+	x = 1
+	y = 1
+	relative_position_id = SKO_unsalvagable_enemies
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_uncontrollable_machine"
+	}
+}
+
+shared_focus = {
+	id = SKO_better_dead_than_red
+	icon = GFX_SKO_better_dead_than_red
+	cost = 1
+	prerequisite = {
+		focus = SKO_uncontrollable_machine
+	}
+	x = 1
+	y = 1
+	relative_position_id = SKO_uncontrollable_machine
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_better_dead_than_red"
+	}
+}
+
+shared_focus = {
+	id = SKO_man_versus_machine
+	icon = GFX_SKO_man_versus_machine
+	cost = 1
+	prerequisite = {
+		focus = SKO_better_dead_than_red
+	}
+	x = 0
+	y = 2
+	relative_position_id = SKO_uncontrollable_machine
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_man_versus_machine"
+	}
+}
+
+shared_focus = {
+	id = SKO_hack_skolkovo_servers
+	icon = GFX_SKO_hack_skolkovo_servers
+	cost = 1
+	prerequisite = {
+		focus = SKO_better_dead_than_red
+	}
+	x = 2
+	y = 2
+	relative_position_id = SKO_uncontrollable_machine
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_hack_skolkovo_servers"
+	}
+}
+
+shared_focus = {
+	id = SKO_erase_kosygins_code
+	icon = GFX_SKO_erase_kosygins_code
+	cost = 1
+	prerequisite = {
+		focus = SKO_man_versus_machine
+	}
+	prerequisite = {
+		focus = SKO_hack_skolkovo_servers
+	}
+	x = 1
+	y = 3
+	relative_position_id = SKO_uncontrollable_machine
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus SKO_erase_kosygins_code"
+	}
+}
