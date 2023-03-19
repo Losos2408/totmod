@@ -116,9 +116,13 @@
  NOS_ADJ:0 "Ossetian"
 
  VLN:0 "Volyn"
- VLN_DEF:0 "the Volynska Oblast"
+ VLN_DEF:0 "the Volyn Oblast"
  VLN_ADJ:0 "Volyn"
 
  RVN:0 "Rivne"
- RVN_DEF:0 "the Rivnenska Oblast"
+ RVN_DEF:0 "the Rivne Oblast"
  RVN_ADJ:0 "Rivne"
+
+ ZTM:0 "Zhytomyr"
+ ZTM_DEF:0 "the Zhytomyr Oblast"
+ ZTM_ADJ:0 "Zhytomyr"

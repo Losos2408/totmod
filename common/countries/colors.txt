@@ -184,3 +184,7 @@ RVN = {
 	color = rgb { 246 211 35 }
 	color_ui = rgb { 246 211 35 }
 }
+ZTM = {
+	color = rgb { 87 176 244 }
+	color_ui = rgb { 87 176 244 }
+}
