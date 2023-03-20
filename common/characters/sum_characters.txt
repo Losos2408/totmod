@@ -1,0 +1,15 @@
+characters = {
+    SUM_Taras_Savchenko = {
+        name = SUM_Taras_Savchenko
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/SUM/Portrait_SUM_Taras_Savchenko.png"
+            }
+        }
+        country_leader = {
+            ideology = controlled_democracy_default
+            traits = { }
+            desc = x
+        }
+	}
+}
