@@ -93,6 +93,7 @@ ideologies = {
 			gachism = { can_be_randomly_selected = no }
 			left_wing_populism = { can_be_randomly_selected = no }
 			anarcho_communism = { can_be_randomly_selected = no }
+			left_wing_agrarianism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 176 37 54 }

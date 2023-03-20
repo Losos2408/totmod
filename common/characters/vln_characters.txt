@@ -1,9 +1,9 @@
 characters = {
-    VLN_Grigoriy_Nedopad = {
-        name = VLN_Grigoriy_Nedopad
+    VLN_Hrihoriy_Nedopad = {
+        name = VLN_Hrihoriy_Nedopad
         portraits = {
             civilian = {
-                large = "gfx/leaders/VLN/Portrait_VLN_Grigoriy_Nedopad.png"
+                large = "gfx/leaders/VLN/Portrait_VLN_Hrihoriy_Nedopad.png"
             }
         }
         country_leader = {

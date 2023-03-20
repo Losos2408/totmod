@@ -174,4 +174,8 @@ defined_text = {
 		trigger = { has_country_leader_ideology = gamer_liberalism }
 		localization_key = "gamer_liberalism"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = left_wing_agrarianism }
+		localization_key = "left_wing_agrarianism"
+	}
 }

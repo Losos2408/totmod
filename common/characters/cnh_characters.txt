@@ -1,0 +1,15 @@
+characters = {
+    CNH_Oleh_Liashko = {
+        name = CNH_Oleh_Liashko
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/CNH/Portrait_CNH_Oleh_Liashko.png"
+            }
+        }
+        country_leader = {
+            ideology = left_wing_agrarianism
+            traits = { }
+            desc = x
+        }
+	}
+}

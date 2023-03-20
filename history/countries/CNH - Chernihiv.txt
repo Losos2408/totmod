@@ -1,14 +1,14 @@
-capital = 109
+capital = 101
 
-recruit_character = VLN_Hrihoriy_Nedopad
+recruit_character = CNH_Oleh_Liashko
 
 set_politics = {
-	ruling_party = controlled_democracy
+	ruling_party = socialism
 	last_election = "2022.30.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	controlled_democracy = 100
+	socialism = 100
 }
