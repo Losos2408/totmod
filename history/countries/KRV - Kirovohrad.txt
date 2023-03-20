@@ -1,14 +1,14 @@
-capital = 114
+capital = 102
 
-recruit_character = ZKP_Valeriy_Bebyk
+recruit_character = KRV_Central_Committee
 
 set_politics = {
-	ruling_party = controlled_democracy
+	ruling_party = communism
 	last_election = "2022.30.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	controlled_democracy = 100
+	communism = 100
 }

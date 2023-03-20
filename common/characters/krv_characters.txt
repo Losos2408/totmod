@@ -1,0 +1,15 @@
+characters = {
+    KRV_Central_Committee = {
+        name = KRV_Central_Committee
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/KRV/Portrait_KRV_Central_Committee.png"
+            }
+        }
+        country_leader = {
+            ideology = communism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

@@ -1,0 +1,15 @@
+characters = {
+    NSR_Rudolf_Lund = {
+        name = NSR_Rudolf_Lund
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/NSR/Portrait_NSR_Rudolf_Lund.png"
+            }
+        }
+        country_leader = {
+            ideology = absolute_monarchy
+            traits = { }
+            desc = x
+        }
+	}
+}

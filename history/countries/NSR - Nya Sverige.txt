@@ -1,14 +1,14 @@
-capital = 114
+capital = 99
 
-recruit_character = ZKP_Valeriy_Bebyk
+recruit_character = NSR_Rudolf_Lund
 
 set_politics = {
-	ruling_party = controlled_democracy
+	ruling_party = militarism
 	last_election = "2022.30.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	controlled_democracy = 100
+	militarism = 100
 }

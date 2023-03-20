@@ -1,6 +1,6 @@
-capital = 114
+capital = 100
 
-recruit_character = ZKP_Valeriy_Bebyk
+recruit_character = SUM_Taras_Savchenko
 
 set_politics = {
 	ruling_party = controlled_democracy

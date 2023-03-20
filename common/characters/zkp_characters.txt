@@ -1,9 +1,9 @@
 characters = {
-    ZKP_Valery_Bebyk = {
-        name = ZKP_Valery_Bebyk
+    ZKP_Valeriy_Bebyk = {
+        name = ZKP_Valeriy_Bebyk
         portraits = {
             civilian = {
-                large = "gfx/leaders/ZKP/Portrait_ZKP_Valery_Bebyk.png"
+                large = "gfx/leaders/ZKP/Portrait_ZKP_Valeriy_Bebyk.png"
             }
         }
         country_leader = {

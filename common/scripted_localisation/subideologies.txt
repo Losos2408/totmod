@@ -178,4 +178,8 @@ defined_text = {
 		trigger = { has_country_leader_ideology = left_wing_agrarianism }
 		localization_key = "left_wing_agrarianism"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = absolute_monarchy }
+		localization_key = "absolute_monarchy"
+	}
 }
