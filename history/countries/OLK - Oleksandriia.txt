@@ -1,14 +1,14 @@
-capital = 114
+capital = 160
 
-recruit_character = ZKP_Valeriy_Bebyk
+recruit_character = OLK_Andriy_Raykovych
 
 set_politics = {
-	ruling_party = radicalism
+	ruling_party = controlled_democracy
 	last_election = "2022.30.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	radicalism = 100
+	controlled_democracy = 100
 }

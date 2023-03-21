@@ -1,0 +1,15 @@
+characters = {
+    OLK_Andriy_Raykovych = {
+        name = OLK_Andriy_Raykovych
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/OLK/Portrait_OLK_Andriy_Raykovych.png"
+            }
+        }
+        country_leader = {
+            ideology = controlled_democracy_default
+            traits = { }
+            desc = x
+        }
+	}
+}
