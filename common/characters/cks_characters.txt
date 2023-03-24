@@ -1,0 +1,15 @@
+characters = {
+    CKS_Ihor_Taburets = {
+        name = CKS_Ihor_Taburets
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/CKS/Portrait_CKS_Ihor_Taburets.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

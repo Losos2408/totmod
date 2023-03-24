@@ -1,0 +1,15 @@
+characters = {
+    KHS_Andriy_Kovalchuk = {
+        name = KHS_Andriy_Kovalchuk
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/KHS/Portrait_KHS_Andriy_Kovalchuk.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

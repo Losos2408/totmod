@@ -1,0 +1,15 @@
+characters = {
+    MKL_Vitaliy_Kim = {
+        name = MKL_Vitaliy_Kim
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/MKL/Portrait_MKL_Vitaliy_Kim.png"
+            }
+        }
+        country_leader = {
+            ideology = controlled_democracy_default
+            traits = { }
+            desc = x
+        }
+	}
+}
