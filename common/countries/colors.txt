@@ -240,3 +240,7 @@ ROI = {
 	color = rgb { 150 28 36 }
 	color_ui = rgb { 150 28 36 }
 }
+TVR = {
+	color = rgb { 140 120 90 }
+	color_ui = rgb { 140 120 90 }
+}

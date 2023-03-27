@@ -177,4 +177,8 @@ defined_text = {
 		trigger = { has_country_leader_ideology = paternalist_zionism }
 		localization_key = "paternalist_zionism"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = national_patriotism }
+		localization_key = "national_patriotism"
+	}
 }

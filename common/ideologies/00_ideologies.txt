@@ -74,6 +74,7 @@ ideologies = {
 			corporate_statism = { can_be_randomly_selected = no }
 			ponomaryovshina = { can_be_randomly_selected = no }
 			absolute_monarchy = { can_be_randomly_selected = no }
+			national_patriotism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 55 55 55 }

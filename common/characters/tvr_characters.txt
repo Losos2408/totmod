@@ -1,0 +1,14 @@
+characters = {
+    TVR_Vyacheslav_Volodin = {
+        name = TVR_Vyacheslav_Volodin
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/TVR/Portrait_TVR_Vyacheslav_Volodin.png"
+            }
+        }
+        country_leader = {
+            ideology = national_patriotism
+            traits = { }
+        }
+	}
+}
