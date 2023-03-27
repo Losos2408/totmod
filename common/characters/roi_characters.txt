@@ -1,0 +1,15 @@
+characters = {
+    ROI_Amiya = {
+        name = ROI_Amiya
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/ROI/Portrait_ROI_Amiya.png"
+            }
+        }
+        country_leader = {
+            ideology = corporate_statism
+            traits = { }
+            desc = x
+        }
+	}
+}
