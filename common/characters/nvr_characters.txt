@@ -1,0 +1,20 @@
+characters = {
+    NVR_Herzi_Halevi = {
+        name = NVR_Herzi_Halevi
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/NVR/Portrait_NVR_Herzi_Halevi.png"
+            }
+        }
+        country_leader = {
+            ideology = paternalist_zionism
+            traits = { }
+            desc = x
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

@@ -160,7 +160,7 @@
  CKS_ADJ:0 "Cherkasy"
 
  KHS:0 "Kherson"
- KHS_DEF:0 "the Southern Group of Ukrainian Armed Forces"
+ KHS_DEF:0 "the Operational Command "South""
  KHS_ADJ:0 "Kherson"
 
  MKL:0 "Mykolaiv"
@@ -170,3 +170,7 @@
  RUH:0 "Russian Kherson"
  RUH_DEF:0 "the Russian Occupation Forces in Kherson"
  RUH_ADJ:0 "Russian Kherson"
+
+ NVR:0 "Novorossiysk"
+ NVR_DEF:0 "the Novorossiysk Humanitarian Zone"
+ NVR_ADJ:0 "Novorossiysk"

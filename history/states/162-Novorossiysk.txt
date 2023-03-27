@@ -1,0 +1,16 @@
+
+state={
+	id=162
+	name="STATE_162"
+	history = {
+		owner = NVR
+		add_core_of = NVR
+	}
+	provinces={
+		5850 8364
+	}
+	manpower = 216179
+	state_category = city
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

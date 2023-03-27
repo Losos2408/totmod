@@ -232,3 +232,7 @@ RUH = {
 	color = rgb { 33 64 104 }
 	color_ui = rgb { 33 64 104 }
 }
+NVR = {
+	color = rgb { 0 100 184 }
+	color_ui = rgb { 0 100 184 }
+}
