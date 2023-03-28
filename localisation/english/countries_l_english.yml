@@ -182,3 +182,7 @@
  TVR:0 "Tver Republic"
  TVR_DEF:0 "the Tver Republic"
  TVR_ADJ:0 "Tver"
+
+ HRD:0 "KE "Rzeczpospolita""
+ HRD_DEF:0 "the Korpus Ekspedycyjny "Rzeczpospolita""
+ HRD_ADJ:0 "Rzeczpospolita Corps'"

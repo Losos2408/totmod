@@ -1,0 +1,15 @@
+characters = {
+    HRD_Aleksander_Jablonowski = {
+        name = HRD_Aleksander_Jablonowski
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/HRD/Portrait_HRD_Aleksander_Jablonowski.png"
+            }
+        }
+        country_leader = {
+            ideology = national_bolshevism
+            traits = { }
+            desc = x
+        }
+	}
+}

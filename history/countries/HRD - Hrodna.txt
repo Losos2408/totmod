@@ -1,0 +1,17 @@
+capital = 157
+
+recruit_character = HRD_Aleksander_Jablonowski
+
+add_ideas = {
+}
+
+set_politics = {
+	ruling_party = radicalism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	radicalism = 100
+}

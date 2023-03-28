@@ -129,32 +129,32 @@ UKR = {
 	color_ui = rgb { 47 96 147 }
 }
 SSA = {
-	color = rgb { 229 191 37 }
-	color_ui = rgb { 229 191 37 }
+	color = rgb { 181 150 30 }
+	color_ui = rgb { 181 150 30 }
 }
 COU = {
-	color = rgb { 48 55 255 }
-	color_ui = rgb { 48 55 255 }
+	color = rgb { 41 48 173 }
+	color_ui = rgb { 41 48 173 }
 }
 KKV = {
-	color = rgb { 64 148 70 }
-	color_ui = rgb { 64 148 70 }
+	color = rgb { 49 82 89 }
+	color_ui = rgb { 49 82 89 }
 }
 ODS = {
-	color = rgb { 64 148 70 }
-	color_ui = rgb { 64 148 70 }
+	color = rgb { 49 112 53 }
+	color_ui = rgb { 49 112 53 }
 }
 VNT = {
-	color = rgb { 219 0 24 }
-	color_ui = rgb { 219 0 24 }
+	color = rgb { 135 25 40 }
+	color_ui = rgb { 135 25 40 }
 }
 TRT = {
-	color = rgb { 78 140 117 }
-	color_ui = rgb { 78 140 117 }
+	color = rgb { 51 91 76 }
+	color_ui = rgb { 51 91 76 }
 }
 THM = {
-	color = rgb { 214 194 24 }
-	color_ui = rgb { 214 194 24 }
+	color = rgb { 160 94 51 }
+	color_ui = rgb { 160 94 51 }
 }
 UMN = {
 	color = rgb { 36 8 99 }
@@ -165,8 +165,8 @@ HLP = {
 	color_ui = rgb { 127 0 0 }
 }
 ZKP = {
-	color = rgb { 58 117 189 }
-	color_ui = rgb { 58 117 189 }
+	color = rgb { 33 119 115 }
+	color_ui = rgb { 33 119 115 }
 }
 ROA = {
 	color = rgb { 127 151 163 }
@@ -177,60 +177,60 @@ NOS = {
 	color_ui = rgb { 221 226 0 }
 }
 VLN = {
-	color = rgb { 219 44 63 }
-	color_ui = rgb { 219 44 63 }
+	color = rgb { 158 33 47 }
+	color_ui = rgb { 158 33 47 }
 }
 RVN = {
-	color = rgb { 246 211 35 }
-	color_ui = rgb { 246 211 35 }
+	color = rgb { 151 136 17 }
+	color_ui = rgb { 151 136 17 }
 }
 ZTM = {
-	color = rgb { 87 176 244 }
-	color_ui = rgb { 87 176 244 }
+	color = rgb { 67 114 68 }
+	color_ui = rgb { 67 114 68 }
 }
 UIA = {
 	color = rgb { 45 32 32 }
 	color_ui = rgb { 45 32 32 }
 }
 KML = {
-	color = rgb { 40 0 246 }
-	color_ui = rgb { 40 0 246 }
+	color = rgb { 21 36 93 }
+	color_ui = rgb { 21 36 93 }
 }
 CNH = {
-	color = rgb { 67 155 51 }
-	color_ui = rgb { 67 155 51 }
+	color = rgb { 46 104 34 }
+	color_ui = rgb { 46 104 34 }
 }
 SUM = {
-	color = rgb { 97 181 233 }
-	color_ui = rgb { 97 181 233 }
+	color = rgb { 70 132 168 }
+	color_ui = rgb { 70 132 168 }
 }
 NSR = {
-	color = rgb { 51 106 167 }
-	color_ui = rgb { 51 106 167 }
+	color = rgb { 41 86 135 }
+	color_ui = rgb { 41 86 135 }
 }
 KRV = {
-	color = rgb { 173 0 11 }
-	color_ui = rgb { 173 0 11 }
+	color = rgb { 130 0 8 }
+	color_ui = rgb { 130 0 8 }
 }
 OLK = {
-	color = rgb { 189 94 142 }
-	color_ui = rgb { 189 94 142 }
+	color = rgb { 130 65 98 }
+	color_ui = rgb { 130 65 98 }
 }
 CKS = {
-	color = rgb { 46 91 177 }
-	color_ui = rgb { 46 91 177 }
+	color = rgb { 130 99 35 }
+	color_ui = rgb { 43 23 119 }
 }
 KHS = {
-	color = rgb { 59 114 186 }
-	color_ui = rgb { 59 114 186 }
+	color = rgb { 45 87 142 }
+	color_ui = rgb { 45 87 142 }
 }
 MKL = {
-	color = rgb { 237 249 255 }
-	color_ui = rgb { 237 249 255 }
+	color = rgb { 109 136 150 }
+	color_ui = rgb { 109 136 150 }
 }
 RUH = {
-	color = rgb { 33 64 104 }
-	color_ui = rgb { 33 64 104 }
+	color = rgb { 24 47 76 }
+	color_ui = rgb { 24 47 76 }
 }
 NVR = {
 	color = rgb { 0 100 184 }
@@ -243,4 +243,8 @@ ROI = {
 TVR = {
 	color = rgb { 140 120 90 }
 	color_ui = rgb { 140 120 90 }
+}
+HRD = {
+	color = rgb { 155 40 71 }
+	color_ui = rgb { 155 40 71 }
 }

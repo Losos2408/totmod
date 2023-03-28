@@ -3,8 +3,8 @@ state={
 	id=157
 	name="STATE_157"
 	history = {
-		owner = CCC
-		add_core_of = CCC
+		owner = HRD
+		add_core_of = HRD
 	}
 	provinces={
 		1779 2139 3337 3789 4423 5542 7635 7653 7668
