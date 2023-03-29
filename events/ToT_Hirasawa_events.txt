@@ -11,6 +11,7 @@ country_event = { #Susumu Event
 
 	option = {
 		name = HRS_start.1.a
+		custom_effect_tooltip = HRS_start.1_tt
 	}
 }
 
