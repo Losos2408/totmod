@@ -5,7 +5,6 @@ country_event = { #Susumu Event
 	immediate = {log = "[GetDateText]: [Root.GetName]: event HRS_start.1"}
 	title = HRS_start.1.t
 	desc = HRS_start.1.desc
-	picture = x
 
 	is_triggered_only = yes
 
@@ -20,7 +19,6 @@ country_event = { #Seija Event
 	immediate = {log = "[GetDateText]: [Root.GetName]: event HRS_start.2"}
 	title = HRS_start.2.t
 	desc = HRS_start.2.desc
-	picture = x
 
 	is_triggered_only = yes
 
