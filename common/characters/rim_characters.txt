@@ -11,5 +11,29 @@ characters = {
             traits = { }
             desc = x
         }
+		field_marshal = {
+			traits = { }
+			skill = 2
+			attack_skill = 3
+			defense_skill = 3
+			planning_skill = 2
+			logistics_skill = 2
+		}
+	}
+    RIM_Tiberius_Julius_Caesar={
+		name=RIM_Tiberius_Julius_Caesar
+		portraits={
+			army = {
+				large="gfx/leaders/RIM/Portrait_RIM_Tiberius_Julius_Caesar.png"
+			}
+		}
+		corps_commander = {
+			traits = { naval_invader camouflage_expert }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 2
+		}
 	}
 }

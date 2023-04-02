@@ -1,6 +1,7 @@
 capital = 119
 
 recruit_character = RIM_Octavianus_Augustus
+recruit_character = RIM_Tiberius_Julius_Caesar
 
 set_politics = {
 	ruling_party = controlled_democracy
