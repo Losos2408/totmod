@@ -5,5 +5,8 @@
  RIM_Tiberius_Julius_Caesar:0 "Тиберий Юлий Цезарь"
  
  RIM_liberalism_party:0 "Senatus"
+ RIM_liberalism_party_long:0 "Senatus"
  RIM_controlled_democracy_party:0 "Princeps Senatus"
+ RIM_controlled_democracy_party_long:0 "Princeps Senatus"
  RIM_militarism_party:0 "Legio"
+ RIM_militarism_party_long:0 "Legio"

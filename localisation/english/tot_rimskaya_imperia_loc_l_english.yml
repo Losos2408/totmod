@@ -2,7 +2,12 @@
 
  RIM_Octavianus_Augustus:0 "Octavianus Augustus"
  RIM_Octavianus_Augustus_desc:0 "uea"
+
+ RIM_Tiberius_Julius_Caesar:0 "Tiberius Julius Caesar"
  
  RIM_liberalism_party:0 "Senatus"
+ RIM_liberalism_party_long:0 "Senatus"
  RIM_controlled_democracy_party:0 "Princeps Senatus"
+ RIM_controlled_democracy_party_long:0 "Princeps Senatus"
  RIM_militarism_party:0 "Legio"
+ RIM_militarism_party_long:0 "Legio"

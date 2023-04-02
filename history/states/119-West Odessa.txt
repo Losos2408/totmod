@@ -5,6 +5,7 @@ state={
 	history = {
 		owner = RIM
 		add_core_of = RIM
+		victory_points = { 5324 20 }
 	}
 	provinces={
 		2846 5324 6098 6466 8080 8085 8090 8101 8117 8118 10955 
