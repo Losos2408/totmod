@@ -3,8 +3,8 @@ state={
 	id=119
 	name="STATE_119"
 	history = {
-		owner = ODS
-		add_core_of = ODS
+		owner = RIM
+		add_core_of = RIM
 	}
 	provinces={
 		2846 5324 6098 6466 8080 8085 8090 8101 8117 8118 10955 

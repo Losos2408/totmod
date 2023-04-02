@@ -1,0 +1,15 @@
+characters = {
+    RIM_Octavianus_Augustus = {
+        name = RIM_Octavianus_Augustus
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/RIM/Portrait_RIM_Octavianus_Augustus.png"
+            }
+        }
+        country_leader = {
+            ideology = principatus
+            traits = { }
+            desc = x
+        }
+	}
+}

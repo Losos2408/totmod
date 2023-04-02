@@ -248,3 +248,7 @@ HRD = {
 	color = rgb { 155 40 71 }
 	color_ui = rgb { 155 40 71 }
 }
+RIM = {
+	color = rgb { 159 8 7 }
+	color_ui = rgb { 159 8 7 }
+}

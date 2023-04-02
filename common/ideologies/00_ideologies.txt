@@ -10,6 +10,7 @@ ideologies = {
 			big_tent_party = { can_be_randomly_selected = no }
 			avant_garde_patriotism = { can_be_randomly_selected = no }
 			paternalist_zionism = { can_be_randomly_selected = no }
+			principatus = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 100 100 100 }

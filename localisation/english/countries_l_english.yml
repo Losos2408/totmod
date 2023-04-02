@@ -186,3 +186,7 @@
  HRD:0 "KE "Rzeczpospolita""
  HRD_DEF:0 "the Korpus Ekspedycyjny "Rzeczpospolita""
  HRD_ADJ:0 "Rzeczpospolita Corps'"
+
+ RIM:0 "Imperium Romanum"
+ RIM_DEF:0 "Imperium Romanum"
+ RIM_ADJ:0 "Rome."

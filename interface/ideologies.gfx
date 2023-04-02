@@ -128,5 +128,10 @@ spriteTypes = {
 			name = "GFX_ideology_corporate_statism"
 			texturefile = "gfx/interface/ideologies/corporate_statism.png"
 	    }
+		spriteType = {
+			name = "GFX_ideology_principatus"
+			texturefile = "gfx/interface/ideologies/principatus.png"
+	    }
 	}
+
 
