@@ -1,13 +1,13 @@
 characters = {
-    RVN_Vitaliy_Koval = {
-        name = RVN_Vitaliy_Koval
+    RVN_Valeriy_Bebyk = {
+        name = RVN_Valeriy_Bebyk
         portraits = {
             civilian = {
-                large = "gfx/leaders/RVN/Portrait_RVN_Vitaliy_Koval.png"
+                large = "gfx/leaders/RVN/Portrait_RVN_Valeriy_Bebyk.png"
             }
         }
         country_leader = {
-            ideology = controlled_democracy_default
+            ideology = radicalism_default
             traits = { }
             desc = x
         }

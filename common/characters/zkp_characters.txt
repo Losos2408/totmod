@@ -1,13 +1,13 @@
 characters = {
-    ZKP_Valeriy_Bebyk = {
-        name = ZKP_Valeriy_Bebyk
+    ZKP_Viktor_Mykyta = {
+        name = ZKP_Viktor_Mykyta
         portraits = {
             civilian = {
-                large = "gfx/leaders/ZKP/Portrait_ZKP_Valeriy_Bebyk.png"
+                #large = "gfx/leaders/ZKP/.png"
             }
         }
         country_leader = {
-            ideology = radicalism_default
+            ideology = controlled_democracy_default
             traits = { }
             desc = x
         }
