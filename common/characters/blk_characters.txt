@@ -1,0 +1,15 @@
+characters = {
+    BLK_Mykhailo_Dobkin = {
+        name = BLK_Mykhailo_Dobkin
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/BLK/Portrait_BLK_Mykhailo_Dobkin.png"
+            }
+        }
+        country_leader = {
+            ideology = controlled_democracy_default
+            traits = { }
+            desc = x
+        }
+	}
+}

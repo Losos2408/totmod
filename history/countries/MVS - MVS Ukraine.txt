@@ -1,0 +1,14 @@
+capital = 122
+
+recruit_character = MVS_Arsen_Avakov
+
+set_politics = {
+	ruling_party = radicalism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	radicalism = 100
+}

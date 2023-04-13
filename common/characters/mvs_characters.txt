@@ -1,0 +1,15 @@
+characters = {
+    MVS_Arsen_Avakov = {
+        name = MVS_Arsen_Avakov
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/MVS/Portrait_MVS_Arsen_Avakov.png"
+            }
+        }
+        country_leader = {
+            ideology = radicalism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

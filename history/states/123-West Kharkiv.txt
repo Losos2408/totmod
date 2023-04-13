@@ -3,8 +3,8 @@ state={
 	id=123
 	name="STATE_123"
 	history = {
-		owner = KKV
-		add_core_of = KKV
+		owner = BLK
+		add_core_of = BLK
 	}
 	provinces={
 		6810 8121 8144 10985 10987

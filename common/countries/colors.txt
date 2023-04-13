@@ -252,3 +252,11 @@ RIM = {
 	color = rgb { 159 8 7 }
 	color_ui = rgb { 159 8 7 }
 }
+BLK = {
+	color = rgb { 53 35 105 }
+	color_ui = rgb { 53 35 105 }
+}
+MVS = {
+	color = rgb { 21 62 107 }
+	color_ui = rgb { 21 62 107 }
+}

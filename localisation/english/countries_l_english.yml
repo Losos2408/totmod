@@ -189,4 +189,12 @@
 
  RIM:0 "Imperium Romanum"
  RIM_DEF:0 "Imperium Romanum"
- RIM_ADJ:0 "Rome."
+ RIM_ADJ:0 "Roman"
+
+ BLK:0 "Balakleia"
+ BLK_DEF:0 "the Kharkiv People's Republic"
+ BLK_ADJ:0 "Dobkinite Kharkiv"
+
+ MVS:0 "MVS"
+ MVS_DEF:0 "the Ministry of Internal Affairs"
+ MVS_ADJ:0 "Avakovite Kharkiv"
