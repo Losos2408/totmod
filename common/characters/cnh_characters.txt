@@ -12,4 +12,43 @@ characters = {
             desc = x
         }
 	}
+    CNH_Vladyslav_Atroshenko = {
+        name = CNH_Vladyslav_Atroshenko
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/CNH/Portrait_CNH_Vladyslav_Atroshenko.png"
+            }
+        }
+        country_leader = {
+            ideology = rusism
+            traits = { }
+            desc = x
+        }
+	}
+    CNH_Leonid_Kuchma = {
+        name = CNH_Leonid_Kuchma
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/CNH/Portrait_CNH_Leonid_Kuchma.png"
+            }
+        }
+        country_leader = {
+            ideology = controlled_democracy_default
+            traits = { }
+            desc = x
+        }
+	}
+    CNH_Pavlo_Lazarenko = {
+        name = CNH_Pavlo_Lazarenko
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/CNH/Portrait_CNH_Pavlo_Lazarenko.png"
+            }
+        }
+        country_leader = {
+            ideology = corporate_statism
+            traits = { }
+            desc = x
+        }
+	}
 }

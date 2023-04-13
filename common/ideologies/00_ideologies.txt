@@ -137,6 +137,7 @@ ideologies = {
 			piracy = { can_be_randomly_selected = no }
 			radical_nationalism = { can_be_randomly_selected = no }
 			gekokujo = { can_be_randomly_selected = no }
+			rusism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 13 13 13 }

@@ -185,4 +185,8 @@ defined_text = {
 		trigger = { has_country_leader_ideology = principatus }
 		localization_key = "principatus"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = rusism }
+		localization_key = "rusism"
+	}
 }
