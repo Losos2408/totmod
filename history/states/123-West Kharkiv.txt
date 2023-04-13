@@ -7,7 +7,7 @@ state={
 		add_core_of = KKV
 	}
 	provinces={
-		4563 6810 8121 8144 
+		6810 8121 8144 10985 10987
 	}
 	manpower = 1348134 
 	
