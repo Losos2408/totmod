@@ -15,6 +15,34 @@ spriteTypes = {
 		name = "GFX_SSA_look"
 		texturefile = "gfx/interface/goals/SSA_look.dds"
 	}
+	spriteType = {
+		name = "GFX_SSA_but_what_to_look_for"
+		texturefile = "gfx/interface/goals/SSA_but_what_to_look_for.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_childrens_helping_hand"
+		texturefile = "gfx/interface/goals/SSA_childrens_helping_hand.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_on_the_streets"
+		texturefile = "gfx/interface/goals/SSA_on_the_streets.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_change_shutdown_schedules"
+		texturefile = "gfx/interface/goals/SSA_change_shutdown_schedules.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_in_the_factories"
+		texturefile = "gfx/interface/goals/SSA_in_the_factories.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_tighten_the_belts"
+		texturefile = "gfx/interface/goals/SSA_tighten_the_belts.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_to_the_factories"
+		texturefile = "gfx/interface/goals/SSA_to_the_factories.dds"
+	}
 		spriteType = {
 			name = "GFX_LYB_a_man_with_a_heater"
 			texturefile = "gfx/interface/goals/LYB_a_man_with_a_heater.dds"
