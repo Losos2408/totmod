@@ -43,6 +43,38 @@ spriteTypes = {
 		name = "GFX_SSA_to_the_factories"
 		texturefile = "gfx/interface/goals/SSA_to_the_factories.dds"
 	}
+	spriteType = {
+		name = "GFX_SSA_everyone_has_secrets"
+		texturefile = "gfx/interface/goals/SSA_everyone_has_secrets.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_for_the_problems_on_earth"
+		texturefile = "gfx/interface/goals/SSA_for_the_problems_on_earth.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_get_ready"
+		texturefile = "gfx/interface/goals/SSA_get_ready.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_in_the_hallway"
+		texturefile = "gfx/interface/goals/SSA_in_the_hallway.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_keep_our_eyes_peeled"
+		texturefile = "gfx/interface/goals/SSA_keep_our_eyes_peeled.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_nothing_money_cant_buy"
+		texturefile = "gfx/interface/goals/SSA_nothing_money_cant_buy.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_those_damn_idealists"
+		texturefile = "gfx/interface/goals/SSA_those_damn_idealists.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_tough_times_tough_methods"
+		texturefile = "gfx/interface/goals/SSA_tough_times_tough_methods.dds"
+	}
 		spriteType = {
 			name = "GFX_LYB_a_man_with_a_heater"
 			texturefile = "gfx/interface/goals/LYB_a_man_with_a_heater.dds"
