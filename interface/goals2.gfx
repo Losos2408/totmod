@@ -1,19 +1,19 @@
 spriteTypes = {
 	spriteType = {
 		name = "GFX_SSA_and_the_earth"
-		texturefile = "gfx/interface/goals/SSA_and_the_earth.png"
+		texturefile = "gfx/interface/goals/SSA_and_the_earth.dds"
 	}
 	spriteType = {
 		name = "GFX_SSA_at_the_sky"
-		texturefile = "gfx/interface/goals/SSA_at_the_sky.png"
+		texturefile = "gfx/interface/goals/SSA_at_the_sky.dds"
 	}
 	spriteType = {
 		name = "GFX_SSA_korolevs_heirs"
-		texturefile = "gfx/interface/goals/SSA_korolevs_heirs.png"
+		texturefile = "gfx/interface/goals/SSA_korolevs_heirs.dds"
 	}
 	spriteType = {
 		name = "GFX_SSA_look"
-		texturefile = "gfx/interface/goals/SSA_look.png"
+		texturefile = "gfx/interface/goals/SSA_look.dds"
 	}
 		spriteType = {
 			name = "GFX_LYB_a_man_with_a_heater"
