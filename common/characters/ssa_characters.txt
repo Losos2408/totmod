@@ -10,7 +10,6 @@ characters = {
             desc = "POLITICS_OLEH_URUSKY_DESC"
             ideology = avant_garde_patriotism
             traits = { }
-            desc = x
         }
 	}
 }

@@ -7,9 +7,9 @@ characters = {
             }
         }
         country_leader = {
+            desc = "POLITICS_VISSARION_DESC"
             ideology = theocracy
             traits = {  }
-            desc = x
         }
 	}
 }
