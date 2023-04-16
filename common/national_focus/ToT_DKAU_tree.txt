@@ -278,7 +278,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_for_the_stars_beyond
-	icon = x
+	icon = GFX_SSA_for_the_stars_beyond
 	cost = 1
 	x = 5
 	y = 1
@@ -296,7 +296,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_expand_our_research_institute
-	icon = x
+	icon = GFX_SSA_expand_our_research_institute
 	cost = 1
 	x = -2
 	y = 1
@@ -311,7 +311,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_restart_the_scholarship_program
-	icon = x
+	icon = GFX_SSA_restart_the_scholarship_program
 	cost = 1
 	x = -2
 	y = 2
@@ -326,7 +326,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_recruit_engineers
-	icon = x
+	icon = GFX_SSA_recruit_engineers
 	cost = 1
 	x = -2
 	y = 3
@@ -341,7 +341,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_let_pivdenmash_loose
-	icon = x
+	icon = GFX_SSA_let_pivdenmash_loose
 	cost = 1
 	x = -2
 	y = 4
@@ -356,7 +356,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_inspire_the_people
-	icon = x
+	icon = GFX_SSA_inspire_the_people
 	cost = 1
 	x = 0
 	y = 1
@@ -371,7 +371,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_the_worst_is_over
-	icon = x
+	icon = GFX_SSA_the_worst_is_over
 	cost = 1
 	x = 0
 	y = 2
@@ -386,7 +386,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_we_must_fight_for_present
-	icon = x
+	icon = GFX_SSA_we_must_fight_for_present
 	cost = 1
 	x = 0
 	y = 3
@@ -401,7 +401,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_we_have_a_dream
-	icon = x
+	icon = GFX_SSA_we_have_a_dream
 	cost = 1
 	x = 0
 	y = 4
@@ -416,7 +416,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_council_affairs
-	icon = x
+	icon = GFX_SSA_council_affairs
 	cost = 1
 	x = 2
 	y = 1
@@ -431,7 +431,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_they_are_just_traitors
-	icon = x
+	icon = GFX_LYB_fake_loyalty
 	cost = 1
 	x = 2
 	y = 2
@@ -446,7 +446,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_and_where_do_you_get_so_much_money_from
-	icon = x
+	icon = GFX_SSA_and_where_do_you_get_so_much_money_from
 	cost = 1
 	x = 2
 	y = 3

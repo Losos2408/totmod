@@ -75,6 +75,50 @@ spriteTypes = {
 		name = "GFX_SSA_tough_times_tough_methods"
 		texturefile = "gfx/interface/goals/SSA_tough_times_tough_methods.dds"
 	}
+	spriteType = {
+		name = "GFX_SSA_and_where_do_you_get_so_much_money_from"
+		texturefile = "gfx/interface/goals/SSA_and_where_do_you_get_so_much_money_from.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_council_affairs"
+		texturefile = "gfx/interface/goals/SSA_council_affairs.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_expand_our_research_institute"
+		texturefile = "gfx/interface/goals/SSA_expand_our_research_institute.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_for_the_stars_beyond"
+		texturefile = "gfx/interface/goals/SSA_for_the_stars_beyond.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_inspire_the_people"
+		texturefile = "gfx/interface/goals/SSA_inspire_the_people.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_let_pivdenmash_loose"
+		texturefile = "gfx/interface/goals/SSA_let_pivdenmash_loose.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_recruit_engineers"
+		texturefile = "gfx/interface/goals/SSA_recruit_engineers.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_restart_the_scholarship_program"
+		texturefile = "gfx/interface/goals/SSA_restart_the_scholarship_program.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_the_worst_is_over"
+		texturefile = "gfx/interface/goals/SSA_the_worst_is_over.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_we_have_a_dream"
+		texturefile = "gfx/interface/goals/SSA_we_have_a_dream.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_we_must_fight_for_present"
+		texturefile = "gfx/interface/goals/SSA_we_must_fight_for_present.dds"
+	}
 		spriteType = {
 			name = "GFX_LYB_a_man_with_a_heater"
 			texturefile = "gfx/interface/goals/LYB_a_man_with_a_heater.dds"
