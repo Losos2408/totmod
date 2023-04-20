@@ -476,7 +476,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_korolevs_heirs
-	icon = SSA_korolevs_heirs
+	icon = GFX_SSA_korolevs_heirs
 	cost = 1
 	x = 0
 	y = 5
@@ -497,7 +497,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_we_have_done_everything
-	icon = x
+	icon = GFX_SSA_we_have_done_everything
 	cost = 1
 	x = 0
 	y = 7
@@ -543,7 +543,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_its_time_to_decide
-	icon = x
+	icon = GFX_SSA_its_time_to_decide
 	cost = 1
 	x = 0
 	y = 3

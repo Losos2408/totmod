@@ -119,6 +119,14 @@ spriteTypes = {
 		name = "GFX_SSA_we_must_fight_for_present"
 		texturefile = "gfx/interface/goals/SSA_we_must_fight_for_present.dds"
 	}
+	spriteType = {
+		name = "GFX_SSA_we_have_done_everything"
+		texturefile = "gfx/interface/goals/SSA_we_have_done_everything.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_its_time_to_decide"
+		texturefile = "gfx/interface/goals/SSA_its_time_to_decide.dds"
+	}
 		spriteType = {
 			name = "GFX_LYB_a_man_with_a_heater"
 			texturefile = "gfx/interface/goals/LYB_a_man_with_a_heater.dds"
