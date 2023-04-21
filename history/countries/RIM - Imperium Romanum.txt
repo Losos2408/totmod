@@ -15,3 +15,9 @@ set_popularities = {
 	militarism = 30
 	liberalism = 15
 }
+
+add_ideas = {
+	RIM_prudentia_imperatoris
+	RIM_roma_invicta
+	RIM_quae_dicunt
+}

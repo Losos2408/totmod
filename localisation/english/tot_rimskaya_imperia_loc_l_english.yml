@@ -5,6 +5,10 @@
 
  RIM_Tiberius_Julius_Caesar:0 "Tiberius Julius Caesar"
  
+ RIM_prudentia_imperatoris:0 "Prudentia Imperatoris"
+ RIM_roma_invicta:0 "Roma Invicta?"
+ RIM_quae_dicunt:0 "Quae Dicunt?"
+
  RIM_liberalism_party:0 "Senatus"
  RIM_liberalism_party_long:0 "Senatus"
  RIM_controlled_democracy_party:0 "Princeps Senatus"
