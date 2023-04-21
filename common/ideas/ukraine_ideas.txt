@@ -104,7 +104,7 @@ ideas = {
 
 		RIM_prudentia_imperatoris = {
 
-			picture = x
+			picture = RIM_prudentia_imperatoris
 
 			allowed = {
 				always = no
@@ -118,7 +118,7 @@ ideas = {
 
 		RIM_roma_invicta = {
 
-			picture = x
+			picture = RIM_roma_invicta
 
 			allowed = {
 				always = no
@@ -133,7 +133,7 @@ ideas = {
 		
 		RIM_quae_dicunt = {
 
-			picture = x
+			picture = RIM_quae_dicunt
 
 			allowed = {
 				always = no

@@ -32,4 +32,17 @@ spriteTypes = {
 			name = "GFX_idea_SSA_the_union_divided"
 			texturefile = "gfx/interface/ideas/GFX_idea_SSA_the_union_divided.png"
 	    }
+
+		spriteType = {
+			name = "GFX_idea_RIM_prudentia_imperatoris"
+			texturefile = "gfx/interface/ideas/GFX_idea_RIM_prudentia_imperatoris.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_RIM_roma_invicta"
+			texturefile = "gfx/interface/ideas/GFX_idea_RIM_roma_invicta.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_RIM_quae_dicunt"
+			texturefile = "gfx/interface/ideas/GFX_idea_RIM_quae_dicunt.png"
+	    }
 	}

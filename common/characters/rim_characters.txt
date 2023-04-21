@@ -9,7 +9,7 @@ characters = {
         country_leader = {
             ideology = principatus
             traits = { }
-            desc = x
+            desc = "POLITICS_OCTAVIANUS_AUGUSTUS_DESC"
         }
 		field_marshal = {
 			traits = { }
