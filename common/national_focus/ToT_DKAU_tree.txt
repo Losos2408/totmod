@@ -463,7 +463,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_the_last_strike
-	icon = x
+	icon = GFX_SSA_the_last_strike
 	cost = 1
 	x = 2
 	y = 4

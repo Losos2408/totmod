@@ -127,6 +127,10 @@ spriteTypes = {
 		name = "GFX_SSA_its_time_to_decide"
 		texturefile = "gfx/interface/goals/SSA_its_time_to_decide.dds"
 	}
+	spriteType = {
+		name = "GFX_SSA_the_last_strike"
+		texturefile = "gfx/interface/goals/SSA_the_last_strike.dds"
+	}
 		spriteType = {
 			name = "GFX_LYB_a_man_with_a_heater"
 			texturefile = "gfx/interface/goals/LYB_a_man_with_a_heater.dds"
