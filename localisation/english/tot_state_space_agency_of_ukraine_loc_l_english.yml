@@ -17,10 +17,12 @@
 
  SSA_look: "Look..."
  SSA_look_desc: "To understand the situation around us and to make adequate decisions, we need to grasp our current state of affairs. Let's just say that it's not very good. Our only neighbours, who don't treat us hostile, are the remnants of Ukrainian Armed Forces in Donbass under general Kryvonos, and Kharkiv, ruled by Igor Terekhov. Everybody else want to see us dead.\n\nSituation inside is also quite unstable. The Council of Industrialists and Visioners is divided by Realist and Idealist factions, who don't share many ideas on how to rule the country. The divide between them becomes stronger with every day, which threatens the very existence of our small state.\n\nOur work won't be easy..."
+ SSA_look_tt: "We find ourselves in a situation which could be described as §R"hard" at best§!. For the future of §MUkra§!§Yine§!, of §Ghumanity§!, we need to find solutions - §Rnow§!."
  SSA_at_the_sky: "...At the Sky..."
  SSA_and_the_earth: "...And the Earth"
  SSA_but_what_to_look_for: "But What to Look for?"
  SSA_but_what_to_look_for_desc: "As the situation in the region is stabilizing, which gives other pretenders on unifying Ukraine opportunities to realize their plans, the rivalry between Realists and Idealists is beginning to heat up. We stayed in the middle for quite a long time and tried not to choose any sides, but now, it seems, we can't afford to follow this strategy anymore.\n\nOn one hand, we have the Idealist faction. Those, who despite all troubles and hardships which live sends upon us, remain optimistic and continue to look forward. They are committed to the idea of returning to space until the end, though they admit the importance of nowadays' problems.\n\nOn the other side, there are Realists. Pragmatics, who believe that Ukraine just can't afford to go to space – neither now nor in the future, and that our primary goal should be reunification and defense of Ukraine.\n\nIt is time to choose to whom we will show our mercy, and who shall be kindly asked to "step down"."
+ SSA_but_what_to_look_for_tt: "As we start to understand what happens around us better, we got different proposal from §Qtwo§! §Efactions§! in the Council on how to react to chaos around us. The question is, §Ywhich one we shall follow§!?"
  SSA_for_the_problems_on_earth: "For the Problems on Earth"
  SSA_in_the_factories: "In the Factories"
  SSA_tighten_the_belts: "Tighten Our Belts"
@@ -54,6 +56,7 @@
  SSA_or_well_not: "...Or, Well, Not"
  SSA_its_time_to_decide: "It's Time to Decide"
  SSA_its_time_to_decide_desc: "Our leader, Oleh Urusky, has assembled the emergency meeting of Council of Industrialists and Visioners. The main topic is the situation around our country, which is becoming more and more dangerous. Our neighbours, who weren't wasting their time, are already preparing to make their first moves in direction of reunifying the left bank of Dnipro River. We need to choose our course of actions, with which we'll come out as winners in this fight. We got different proposals from both Realists and Idealists, and now, the time has come to make the most important decision in the history of DKAU."
+ SSA_its_time_to_decide_tt: "It begins. As our neighbors start making their moves and realizing their plans to unify our §Mmother§!§Yland§!, we can't afford to stay idle. §RWe need to choose a course of our directions immediately§!. The time for the most important decision for DKAU has come."
  SSA_vilkul_plan: "Vilkul Plan"
  SSA_a_bitter_remedy: "A Bitter Remedy"
  SSA_benyas_ambition: "Benya's Ambition"
@@ -64,4 +67,5 @@
  SSA_its_time_to_move_out: "It's Time to Move Out"
  SSA_the_left_bank_will_be_ours: "The Left Bank Will Be Ours!"
  SSA_the_left_bank_will_be_ours_desc: "A couple of months ago, the biggest tragedy in the modern history of Ukraine occurred. Without any reason, any explanation, any answers – the whole country was covered in chaos. Since then, the brother has fought against a brother, the father against his child, just as couple of centuries ago, when Zaporizhian Cossacks has lost in the war against the Poles, and Hetmanate was divided in two. But we will amend this mistake. Now, we are finally prepared to fight for today, and for tomorrow.\n\nForwards! The left bank will be ours!"
+ SSA_the_left_bank_will_be_ours_tt: "§RUpered!§!"
  

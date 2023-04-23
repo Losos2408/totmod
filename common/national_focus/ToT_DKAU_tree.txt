@@ -6,6 +6,7 @@ shared_focus = {
 	y = 0
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus SSA_look"
+		custom_effect_tooltip = SSA_look_tt
 	}
 }
 
@@ -54,6 +55,7 @@ shared_focus = {
 	}
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus SSA_but_what_to_look_for"
+		custom_effect_tooltip = SSA_but_what_to_look_for_tt
 	}
 }
 
@@ -553,6 +555,7 @@ shared_focus = {
 	}
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus SSA_its_time_to_decide"
+		custom_effect_tooltip = SSA_its_time_to_decide_tt
 	}
 }
 
@@ -695,5 +698,6 @@ shared_focus = {
 	}
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus SSA_the_left_bank_will_be_ours"
+		custom_effect_tooltip = SSA_the_left_bank_will_be_ours
 	}
 }
