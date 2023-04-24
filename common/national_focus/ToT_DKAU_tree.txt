@@ -561,7 +561,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_vilkul_plan
-	icon = x
+	icon = GFX_SSA_vilkul_plan
 	cost = 1
 	x = -2
 	y = 1
@@ -579,7 +579,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_a_bitter_remedy
-	icon = x
+	icon = GFX_SSA_a_bitter_remedy
 	cost = 1
 	x = -2
 	y = 2
@@ -594,7 +594,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_benyas_ambition
-	icon = x
+	icon = GFX_SSA_benyas_ambition
 	cost = 1
 	x = 2
 	y = 1
@@ -612,7 +612,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_joint_forces
-	icon = x
+	icon = GFX_SSA_joint_forces
 	cost = 1
 	x = 2
 	y = 2
@@ -627,7 +627,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_and_with_the_stroke_of_a_pen
-	icon = x
+	icon = GFX_SSA_and_with_the_stroke_of_a_pen
 	cost = 1
 	x = 0
 	y = 3
