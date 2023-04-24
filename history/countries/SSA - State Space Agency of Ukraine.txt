@@ -1,4 +1,4 @@
-capital = 97
+capital = 165
 
 recruit_character = SSA_Oleh_Urusky
 

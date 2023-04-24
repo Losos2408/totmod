@@ -1,0 +1,16 @@
+
+state={
+	id=165
+	name="STATE_165"
+	history = {
+		owner = SSA
+		add_core_of = SSA
+	}
+	provinces={
+		10989
+	}
+	manpower=968502
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

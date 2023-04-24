@@ -515,7 +515,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_back_to_the_middle_line
-	icon = x
+	icon = GFX_SSA_back_to_the_middle_line
 	cost = 1
 	x = 0
 	y = 1
@@ -530,7 +530,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_or_well_not
-	icon = x
+	icon = GFX_SSA_or_well_not
 	cost = 1
 	x = 0
 	y = 2
@@ -643,7 +643,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_the_fate_is_decided
-	icon = x
+	icon = GFX_SSA_the_fate_is_decided
 	cost = 1
 	x = 0
 	y = 1
@@ -658,7 +658,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_its_getting_hot
-	icon = x
+	icon = GFX_SSA_its_getting_hot
 	cost = 1
 	x = 0
 	y = 2
@@ -673,7 +673,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_its_time_to_move_out
-	icon = x
+	icon = GFX_SSA_its_time_to_move_out
 	cost = 1
 	x = 0
 	y = 3
@@ -688,7 +688,7 @@ shared_focus = {
 
 shared_focus = {
 	id = SSA_the_left_bank_will_be_ours
-	icon = x
+	icon = GFX_SSA_the_left_bank_will_be_ours
 	cost = 1
 	x = 0
 	y = 4

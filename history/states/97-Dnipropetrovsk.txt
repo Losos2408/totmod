@@ -3,8 +3,8 @@ state={
 	id=97
 	name="STATE_97"
 	history = {
-		owner = SSA
-		add_core_of = SSA
+		owner = MKL
+		add_core_of = MKL
 	}
 	provinces={
 		5 3743 4872 6797 8088 8132 8138 

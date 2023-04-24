@@ -151,6 +151,30 @@ spriteTypes = {
 		name = "GFX_SSA_vilkul_plan"
 		texturefile = "gfx/interface/goals/SSA_vilkul_plan.dds"
 	}
+	spriteType = {
+		name = "GFX_SSA_back_to_the_middle_line"
+		texturefile = "gfx/interface/goals/SSA_back_to_the_middle_line.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_its_getting_hot"
+		texturefile = "gfx/interface/goals/SSA_its_getting_hot.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_or_well_not"
+		texturefile = "gfx/interface/goals/SSA_or_well_not.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_the_fate_is_decided"
+		texturefile = "gfx/interface/goals/SSA_the_fate_is_decided.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_its_time_to_move_out"
+		texturefile = "gfx/interface/goals/SSA_its_time_to_move_out.dds"
+	}
+	spriteType = {
+		name = "GFX_SSA_the_left_bank_will_be_ours"
+		texturefile = "gfx/interface/goals/SSA_the_left_bank_will_be_ours.dds"
+	}
 		spriteType = {
 			name = "GFX_LYB_a_man_with_a_heater"
 			texturefile = "gfx/interface/goals/LYB_a_man_with_a_heater.dds"
