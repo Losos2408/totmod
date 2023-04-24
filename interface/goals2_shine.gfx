@@ -3341,11 +3341,11 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-		name = "GFX_SSA_benyas_ambition_shine"
-		texturefile = "gfx/interface/goals/SSA_benyas_ambition.dds"
+		name = "GFX_SSA_bens_ambition_shine"
+		texturefile = "gfx/interface/goals/SSA_bens_ambition.dds"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/SSA_benyas_ambition.dds"
+			animationmaskfile = "gfx/interface/goals/SSA_bens_ambition.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -3358,7 +3358,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/SSA_benyas_ambition.dds"
+			animationmaskfile = "gfx/interface/goals/SSA_bens_ambition.dds"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
