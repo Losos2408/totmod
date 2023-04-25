@@ -17,5 +17,7 @@ add_ideas = {
 }
 
 set_popularities = {
-	controlled_democracy = 100
+	controlled_democracy = 50
+	socialism = 25
+	militarism = 25
 }
