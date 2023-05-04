@@ -1,0 +1,16 @@
+
+state={
+	id=166
+	name="STATE_166"
+	history = {
+		owner = NRL
+		add_core_of = NRL
+	}
+	provinces={
+		4225
+	}
+	manpower=179554
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

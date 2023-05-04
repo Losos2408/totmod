@@ -260,3 +260,7 @@ MVS = {
 	color = rgb { 21 62 107 }
 	color_ui = rgb { 21 62 107 }
 }
+NRL = {
+	color = rgb { 49 48 104 }
+	color_ui = rgb { 49 48 104 }
+}

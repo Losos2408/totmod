@@ -1,0 +1,15 @@
+characters = {
+    NRL_Vladimir_Potanin = {
+        name = NRL_Vladimir_Potanin
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/NRL/Portrait_NRL_Vladimir_Potanin.png"
+            }
+        }
+        country_leader = {
+            ideology = corporate_statism
+            traits = { }
+            desc = x
+        }
+	}
+}
