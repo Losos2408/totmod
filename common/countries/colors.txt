@@ -264,3 +264,7 @@ NRL = {
 	color = rgb { 49 48 104 }
 	color_ui = rgb { 49 48 104 }
 }
+TUV = {
+	color = rgb { 67 98 126 }
+	color_ui = rgb { 67 98 126 }
+}

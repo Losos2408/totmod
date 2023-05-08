@@ -1,0 +1,14 @@
+characters = {
+    TUV_Sergey_Shoigu = {
+        name = TUV_Sergey_Shoigu
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/TUV/Portrait_TUV_Sergey_Shoigu.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+        }
+	}
+}

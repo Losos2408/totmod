@@ -1,0 +1,14 @@
+capital = 167
+
+recruit_character = TUV_Sergey_Shoigu
+
+set_politics = {
+	ruling_party = militarism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	militarism = 100
+}
