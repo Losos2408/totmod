@@ -1,0 +1,15 @@
+state={
+	id=168
+	name="STATE_168"
+	history = {
+		owner = NNG
+		add_core_of = NNG
+	}
+	provinces={
+		240 893 1068 1430 3823 6162 7898 7907
+	}
+	manpower=3119115
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

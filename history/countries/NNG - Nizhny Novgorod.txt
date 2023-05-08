@@ -1,0 +1,14 @@
+capital = 168
+
+recruit_character = NNG_Andrey_Rudoy
+
+set_politics = {
+	ruling_party = communism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	communism = 100
+}

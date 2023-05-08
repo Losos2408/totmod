@@ -1,0 +1,15 @@
+characters = {
+    NNG_Andrey_Rudoy = {
+        name = NNG_Andrey_Rudoy
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/NNG/Portrait_NNG_Andrey_Rudoy.png"
+            }
+        }
+        country_leader = {
+            ideology = communism_default
+            traits = { }
+            desc = x
+        }
+	}
+}
