@@ -4,6 +4,7 @@ recruit_character = ROI_Amiya
 recruit_character = ROI_Kaltsit
 recruit_character = ROI_Closure
 recruit_character = ROI_Dobermann
+recruit_character = ROI_Unknown
 
 set_politics = {
 	ruling_party = controlled_democracy
@@ -13,7 +14,11 @@ set_politics = {
 }
 
 set_popularities = {
-	controlled_democracy = 100
+	controlled_democracy = 60
+	socialism = 14
+	militarism = 15
+	liberalism = 10
+	communism = 1
 }
 
 add_ideas = {

@@ -1,0 +1,47 @@
+ideas = {
+	country = {
+		ROI_Legitimacy_0 = {
+
+			picture = ROI_Legitimacy_0
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				stability_factor = -0.05
+				recruitable_population_factor = -0.1
+				political_power_gain = -0.02
+				army_attack_factor = -0.05
+			}			
+		}
+
+		ROI_Behind_The_Scene = {
+
+			picture = x
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				stability_factor = -0.005
+				political_power_factor = 0.002
+			}			
+		}
+
+		ROI_Extraordinary_Security = {
+
+			picture = x
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				stability_factor = -0.002
+				weekly_manpower = 20000
+				compliance_growth_on_our_occupied_states = 0.005
+				terrain_penalty_reduction = -0.02
+				army_attack_factor = 0.1
+			}			
+		}
+	}
+}

@@ -11,6 +11,11 @@ characters = {
             traits = { }
             desc = x
         }
+        country_leader = {
+            ideology = left_wing_populism
+            traits = { }
+            desc = x
+        }
 	}
     ROI_Kaltsit = {
 		name = ROI_Kaltsit
@@ -20,6 +25,11 @@ characters = {
 				small = "GFX_idea_ROI_minister_Kaltsit"
 			}
 		}
+        country_leader = {
+            ideology = national_patriotism
+            traits = { }
+            desc = x
+        }
 		advisor = {
 			slot = head_of_government
 			idea_token = ROI_Kaltsit_hog
@@ -53,6 +63,11 @@ characters = {
 				small = "GFX_idea_ROI_minister_Closure"
 			}
 		}
+        country_leader = {
+            ideology = libertarianism
+            traits = { }
+            desc = x
+        }
 		advisor = {
 			slot = economy_minister
 			idea_token = ROI_Closure_hog
@@ -86,5 +101,19 @@ characters = {
 			can_be_fired = no
 			ai_will_do = { factor = 0 }
 		}
+	}
+    ROI_Unknown = {
+		name = ROI_Unknown
+		portraits = {
+			civilian = {
+				large = ""
+				small = ""
+			}
+		}
+		country_leader = {
+            ideology = communism_default
+            traits = { }
+            desc = x
+        }
 	}
 }
