@@ -5,10 +5,10 @@
  ROI_Dobermann: "Dobermann"
  ROI_Unknown: "Unknown"
 
- ROI_Kaltsit_hog: "§YInterim President of State Duma\nNational Patriotism§!\n--------------\n§L§!"
- ROI_Kaltsit_for: "§YInterim Secretary of Foreign Affairs\nNational Patriotism§!\n--------------\n§L§!"
- ROI_Closure_eco: "§YInterim Minister of Finance\nLibertarianism§!\n--------------\n§L§!"
- ROI_Dobermann_sec: "§YInterim Director of State Defense\nMilitarism§!\n--------------\n§L§!"
+ ROI_Kaltsit_hog_desc: "§YInterim President of State Duma\nNational Patriotism§!\n--------------\n§L§!"
+ ROI_Kaltsit_for_desc: "§YInterim Secretary of Foreign Affairs\nNational Patriotism§!\n--------------\n§L§!"
+ ROI_Closure_eco_desc: "§YInterim Minister of Finance\nLibertarianism§!\n--------------\n§L§!"
+ ROI_Dobermann_sec_desc: "§YInterim Director of State Defense\nMilitarism§!\n--------------\n§L§!"
 
  ROI_controlled_democracy_party: "ChAS"
  ROI_controlled_democracy_party_long: "Chrezvychaynyy Administrativnyy Sovet"

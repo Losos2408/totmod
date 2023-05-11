@@ -26,4 +26,8 @@ add_ideas = {
 	ROI_Kaltsit_for
 	ROI_Closure_hog
 	ROI_Dobermann_sec
+
+	ROI_Legitimacy_0
+	ROI_Behind_The_Scene
+	ROI_Extraordinary_Security
 }
