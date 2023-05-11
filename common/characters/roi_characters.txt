@@ -7,9 +7,84 @@ characters = {
             }
         }
         country_leader = {
-            ideology = corporate_statism
+            ideology = provisional_government
             traits = { }
             desc = x
         }
+	}
+    ROI_Kaltsit = {
+		name = ROI_Kaltsit
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ROI/Portrait_ROI_Kaltsit.png"
+				small = "GFX_idea_ROI_minister_Kaltsit"
+			}
+		}
+		advisor = {
+			slot = head_of_government
+			idea_token = ROI_Kaltsit_hog
+			allowed = { original_tag = ROI }
+			traits = {
+				head_of_government
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+        advisor = {
+			slot = foreign_minister
+			idea_token = ROI_Kaltsit_for
+			allowed = { original_tag = ROI }
+			traits = {
+				foreign_minister
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
+    ROI_Closure = {
+		name = ROI_Closure
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ROI/Portrait_ROI_Closure.png"
+				small = "GFX_idea_ROI_minister_Closure"
+			}
+		}
+		advisor = {
+			slot = economy_minister
+			idea_token = ROI_Closure_hog
+			allowed = { original_tag = ROI }
+			traits = {
+				economy_minister
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
+    ROI_Dobermann = {
+		name = ROI_Dobermann
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ROI/Portrait_ROI_Dobermann.png"
+				small = "GFX_idea_ROI_minister_Dobermann"
+			}
+		}
+		advisor = {
+			slot = security_minister
+			idea_token = ROI_Dobermann_sec
+			allowed = { original_tag = ROI }
+			traits = {
+				security_minister
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
 	}
 }

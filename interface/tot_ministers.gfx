@@ -1,0 +1,14 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_idea_ROI_minister_Closure"
+		texturefile = "gfx/interface/ideas/ministers/ROI/ROI_minister_Closure.png"
+	}
+	spriteType = {
+		name = "GFX_idea_ROI_minister_Dobermann"
+		texturefile = "gfx/interface/ideas/ministers/ROI/ROI_minister_Dobermann.png"
+	}
+	spriteType = {
+		name = "GFX_idea_ROI_minister_Kaltsit"
+		texturefile = "gfx/interface/ideas/ministers/ROI/ROI_minister_Kaltsit.png"
+	}
+}

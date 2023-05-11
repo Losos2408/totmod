@@ -1,14 +1,24 @@
 capital = 151
 
 recruit_character = ROI_Amiya
+recruit_character = ROI_Kaltsit
+recruit_character = ROI_Closure
+recruit_character = ROI_Dobermann
 
 set_politics = {
-	ruling_party = militarism
+	ruling_party = controlled_democracy
 	last_election = "2022.30.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	militarism = 100
+	controlled_democracy = 100
+}
+
+add_ideas = {
+	ROI_Kaltsit_hog
+	ROI_Kaltsit_for
+	ROI_Closure_hog
+	ROI_Dobermann_sec
 }
