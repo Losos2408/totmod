@@ -10,16 +10,16 @@
  ROI_Closure_eco: "§YInterim Minister of Finance\nLibertarianism§!\n--------------\n§L§!"
  ROI_Dobermann_sec: "§YInterim Director of State Defense\nMilitarism§!\n--------------\n§L§!"
 
- ROI_controlled_democracy: "ChAS"
- ROI_controlled_democracy_long: "Chrezvychaynyy Administrativnyy Sovet"
- ROI_socialism: "ChAS - Hope"D
- ROI_socialism_long: "Chrezvychaynyy Administrativnyy Sovet - Hope"
- ROI_militarism: "ChAS - Truth"
- ROI_militarism_long: "Chrezvychaynyy Administrativnyy Sovet - Truth"
- ROI_liberalism: "ChAS - Greed"
- ROI_liberalism_long: "Chrezvychaynyy Administrativnyy Sovet - Greed"
- ROI_communism: "Unknown Opposition"
- ROI_communism_long: "Unknown Opposition"
+ ROI_controlled_democracy_party: "ChAS"
+ ROI_controlled_democracy_party_long: "Chrezvychaynyy Administrativnyy Sovet"
+ ROI_socialism_party: "ChAS - Hope"D
+ ROI_socialism_party_long: "Chrezvychaynyy Administrativnyy Sovet - Hope"
+ ROI_militarism_party: "ChAS - Truth"
+ ROI_militarism_party_long: "Chrezvychaynyy Administrativnyy Sovet - Truth"
+ ROI_liberalism_party: "ChAS - Greed"
+ ROI_liberalism_party_long: "Chrezvychaynyy Administrativnyy Sovet - Greed"
+ ROI_communism_party: "Unknown Opposition"
+ ROI_communism_party_long: "Unknown Opposition"
 
  ROI_Legitimacy_0: "Legitimacy - §RShacky§!"
  ROI_Legitimacy_0_desc: ""
