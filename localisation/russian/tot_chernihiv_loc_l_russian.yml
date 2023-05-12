@@ -3,6 +3,15 @@
  CNH_Vladyslav_Atroshenko: "Владислав Атрошенко"
  CNH_Leonid_Kuchma: "Леонід Кучма"
  CNH_Pavlo_Lazarenko: "Павло Лазаренко"
+ CNH_Pavlo_Vovk: "Павло Вовк"
+ CNH_Vasyl_Vilogura: "Василь Вілогура"
+ CNH_Viacheslav_Pochep: "В'ячеслав Почеп"
+ CNH_Olga_Malets: "Ольга Малець"
+
+ CNH_Pavlo_Vovk_hog_desc: "§YГлава правительства\nСоциализм\nРабочая Лошадка§!\n--------------\n§L§!"
+ CNH_Vasyl_Vilogura_for_desc: "§YМинистр иностранных дел\nКонтролируемая демократия\nОбаятельный льстец§!\n--------------\n§L§!"
+ CNH_Viacheslav_Pochep_eco_desc: "§YМинистр экономики\nКонсерватизм\nКапиталист§!\n--------------\n§L§!"
+ CNH_Olga_Malets_sec_desc: "§YМинистр безопасности\nКонсерватизм\nГений тактики§!\n--------------\n§L§!"
 
  CNH_socialism_party: "РПОЛ"
  CNH_socialism_party_long: "Радикальна Партія Олега Ляшка"

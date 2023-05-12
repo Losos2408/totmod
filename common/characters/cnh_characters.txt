@@ -51,4 +51,88 @@ characters = {
             desc = x
         }
 	}
+
+    CNH_Pavlo_Vovk = {
+        name = CNH_Pavlo_Vovk
+        portraits = {
+            civilian = {
+                small = "GFX_idea_CNH_minister_Pavlo_Vovk"
+            }
+        }
+        advisor = {
+			slot = head_of_government
+			idea_token = CNH_Pavlo_Vovk_hog
+			allowed = { original_tag = CNH }
+			traits = {
+				head_of_government
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
+    
+    CNH_Vasyl_Vilogura = {
+        name = CNH_Vasyl_Vilogura
+        portraits = {
+            civilian = {
+                small = "GFX_idea_CNH_minister_Vasyl_Vilogura"
+            }
+        }
+        advisor = {
+			slot = foreign_minister
+			idea_token = CNH_Vasyl_Vilogura_for
+			allowed = { original_tag = CNH }
+			traits = {
+				foreign_minister
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
+
+    CNH_Viacheslav_Pochep = {
+        name = CNH_Viacheslav_Pochep
+        portraits = {
+            civilian = {
+                small = "GFX_idea_CNH_minister_Viacheslav_Pochep"
+            }
+        }
+        advisor = {
+			slot = economy_minister
+			idea_token = CNH_Viacheslav_Pochep_eco
+			allowed = { original_tag = CNH }
+			traits = {
+				economy_minister
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
+
+    CNH_Olga_Malets = {
+        name = CNH_Olga_Malets
+        portraits = {
+            civilian = {
+                small = "GFX_idea_CNH_minister_Olga_Malets"
+            }
+        }
+        advisor = {
+			slot = security_minister
+			idea_token = CNH_Olga_Malets_sec
+			allowed = { original_tag = CNH }
+			traits = {
+				security_minister
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
 }

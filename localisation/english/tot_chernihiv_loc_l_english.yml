@@ -3,6 +3,15 @@
  CNH_Vladyslav_Atroshenko: "Vladyslav Atroshenko"
  CNH_Leonid_Kuchma: "Leonid Kuchma"
  CNH_Pavlo_Lazarenko: "Pavlo Lazarenko"
+ CNH_Pavlo_Vovk: "Pavlo Vovk"
+ CNH_Vasyl_Vilogura: "Vasiliy Vilogura"
+ CNH_Viacheslav_Pochep: "Viacheslav Pochep"
+ CNH_Olga_Malets: "Olga Malets"
+
+ CNH_Pavlo_Vovk_hog_desc: "§YHead of Government\nSocialism\nWorkhorse§!\n--------------\n§L§!"
+ CNH_Vasyl_Vilogura_for_desc: "§YForeign Minister\nControlled Democracy\nSmooth-Talking Charmer§!\n--------------\n§L§!"
+ CNH_Viacheslav_Pochep_eco_desc: "§YEconomy Minister\nConservatism\nCapitalist§!\n--------------\n§L§!"
+ CNH_Olga_Malets_sec_desc: "§YSecurity Minister\nConservatism\nTactician Genius§!\n--------------\n§L§!"
 
  CNH_socialism_party: "RPOL"
  CNH_socialism_party_long: "Radykalna Partiia Oleha Liashka"

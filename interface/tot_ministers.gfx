@@ -11,4 +11,21 @@ spriteTypes = {
 		name = "GFX_idea_ROI_minister_Kaltsit"
 		texturefile = "gfx/interface/ideas/ministers/ROI/ROI_minister_Kaltsit.png"
 	}
+
+	spriteType = {
+		name = "GFX_idea_CNH_minister_Olga_Malets"
+		texturefile = "gfx/interface/ideas/ministers/CNH/CNH_minister_Olga_Malets.png"
+	}
+	spriteType = {
+		name = "GFX_idea_CNH_minister_Pavlo_Vovk"
+		texturefile = "gfx/interface/ideas/ministers/CNH/CNH_minister_Pavlo_Vovk.png"
+	}
+	spriteType = {
+		name = "GFX_idea_CNH_minister_Vasyl_Vilogura"
+		texturefile = "gfx/interface/ideas/ministers/CNH/CNH_minister_Vasyl_Vilogura.png"
+	}
+	spriteType = {
+		name = "GFX_idea_CNH_minister_Viacheslav_Pochep"
+		texturefile = "gfx/interface/ideas/ministers/CNH/CNH_minister_Viacheslav_Pochep.png"
+	}
 }

@@ -4,6 +4,10 @@ recruit_character = CNH_Oleh_Liashko
 recruit_character = CNH_Vladyslav_Atroshenko
 recruit_character = CNH_Leonid_Kuchma
 recruit_character = CNH_Pavlo_Lazarenko
+recruit_character = CNH_Pavlo_Vovk
+recruit_character = CNH_Vasyl_Vilogura
+recruit_character = CNH_Viacheslav_Pochep
+recruit_character = CNH_Olga_Malets
 
 set_politics = {
 	ruling_party = socialism
@@ -16,4 +20,11 @@ set_popularities = {
 	socialism = 75
 	radicalism = 20
 	controlled_democracy = 5
+}
+
+add_ideas = {
+	CNH_Pavlo_Vovk_hog
+	CNH_Vasyl_Vilogura_for
+	CNH_Viacheslav_Pochep_eco
+	CNH_Olga_Malets_sec
 }
