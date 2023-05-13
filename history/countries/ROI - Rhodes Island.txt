@@ -4,7 +4,7 @@ recruit_character = ROI_Amiya
 recruit_character = ROI_Kaltsit
 recruit_character = ROI_Closure
 recruit_character = ROI_Dobermann
-recruit_character = ROI_Unknown
+recruit_character = ROI_Zima
 
 set_politics = {
 	ruling_party = controlled_democracy
@@ -30,4 +30,6 @@ add_ideas = {
 	ROI_Legitimacy_0
 	ROI_Behind_The_Scene
 	ROI_Extraordinary_Security
+	ROI_Disappeared_Haimao
+	ROI_Civil_Rights_0
 }

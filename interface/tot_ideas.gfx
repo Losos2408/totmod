@@ -1,6 +1,22 @@
 spriteTypes = {
-		spriteType = {
-			name = "GFX_idea_ROI_Legitimacy_0"
-			texturefile = "gfx/interface/ideas/GFX_idea_ROI_Legitimacy_0.png"
-	    }
-	}
+	spriteType = {
+		name = "GFX_idea_ROI_Legitimacy_0"
+		texturefile = "gfx/interface/ideas/GFX_idea_ROI_Legitimacy_0.png"
+    }
+	spriteType = {
+		name = "GFX_idea_ROI_Behind_The_Scene"
+		texturefile = "gfx/interface/ideas/GFX_idea_ROI_Behind_The_Scene.png"
+    }
+	spriteType = {
+		name = "GFX_idea_ROI_Extraordinary_Security"
+		texturefile = "gfx/interface/ideas/GFX_idea_ROI_Extraordinary_Security.png"
+    }
+	spriteType = {
+		name = "GFX_idea_ROI_Disappeared_Haimao"
+		texturefile = "gfx/interface/ideas/GFX_idea_ROI_Disappeared_Haimao.png"
+    }
+	spriteType = {
+		name = "GFX_idea_ROI_Civil_Rights_0"
+		texturefile = "gfx/interface/ideas/GFX_idea_ROI_Civil_Rights_0.png"
+    }
+}

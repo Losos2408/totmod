@@ -102,8 +102,8 @@ characters = {
 			ai_will_do = { factor = 0 }
 		}
 	}
-    ROI_Unknown = {
-		name = ROI_Unknown
+    ROI_Zima = {
+		name = ROI_Zima
 		portraits = {
 			civilian = {
 				large = ""

@@ -17,7 +17,7 @@ ideas = {
 
 		ROI_Behind_The_Scene = {
 
-			picture = x
+			picture = ROI_Behind_The_Scene
 
 			allowed = {
 				always = no
@@ -30,7 +30,7 @@ ideas = {
 
 		ROI_Extraordinary_Security = {
 
-			picture = x
+			picture = ROI_Extraordinary_Security
 
 			allowed = {
 				always = no
@@ -41,6 +41,36 @@ ideas = {
 				compliance_growth_on_our_occupied_states = 0.005
 				terrain_penalty_reduction = -0.02
 				army_attack_factor = 0.1
+			}			
+		}
+
+		ROI_Disappeared_Haimao = {
+
+			picture = ROI_Disappeared_Haimao
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				custom_modifier_tooltip = ROI_Disappeared_Haimao_tt
+				stability_factor = -0.1
+				army_org_regain = -0.1
+				political_power_gain = -0.5
+			}			
+		}
+
+		ROI_Civil_Rights_0 = {
+
+			picture = ROI_Civil_Rights_0
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				stability_factor = -0.2
+				weekly_manpower = -10
+				resistance_activity = 0.1
+				political_power_gain = -0.2
 			}			
 		}
 	}
