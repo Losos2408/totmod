@@ -12,4 +12,84 @@ characters = {
             desc = UKR_Volodymyr_Zelenskyy_desc
         }
 	}
+    UKR_Denys_Shmyhal = {
+        name = UKR_Denys_Shmyhal
+        portraits = {
+            civilian = {
+                small = "GFX_idea_UKR_minister_Denys_Shmyhal"
+            }
+        }
+        advisor = {
+			slot = head_of_government
+			idea_token = UKR_Denys_Shmyhal_hog
+			allowed = { original_tag = UKR }
+			traits = {
+				head_of_government
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
+    UKR_Dmytro_Kuleba = {
+        name = UKR_Dmytro_Kuleba
+        portraits = {
+            civilian = {
+                small = "GFX_idea_UKR_minister_Dmytro_Kuleba"
+            }
+        }
+        advisor = {
+			slot = foreign_minister
+			idea_token = UKR_Dmytro_Kuleba_for
+			allowed = { original_tag = UKR }
+			traits = {
+				foreign_minister
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
+    UKR_Serhiy_Marchenko = {
+        name = UKR_Serhiy_Marchenko
+        portraits = {
+            civilian = {
+                small = "GFX_idea_UKR_minister_Serhiy_Marchenko"
+            }
+        }
+        advisor = {
+			slot = economy_minister
+			idea_token = UKR_Serhiy_Marchenko_eco
+			allowed = { original_tag = UKR }
+			traits = {
+				economy_minister
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
+    UKR_Denys_Monastyrsky = {
+        name = UKR_Denys_Monastyrsky
+        portraits = {
+            civilian = {
+                small = "GFX_idea_UKR_minister_Denys_Monastyrsky"
+            }
+        }
+        advisor = {
+			slot = security_minister
+			idea_token = UKR_Denys_Monastyrsky_sec
+			allowed = { original_tag = UKR }
+			traits = {
+				security_minister
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
 }

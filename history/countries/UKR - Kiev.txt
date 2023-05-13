@@ -1,6 +1,10 @@
 capital = 124
 
 recruit_character = UKR_Volodymyr_Zelenskyy
+recruit_character = UKR_Denys_Shmyhal
+recruit_character = UKR_Dmytro_Kuleba
+recruit_character = UKR_Serhiy_Marchenko
+recruit_character = UKR_Denys_Monastyrsky
 
 set_politics = {
 	ruling_party = controlled_democracy
@@ -14,6 +18,11 @@ UKR_Wake_up_Ukraine
 UKR_house_of_cards
 UKR_our_western_friends
 UKR_AFU_condition
+
+UKR_Denys_Shmyhal_hog
+UKR_Dmytro_Kuleba_for
+UKR_Serhiy_Marchenko_eco
+UKR_Denys_Monastyrsky_sec
 }
 
 set_popularities = {
