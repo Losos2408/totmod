@@ -1,0 +1,300 @@
+" 12:00, 1 December, 1963",United States of America,RD_pie,0.284,0.205,current_pres,1,RD_Unity,25,
+" 12:00, 1 December, 1963",United States of America,NPP_pie,0,0.286,0,0.223,NPP_Unity,20
+" 12:00, 1 December, 1963",Ohio,RD,0.539,NPP,0.825
+" 12:00, 1 December, 1963",Connecticut,RD,0.697,NPP,0.57
+" 12:00, 1 December, 1963",New York,RD,0.72,NPP,0.694
+" 12:00, 1 December, 1963",New Jersey,RD,0.585,NPP,0.767
+" 12:00, 1 December, 1963",Pennsylvania,RD,0.582,NPP,0.865
+" 12:00, 1 December, 1963",Maryland,RD,1.048,NPP,0.326
+" 12:00, 1 December, 1963",Virginia,RD,0.457,NPP,0.899
+" 12:00, 1 December, 1963",North Carolina,RD,0.588,NPP,0.894
+" 12:00, 1 December, 1963",South Carolina,RD,0.244,NPP,1.167
+" 12:00, 1 December, 1963",Georgia,RD,0.751,NPP,0.6
+" 12:00, 1 December, 1963",Florida,RD,0.546,NPP,0.729
+" 12:00, 1 December, 1963",Alabama,RD,0.548,NPP,0.88
+" 12:00, 1 December, 1963",Tennessee,RD,0.826,NPP,0.526
+" 12:00, 1 December, 1963",Kentucky,RD,0.926,NPP,0.435
+" 12:00, 1 December, 1963",Mississippi,RD,0.547,NPP,0.722
+" 12:00, 1 December, 1963",Louisiana,RD,0.847,NPP,0.551
+" 12:00, 1 December, 1963",Arkansas,RD,0.891,NPP,0.619
+" 12:00, 1 December, 1963",Missouri,RD,1.108,NPP,0.283
+" 12:00, 1 December, 1963",Oklahoma,RD,1.013,NPP,0.487
+" 12:00, 1 December, 1963",Texas,RD,0.537,NPP,0.899
+" 12:00, 1 December, 1963",New Mexico,RD,0.863,NPP,0.672
+" 12:00, 1 December, 1963",Arizona,RD,1.052,NPP,0.327
+" 12:00, 1 December, 1963",California,RD,0.994,NPP,0.567
+" 12:00, 1 December, 1963",Nevada,RD,0.889,NPP,0.485
+" 12:00, 1 December, 1963",Utah,RD,1.088,NPP,0.366
+" 12:00, 1 December, 1963",Wyoming,RD,1.044,NPP,0.342
+" 12:00, 1 December, 1963",Colorado,RD,1.098,NPP,0.315
+" 12:00, 1 December, 1963",Kansas,RD,1.038,NPP,0.5
+" 12:00, 1 December, 1963",Nebraska,RD,0.927,NPP,0.513
+" 12:00, 1 December, 1963",Oregon,RD,0.598,NPP,0.76
+" 12:00, 1 December, 1963",Washington,RD,0.7,NPP,0.704
+" 12:00, 1 December, 1963",Idaho,RD,0.998,NPP,0.363
+" 12:00, 1 December, 1963",Montana,RD,0.894,NPP,0.508
+" 12:00, 1 December, 1963",North Dakota,RD,1.145,NPP,0.304
+" 12:00, 1 December, 1963",South Dakota,RD,1.081,NPP,0.316
+" 12:00, 1 December, 1963",Minnesota,RD,0.744,NPP,0.745
+" 12:00, 1 December, 1963",Iowa,RD,0.877,NPP,0.548
+" 12:00, 1 December, 1963",Michigan,RD,0.916,NPP,0.392
+" 12:00, 1 December, 1963",Wisconsin,RD,0.75,NPP,0.505
+" 12:00, 1 December, 1963",Illinois,RD,0.803,NPP,0.59
+" 12:00, 1 December, 1963",Indiana,RD,1.022,NPP,0.466
+" 12:00, 1 December, 1963",Alaska,RD,0.889,NPP,0.522
+" 12:00, 1 December, 1963",Rhode Island,RD,0.693,NPP,0.57
+" 12:00, 1 December, 1963",Massachusetts,RD,0.623,NPP,0.677
+" 12:00, 1 December, 1963",Vermont,RD,0.886,NPP,0.561
+" 12:00, 1 December, 1963",New Hampshire,RD,0.689,NPP,0.658
+" 12:00, 1 December, 1963",Maine,RD,0.581,NPP,0.698
+" 12:00, 1 December, 1963",West Virginia,RD,0.478,NPP,0.81
+" 12:00, 1 December, 1963",Delaware,RD,0.822,NPP,0.415
+" 12:00, 1 December, 1963",Ohio,Bonus,,Popularity,,R,0.65,D,0.4,L,0.003,C,0.616,F,0.43,Y,0.007
+" 12:00, 1 December, 1963",Connecticut,Bonus,,Popularity,,R,0.65,D,0.4,L,0.008,C,0.881,F,0.246,Y,0.002
+" 12:00, 1 December, 1963",New York,Bonus,,Popularity,,R,0.75,D,0.3,L,0.006,C,0.806,F,0.271,Y,0.004
+" 12:00, 1 December, 1963",New Jersey,Bonus,,Popularity,,R,0.6,D,0.45,L,0.003,C,0.772,F,0.319,Y,0.007
+" 12:00, 1 December, 1963",Pennsylvania,Bonus,,Popularity,,R,0.65,D,0.4,L,0.006,C,0.791,F,0.344,Y,0.004
+" 12:00, 1 December, 1963",Maryland,Bonus,,Popularity,,R,0.65,D,0.4,L,0.003,C,0.657,F,0.492,Y,0.007
+" 12:00, 1 December, 1963",Virginia,Bonus,,Popularity,,R,0.45,D,0.6,L,0.003,C,0.205,F,0.841,Y,0.007
+" 12:00, 1 December, 1963",North Carolina,Bonus,,Popularity,,R,0.35,D,0.7,L,0.003,C,0.324,F,0.766,Y,0.007
+" 12:00, 1 December, 1963",South Carolina,Bonus,,Popularity,,R,0.25,D,0.8,L,0.001,C,0.29,F,0.891,Y,0.009
+" 12:00, 1 December, 1963",Georgia,Bonus,,Popularity,,R,0.25,D,0.8,L,0.001,C,0.182,F,0.93,Y,0.009
+" 12:00, 1 December, 1963",Florida,Bonus,,Popularity,,R,0.35,D,0.7,L,0.004,C,0.38,F,0.705,Y,0.006
+" 12:00, 1 December, 1963",Alabama,Bonus,,Popularity,,R,0.25,D,0.8,L,0.001,C,0.149,F,0.98,Y,0.009
+" 12:00, 1 December, 1963",Tennessee,Bonus,,Popularity,,R,0.45,D,0.6,L,0.002,C,0.365,F,0.701,Y,0.008
+" 12:00, 1 December, 1963",Kentucky,Bonus,,Popularity,,R,0.65,D,0.4,L,0.003,C,0.307,F,0.726,Y,0.007
+" 12:00, 1 December, 1963",Mississippi,Bonus,,Popularity,,R,0.25,D,0.8,L,0.001,C,0.232,F,0.851,Y,0.009
+" 12:00, 1 December, 1963",Louisiana,Bonus,,Popularity,,R,0.25,D,0.8,L,0.003,C,0.274,F,0.8,Y,0.007
+" 12:00, 1 December, 1963",Arkansas,Bonus,,Popularity,,R,0.25,D,0.8,L,0.001,C,0.19,F,0.898,Y,0.009
+" 12:00, 1 December, 1963",Missouri,Bonus,,Popularity,,R,0.65,D,0.4,L,0.002,C,0.492,F,0.641,Y,0.008
+" 12:00, 1 December, 1963",Oklahoma,Bonus,,Popularity,,R,0.55,D,0.5,L,0.003,C,0.407,F,0.616,Y,0.007
+" 12:00, 1 December, 1963",Texas,Bonus,,Popularity,,R,0.55,D,0.5,L,0.001,C,0.373,F,0.764,Y,0.009
+" 12:00, 1 December, 1963",New Mexico,Bonus,,Popularity,,R,0.6,D,0.45,L,0.003,C,0.792,F,0.312,Y,0.007
+" 12:00, 1 December, 1963",Arizona,Bonus,,Popularity,,R,0.55,D,0.5,L,0.006,C,0.74,F,0.337,Y,0.004
+" 12:00, 1 December, 1963",California,Bonus,,Popularity,,R,0.75,D,0.3,L,0.007,C,0.683,F,0.486,Y,0.003
+" 12:00, 1 December, 1963",Nevada,Bonus,,Popularity,,R,0.7,D,0.35,L,0.003,C,0.625,F,0.434,Y,0.007
+" 12:00, 1 December, 1963",Utah,Bonus,,Popularity,,R,0.25,D,0.8,L,0.001,C,0.267,F,0.859,Y,0.009
+" 12:00, 1 December, 1963",Wyoming,Bonus,,Popularity,,R,0.6,D,0.45,L,0.002,C,0.315,F,0.725,Y,0.008
+" 12:00, 1 December, 1963",Colorado,Bonus,,Popularity,,R,0.45,D,0.6,L,0.006,C,0.658,F,0.45,Y,0.004
+" 12:00, 1 December, 1963",Kansas,Bonus,,Popularity,,R,0.5,D,0.55,L,0.003,C,0.4,F,0.698,Y,0.007
+" 12:00, 1 December, 1963",Nebraska,Bonus,,Popularity,,R,0.4,D,0.65,L,0.003,C,0.443,F,0.646,Y,0.007
+" 12:00, 1 December, 1963",Oregon,Bonus,,Popularity,,R,0.75,D,0.3,L,0.007,C,0.891,F,0.271,Y,0.003
+" 12:00, 1 December, 1963",Washington,Bonus,,Popularity,,R,0.75,D,0.3,L,0.007,C,0.833,F,0.296,Y,0.003
+" 12:00, 1 December, 1963",Idaho,Bonus,,Popularity,,R,0.35,D,0.7,L,0.002,C,0.776,F,0.368,Y,0.008
+" 12:00, 1 December, 1963",Montana,Bonus,,Popularity,,R,0.35,D,0.7,L,0.002,C,0.541,F,0.593,Y,0.008
+" 12:00, 1 December, 1963",North Dakota,Bonus,,Popularity,,R,0.65,D,0.4,L,0.003,C,0.443,F,0.618,Y,0.007
+" 12:00, 1 December, 1963",South Dakota,Bonus,,Popularity,,R,0.75,D,0.3,L,0.002,C,0.408,F,0.607,Y,0.008
+" 12:00, 1 December, 1963",Minnesota,Bonus,,Popularity,,R,0.7,D,0.35,L,0.006,C,0.851,F,0.232,Y,0.004
+" 12:00, 1 December, 1963",Iowa,Bonus,,Popularity,,R,0.55,D,0.5,L,0.003,C,0.476,F,0.657,Y,0.007
+" 12:00, 1 December, 1963",Michigan,Bonus,,Popularity,,R,0.6,D,0.45,L,0.007,C,0.568,F,0.532,Y,0.003
+" 12:00, 1 December, 1963",Wisconsin,Bonus,,Popularity,,R,0.6,D,0.45,L,0.004,C,0.734,F,0.404,Y,0.006
+" 12:00, 1 December, 1963",Illinois,Bonus,,Popularity,,R,0.65,D,0.4,L,0.007,C,0.703,F,0.379,Y,0.003
+" 12:00, 1 December, 1963",Indiana,Bonus,,Popularity,,R,0.5,D,0.55,L,0.002,C,0.651,F,0.404,Y,0.008
+" 12:00, 1 December, 1963",Alaska,Bonus,,Popularity,,R,0.65,D,0.4,L,0.004,C,0.615,F,0.501,Y,0.006
+" 12:00, 1 December, 1963",Rhode Island,Bonus,,Popularity,,R,0.7,D,0.35,L,0.004,C,0.765,F,0.391,Y,0.006
+" 12:00, 1 December, 1963",Massachusetts,Bonus,,Popularity,,R,0.65,D,0.4,L,0.008,C,0.813,F,0.257,Y,0.002
+" 12:00, 1 December, 1963",Vermont,Bonus,,Popularity,,R,0.75,D,0.3,L,0.005,C,0.532,F,0.505,Y,0.005
+" 12:00, 1 December, 1963",New Hampshire,Bonus,,Popularity,,R,0.55,D,0.5,L,0.003,C,0.498,F,0.63,Y,0.007
+" 12:00, 1 December, 1963",Maine,Bonus,,Popularity,,R,0.45,D,0.6,L,0.003,C,0.44,F,0.655,Y,0.007
+" 12:00, 1 December, 1963",West Virginia,Bonus,,Popularity,,R,0.45,D,0.6,L,0.002,C,0.265,F,0.826,Y,0.008
+" 12:00, 1 December, 1963",Delaware,Bonus,,Popularity,,R,0.65,D,0.4,L,0.006,C,0.708,F,0.351,Y,0.004
+" 12:00, 31 December, 1963",United States of America,RD_pie,0.284,0.205,current_pres,1,RD_Unity,25,
+" 12:00, 31 December, 1963",United States of America,NPP_pie,0,0.286,0,0.223,NPP_Unity,20
+" 12:00, 31 December, 1963",Ohio,RD,0.539,NPP,0.825
+" 12:00, 31 December, 1963",Connecticut,RD,0.697,NPP,0.57
+" 12:00, 31 December, 1963",New York,RD,0.72,NPP,0.694
+" 12:00, 31 December, 1963",New Jersey,RD,0.585,NPP,0.767
+" 12:00, 31 December, 1963",Pennsylvania,RD,0.582,NPP,0.865
+" 12:00, 31 December, 1963",Maryland,RD,1.048,NPP,0.326
+" 12:00, 31 December, 1963",Virginia,RD,0.457,NPP,0.899
+" 12:00, 31 December, 1963",North Carolina,RD,0.588,NPP,0.894
+" 12:00, 31 December, 1963",South Carolina,RD,0.244,NPP,1.167
+" 12:00, 31 December, 1963",Georgia,RD,0.751,NPP,0.6
+" 12:00, 31 December, 1963",Florida,RD,0.546,NPP,0.729
+" 12:00, 31 December, 1963",Alabama,RD,0.548,NPP,0.88
+" 12:00, 31 December, 1963",Tennessee,RD,0.826,NPP,0.526
+" 12:00, 31 December, 1963",Kentucky,RD,0.926,NPP,0.435
+" 12:00, 31 December, 1963",Mississippi,RD,0.547,NPP,0.722
+" 12:00, 31 December, 1963",Louisiana,RD,0.847,NPP,0.551
+" 12:00, 31 December, 1963",Arkansas,RD,0.891,NPP,0.619
+" 12:00, 31 December, 1963",Missouri,RD,1.108,NPP,0.283
+" 12:00, 31 December, 1963",Oklahoma,RD,1.013,NPP,0.487
+" 12:00, 31 December, 1963",Texas,RD,0.537,NPP,0.899
+" 12:00, 31 December, 1963",New Mexico,RD,0.863,NPP,0.672
+" 12:00, 31 December, 1963",Arizona,RD,1.052,NPP,0.327
+" 12:00, 31 December, 1963",California,RD,0.994,NPP,0.567
+" 12:00, 31 December, 1963",Nevada,RD,0.889,NPP,0.485
+" 12:00, 31 December, 1963",Utah,RD,1.088,NPP,0.366
+" 12:00, 31 December, 1963",Wyoming,RD,1.044,NPP,0.342
+" 12:00, 31 December, 1963",Colorado,RD,1.098,NPP,0.315
+" 12:00, 31 December, 1963",Kansas,RD,1.038,NPP,0.5
+" 12:00, 31 December, 1963",Nebraska,RD,0.927,NPP,0.513
+" 12:00, 31 December, 1963",Oregon,RD,0.598,NPP,0.76
+" 12:00, 31 December, 1963",Washington,RD,0.7,NPP,0.704
+" 12:00, 31 December, 1963",Idaho,RD,0.998,NPP,0.363
+" 12:00, 31 December, 1963",Montana,RD,0.894,NPP,0.508
+" 12:00, 31 December, 1963",North Dakota,RD,1.145,NPP,0.304
+" 12:00, 31 December, 1963",South Dakota,RD,1.081,NPP,0.316
+" 12:00, 31 December, 1963",Minnesota,RD,0.744,NPP,0.745
+" 12:00, 31 December, 1963",Iowa,RD,0.877,NPP,0.548
+" 12:00, 31 December, 1963",Michigan,RD,0.916,NPP,0.392
+" 12:00, 31 December, 1963",Wisconsin,RD,0.75,NPP,0.505
+" 12:00, 31 December, 1963",Illinois,RD,0.803,NPP,0.59
+" 12:00, 31 December, 1963",Indiana,RD,1.022,NPP,0.466
+" 12:00, 31 December, 1963",Alaska,RD,0.889,NPP,0.522
+" 12:00, 31 December, 1963",Rhode Island,RD,0.693,NPP,0.57
+" 12:00, 31 December, 1963",Massachusetts,RD,0.623,NPP,0.677
+" 12:00, 31 December, 1963",Vermont,RD,0.886,NPP,0.561
+" 12:00, 31 December, 1963",New Hampshire,RD,0.689,NPP,0.658
+" 12:00, 31 December, 1963",Maine,RD,0.581,NPP,0.698
+" 12:00, 31 December, 1963",West Virginia,RD,0.478,NPP,0.81
+" 12:00, 31 December, 1963",Delaware,RD,0.822,NPP,0.415
+" 12:00, 31 December, 1963",Ohio,Bonus,,Popularity,,R,0.65,D,0.4,L,0.003,C,0.616,F,0.43,Y,0.007
+" 12:00, 31 December, 1963",Connecticut,Bonus,,Popularity,,R,0.65,D,0.4,L,0.008,C,0.881,F,0.246,Y,0.002
+" 12:00, 31 December, 1963",New York,Bonus,,Popularity,,R,0.75,D,0.3,L,0.006,C,0.806,F,0.271,Y,0.004
+" 12:00, 31 December, 1963",New Jersey,Bonus,,Popularity,,R,0.6,D,0.45,L,0.003,C,0.772,F,0.319,Y,0.007
+" 12:00, 31 December, 1963",Pennsylvania,Bonus,,Popularity,,R,0.65,D,0.4,L,0.006,C,0.791,F,0.344,Y,0.004
+" 12:00, 31 December, 1963",Maryland,Bonus,,Popularity,,R,0.65,D,0.4,L,0.003,C,0.657,F,0.492,Y,0.007
+" 12:00, 31 December, 1963",Virginia,Bonus,,Popularity,,R,0.45,D,0.6,L,0.003,C,0.205,F,0.841,Y,0.007
+" 12:00, 31 December, 1963",North Carolina,Bonus,,Popularity,,R,0.35,D,0.7,L,0.003,C,0.324,F,0.766,Y,0.007
+" 12:00, 31 December, 1963",South Carolina,Bonus,,Popularity,,R,0.25,D,0.8,L,0.001,C,0.29,F,0.891,Y,0.009
+" 12:00, 31 December, 1963",Georgia,Bonus,,Popularity,,R,0.25,D,0.8,L,0.001,C,0.182,F,0.93,Y,0.009
+" 12:00, 31 December, 1963",Florida,Bonus,,Popularity,,R,0.35,D,0.7,L,0.004,C,0.38,F,0.705,Y,0.006
+" 12:00, 31 December, 1963",Alabama,Bonus,,Popularity,,R,0.25,D,0.8,L,0.001,C,0.149,F,0.98,Y,0.009
+" 12:00, 31 December, 1963",Tennessee,Bonus,,Popularity,,R,0.45,D,0.6,L,0.002,C,0.365,F,0.701,Y,0.008
+" 12:00, 31 December, 1963",Kentucky,Bonus,,Popularity,,R,0.65,D,0.4,L,0.003,C,0.307,F,0.726,Y,0.007
+" 12:00, 31 December, 1963",Mississippi,Bonus,,Popularity,,R,0.25,D,0.8,L,0.001,C,0.232,F,0.851,Y,0.009
+" 12:00, 31 December, 1963",Louisiana,Bonus,,Popularity,,R,0.25,D,0.8,L,0.003,C,0.274,F,0.8,Y,0.007
+" 12:00, 31 December, 1963",Arkansas,Bonus,,Popularity,,R,0.25,D,0.8,L,0.001,C,0.19,F,0.898,Y,0.009
+" 12:00, 31 December, 1963",Missouri,Bonus,,Popularity,,R,0.65,D,0.4,L,0.002,C,0.492,F,0.641,Y,0.008
+" 12:00, 31 December, 1963",Oklahoma,Bonus,,Popularity,,R,0.55,D,0.5,L,0.003,C,0.407,F,0.616,Y,0.007
+" 12:00, 31 December, 1963",Texas,Bonus,,Popularity,,R,0.55,D,0.5,L,0.001,C,0.373,F,0.764,Y,0.009
+" 12:00, 31 December, 1963",New Mexico,Bonus,,Popularity,,R,0.6,D,0.45,L,0.003,C,0.792,F,0.312,Y,0.007
+" 12:00, 31 December, 1963",Arizona,Bonus,,Popularity,,R,0.55,D,0.5,L,0.006,C,0.74,F,0.337,Y,0.004
+" 12:00, 31 December, 1963",California,Bonus,,Popularity,,R,0.75,D,0.3,L,0.007,C,0.683,F,0.486,Y,0.003
+" 12:00, 31 December, 1963",Nevada,Bonus,,Popularity,,R,0.7,D,0.35,L,0.003,C,0.625,F,0.434,Y,0.007
+" 12:00, 31 December, 1963",Utah,Bonus,,Popularity,,R,0.25,D,0.8,L,0.001,C,0.267,F,0.859,Y,0.009
+" 12:00, 31 December, 1963",Wyoming,Bonus,,Popularity,,R,0.6,D,0.45,L,0.002,C,0.315,F,0.725,Y,0.008
+" 12:00, 31 December, 1963",Colorado,Bonus,,Popularity,,R,0.45,D,0.6,L,0.006,C,0.658,F,0.45,Y,0.004
+" 12:00, 31 December, 1963",Kansas,Bonus,,Popularity,,R,0.5,D,0.55,L,0.003,C,0.4,F,0.698,Y,0.007
+" 12:00, 31 December, 1963",Nebraska,Bonus,,Popularity,,R,0.4,D,0.65,L,0.003,C,0.443,F,0.646,Y,0.007
+" 12:00, 31 December, 1963",Oregon,Bonus,,Popularity,,R,0.75,D,0.3,L,0.007,C,0.891,F,0.271,Y,0.003
+" 12:00, 31 December, 1963",Washington,Bonus,,Popularity,,R,0.75,D,0.3,L,0.007,C,0.833,F,0.296,Y,0.003
+" 12:00, 31 December, 1963",Idaho,Bonus,,Popularity,,R,0.35,D,0.7,L,0.002,C,0.776,F,0.368,Y,0.008
+" 12:00, 31 December, 1963",Montana,Bonus,,Popularity,,R,0.35,D,0.7,L,0.002,C,0.541,F,0.593,Y,0.008
+" 12:00, 31 December, 1963",North Dakota,Bonus,,Popularity,,R,0.65,D,0.4,L,0.003,C,0.443,F,0.618,Y,0.007
+" 12:00, 31 December, 1963",South Dakota,Bonus,,Popularity,,R,0.75,D,0.3,L,0.002,C,0.408,F,0.607,Y,0.008
+" 12:00, 31 December, 1963",Minnesota,Bonus,,Popularity,,R,0.7,D,0.35,L,0.006,C,0.851,F,0.232,Y,0.004
+" 12:00, 31 December, 1963",Iowa,Bonus,,Popularity,,R,0.55,D,0.5,L,0.003,C,0.476,F,0.657,Y,0.007
+" 12:00, 31 December, 1963",Michigan,Bonus,,Popularity,,R,0.6,D,0.45,L,0.007,C,0.568,F,0.532,Y,0.003
+" 12:00, 31 December, 1963",Wisconsin,Bonus,,Popularity,,R,0.6,D,0.45,L,0.004,C,0.734,F,0.404,Y,0.006
+" 12:00, 31 December, 1963",Illinois,Bonus,,Popularity,,R,0.65,D,0.4,L,0.007,C,0.703,F,0.379,Y,0.003
+" 12:00, 31 December, 1963",Indiana,Bonus,,Popularity,,R,0.5,D,0.55,L,0.002,C,0.651,F,0.404,Y,0.008
+" 12:00, 31 December, 1963",Alaska,Bonus,,Popularity,,R,0.65,D,0.4,L,0.004,C,0.615,F,0.501,Y,0.006
+" 12:00, 31 December, 1963",Rhode Island,Bonus,,Popularity,,R,0.7,D,0.35,L,0.004,C,0.765,F,0.391,Y,0.006
+" 12:00, 31 December, 1963",Massachusetts,Bonus,,Popularity,,R,0.65,D,0.4,L,0.008,C,0.813,F,0.257,Y,0.002
+" 12:00, 31 December, 1963",Vermont,Bonus,,Popularity,,R,0.75,D,0.3,L,0.005,C,0.532,F,0.505,Y,0.005
+" 12:00, 31 December, 1963",New Hampshire,Bonus,,Popularity,,R,0.55,D,0.5,L,0.003,C,0.498,F,0.63,Y,0.007
+" 12:00, 31 December, 1963",Maine,Bonus,,Popularity,,R,0.45,D,0.6,L,0.003,C,0.44,F,0.655,Y,0.007
+" 12:00, 31 December, 1963",West Virginia,Bonus,,Popularity,,R,0.45,D,0.6,L,0.002,C,0.265,F,0.826,Y,0.008
+" 12:00, 31 December, 1963",Delaware,Bonus,,Popularity,,R,0.65,D,0.4,L,0.006,C,0.708,F,0.351,Y,0.004
+" 12:00, 30 January, 1964",United States of America,RD_pie,0.284,0.205,current_pres,1,RD_Unity,25,
+" 12:00, 30 January, 1964",United States of America,NPP_pie,0,0.286,0,0.223,NPP_Unity,20
+" 12:00, 30 January, 1964",Ohio,RD,0.539,NPP,0.825
+" 12:00, 30 January, 1964",Connecticut,RD,0.697,NPP,0.57
+" 12:00, 30 January, 1964",New York,RD,0.72,NPP,0.694
+" 12:00, 30 January, 1964",New Jersey,RD,0.585,NPP,0.767
+" 12:00, 30 January, 1964",Pennsylvania,RD,0.582,NPP,0.865
+" 12:00, 30 January, 1964",Maryland,RD,1.048,NPP,0.326
+" 12:00, 30 January, 1964",Virginia,RD,0.457,NPP,0.899
+" 12:00, 30 January, 1964",North Carolina,RD,0.588,NPP,0.894
+" 12:00, 30 January, 1964",South Carolina,RD,0.244,NPP,1.167
+" 12:00, 30 January, 1964",Georgia,RD,0.751,NPP,0.6
+" 12:00, 30 January, 1964",Florida,RD,0.546,NPP,0.729
+" 12:00, 30 January, 1964",Alabama,RD,0.548,NPP,0.88
+" 12:00, 30 January, 1964",Tennessee,RD,0.826,NPP,0.526
+" 12:00, 30 January, 1964",Kentucky,RD,0.926,NPP,0.435
+" 12:00, 30 January, 1964",Mississippi,RD,0.547,NPP,0.722
+" 12:00, 30 January, 1964",Louisiana,RD,0.847,NPP,0.551
+" 12:00, 30 January, 1964",Arkansas,RD,0.891,NPP,0.619
+" 12:00, 30 January, 1964",Missouri,RD,1.108,NPP,0.283
+" 12:00, 30 January, 1964",Oklahoma,RD,1.013,NPP,0.487
+" 12:00, 30 January, 1964",Texas,RD,0.537,NPP,0.899
+" 12:00, 30 January, 1964",New Mexico,RD,0.863,NPP,0.672
+" 12:00, 30 January, 1964",Arizona,RD,1.052,NPP,0.327
+" 12:00, 30 January, 1964",California,RD,0.994,NPP,0.567
+" 12:00, 30 January, 1964",Nevada,RD,0.889,NPP,0.485
+" 12:00, 30 January, 1964",Utah,RD,1.088,NPP,0.366
+" 12:00, 30 January, 1964",Wyoming,RD,1.044,NPP,0.342
+" 12:00, 30 January, 1964",Colorado,RD,1.098,NPP,0.315
+" 12:00, 30 January, 1964",Kansas,RD,1.038,NPP,0.5
+" 12:00, 30 January, 1964",Nebraska,RD,0.927,NPP,0.513
+" 12:00, 30 January, 1964",Oregon,RD,0.598,NPP,0.76
+" 12:00, 30 January, 1964",Washington,RD,0.7,NPP,0.704
+" 12:00, 30 January, 1964",Idaho,RD,0.998,NPP,0.363
+" 12:00, 30 January, 1964",Montana,RD,0.894,NPP,0.508
+" 12:00, 30 January, 1964",North Dakota,RD,1.145,NPP,0.304
+" 12:00, 30 January, 1964",South Dakota,RD,1.081,NPP,0.316
+" 12:00, 30 January, 1964",Minnesota,RD,0.744,NPP,0.745
+" 12:00, 30 January, 1964",Iowa,RD,0.877,NPP,0.548
+" 12:00, 30 January, 1964",Michigan,RD,0.916,NPP,0.392
+" 12:00, 30 January, 1964",Wisconsin,RD,0.75,NPP,0.505
+" 12:00, 30 January, 1964",Illinois,RD,0.803,NPP,0.59
+" 12:00, 30 January, 1964",Indiana,RD,1.022,NPP,0.466
+" 12:00, 30 January, 1964",Alaska,RD,0.889,NPP,0.522
+" 12:00, 30 January, 1964",Rhode Island,RD,0.693,NPP,0.57
+" 12:00, 30 January, 1964",Massachusetts,RD,0.623,NPP,0.677
+" 12:00, 30 January, 1964",Vermont,RD,0.886,NPP,0.561
+" 12:00, 30 January, 1964",New Hampshire,RD,0.689,NPP,0.658
+" 12:00, 30 January, 1964",Maine,RD,0.581,NPP,0.698
+" 12:00, 30 January, 1964",West Virginia,RD,0.478,NPP,0.81
+" 12:00, 30 January, 1964",Delaware,RD,0.822,NPP,0.415
+" 12:00, 30 January, 1964",Ohio,Bonus,,Popularity,,R,0.65,D,0.4,L,0.003,C,0.616,F,0.43,Y,0.007
+" 12:00, 30 January, 1964",Connecticut,Bonus,,Popularity,,R,0.65,D,0.4,L,0.008,C,0.881,F,0.246,Y,0.002
+" 12:00, 30 January, 1964",New York,Bonus,,Popularity,,R,0.75,D,0.3,L,0.006,C,0.806,F,0.271,Y,0.004
+" 12:00, 30 January, 1964",New Jersey,Bonus,,Popularity,,R,0.6,D,0.45,L,0.003,C,0.772,F,0.319,Y,0.007
+" 12:00, 30 January, 1964",Pennsylvania,Bonus,,Popularity,,R,0.65,D,0.4,L,0.006,C,0.791,F,0.344,Y,0.004
+" 12:00, 30 January, 1964",Maryland,Bonus,,Popularity,,R,0.65,D,0.4,L,0.003,C,0.657,F,0.492,Y,0.007
+" 12:00, 30 January, 1964",Virginia,Bonus,,Popularity,,R,0.45,D,0.6,L,0.003,C,0.205,F,0.841,Y,0.007
+" 12:00, 30 January, 1964",North Carolina,Bonus,,Popularity,,R,0.35,D,0.7,L,0.003,C,0.324,F,0.766,Y,0.007
+" 12:00, 30 January, 1964",South Carolina,Bonus,,Popularity,,R,0.25,D,0.8,L,0.001,C,0.29,F,0.891,Y,0.009
+" 12:00, 30 January, 1964",Georgia,Bonus,,Popularity,,R,0.25,D,0.8,L,0.001,C,0.182,F,0.93,Y,0.009
+" 12:00, 30 January, 1964",Florida,Bonus,,Popularity,,R,0.35,D,0.7,L,0.004,C,0.38,F,0.705,Y,0.006
+" 12:00, 30 January, 1964",Alabama,Bonus,,Popularity,,R,0.25,D,0.8,L,0.001,C,0.149,F,0.98,Y,0.009
+" 12:00, 30 January, 1964",Tennessee,Bonus,,Popularity,,R,0.45,D,0.6,L,0.002,C,0.365,F,0.701,Y,0.008
+" 12:00, 30 January, 1964",Kentucky,Bonus,,Popularity,,R,0.65,D,0.4,L,0.003,C,0.307,F,0.726,Y,0.007
+" 12:00, 30 January, 1964",Mississippi,Bonus,,Popularity,,R,0.25,D,0.8,L,0.001,C,0.232,F,0.851,Y,0.009
+" 12:00, 30 January, 1964",Louisiana,Bonus,,Popularity,,R,0.25,D,0.8,L,0.003,C,0.274,F,0.8,Y,0.007
+" 12:00, 30 January, 1964",Arkansas,Bonus,,Popularity,,R,0.25,D,0.8,L,0.001,C,0.19,F,0.898,Y,0.009
+" 12:00, 30 January, 1964",Missouri,Bonus,,Popularity,,R,0.65,D,0.4,L,0.002,C,0.492,F,0.641,Y,0.008
+" 12:00, 30 January, 1964",Oklahoma,Bonus,,Popularity,,R,0.55,D,0.5,L,0.003,C,0.407,F,0.616,Y,0.007
+" 12:00, 30 January, 1964",Texas,Bonus,,Popularity,,R,0.55,D,0.5,L,0.001,C,0.373,F,0.764,Y,0.009
+" 12:00, 30 January, 1964",New Mexico,Bonus,,Popularity,,R,0.6,D,0.45,L,0.003,C,0.792,F,0.312,Y,0.007
+" 12:00, 30 January, 1964",Arizona,Bonus,,Popularity,,R,0.55,D,0.5,L,0.006,C,0.74,F,0.337,Y,0.004
+" 12:00, 30 January, 1964",California,Bonus,,Popularity,,R,0.75,D,0.3,L,0.007,C,0.683,F,0.486,Y,0.003
+" 12:00, 30 January, 1964",Nevada,Bonus,,Popularity,,R,0.7,D,0.35,L,0.003,C,0.625,F,0.434,Y,0.007
+" 12:00, 30 January, 1964",Utah,Bonus,,Popularity,,R,0.25,D,0.8,L,0.001,C,0.267,F,0.859,Y,0.009
+" 12:00, 30 January, 1964",Wyoming,Bonus,,Popularity,,R,0.6,D,0.45,L,0.002,C,0.315,F,0.725,Y,0.008
+" 12:00, 30 January, 1964",Colorado,Bonus,,Popularity,,R,0.45,D,0.6,L,0.006,C,0.658,F,0.45,Y,0.004
+" 12:00, 30 January, 1964",Kansas,Bonus,,Popularity,,R,0.5,D,0.55,L,0.003,C,0.4,F,0.698,Y,0.007
+" 12:00, 30 January, 1964",Nebraska,Bonus,,Popularity,,R,0.4,D,0.65,L,0.003,C,0.443,F,0.646,Y,0.007
+" 12:00, 30 January, 1964",Oregon,Bonus,,Popularity,,R,0.75,D,0.3,L,0.007,C,0.891,F,0.271,Y,0.003
+" 12:00, 30 January, 1964",Washington,Bonus,,Popularity,,R,0.75,D,0.3,L,0.007,C,0.833,F,0.296,Y,0.003
+" 12:00, 30 January, 1964",Idaho,Bonus,,Popularity,,R,0.35,D,0.7,L,0.002,C,0.776,F,0.368,Y,0.008
+" 12:00, 30 January, 1964",Montana,Bonus,,Popularity,,R,0.35,D,0.7,L,0.002,C,0.541,F,0.593,Y,0.008
+" 12:00, 30 January, 1964",North Dakota,Bonus,,Popularity,,R,0.65,D,0.4,L,0.003,C,0.443,F,0.618,Y,0.007
+" 12:00, 30 January, 1964",South Dakota,Bonus,,Popularity,,R,0.75,D,0.3,L,0.002,C,0.408,F,0.607,Y,0.008
+" 12:00, 30 January, 1964",Minnesota,Bonus,,Popularity,,R,0.7,D,0.35,L,0.006,C,0.851,F,0.232,Y,0.004
+" 12:00, 30 January, 1964",Iowa,Bonus,,Popularity,,R,0.55,D,0.5,L,0.003,C,0.476,F,0.657,Y,0.007
+" 12:00, 30 January, 1964",Michigan,Bonus,,Popularity,,R,0.6,D,0.45,L,0.007,C,0.568,F,0.532,Y,0.003
+" 12:00, 30 January, 1964",Wisconsin,Bonus,,Popularity,,R,0.6,D,0.45,L,0.004,C,0.734,F,0.404,Y,0.006
+" 12:00, 30 January, 1964",Illinois,Bonus,,Popularity,,R,0.65,D,0.4,L,0.007,C,0.703,F,0.379,Y,0.003
+" 12:00, 30 January, 1964",Indiana,Bonus,,Popularity,,R,0.5,D,0.55,L,0.002,C,0.651,F,0.404,Y,0.008
+" 12:00, 30 January, 1964",Alaska,Bonus,,Popularity,,R,0.65,D,0.4,L,0.004,C,0.615,F,0.501,Y,0.006
+" 12:00, 30 January, 1964",Rhode Island,Bonus,,Popularity,,R,0.7,D,0.35,L,0.004,C,0.765,F,0.391,Y,0.006
+" 12:00, 30 January, 1964",Massachusetts,Bonus,,Popularity,,R,0.65,D,0.4,L,0.008,C,0.813,F,0.257,Y,0.002
+" 12:00, 30 January, 1964",Vermont,Bonus,,Popularity,,R,0.75,D,0.3,L,0.005,C,0.532,F,0.505,Y,0.005
+" 12:00, 30 January, 1964",New Hampshire,Bonus,,Popularity,,R,0.55,D,0.5,L,0.003,C,0.498,F,0.63,Y,0.007
+" 12:00, 30 January, 1964",Maine,Bonus,,Popularity,,R,0.45,D,0.6,L,0.003,C,0.44,F,0.655,Y,0.007
+" 12:00, 30 January, 1964",West Virginia,Bonus,,Popularity,,R,0.45,D,0.6,L,0.002,C,0.265,F,0.826,Y,0.008
+" 12:00, 30 January, 1964",Delaware,Bonus,,Popularity,,R,0.65,D,0.4,L,0.006,C,0.708,F,0.351,Y,0.004

@@ -1,6 +1,7 @@
 ﻿l_english:
  top_level:0 "Head of Government"
  minister:0 "Ministers"
+ minister_Generic_Vacant:0 "Vacancy"
  SEPARATION_LINE:0 "--------------\n"
  MENU_MESSAGES_DISABLE_ALL:0 "Disable all"
  FILTER:0 "Filter"

@@ -1,5 +1,10 @@
 capital = 49
 
+# Vacant
+recruit_character = SAK_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = SAK_Alexander_Gabyshev
 recruit_character = SAK_Van_Darkholme
 

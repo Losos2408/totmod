@@ -1,5 +1,10 @@
 capital = 102
 
+# Vacant
+recruit_character = KRV_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = KRV_Central_Committee
 
 set_politics = {

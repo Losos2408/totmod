@@ -1,0 +1,114 @@
+
+### Insert as a top-level container in your .gui file
+
+containerWindowType = {
+	name = "ARG_POL_senate_cor"
+	position = { x = 0 y = 0 }
+
+	iconType = { 
+		name = "parliament_dot_icon"
+		quadTextureSprite = "GFX_Cordoba_Senate_Icons"
+		
+	}
+}
+
+
+
+### Insert where you want the diagram to go, feel free to adjust position etc
+
+
+# LEAVE THESE COMMENTS IN SO YOU CAN REGENERATE THIS DIAGRAM
+# IF THE SCRIPT IS IMPROVED DOWN THE LINE
+# YOU HAVE BEEN WARNED
+# Spread: 9.67
+# First Row Radius: 3.87
+# Total Delegates: 26
+gridboxtype = {
+	name = "parliament_diagram"
+	position = { x = 0 y = 0 }
+	size = { width = 100%% height = 100%% }
+	slotsize = { width = 100%% height = 0 }
+	max_slots_horizontal = 1
+	add_horizontal = no
+}
+
+
+
+### Insert into the scripted GUI for the container which holds the parliament_diagram gridboxtype
+
+dynamic_lists = {
+	parliament_diagram = {
+		array = ARG_POL_GUI_cong_seat_juj_x
+		change_scope = no
+		entry_container = ARG_POL_senate_cor
+		index = seat_idx
+	}
+}
+
+properties = {
+	parliament_dot_icon = {
+		x = ARG_POL_GUI_cong_seat_juj_x^seat_idx
+		y = ARG_POL_GUI_cong_seat_juj_y^seat_idx
+		frame = 1503.ARG_POL_GUI_sen_seat^seat_idx
+	}
+}
+
+
+
+### Insert into a history file or scripted effect, this sets up all of the seat positions
+### Note that you'll need to fill out 1503.ARG_POL_GUI_sen_seat yourself with the proper frames for each seat
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 0 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 253 } #1
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 61 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 253 } #2
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 121 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 253 } #3
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 14 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 181 } #4
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 77 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 187 } #5
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 49 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 116 } #6
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 147 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 187 } #7
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 117 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 131 } #8
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 103 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 65 } #9
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 174 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 95 } #10
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 168 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 33 } #11
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 206 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 148 } #12
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 241 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 82 } #13
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 241 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 22 } #14
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 276 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 148 } #15
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 314 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 33 } #16
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 308 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 95 } #17
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 380 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 65 } #18
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 366 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 131 } #19
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 335 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 187 } #20
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 433 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 116 } #21
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 405 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 187 } #22
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 468 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 181 } #23
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 361 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 253 } #24
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 422 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 253 } #25
+add_to_array = { ARG_POL_GUI_cong_seat_juj_x = 482 }
+add_to_array = { ARG_POL_GUI_cong_seat_juj_y = 253 } #26
+
+
+

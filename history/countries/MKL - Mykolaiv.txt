@@ -1,5 +1,10 @@
 capital = 133
 
+# Vacant
+recruit_character = MKL_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = MKL_Vitaliy_Kim
 
 set_politics = {

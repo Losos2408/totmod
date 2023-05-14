@@ -1,5 +1,10 @@
 spriteTypes = {
 	spriteType = {
+		name = "GFX_idea_minister_Generic_Vacant"
+		texturefile = "gfx/interface/ideas/ministers/minister_Generic_Vacant.png"
+	}
+
+	spriteType = {
 		name = "GFX_idea_ROI_minister_Closure"
 		texturefile = "gfx/interface/ideas/ministers/ROI/ROI_minister_Closure.png"
 	}

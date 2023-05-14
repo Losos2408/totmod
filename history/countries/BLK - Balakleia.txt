@@ -1,5 +1,10 @@
 capital = 123
 
+# Vacant
+recruit_character = BLK_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = BLK_Mykhailo_Dobkin
 
 set_politics = {

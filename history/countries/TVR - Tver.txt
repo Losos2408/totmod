@@ -1,5 +1,10 @@
 capital = 164
 
+# Vacant
+recruit_character = TVR_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = TVR_Vyacheslav_Volodin
 
 set_politics = {

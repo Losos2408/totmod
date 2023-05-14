@@ -1,0 +1,3165 @@
+[
+  {
+    "type": "array_math_block",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "array_math_effect_long",
+          "named": true
+        },
+        {
+          "type": "math_effect_short",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "array_math_effect",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "array_math_block",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "array_math_effect_long",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        },
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "bool",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "cancel_if_invalid",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "bool",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "capital_declaration",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "state_id",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "character",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "character_advisor",
+          "named": true
+        },
+        {
+          "type": "character_commander",
+          "named": true
+        },
+        {
+          "type": "character_country_leader",
+          "named": true
+        },
+        {
+          "type": "character_portraits",
+          "named": true
+        },
+        {
+          "type": "identifier",
+          "named": true
+        },
+        {
+          "type": "name_declaration",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "character_advisor",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "cancel_if_invalid",
+          "named": true
+        },
+        {
+          "type": "cost",
+          "named": true
+        },
+        {
+          "type": "default",
+          "named": true
+        },
+        {
+          "type": "idea_advisor_content",
+          "named": true
+        },
+        {
+          "type": "idea_content_trigger",
+          "named": true
+        },
+        {
+          "type": "idea_modifiers",
+          "named": true
+        },
+        {
+          "type": "ledger",
+          "named": true
+        },
+        {
+          "type": "on_add",
+          "named": true
+        },
+        {
+          "type": "picture",
+          "named": true
+        },
+        {
+          "type": "traits",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "character_commander",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "id",
+          "named": true
+        },
+        {
+          "type": "skill",
+          "named": true
+        },
+        {
+          "type": "traits",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "character_country_leader",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "desc",
+          "named": true
+        },
+        {
+          "type": "expire",
+          "named": true
+        },
+        {
+          "type": "id",
+          "named": true
+        },
+        {
+          "type": "ideology",
+          "named": true
+        },
+        {
+          "type": "traits",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "character_declarations",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "character",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "character_effect",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "character_portrait",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "gfx_key",
+          "named": true
+        },
+        {
+          "type": "gfx_string",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "character_portraits",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "character_portrait",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "check_variable",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "check_variable_long",
+          "named": true
+        },
+        {
+          "type": "check_variable_short",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "check_variable_long",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        },
+        {
+          "type": "loc_key",
+          "named": true
+        },
+        {
+          "type": "loc_key_enclosed",
+          "named": true
+        },
+        {
+          "type": "loc_string",
+          "named": true
+        },
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "check_variable_short",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        },
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "clamp_variable_block",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        },
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "clamp_variable_effect",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "clamp_variable_block",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "clear_array",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "comp_trigger",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        },
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "core_effect",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "tag",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "cost",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "country_idea_block",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "mid_level_idea",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "create_equipment_variant_effect",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "create_equipment_variant_effect_model",
+          "named": true
+        },
+        {
+          "type": "create_equipment_variant_effect_modules",
+          "named": true
+        },
+        {
+          "type": "create_equipment_variant_effect_name_group",
+          "named": true
+        },
+        {
+          "type": "create_equipment_variant_effect_obsolete",
+          "named": true
+        },
+        {
+          "type": "create_equipment_variant_effect_parent_version",
+          "named": true
+        },
+        {
+          "type": "create_equipment_variant_effect_role_icon_index",
+          "named": true
+        },
+        {
+          "type": "create_equipment_variant_effect_upgrades",
+          "named": true
+        },
+        {
+          "type": "icon_declaration",
+          "named": true
+        },
+        {
+          "type": "name_declaration",
+          "named": true
+        },
+        {
+          "type": "type_declaration",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "create_equipment_variant_effect_model",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "loc_key",
+          "named": true
+        },
+        {
+          "type": "loc_key_enclosed",
+          "named": true
+        },
+        {
+          "type": "loc_string",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "create_equipment_variant_effect_modules",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "create_equipment_variant_effect_name_group",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "create_equipment_variant_effect_obsolete",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "bool",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "create_equipment_variant_effect_parent_version",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "create_equipment_variant_effect_role_icon_index",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "create_equipment_variant_effect_upgrades",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "custom_modifier_tooltip",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "loc_key",
+          "named": true
+        },
+        {
+          "type": "loc_key_enclosed",
+          "named": true
+        },
+        {
+          "type": "loc_string",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "default",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "bool",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "desc",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "loc_key",
+          "named": true
+        },
+        {
+          "type": "loc_key_enclosed",
+          "named": true
+        },
+        {
+          "type": "loc_string",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "dynamic_modifier_effect",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        },
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "effect_block",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "array_math_effect",
+          "named": true
+        },
+        {
+          "type": "character_effect",
+          "named": true
+        },
+        {
+          "type": "clamp_variable_effect",
+          "named": true
+        },
+        {
+          "type": "clear_array",
+          "named": true
+        },
+        {
+          "type": "create_equipment_variant_effect",
+          "named": true
+        },
+        {
+          "type": "dynamic_modifier_effect",
+          "named": true
+        },
+        {
+          "type": "equipment_effect",
+          "named": true
+        },
+        {
+          "type": "for_loop_limits",
+          "named": true
+        },
+        {
+          "type": "ideas_effect",
+          "named": true
+        },
+        {
+          "type": "identifier_effect",
+          "named": true
+        },
+        {
+          "type": "intelligence_agency_effect",
+          "named": true
+        },
+        {
+          "type": "limit_trigger_block",
+          "named": true
+        },
+        {
+          "type": "log_effect",
+          "named": true
+        },
+        {
+          "type": "number_effect",
+          "named": true
+        },
+        {
+          "type": "oob_effect",
+          "named": true
+        },
+        {
+          "type": "scope_change",
+          "named": true
+        },
+        {
+          "type": "scripted_effect",
+          "named": true
+        },
+        {
+          "type": "set_autonomy_effect",
+          "named": true
+        },
+        {
+          "type": "set_politics_effect",
+          "named": true
+        },
+        {
+          "type": "set_popularities_effect",
+          "named": true
+        },
+        {
+          "type": "set_technology_effect",
+          "named": true
+        },
+        {
+          "type": "tag_effect",
+          "named": true
+        },
+        {
+          "type": "variable_math_effect",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "equipment_amount",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": false,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "equipment_effect",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "equipment_amount",
+          "named": true
+        },
+        {
+          "type": "equipment_producer",
+          "named": true
+        },
+        {
+          "type": "equipment_variant_name",
+          "named": true
+        },
+        {
+          "type": "target_declaration",
+          "named": true
+        },
+        {
+          "type": "type_declaration",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "equipment_producer",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "equipment_variant_name",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "loc_key",
+          "named": true
+        },
+        {
+          "type": "loc_key_enclosed",
+          "named": true
+        },
+        {
+          "type": "loc_string",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "expire",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "date",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "for_loop_limits",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        },
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "function_declaration",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "effect_block",
+          "named": true
+        },
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "function_declarations",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "function_declaration",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "gfx_key",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "gfx_string",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "has_dlc",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "history_declaration",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "array_math_effect",
+          "named": true
+        },
+        {
+          "type": "capital_declaration",
+          "named": true
+        },
+        {
+          "type": "character_effect",
+          "named": true
+        },
+        {
+          "type": "clamp_variable_effect",
+          "named": true
+        },
+        {
+          "type": "clear_array",
+          "named": true
+        },
+        {
+          "type": "create_equipment_variant_effect",
+          "named": true
+        },
+        {
+          "type": "dynamic_modifier_effect",
+          "named": true
+        },
+        {
+          "type": "equipment_effect",
+          "named": true
+        },
+        {
+          "type": "ideas_effect",
+          "named": true
+        },
+        {
+          "type": "identifier_effect",
+          "named": true
+        },
+        {
+          "type": "intelligence_agency_effect",
+          "named": true
+        },
+        {
+          "type": "log_effect",
+          "named": true
+        },
+        {
+          "type": "number_effect",
+          "named": true
+        },
+        {
+          "type": "oob_effect",
+          "named": true
+        },
+        {
+          "type": "scope_change",
+          "named": true
+        },
+        {
+          "type": "scripted_effect",
+          "named": true
+        },
+        {
+          "type": "set_autonomy_effect",
+          "named": true
+        },
+        {
+          "type": "set_politics_effect",
+          "named": true
+        },
+        {
+          "type": "set_popularities_effect",
+          "named": true
+        },
+        {
+          "type": "set_technology_effect",
+          "named": true
+        },
+        {
+          "type": "tag_effect",
+          "named": true
+        },
+        {
+          "type": "variable_math_effect",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "icon_declaration",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "gfx_key",
+          "named": true
+        },
+        {
+          "type": "gfx_string",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "id",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "idea_advisor_content",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "idea_content",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "cancel_if_invalid",
+          "named": true
+        },
+        {
+          "type": "cost",
+          "named": true
+        },
+        {
+          "type": "default",
+          "named": true
+        },
+        {
+          "type": "idea_content_trigger",
+          "named": true
+        },
+        {
+          "type": "idea_modifiers",
+          "named": true
+        },
+        {
+          "type": "ledger",
+          "named": true
+        },
+        {
+          "type": "on_add",
+          "named": true
+        },
+        {
+          "type": "picture",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "idea_content_trigger",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "trigger_block",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "idea_modifiers",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "modifier_block",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "ideas_declarations",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "country_idea_block",
+          "named": true
+        },
+        {
+          "type": "law_idea_block",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "ideas_effect",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "identifier",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "identifier_effect",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "ideology",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "intelligence_agency_effect",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "icon_declaration",
+          "named": true
+        },
+        {
+          "type": "name_declaration",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "law_idea_block",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        },
+        {
+          "type": "law_yes",
+          "named": true
+        },
+        {
+          "type": "mid_level_idea",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "law_yes",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "bool",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "ledger",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "limit_trigger_block",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "trigger_block",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "loc_key",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "loc_key_enclosed",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "loc_key",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "loc_string",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "log_effect",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "math_effect_short",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        },
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "mid_level_idea",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "idea_content",
+          "named": true
+        },
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "modifier",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        },
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "modifier_block",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "custom_modifier_tooltip",
+          "named": true
+        },
+        {
+          "type": "modifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "name_declaration",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "loc_key",
+          "named": true
+        },
+        {
+          "type": "loc_key_enclosed",
+          "named": true
+        },
+        {
+          "type": "loc_string",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "number_effect",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "on_add",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "effect_block",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "oob_effect",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "picture",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "province_buildings",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        },
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "resources_category",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        },
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "scope_change",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "effect_block",
+          "named": true
+        },
+        {
+          "type": "scope_change_id",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "scope_change_id",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": false,
+      "types": [
+        {
+          "type": "event_target",
+          "named": true
+        },
+        {
+          "type": "state_id",
+          "named": true
+        },
+        {
+          "type": "tag",
+          "named": true
+        },
+        {
+          "type": "var_id",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "scripted_effect",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "set_autonomy_effect",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "set_autonomy_effect_level",
+          "named": true
+        },
+        {
+          "type": "target_declaration",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "set_autonomy_effect_level",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "set_politics_effect",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "name_declaration",
+          "named": true
+        },
+        {
+          "type": "set_politics_effect_election_frequency",
+          "named": true
+        },
+        {
+          "type": "set_politics_effect_elections_allowed",
+          "named": true
+        },
+        {
+          "type": "set_politics_effect_last_election",
+          "named": true
+        },
+        {
+          "type": "set_politics_effect_long_name",
+          "named": true
+        },
+        {
+          "type": "set_politics_effect_ruling_party",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "set_politics_effect_election_frequency",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "set_politics_effect_elections_allowed",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "bool",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "set_politics_effect_last_election",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "date",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "set_politics_effect_long_name",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "loc_key",
+          "named": true
+        },
+        {
+          "type": "loc_key_enclosed",
+          "named": true
+        },
+        {
+          "type": "loc_string",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "set_politics_effect_ruling_party",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "set_popularities_effect",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        },
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "set_technology_effect",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "technology_effect",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "skill",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "state_buildings",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        },
+        {
+          "type": "number",
+          "named": true
+        },
+        {
+          "type": "province_buildings",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "state_buildings_max",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "state_category",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "state_declaration",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "id",
+          "named": true
+        },
+        {
+          "type": "name_declaration",
+          "named": true
+        },
+        {
+          "type": "resources_category",
+          "named": true
+        },
+        {
+          "type": "state_buildings_max",
+          "named": true
+        },
+        {
+          "type": "state_category",
+          "named": true
+        },
+        {
+          "type": "state_history",
+          "named": true
+        },
+        {
+          "type": "state_impassable",
+          "named": true
+        },
+        {
+          "type": "state_local_supplies",
+          "named": true
+        },
+        {
+          "type": "state_manpower",
+          "named": true
+        },
+        {
+          "type": "state_provinces",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "state_force_disable_resistance",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "bool",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "state_history",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "core_effect",
+          "named": true
+        },
+        {
+          "type": "state_buildings",
+          "named": true
+        },
+        {
+          "type": "state_force_disable_resistance",
+          "named": true
+        },
+        {
+          "type": "state_set_compliance",
+          "named": true
+        },
+        {
+          "type": "state_set_demilitarized_zone",
+          "named": true
+        },
+        {
+          "type": "state_set_resistance",
+          "named": true
+        },
+        {
+          "type": "state_set_state_flag",
+          "named": true
+        },
+        {
+          "type": "state_shared_buildings",
+          "named": true
+        },
+        {
+          "type": "victory_points",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "state_id",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "state_impassable",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "bool",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "state_local_supplies",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "state_manpower",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "state_provinces",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "state_set_compliance",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "state_set_demilitarized_zone",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "bool",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "state_set_resistance",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "state_set_state_flag",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "state_shared_buildings",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "tag",
+    "named": true,
+    "fields": {}
+  },
+  {
+    "type": "tag_effect",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "tag",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "target_declaration",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "tag",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "technology_effect",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "traits",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "traits_block",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "traits_block",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "translation_unit",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "character_declarations",
+          "named": true
+        },
+        {
+          "type": "function_declarations",
+          "named": true
+        },
+        {
+          "type": "history_declaration",
+          "named": true
+        },
+        {
+          "type": "ideas_declarations",
+          "named": true
+        },
+        {
+          "type": "state_declaration",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "trigger_block",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "check_variable",
+          "named": true
+        },
+        {
+          "type": "comp_trigger",
+          "named": true
+        },
+        {
+          "type": "has_dlc",
+          "named": true
+        },
+        {
+          "type": "trigger_scope_change",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "trigger_limit_block",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": false,
+      "types": [
+        {
+          "type": "check_variable",
+          "named": true
+        },
+        {
+          "type": "comp_trigger",
+          "named": true
+        },
+        {
+          "type": "has_dlc",
+          "named": true
+        },
+        {
+          "type": "limit_trigger_block",
+          "named": true
+        },
+        {
+          "type": "trigger_scope_change",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "trigger_scope_change",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        },
+        {
+          "type": "trigger_limit_block",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "type_declaration",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "variable_math_block",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "math_effect_short",
+          "named": true
+        },
+        {
+          "type": "variable_math_effect_long",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "variable_math_effect",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": false,
+      "required": true,
+      "types": [
+        {
+          "type": "variable_math_block",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "variable_math_effect_long",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "identifier",
+          "named": true
+        },
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "victory_points",
+    "named": true,
+    "fields": {},
+    "children": {
+      "multiple": true,
+      "required": true,
+      "types": [
+        {
+          "type": "number",
+          "named": true
+        }
+      ]
+    }
+  },
+  {
+    "type": "\"",
+    "named": false
+  },
+  {
+    "type": "1",
+    "named": false
+  },
+  {
+    "type": "2",
+    "named": false
+  },
+  {
+    "type": "<",
+    "named": false
+  },
+  {
+    "type": "=",
+    "named": false
+  },
+  {
+    "type": ">",
+    "named": false
+  },
+  {
+    "type": "FROM",
+    "named": false
+  },
+  {
+    "type": "PREV",
+    "named": false
+  },
+  {
+    "type": "ROOT",
+    "named": false
+  },
+  {
+    "type": "THIS",
+    "named": false
+  },
+  {
+    "type": "add_claim_by",
+    "named": false
+  },
+  {
+    "type": "add_core_of",
+    "named": false
+  },
+  {
+    "type": "add_dynamic_modifier",
+    "named": false
+  },
+  {
+    "type": "add_equipment_to_stockpile",
+    "named": false
+  },
+  {
+    "type": "add_extra_state_shared_building_slots",
+    "named": false
+  },
+  {
+    "type": "add_ideas",
+    "named": false
+  },
+  {
+    "type": "add_political_power",
+    "named": false
+  },
+  {
+    "type": "add_to_array",
+    "named": false
+  },
+  {
+    "type": "add_to_faction",
+    "named": false
+  },
+  {
+    "type": "add_to_temp_array",
+    "named": false
+  },
+  {
+    "type": "add_to_temp_variable",
+    "named": false
+  },
+  {
+    "type": "add_to_variable",
+    "named": false
+  },
+  {
+    "type": "advisor",
+    "named": false
+  },
+  {
+    "type": "ai_will_do",
+    "named": false
+  },
+  {
+    "type": "air",
+    "named": false
+  },
+  {
+    "type": "allowed",
+    "named": false
+  },
+  {
+    "type": "allowed_civil_war",
+    "named": false
+  },
+  {
+    "type": "amount",
+    "named": false
+  },
+  {
+    "type": "army",
+    "named": false
+  },
+  {
+    "type": "array",
+    "named": false
+  },
+  {
+    "type": "attack_skill",
+    "named": false
+  },
+  {
+    "type": "auto",
+    "named": false
+  },
+  {
+    "type": "autonomy_state",
+    "named": false
+  },
+  {
+    "type": "available",
+    "named": false
+  },
+  {
+    "type": "break",
+    "named": false
+  },
+  {
+    "type": "buildings",
+    "named": false
+  },
+  {
+    "type": "buildings_max_level_factor",
+    "named": false
+  },
+  {
+    "type": "cancel",
+    "named": false
+  },
+  {
+    "type": "cancel_if_invalid",
+    "named": false
+  },
+  {
+    "type": "capital",
+    "named": false
+  },
+  {
+    "type": "capital_scope",
+    "named": false
+  },
+  {
+    "type": "characters",
+    "named": false
+  },
+  {
+    "type": "check_variable",
+    "named": false
+  },
+  {
+    "type": "civilian",
+    "named": false
+  },
+  {
+    "type": "clamp_temp_variable",
+    "named": false
+  },
+  {
+    "type": "clamp_variable",
+    "named": false
+  },
+  {
+    "type": "clear_array",
+    "named": false
+  },
+  {
+    "type": "clear_temp_array",
+    "named": false
+  },
+  {
+    "type": "comment",
+    "named": true
+  },
+  {
+    "type": "compare",
+    "named": false
+  },
+  {
+    "type": "complete_national_focus",
+    "named": false
+  },
+  {
+    "type": "controller",
+    "named": false
+  },
+  {
+    "type": "coordination_skill",
+    "named": false
+  },
+  {
+    "type": "corps_commander",
+    "named": false
+  },
+  {
+    "type": "cost",
+    "named": false
+  },
+  {
+    "type": "country",
+    "named": false
+  },
+  {
+    "type": "country_leader",
+    "named": false
+  },
+  {
+    "type": "create_equipment_variant",
+    "named": false
+  },
+  {
+    "type": "create_faction",
+    "named": false
+  },
+  {
+    "type": "create_intelligence_agency",
+    "named": false
+  },
+  {
+    "type": "custom_modifier_tooltip",
+    "named": false
+  },
+  {
+    "type": "date",
+    "named": true
+  },
+  {
+    "type": "days",
+    "named": false
+  },
+  {
+    "type": "default",
+    "named": false
+  },
+  {
+    "type": "defense_skill",
+    "named": false
+  },
+  {
+    "type": "desc",
+    "named": false
+  },
+  {
+    "type": "divide_temp_variable",
+    "named": false
+  },
+  {
+    "type": "divide_variable",
+    "named": false
+  },
+  {
+    "type": "election_frequency",
+    "named": false
+  },
+  {
+    "type": "elections_allowed",
+    "named": false
+  },
+  {
+    "type": "end",
+    "named": false
+  },
+  {
+    "type": "equals",
+    "named": false
+  },
+  {
+    "type": "event_target",
+    "named": true
+  },
+  {
+    "type": "expire",
+    "named": false
+  },
+  {
+    "type": "faction_leader",
+    "named": false
+  },
+  {
+    "type": "field_marshal",
+    "named": false
+  },
+  {
+    "type": "find_highest_in_array",
+    "named": false
+  },
+  {
+    "type": "find_lowest_in_array",
+    "named": false
+  },
+  {
+    "type": "for_each_loop",
+    "named": false
+  },
+  {
+    "type": "for_each_scope_loop",
+    "named": false
+  },
+  {
+    "type": "for_loop_effect",
+    "named": false
+  },
+  {
+    "type": "force_disable_resistance",
+    "named": false
+  },
+  {
+    "type": "greater_than",
+    "named": false
+  },
+  {
+    "type": "greater_than_or_equals",
+    "named": false
+  },
+  {
+    "type": "has_dlc",
+    "named": false
+  },
+  {
+    "type": "hidden",
+    "named": false
+  },
+  {
+    "type": "hidden_effect",
+    "named": false
+  },
+  {
+    "type": "history",
+    "named": false
+  },
+  {
+    "type": "icon",
+    "named": false
+  },
+  {
+    "type": "id",
+    "named": false
+  },
+  {
+    "type": "idea_token",
+    "named": false
+  },
+  {
+    "type": "ideas",
+    "named": false
+  },
+  {
+    "type": "ideology",
+    "named": false
+  },
+  {
+    "type": "if",
+    "named": false
+  },
+  {
+    "type": "impassable",
+    "named": false
+  },
+  {
+    "type": "index",
+    "named": false
+  },
+  {
+    "type": "large",
+    "named": false
+  },
+  {
+    "type": "last_election",
+    "named": false
+  },
+  {
+    "type": "law",
+    "named": false
+  },
+  {
+    "type": "ledger",
+    "named": false
+  },
+  {
+    "type": "legacy_id",
+    "named": false
+  },
+  {
+    "type": "less_than",
+    "named": false
+  },
+  {
+    "type": "less_than_or_equals",
+    "named": false
+  },
+  {
+    "type": "limit",
+    "named": false
+  },
+  {
+    "type": "load_oob",
+    "named": false
+  },
+  {
+    "type": "local_supplies",
+    "named": false
+  },
+  {
+    "type": "log",
+    "named": false
+  },
+  {
+    "type": "logistics_skill",
+    "named": false
+  },
+  {
+    "type": "long_name",
+    "named": false
+  },
+  {
+    "type": "maneuvering_skill",
+    "named": false
+  },
+  {
+    "type": "manpower",
+    "named": false
+  },
+  {
+    "type": "max",
+    "named": false
+  },
+  {
+    "type": "min",
+    "named": false
+  },
+  {
+    "type": "model",
+    "named": false
+  },
+  {
+    "type": "modifier",
+    "named": false
+  },
+  {
+    "type": "modules",
+    "named": false
+  },
+  {
+    "type": "modulo_temp_variable",
+    "named": false
+  },
+  {
+    "type": "modulo_variable",
+    "named": false
+  },
+  {
+    "type": "multiply_temp_variable",
+    "named": false
+  },
+  {
+    "type": "multiply_variable",
+    "named": false
+  },
+  {
+    "type": "name",
+    "named": false
+  },
+  {
+    "type": "name_group",
+    "named": false
+  },
+  {
+    "type": "navy",
+    "named": false
+  },
+  {
+    "type": "navy_leader",
+    "named": false
+  },
+  {
+    "type": "no",
+    "named": false
+  },
+  {
+    "type": "not_equals",
+    "named": false
+  },
+  {
+    "type": "number",
+    "named": true
+  },
+  {
+    "type": "obsolete",
+    "named": false
+  },
+  {
+    "type": "on_add",
+    "named": false
+  },
+  {
+    "type": "overlord",
+    "named": false
+  },
+  {
+    "type": "owner",
+    "named": false
+  },
+  {
+    "type": "parent_version",
+    "named": false
+  },
+  {
+    "type": "picture",
+    "named": false
+  },
+  {
+    "type": "planning_skill",
+    "named": false
+  },
+  {
+    "type": "portraits",
+    "named": false
+  },
+  {
+    "type": "producer",
+    "named": false
+  },
+  {
+    "type": "provinces",
+    "named": false
+  },
+  {
+    "type": "random_scope_in_array",
+    "named": false
+  },
+  {
+    "type": "recruit_character",
+    "named": false
+  },
+  {
+    "type": "removal_cost",
+    "named": false
+  },
+  {
+    "type": "remove_dynamic_modifier",
+    "named": false
+  },
+  {
+    "type": "remove_from_array",
+    "named": false
+  },
+  {
+    "type": "remove_from_temp_array",
+    "named": false
+  },
+  {
+    "type": "remove_idea",
+    "named": false
+  },
+  {
+    "type": "resize_array",
+    "named": false
+  },
+  {
+    "type": "resize_temp_array",
+    "named": false
+  },
+  {
+    "type": "resources",
+    "named": false
+  },
+  {
+    "type": "role_icon_index",
+    "named": false
+  },
+  {
+    "type": "ruling_party",
+    "named": false
+  },
+  {
+    "type": "scope",
+    "named": false
+  },
+  {
+    "type": "send_equipment",
+    "named": false
+  },
+  {
+    "type": "send_equipment_fraction",
+    "named": false
+  },
+  {
+    "type": "set_autonomy",
+    "named": false
+  },
+  {
+    "type": "set_compliance",
+    "named": false
+  },
+  {
+    "type": "set_convoys",
+    "named": false
+  },
+  {
+    "type": "set_country_flag",
+    "named": false
+  },
+  {
+    "type": "set_demilitarized_zone",
+    "named": false
+  },
+  {
+    "type": "set_equipment_fraction",
+    "named": false
+  },
+  {
+    "type": "set_keyed_oob",
+    "named": false
+  },
+  {
+    "type": "set_naval_oob",
+    "named": false
+  },
+  {
+    "type": "set_oob",
+    "named": false
+  },
+  {
+    "type": "set_politics",
+    "named": false
+  },
+  {
+    "type": "set_popularities",
+    "named": false
+  },
+  {
+    "type": "set_research_slots",
+    "named": false
+  },
+  {
+    "type": "set_resistance",
+    "named": false
+  },
+  {
+    "type": "set_stability",
+    "named": false
+  },
+  {
+    "type": "set_state_flag",
+    "named": false
+  },
+  {
+    "type": "set_technology",
+    "named": false
+  },
+  {
+    "type": "set_temp_variable",
+    "named": false
+  },
+  {
+    "type": "set_variable",
+    "named": false
+  },
+  {
+    "type": "set_war_support",
+    "named": false
+  },
+  {
+    "type": "skill",
+    "named": false
+  },
+  {
+    "type": "slot",
+    "named": false
+  },
+  {
+    "type": "small",
+    "named": false
+  },
+  {
+    "type": "start",
+    "named": false
+  },
+  {
+    "type": "state",
+    "named": false
+  },
+  {
+    "type": "state_category",
+    "named": false
+  },
+  {
+    "type": "subtract_from_temp_variable",
+    "named": false
+  },
+  {
+    "type": "subtract_from_variable",
+    "named": false
+  },
+  {
+    "type": "target",
+    "named": false
+  },
+  {
+    "type": "tooltip",
+    "named": false
+  },
+  {
+    "type": "traits",
+    "named": false
+  },
+  {
+    "type": "type",
+    "named": false
+  },
+  {
+    "type": "upgrades",
+    "named": false
+  },
+  {
+    "type": "value",
+    "named": false
+  },
+  {
+    "type": "var",
+    "named": false
+  },
+  {
+    "type": "var_id",
+    "named": true
+  },
+  {
+    "type": "variant_name",
+    "named": false
+  },
+  {
+    "type": "victory_points",
+    "named": false
+  },
+  {
+    "type": "while_loop_effect",
+    "named": false
+  },
+  {
+    "type": "yes",
+    "named": false
+  },
+  {
+    "type": "{",
+    "named": false
+  },
+  {
+    "type": "}",
+    "named": false
+  }
+]

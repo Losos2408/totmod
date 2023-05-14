@@ -1,5 +1,10 @@
 capital = 79
 
+# Vacant
+recruit_character = CIK_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = CIK_Sergey_Levchenko
 
 set_politics = {

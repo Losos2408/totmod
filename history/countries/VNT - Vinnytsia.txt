@@ -1,5 +1,10 @@
 capital = 106
 
+# Vacant
+recruit_character = VNT_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = VNT_Vitaliy_Tsal
 
 set_politics = {

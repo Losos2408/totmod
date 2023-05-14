@@ -1,0 +1,73 @@
+# removes all current ministers (other than intel) for the country in scope - no tooltips displayed
+remove_all_ministers = {
+	hidden_effect = {
+		remove_ideas_with_trait = head_of_government
+		remove_ideas_with_trait = foreign_minister
+		remove_ideas_with_trait = economy_minister
+		remove_ideas_with_trait = security_minister
+	}
+}
+
+#fill empty minister slots
+fill_empty_minister = {
+	if = {
+		limit = {
+			NOT = { has_idea_with_trait = head_of_government }
+		}
+		meta_effect = {
+			text = {
+				add_ideas = [currenttag]_Generic_Vacant_hog
+			}
+			currenttag = "[THIS.GetTag]"
+		}
+	}
+	if = {
+		limit = {
+			NOT = { has_idea_with_trait = foreign_minister }
+		}
+		meta_effect = {
+			text = {
+				add_ideas = [currenttag]_Generic_Vacant_for
+			}
+			currenttag = "[THIS.GetTag]"
+		}
+	}
+	if = {
+		limit = {
+			NOT = { has_idea_with_trait = security_minister }
+		}
+		meta_effect = {
+			text = {
+				add_ideas = [currenttag]_Generic_Vacant_sec
+			}
+			currenttag = "[THIS.GetTag]"
+		}
+	}
+	if = {
+		limit = {
+			NOT = { has_idea_with_trait = economy_minister }
+		}
+		meta_effect = {
+			text = {
+				add_ideas = [currenttag]_Generic_Vacant_eco
+			}
+			currenttag = "[THIS.GetTag]"
+		}
+	}
+}
+
+# Should be used in history file only when a country doesn't have ministers for the rest of the game.
+# If a country adds ministers in the middle of the game, add the effect and then remove the vacant positions when you're adding the minsiters
+fill_empty_minister_nochecks = {
+	meta_effect = {
+		text = {
+			add_ideas = {
+				[currenttag]_Generic_Vacant_hog
+				[currenttag]_Generic_Vacant_for
+				[currenttag]_Generic_Vacant_sec
+				[currenttag]_Generic_Vacant_eco
+			}
+		}
+		currenttag = "[THIS.GetTag]"
+	}
+}

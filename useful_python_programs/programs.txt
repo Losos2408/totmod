@@ -1,0 +1,17 @@
+"CR Passed","D,FY,CAM,0.5,0.8,0.1"
+#Affects Dixie states, does a chained addition-multiplication in which a random number + 0.5 is multiplied by 0.8, added to FR, multiplied by 0.1, and then added to R
+"Civil Rights Vetoed","A,PS,AS,0.5"
+#Actual stuff past here
+"Civil Rights Passed","D,FY,CAM,0.5,0.8,0.1","BS,FY,CAM,0.5,0.6,0.1","Y,FY,CAM,0.25,-0.3,0.1","MP,FY,CAM,0.25,-0.1,0.1","A,RD,AS,0.05","A,DR,CCMA,0.15,0.1","D,FY,CAM,0.25,0.6,0.1","BS,FY,CAM,0.25,0.4,0.1","A,PS,MAS,0.1","A,F,M,0.3","Arizona,PS,AS,0.5","Arkansas,PS,AS,0.5","Florida,PS,AS,0.5","Illinois,PS,AS,0.5","Iowa,PS,AS,0.5","Louisiana,PS,AS,0.5","Mississippi,PS,AS,0.5","Nebraska,PS,AS,0.5","Wyoming,PS,AS,0.25","A,Y,P,0.01","A,F,P,0.11"
+#USA.67
+"CR Protests","A,C,M,0.1","A,F,M,0.1"
+#USA.71 and USA.72
+"Anti CR Defections","South Carolina,PS,AS,0.25","Georgia,PS,AS,0.25","North Carolina,PS,AS,0.25","Virginia,PS,AS,0.25","A,Y,P,0.01","A,F,P,0.06","A,D,P,-0.06"
+"Guyana 1","A,C,P,0.01","A,PS,MAS,0.03"
+"Guyana 2","A,F,P,0.01"
+"Guyana 3","A,C,P,0.01","A,F,P,0.02","A,PS,MAS,0.075"
+"Guyana 4","A,PS,MAS,0.02"
+"Guyana 5","A,R,P,-0.03","A,D,P,-0.02","A,C,P,0.03","A,F,P,0.02","A,PS,MAS,0.075"
+#"Nixon Resignation",
+"Composite Test","Composite","CR Passed","Time,1","Civil Rights Vetoed"
+"Composite 2","Composite","Composite Test","CR Passed"

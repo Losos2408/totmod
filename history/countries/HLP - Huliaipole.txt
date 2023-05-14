@@ -1,5 +1,10 @@
 capital = 148
 
+# Vacant
+recruit_character = HLP_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = HLP_All_Ukrainian_Anarchist_Council
 
 set_politics = {

@@ -1,5 +1,10 @@
 capital = 103
 
+# Vacant
+recruit_character = CKS_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = CKS_Ihor_Taburets
 
 set_politics = {

@@ -1,0 +1,52 @@
+HOW TO WRITE A PROGRAM FOR THE POPULARITY MODULATOR
+
+Program Syntax
+
+There are (currently) two types of programs: normal and composite. Normal programs are composed of commands, while composite programs are composed of other programs.
+Every program should be on a new line.
+The first part of a program is its name, which is contained in a pair of quotation marks.
+After this, put a comma, and then another pair of quotation marks.
+If the program is a composite program, enter the word "Composite" between the quotation marks. If not, enter the first command here.
+If the program is composite, begin entering in quotation marks the names of other programs (composite or normal) that should be included.
+Otherwise, continue entering commands.
+Comments can be added by starting a line with a # (it must be at the start of the line)
+
+Command Syntax
+
+Commands are entirely contained within a pair of quotation marks, and each of their components is comma-separated.
+Commands can have between four and six components.
+The first component of a command is the states it should take effect in. Unless using A or a state name, you can use any combination of states (defined by their cultures) here.
+D-Dixie
+Y-Yankee
+M-Midwestern
+P-Pacific
+R-Rockies
+B-African-American
+S-Southwestern
+A-All
+State name-that state
+
+The second component of a command is the parties the command should effect. This can also be any combination, and in the case of conditional or chained operations, the party first in the component will be treated differently.
+Parties
+P-NPP
+S-RDs
+R-Reps
+D-Dems
+C-Center
+L-Left
+F-Far Right
+Y-Yockeys
+
+The third component (the operation) will be skipped for now.
+
+The fourth through sixth components are numbers. The number of these in a command varies based on the operation. They will be referred to as num_1 through num_3 in this documentation.
+
+The operation defines how to mathematically alter the popularities for the selected parties in the selected states. The list of operations is:
+CAM-chained addition-multiplication: A random number plus num_1 and then multiplied by num_2 will be added to the first party in the parties list for this command. After this, the number will be multiplied by num_3 and added to all subsequent parties.
+A-Constant addition: A constant number num_1 will be added to the popularity of every named party.
+AS-Constant addition-subtraction:  A constant number num_1 will be added to the popularity of the first named party and subtracted from all others.
+M-Random-multiplication addition: A random number multiplied by num_1 will be added to the popularity of every named party.
+MAS-Random-multiplication addition-subtraction: A random number multiplied by num_1 will be added to the popularity of the first named party and subtracted from all others.
+CMA-chained multiplication-addition: A random number multiplied by num_1 and then plus num_2 will be added to the first party in the parties list for this command. After this, the number will be multiplied by num_3 and added to all subsequent parties.
+CCMA-Conditional chained multiplication-addition: If and only if the popularity of the first party > that of the second, a random number multiplied by num_1 and then plus num_2 will be added to the first party in the parties list for this command. After this, the number will be multiplied by num_3 and added to all subsequent parties.
+P-Pie addition: Adds num_1 popularity for the named party to the popularity pie.

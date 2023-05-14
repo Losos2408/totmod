@@ -1,5 +1,8 @@
 capital = 151
 
+# Vacant
+recruit_character = ROI_Generic_Vacant
+
 recruit_character = ROI_Amiya
 recruit_character = ROI_Kaltsit
 recruit_character = ROI_Closure

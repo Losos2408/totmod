@@ -1,5 +1,10 @@
 capital = 108
 
+# Vacant
+recruit_character = RVN_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = RVN_Valeriy_Bebyk
 
 set_politics = {

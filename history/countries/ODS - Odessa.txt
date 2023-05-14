@@ -1,5 +1,10 @@
 capital = 120
 
+# Vacant
+recruit_character = ODS_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = ODS_Alexey_Shevtsov
 
 set_politics = {

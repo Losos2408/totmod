@@ -1,5 +1,10 @@
 capital = 99
 
+# Vacant
+recruit_character = NSR_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = NSR_Rudolf_Lund
 
 set_politics = {

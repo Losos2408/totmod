@@ -1,5 +1,10 @@
 capital = 60
 
+# Vacant
+recruit_character = IRK_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = IRK_Alexander_Bortnikov
 
 add_ideas = {

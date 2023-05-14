@@ -1,5 +1,10 @@
 capital = 5
 
+# Vacant
+recruit_character = VIS_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = VIS_Vissarion
 
 set_politics = {

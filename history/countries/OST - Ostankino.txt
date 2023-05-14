@@ -1,5 +1,10 @@
 capital = 6
 
+# Vacant
+recruit_character = OST_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = OST_Vladimir_Solovyov
 recruit_character = OST_Vladimir_Pozner
 recruit_character = OST_Dmitry_Nazarov

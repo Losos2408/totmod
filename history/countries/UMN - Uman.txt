@@ -1,5 +1,10 @@
 capital = 149
 
+# Vacant
+recruit_character = UMN_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = UMN_Religious_Union_of_Ukraine
 
 set_politics = {

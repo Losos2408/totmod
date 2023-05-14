@@ -1,5 +1,8 @@
 capital = 124
 
+# Vacant
+recruit_character = UKR_Generic_Vacant
+
 recruit_character = UKR_Volodymyr_Zelenskyy
 recruit_character = UKR_Denys_Shmyhal
 recruit_character = UKR_Dmytro_Kuleba

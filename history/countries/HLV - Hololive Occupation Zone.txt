@@ -1,5 +1,10 @@
 capital = 8
 
+# Vacant
+recruit_character = HLV_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = HLV_Tanigo_Motoaki
 recruit_character = HLV_Hoshimachi_Suisei
 recruit_character = HLV_Inugami_Korone

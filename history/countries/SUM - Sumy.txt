@@ -1,5 +1,10 @@
 capital = 100
 
+# Vacant
+recruit_character = SUM_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = SUM_Taras_Savchenko
 
 set_politics = {

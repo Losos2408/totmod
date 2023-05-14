@@ -1,5 +1,10 @@
 capital = 38
 
+# Vacant
+recruit_character = HRS_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = HRS_Hirasawa_Susumu
 recruit_character = HRS_Top_Secret
 recruit_character = HRS_Kijin_Seija

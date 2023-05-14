@@ -1,5 +1,10 @@
 capital = 116
 
+# Vacant
+recruit_character = KHS_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = KHS_Andriy_Kovalchuk
 
 set_politics = {

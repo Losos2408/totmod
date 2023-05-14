@@ -1,5 +1,10 @@
 capital = 76
 
+# Vacant
+recruit_character = BRY_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = BRY_Nika_Vodvud
 
 set_politics = {

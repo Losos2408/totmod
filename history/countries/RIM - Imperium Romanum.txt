@@ -1,5 +1,10 @@
 capital = 119
 
+# Vacant
+recruit_character = RIM_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = RIM_Octavianus_Augustus
 recruit_character = RIM_Tiberius_Julius_Caesar
 

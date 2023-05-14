@@ -1,5 +1,10 @@
 capital = 42
 
+# Vacant
+recruit_character = SUS_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 recruit_character = SUS_SAS
 recruit_character = SUS_Alexander_Shtefanov
 
