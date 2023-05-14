@@ -12,4 +12,64 @@ characters = {
             traits = { }
         }
 	}
+    SSA_Oleksandr_Vilkul = {
+        name = SSA_Oleksandr_Vilkul
+        portraits = {
+            civilian = {
+                small = "GFX_idea_SSA_minister_Oleksandr_Vilkul"
+            }
+        }
+        advisor = {
+			slot = head_of_government
+			idea_token = SSA_Oleksandr_Vilkul_hog
+			allowed = { original_tag = SSA }
+			traits = {
+				head_of_government
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
+    SSA_Volodymyr_Ben = {
+        name = SSA_Volodymyr_Ben
+        portraits = {
+            civilian = {
+                small = "GFX_idea_SSA_minister_Volodymyr_Ben"
+            }
+        }
+        advisor = {
+			slot = economy_minister
+			idea_token = SSA_Volodymyr_Ben_eco
+			allowed = { original_tag = SSA }
+			traits = {
+				economy_minister
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
+    SSA_Anatoliy_Shadylo = {
+        name = SSA_Anatoliy_Shadylo
+        portraits = {
+            civilian = {
+                small = "GFX_idea_SSA_minister_Anatoliy_Shadylo"
+            }
+        }
+        advisor = {
+			slot = security_minister
+			idea_token = SSA_Anatoliy_Shadylo_sec
+			allowed = { original_tag = SSA }
+			traits = {
+				security_minister
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
 }

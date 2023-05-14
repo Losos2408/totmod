@@ -50,4 +50,17 @@ spriteTypes = {
 		name = "GFX_idea_UKR_minister_Serhiy_Marchenko"
 		texturefile = "gfx/interface/ideas/ministers/UKR/UKR_minister_Serhiy_Marchenko.png"
 	}
+
+	spriteType = {
+		name = "GFX_idea_SSA_minister_Anatoliy_Shadylo"
+		texturefile = "gfx/interface/ideas/ministers/SSA/SSA_minister_Anatoliy_Shadylo.png"
+	}
+	spriteType = {
+		name = "GFX_idea_SSA_minister_Oleksandr_Vilkul"
+		texturefile = "gfx/interface/ideas/ministers/SSA/SSA_minister_Oleksandr_Vilkul.png"
+	}
+	spriteType = {
+		name = "GFX_idea_SSA_minister_Volodymyr_Ben"
+		texturefile = "gfx/interface/ideas/ministers/SSA/SSA_minister_Volodymyr_Ben.png"
+	}
 }

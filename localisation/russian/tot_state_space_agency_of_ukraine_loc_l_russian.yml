@@ -1,5 +1,12 @@
 ﻿l_russian:
  SSA_Oleh_Urusky: "Олег Уруський"
+ SSA_Oleksandr_Vilkul: "Олександр Вілкул"
+ SSA_Volodymyr_Ben: "Володимир Бень"
+ SSA_Anatoliy_Shadylo: "Анатолій Шадило"
+
+ SSA_Oleksandr_Vilkul_hog_desc: "§YГлава Совета обороны Кривого Рога\nАвангардный патриотизм§!\n--------------\n§L§!"
+ SSA_Volodymyr_Ben_eco_desc: "§YНачальник ДКАУ\nАвангардный патриотизм§!\n--------------\n§L§!"
+ SSA_Anatoliy_Shadylo_sec_desc: "§YНачальник патрульной полиции Днепра\nАвангардный патриотизм§!\n--------------\n§L§!"
 
  SSA_controlled_democracy_party: "РПВУ"
  SSA_controlled_democracy_party_long: "Рада Промисловців та Візионерів України/Совет Промышленников и Визионеров Украины"

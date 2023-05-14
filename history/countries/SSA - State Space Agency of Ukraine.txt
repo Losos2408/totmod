@@ -3,9 +3,12 @@ capital = 165
 # Vacant
 recruit_character = SSA_Generic_Vacant
 
-fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+fill_empty_minister = yes
 
 recruit_character = SSA_Oleh_Urusky
+recruit_character = SSA_Oleksandr_Vilkul
+recruit_character = SSA_Volodymyr_Ben
+recruit_character = SSA_Anatoliy_Shadylo
 
 set_politics = {
 	ruling_party = controlled_democracy
@@ -19,6 +22,10 @@ add_ideas = {
 	SSA_and_reality
 	SSA_big_opportunities
 	SSA_the_union_divided
+
+	SSA_Oleksandr_Vilkul_hog
+	SSA_Volodymyr_Ben_eco
+	SSA_Anatoliy_Shadylo_sec
 }
 
 set_popularities = {

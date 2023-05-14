@@ -1,5 +1,12 @@
 ﻿l_english:
  SSA_Oleh_Urusky: "Oleh Urusky"
+ SSA_Oleksandr_Vilkul: "Oleksandr Vilkul"
+ SSA_Volodymyr_Ben: "Volodymyr Ben"
+ SSA_Anatoliy_Shadylo: "Anatoliy Shadylo"
+
+ SSA_Oleksandr_Vilkul_hog_desc: "§YHead of Defence Council of Kryvyi Rih\nAvant-Garde Patriotism§!\n--------------\n§L§!"
+ SSA_Volodymyr_Ben_eco_desc: "§YHead of DKAU\nAvant-Garde Patriotism§!\n--------------\n§L§!"
+ SSA_Anatoliy_Shadylo_sec_desc: "§YHead of Dnipro Patrol Police\nAvant-Garde Patriotism§!\n--------------\n§L§!"
 
  SSA_controlled_democracy_party: "RPVU"
  SSA_controlled_democracy_party_long: "Rada Promyslovtsiv ta Bizyoneriv Ukrainy"
