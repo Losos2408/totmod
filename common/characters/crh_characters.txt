@@ -1,0 +1,15 @@
+characters = {
+    CRH_sergey_krarupov = {
+        name = CRH_sergey_krarupov
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/CRH/Portrait_CRH_sergey_krarupov.png"
+            }
+        }
+        country_leader = {
+            desc = "POLITICS_KRARUPOV_DESC"
+            ideology = theocracy
+            traits = {  }
+        }
+	}
+}
