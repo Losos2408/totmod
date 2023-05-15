@@ -1,0 +1,11 @@
+state={
+	id=185
+	name="STATE_185"
+	provinces={
+		1870 4494 8272 5179 8280
+	}
+	manpower=583387
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

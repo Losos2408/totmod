@@ -7,7 +7,7 @@ state={
 		add_core_of = THM
 	}
 	provinces={
-		1102 2581 5716 5839 6537 8199 8214 8232 8234 8245 8256 10960 
+		1102 2581 5716 5839 8199
 	}
 	manpower=1474821
 	buildings_max_level_factor=1.000

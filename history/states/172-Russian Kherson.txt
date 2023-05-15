@@ -1,0 +1,15 @@
+state={
+	id=172
+	name="STATE_172"
+	history = {
+		owner = RUH
+		add_core_of = RUH
+	}
+	provinces={
+		5261 8153 850 10956 10958
+	}
+	manpower=583387
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

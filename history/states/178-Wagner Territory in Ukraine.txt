@@ -1,0 +1,11 @@
+state={
+	id=178
+	name="STATE_178"
+	provinces={
+		5299 8083 5771 5293 8064
+	}
+	manpower=583387
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}
