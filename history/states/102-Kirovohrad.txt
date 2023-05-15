@@ -7,7 +7,7 @@ state={
 		add_core_of = MKL
 	}
 	provinces={
-		1574 2930 8087 
+		1574 2930 
 	}
 	manpower=254615
 	buildings_max_level_factor=1.000
