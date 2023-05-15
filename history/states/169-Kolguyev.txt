@@ -1,0 +1,15 @@
+state={
+	id=169
+	name="STATE_169"
+	history = {
+		owner = KGY
+		add_core_of = KGY
+	}
+	provinces={
+		1218 1892 5097 6422 7349 7361
+	}
+	manpower=413
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

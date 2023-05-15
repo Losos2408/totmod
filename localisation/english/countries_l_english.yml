@@ -210,3 +210,10 @@
  NNG:0 "Nizhny Novgorod"
  NNG_DEF:0 "the Republic of Nizhny Novgorod"
  NNG_ADJ:0 "Nizhny Novgorod"
+
+ KGY:0 "General Committee"
+ KGY_DEF:0 "the All-Russian People's Ordopagan General Committee of Liberation"
+ KGY_ADJ:0 "General Committee's"
+ KGY_socialism:0 "Kolguyev"
+ KGY_socialism_DEF:0 "the Kolguyev Anarchy"
+ KGY_socialism_ADJ:0 "Kolguyev"

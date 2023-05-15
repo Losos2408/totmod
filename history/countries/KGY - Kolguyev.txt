@@ -1,0 +1,20 @@
+capital = 169
+
+# Vacant
+recruit_character = KGY_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
+recruit_character = KGY_Anarchy
+recruit_character = KGY_Professor_Alexey_Sergeevich_Bagirov
+
+set_politics = {
+	ruling_party = socialism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	radicalism = 100
+}

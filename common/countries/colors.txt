@@ -272,3 +272,7 @@ NNG = {
 	color = rgb { 122 39 38 }
 	color_ui = rgb { 122 39 38 }
 }
+KGY = {
+	color = rgb { 55 112 153 }
+	color_ui = rgb { 55 112 153 }
+}

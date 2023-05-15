@@ -1,0 +1,29 @@
+characters = {
+    KGY_Anarchy = {
+        name = KGY_Anarchy
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/Portrait_Anarchy.png"
+            }
+        }
+        country_leader = {
+            ideology = deep_anarchy
+            traits = { }
+            desc = x
+        }
+	}
+
+    KGY_Professor_Alexey_Sergeevich_Bagirov = {
+        name = KGY_Professor_Alexey_Sergeevich_Bagirov
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/KGY/.png"
+            }
+        }
+        country_leader = {
+            ideology = radicalism_default
+            traits = { }
+            desc = x
+        }
+	}
+}
