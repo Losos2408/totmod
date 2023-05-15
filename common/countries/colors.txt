@@ -276,3 +276,7 @@ KGY = {
 	color = rgb { 55 112 153 }
 	color_ui = rgb { 55 112 153 }
 }
+NVG = {
+	color = rgb { 52 63 140 }
+	color_ui = rgb { 52 63 140 }
+}

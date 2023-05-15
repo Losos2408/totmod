@@ -1,0 +1,9 @@
+on_actions = {
+	on_startup = {
+		effect = {
+			KGY = {
+				country_event = { id = KGY_scripted.1 days = 164 }
+			}
+		}
+	}
+}

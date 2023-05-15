@@ -17,7 +17,7 @@ characters = {
         name = KGY_Professor_Alexey_Sergeevich_Bagirov
         portraits = {
             civilian = {
-                #large = "gfx/leaders/KGY/.png"
+                large = "gfx/leaders/KGY/Portrait_KGY_Professor_Alexey_Sergeevich_Bagirov.png"
             }
         }
         country_leader = {

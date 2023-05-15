@@ -1,0 +1,15 @@
+characters = {
+    NVG_George_Yury_Right = {
+        name = NVG_George_Yury_Right
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/NVG/Portrait_NVG_George_Yury_Right.png"
+            }
+        }
+        country_leader = {
+            ideology = controlled_democracy_default
+            traits = { }
+            desc = x
+        }
+	}
+}

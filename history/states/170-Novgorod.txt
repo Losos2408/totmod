@@ -1,0 +1,15 @@
+state={
+	id=170
+	name="STATE_170"
+	history = {
+		owner = NVG
+		add_core_of = NVG
+	}
+	provinces={
+		1949 2072 2366 2666 2774 2919 3437 4887 4981 5124 5140 5719 6161 7595 7615 7639 7659 7675 7682
+	}
+	manpower=583387
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

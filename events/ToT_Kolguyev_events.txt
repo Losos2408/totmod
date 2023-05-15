@@ -1,0 +1,19 @@
+add_namespace = KGY_scripted
+
+country_event = { #Professor Pop Up Event
+	id = KGY_scripted.1
+	immediate = {log = "[GetDateText]: [Root.GetName]: event KGY_scripted.1"}
+	title = KGY_scripted.1.t
+	desc = KGY_scripted.1.desc
+
+	is_triggered_only = yes
+
+	option = {
+		name = KGY_scripted.1.a
+		KGY = {
+			set_politics = {
+				ruling_party = radicalism
+			}
+		}
+	}
+}
