@@ -197,4 +197,8 @@ defined_text = {
 		trigger = { has_country_leader_ideology = red_spartanism }
 		localization_key = "red_spartanism"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = George_Yury_Right_thought }
+		localization_key = "George_Yury_Right_thought"
+	}
 }

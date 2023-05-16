@@ -132,6 +132,10 @@ spriteTypes = {
 			name = "GFX_ideology_principatus"
 			texturefile = "gfx/interface/ideologies/principatus.png"
 	    }
+		spriteType = {
+			name = "GFX_ideology_George_Yury_Right_thought"
+			texturefile = "gfx/interface/ideologies/George_Yury_Right_thought.png"
+	    }
 	}
 
 

@@ -7,7 +7,7 @@ characters = {
             }
         }
         country_leader = {
-            ideology = controlled_democracy_default
+            ideology = George_Yury_Right_thought
             traits = { }
             desc = x
         }
