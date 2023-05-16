@@ -1,8 +1,12 @@
 state={
 	id=178
 	name="STATE_178"
+	history = {
+		owner = KKV
+		add_core_of = KKV
+	}
 	provinces={
-		 8083 5771
+		8083 5771
 	}
 	manpower=583387
 	buildings_max_level_factor=1.000

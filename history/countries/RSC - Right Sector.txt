@@ -1,19 +1,17 @@
-capital = 178
+capital = 175
 
 # Vacant
-recruit_character = KKV_Generic_Vacant
+recruit_character = RSC_Generic_Vacant
 
 fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
 
-recruit_character = KKV_Igor_Terekhov
-
 set_politics = {
-	ruling_party = conservatism
+	ruling_party = controlled_democracy
 	last_election = "2022.30.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	conservatism = 100
+	controlled_democracy = 100
 }

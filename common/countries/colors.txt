@@ -241,8 +241,8 @@ GVR = {
 	color_ui = rgb { 31 60 96 }
 }
 ATB = {
-	color = rgb { 17 33 53 }
-	color_ui = rgb { 17 33 53 }
+	color = rgb { 24 46 73 }
+	color_ui = rgb { 24 46 73 }
 }
 CKH = {
 	color = rgb { 35 70 112 }
@@ -303,4 +303,16 @@ CRH = {
 MDV = {
 	color = rgb { 84 26 26 }
 	color_ui = rgb { 84 26 26 }
+}
+OMB = {
+	color = rgb { 45 109 188 }
+	color_ui = rgb { 45 109 188 }
+}
+RSC = {
+	color = rgb { 22 22 22 }
+	color_ui = rgb { 22 22 22 }
+}
+WAG = {
+	color = rgb { 150 128 42 }
+	color_ui = rgb { 150 128 42 }
 }

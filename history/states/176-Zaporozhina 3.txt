@@ -1,6 +1,10 @@
 state={
 	id=176
 	name="STATE_176"
+	history = {
+		owner = OMB
+		add_core_of = OMB
+	}
 	provinces={
 		8232 8234 8245 8256
 	}

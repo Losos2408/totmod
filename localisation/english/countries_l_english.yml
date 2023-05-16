@@ -245,3 +245,15 @@
  MDV:0 "Mordovia"
  MDV_DEF:0 "the Labor Communes of Mordovia"
  MDV_ADJ:0 "Mordovian"
+
+ OMB:0 "93 OMBR"
+ OMB_DEF:0 "93rd Mechanized Brigade "Cold Ravine""
+ OMB_ADJ:0 "Military Zaporizhzhia"
+
+ RSC:0 "Right Sector"
+ RSC_DEF:0 "Ukraine Volunteer Corps "Right Sector""
+ RSC_ADJ:0 "Right Sector's"
+
+ WAG:0 "Wagner Group"
+ WAG_DEF:0 "the Wagner Group"
+ WAG_ADJ:0 "Wagner Group's"
