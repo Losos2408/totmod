@@ -502,13 +502,6 @@ guiTypes = {
 		}
 
 
-		iconType ={
-			name ="politics_bottom"
-			spriteType = "GFX_main_screens_bottom"
-			position = { x = -2 y = 383 }
-			Orientation = "UPPER_LEFT"
-			scale = 1.02
-		}
 
 		iconType = {
 			name = "rules"
