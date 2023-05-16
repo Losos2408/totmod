@@ -3,4 +3,11 @@ spriteTypes = {
 		name = "GFX_report_event_001"
 		texturefile = "gfx/event_pictures/report_event_001.dds"
 	}
+
+	textSpriteType = {
+		name = "GFX_ToT_government_button"
+		texturefile = "gfx/interface/ToT_government_button.dds"
+		noOfFrames = 1
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
 }

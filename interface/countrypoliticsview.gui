@@ -510,9 +510,9 @@ guiTypes = {
 		}
 
 		buttonType = {
-			name = "manage_occupied_button"
+			name = "ToT_manage_occupied_button"
 			position = { x = 10 y = 390 }
-			quadTextureSprite = "GFX_government_button"
+			quadTextureSprite = "GFX_ToT_government_button"
 			buttonFont = "hoi_16mbs"
 			Orientation = "UPPER_LEFT"
 		}
@@ -531,9 +531,9 @@ guiTypes = {
 			position = { x = 367 y = 390 }
 
 			buttonType = {
-				name = "show_subjects_button"
+				name = "ToT show_subjects_button"
 				position = { x = 0 y = 0 }
-				quadTextureSprite = "GFX_government_button"
+				quadTextureSprite = "GFX_ToT_government_button"
 				buttonFont = "hoi_16mbs"
 				Orientation = "UPPER_RIGHT"
 			}
@@ -558,9 +558,9 @@ guiTypes = {
 		}
 		
 		buttonType = {
-			name = "show_exiles_collaborations_button"
+			name = "ToT_show_exiles_collaborations_button"
 			position = { x = 190 y = 390 }
-			quadTextureSprite = "GFX_government_button"
+			quadTextureSprite = "GFX_ToT_government_button"
 			buttonFont = "hoi_16mbs"
 			Orientation = "UPPER_LEFT"
 			format = right
