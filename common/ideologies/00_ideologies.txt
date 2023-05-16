@@ -116,6 +116,8 @@ ideologies = {
 			communism_default = {}
 			maoism = { can_be_randomly_selected = no }
 			leninist = { can_be_randomly_selected = no }
+			stratocratic_communism = { can_be_randomly_selected = no }
+			red_spartanism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 120 13 26 }

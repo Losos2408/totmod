@@ -189,4 +189,12 @@ defined_text = {
 		trigger = { has_country_leader_ideology = rusism }
 		localization_key = "rusism"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = stratocratic_communism }
+		localization_key = "stratocratic_communism"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = red_spartanism }
+		localization_key = "red_spartanism"
+	}
 }

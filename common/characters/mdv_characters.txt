@@ -1,0 +1,20 @@
+characters = {
+    MDV_Vladimir_Demirov = {
+        name = MDV_Vladimir_Demirov
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/MDV/.png"
+            }
+        }
+        country_leader = {
+            ideology = stratocratic_communism
+            traits = { }
+            desc = x
+        }
+        country_leader = {
+            ideology = red_spartanism
+            traits = { }
+            desc = x
+        }
+	}
+}

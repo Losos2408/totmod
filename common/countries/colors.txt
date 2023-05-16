@@ -300,3 +300,7 @@ CRH = {
 	color = rgb { 53 63 140 }
 	color_ui = rgb { 53 63 140 }
 }
+MDV = {
+	color = rgb { 84 26 26 }
+	color_ui = rgb { 84 26 26 }
+}
