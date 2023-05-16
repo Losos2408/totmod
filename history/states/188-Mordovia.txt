@@ -1,0 +1,15 @@
+state={
+	id=188
+	name="STATE_188"
+	history = {
+		owner = MDV
+		add_core_of = MDV
+	}
+	provinces={
+		1554 1608 4780 5053 7954 7979 7999
+	}
+	manpower=583387
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

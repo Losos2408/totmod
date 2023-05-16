@@ -237,3 +237,11 @@
  NVG:0 "East Washington"
  NVG_DEF:0 "the Republic of East Washington"
  NVG_ADJ:0 "East Washington"
+
+ CRH:0 "Petrozavodsk"
+ CRH_DEF:0 "Petrozavodsk"
+ CRH_ADJ:0 "Petrozavodsk"
+
+ MDV:0 "Mordovia"
+ MDV_DEF:0 "the Labor Communes of Mordovia"
+ MDV_ADJ:0 "Mordovian"
