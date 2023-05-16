@@ -87,7 +87,7 @@ guiTypes = {
 			iconType = {
 				name ="event_picture"
 				spriteType = "GFX_report_event_001"
-				position = { x = 5 y = 0 }
+				position = { x = -5 y = 0 }
 				Orientation = "UPPER_LEFT"
 				alwaystransparent = yes
 			}
