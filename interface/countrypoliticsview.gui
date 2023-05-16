@@ -531,7 +531,7 @@ guiTypes = {
 			position = { x = 367 y = 390 }
 
 			buttonType = {
-				name = "ToT show_subjects_button"
+				name = "ToT_show_subjects_button"
 				position = { x = 0 y = 0 }
 				quadTextureSprite = "GFX_ToT_government_button"
 				buttonFont = "hoi_16mbs"
@@ -550,7 +550,7 @@ guiTypes = {
 			}
 
 			iconType = {
-				name = "icon_manage_subjects"
+				name = "ToT_icon_manage_subjects"
 				spriteType = "GFX_icon_manage_subjects"
 				position = { x = 2 y = 1 }
 				alwaystransparent = yes
@@ -585,7 +585,7 @@ guiTypes = {
 		}
 
 		iconType = {
-			name = "icon_occupied_territories"
+			name = "ToT_icon_occupied_territories"
 			spriteType = "GFX_icon_occupied_territories"
 			position = { x = 12 y = 391 }
 		}
