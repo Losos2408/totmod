@@ -198,12 +198,11 @@ defined_text = {
 		localization_key = "red_spartanism"
 	}
 	text = {
-<<<<<<< Updated upstream
 		trigger = { has_country_leader_ideology = George_Yury_Right_thought }
 		localization_key = "George_Yury_Right_thought"
-=======
+	}
+	text = {
 		trigger = { has_country_leader_ideology = slavo_aryanism }
 		localization_key = "slavo_aryanism"
->>>>>>> Stashed changes
 	}
 }
