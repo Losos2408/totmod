@@ -1,6 +1,10 @@
 state={
 	id=174
 	name="STATE_174"
+	history = {
+		owner = ATB
+		add_core_of = ATB
+	}
 	provinces={
 		8181 4562 5017 3034
 	}

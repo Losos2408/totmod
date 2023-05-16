@@ -1,6 +1,10 @@
 state={
 	id=173
 	name="STATE_173"
+	history = {
+		owner = GVR
+		add_core_of = GVR
+	}
 	provinces={
 		8168 8178 8197 8182
 	}

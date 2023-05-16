@@ -224,6 +224,10 @@ KHS = {
 	color = rgb { 45 87 142 }
 	color_ui = rgb { 45 87 142 }
 }
+SVV = {
+	color = rgb { 56 108 175 }
+	color_ui = rgb { 56 108 175 }
+}
 MKL = {
 	color = rgb { 109 136 150 }
 	color_ui = rgb { 109 136 150 }
@@ -231,6 +235,18 @@ MKL = {
 RUH = {
 	color = rgb { 24 47 76 }
 	color_ui = rgb { 24 47 76 }
+}
+GVR = {
+	color = rgb { 31 60 96 }
+	color_ui = rgb { 31 60 96 }
+}
+ATB = {
+	color = rgb { 17 33 53 }
+	color_ui = rgb { 17 33 53 }
+}
+CKH = {
+	color = rgb { 35 70 112 }
+	color_ui = rgb { 35 70 112 }
 }
 NVR = {
 	color = rgb { 0 100 184 }

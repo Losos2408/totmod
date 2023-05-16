@@ -1,5 +1,51 @@
 characters = {
 
+		ATB_Generic_Vacant = {
+			name = minister_Generic_Vacant
+			portraits = {
+				civilian = { small = "GFX_idea_minister_Generic_Vacant" }
+			}
+			advisor = {
+				slot = head_of_government
+				traits = { head_of_government }
+				idea_token = ATB_Generic_Vacant_hog
+				ledger = civilian
+				cost = -1
+				removal_cost = -1
+				allowed = { original_tag = ATB }
+				ai_will_do = { factor = 0 }
+			}
+			advisor = {
+				slot = economy_minister
+				traits = { economy_minister }
+				idea_token = ATB_Generic_Vacant_eco
+				ledger = civilian
+				cost = -1
+				removal_cost = -1
+				allowed = { original_tag = ATB }
+				ai_will_do = { factor = 0 }
+			}
+			advisor = {
+				slot = foreign_minister
+				traits = { foreign_minister }
+				idea_token = ATB_Generic_Vacant_for
+				ledger = civilian
+				cost = -1
+				removal_cost = -1
+				allowed = { original_tag = ATB }
+				ai_will_do = { factor = 0 }
+			}
+			advisor = {
+				slot = security_minister
+				traits = { security_minister }
+				idea_token = ATB_Generic_Vacant_sec
+				ledger = civilian
+				cost = -1
+				removal_cost = -1
+				allowed = { original_tag = ATB }
+				ai_will_do = { factor = 0 }
+			}
+		}
 		BLK_Generic_Vacant = {
 			name = minister_Generic_Vacant
 			portraits = {
@@ -322,6 +368,52 @@ characters = {
 				ai_will_do = { factor = 0 }
 			}
 		}
+		CKH_Generic_Vacant = {
+			name = minister_Generic_Vacant
+			portraits = {
+				civilian = { small = "GFX_idea_minister_Generic_Vacant" }
+			}
+			advisor = {
+				slot = head_of_government
+				traits = { head_of_government }
+				idea_token = CKH_Generic_Vacant_hog
+				ledger = civilian
+				cost = -1
+				removal_cost = -1
+				allowed = { original_tag = CKH }
+				ai_will_do = { factor = 0 }
+			}
+			advisor = {
+				slot = economy_minister
+				traits = { economy_minister }
+				idea_token = CKH_Generic_Vacant_eco
+				ledger = civilian
+				cost = -1
+				removal_cost = -1
+				allowed = { original_tag = CKH }
+				ai_will_do = { factor = 0 }
+			}
+			advisor = {
+				slot = foreign_minister
+				traits = { foreign_minister }
+				idea_token = CKH_Generic_Vacant_for
+				ledger = civilian
+				cost = -1
+				removal_cost = -1
+				allowed = { original_tag = CKH }
+				ai_will_do = { factor = 0 }
+			}
+			advisor = {
+				slot = security_minister
+				traits = { security_minister }
+				idea_token = CKH_Generic_Vacant_sec
+				ledger = civilian
+				cost = -1
+				removal_cost = -1
+				allowed = { original_tag = CKH }
+				ai_will_do = { factor = 0 }
+			}
+		}
 		CKS_Generic_Vacant = {
 			name = minister_Generic_Vacant
 			portraits = {
@@ -460,6 +552,52 @@ characters = {
 				ai_will_do = { factor = 0 }
 			}
 		}
+		CRH_Generic_Vacant = {
+			name = minister_Generic_Vacant
+			portraits = {
+				civilian = { small = "GFX_idea_minister_Generic_Vacant" }
+			}
+			advisor = {
+				slot = head_of_government
+				traits = { head_of_government }
+				idea_token = CRH_Generic_Vacant_hog
+				ledger = civilian
+				cost = -1
+				removal_cost = -1
+				allowed = { original_tag = CRH }
+				ai_will_do = { factor = 0 }
+			}
+			advisor = {
+				slot = economy_minister
+				traits = { economy_minister }
+				idea_token = CRH_Generic_Vacant_eco
+				ledger = civilian
+				cost = -1
+				removal_cost = -1
+				allowed = { original_tag = CRH }
+				ai_will_do = { factor = 0 }
+			}
+			advisor = {
+				slot = foreign_minister
+				traits = { foreign_minister }
+				idea_token = CRH_Generic_Vacant_for
+				ledger = civilian
+				cost = -1
+				removal_cost = -1
+				allowed = { original_tag = CRH }
+				ai_will_do = { factor = 0 }
+			}
+			advisor = {
+				slot = security_minister
+				traits = { security_minister }
+				idea_token = CRH_Generic_Vacant_sec
+				ledger = civilian
+				cost = -1
+				removal_cost = -1
+				allowed = { original_tag = CRH }
+				ai_will_do = { factor = 0 }
+			}
+		}
 		DSD_Generic_Vacant = {
 			name = minister_Generic_Vacant
 			portraits = {
@@ -549,6 +687,52 @@ characters = {
 				cost = -1
 				removal_cost = -1
 				allowed = { original_tag = FSB }
+				ai_will_do = { factor = 0 }
+			}
+		}
+		GVR_Generic_Vacant = {
+			name = minister_Generic_Vacant
+			portraits = {
+				civilian = { small = "GFX_idea_minister_Generic_Vacant" }
+			}
+			advisor = {
+				slot = head_of_government
+				traits = { head_of_government }
+				idea_token = GVR_Generic_Vacant_hog
+				ledger = civilian
+				cost = -1
+				removal_cost = -1
+				allowed = { original_tag = GVR }
+				ai_will_do = { factor = 0 }
+			}
+			advisor = {
+				slot = economy_minister
+				traits = { economy_minister }
+				idea_token = GVR_Generic_Vacant_eco
+				ledger = civilian
+				cost = -1
+				removal_cost = -1
+				allowed = { original_tag = GVR }
+				ai_will_do = { factor = 0 }
+			}
+			advisor = {
+				slot = foreign_minister
+				traits = { foreign_minister }
+				idea_token = GVR_Generic_Vacant_for
+				ledger = civilian
+				cost = -1
+				removal_cost = -1
+				allowed = { original_tag = GVR }
+				ai_will_do = { factor = 0 }
+			}
+			advisor = {
+				slot = security_minister
+				traits = { security_minister }
+				idea_token = GVR_Generic_Vacant_sec
+				ledger = civilian
+				cost = -1
+				removal_cost = -1
+				allowed = { original_tag = GVR }
 				ai_will_do = { factor = 0 }
 			}
 		}
@@ -2343,6 +2527,52 @@ characters = {
 				cost = -1
 				removal_cost = -1
 				allowed = { original_tag = SUS }
+				ai_will_do = { factor = 0 }
+			}
+		}
+		SVV_Generic_Vacant = {
+			name = minister_Generic_Vacant
+			portraits = {
+				civilian = { small = "GFX_idea_minister_Generic_Vacant" }
+			}
+			advisor = {
+				slot = head_of_government
+				traits = { head_of_government }
+				idea_token = SVV_Generic_Vacant_hog
+				ledger = civilian
+				cost = -1
+				removal_cost = -1
+				allowed = { original_tag = SVV }
+				ai_will_do = { factor = 0 }
+			}
+			advisor = {
+				slot = economy_minister
+				traits = { economy_minister }
+				idea_token = SVV_Generic_Vacant_eco
+				ledger = civilian
+				cost = -1
+				removal_cost = -1
+				allowed = { original_tag = SVV }
+				ai_will_do = { factor = 0 }
+			}
+			advisor = {
+				slot = foreign_minister
+				traits = { foreign_minister }
+				idea_token = SVV_Generic_Vacant_for
+				ledger = civilian
+				cost = -1
+				removal_cost = -1
+				allowed = { original_tag = SVV }
+				ai_will_do = { factor = 0 }
+			}
+			advisor = {
+				slot = security_minister
+				traits = { security_minister }
+				idea_token = SVV_Generic_Vacant_sec
+				ledger = civilian
+				cost = -1
+				removal_cost = -1
+				allowed = { original_tag = SVV }
 				ai_will_do = { factor = 0 }
 			}
 		}

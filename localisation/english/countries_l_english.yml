@@ -159,17 +159,33 @@
  CKS_DEF:0 "the Cherkasy Oblast"
  CKS_ADJ:0 "Cherkasy"
 
- KHS:0 "Kherson"
- KHS_DEF:0 "the Operational Command "South""
- KHS_ADJ:0 "Kherson"
+ KHS:0 "Operational Command "South""
+ KHS_DEF:0 "the Operational Command of the Armed Forces of Ukraine "South""
+ KHS_ADJ:0 "Ukrainian Kherson"
+
+ SVV:0 "19 RBR"
+ SVV_DEF:0 "the 19th Missile Brigade "Saint Barbara""
+ SVV_ADJ:0 "Ukrainian Kherson"
 
  MKL:0 "Mykolaiv"
  MKL_DEF:0 "the Mykolaiv Oblast"
  MKL_ADJ:0 "Mykolaiv"
 
- RUH:0 "Russian Kherson"
- RUH_DEF:0 "the Russian Occupation Forces in Kherson"
+ RUH:0 "United Command"
+ RUH_DEF:0 "the United Command of the Armed Forces of the Russian Federation in the Kherson Region"
  RUH_ADJ:0 "Russian Kherson"
+
+ GVR:0 "8 GV. OA"
+ GVR_DEF:0 "the 8th Guards Order of Lenin Combined Arms Army"
+ GVR_ADJ:0 "Russian Kherson"
+
+ ATB:0 "291 GV. ABR"
+ ATB_DEF:0 "the 291st Guards Artillery Brigade"
+ ATB_ADJ:0 "Russian Kherson"
+
+ CKH:0 "Military-Civilian Administration"
+ CKH_DEF:0 "the Kherson Oblast Military-Civilian Administration"
+ CKH_ADJ:0 "Collaborationist Kherson"
 
  NVR:0 "Novorossiysk"
  NVR_DEF:0 "the Novorossiysk Humanitarian Zone"

@@ -3,8 +3,8 @@ state={
 	id=117
 	name="STATE_117"
 	history = {
-		owner = KHS
-		add_core_of = KHS
+		owner = SVV
+		add_core_of = SVV
 	}
 	provinces={
 		423 6378 
