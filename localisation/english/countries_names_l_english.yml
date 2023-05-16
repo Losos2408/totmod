@@ -1,0 +1,116 @@
+﻿l_english:
+ BRY:0 "Republic of Buryatia"
+ BRY_DEF:0 "the Republic of Buryatia"
+ BRY_ADJ:0 "Buryatian"
+
+ TBK:0 "Transbaikal Tsardom"
+ TBK_DEF:0 "the Tsardom of Transbaikal"
+ TBK_ADJ:0 "Transbaikal"
+
+ VIS:0 "Votchina of the Vissarionists"
+ VIS_DEF:0 "the Votchina of the Vissarionists"
+ VIS_ADJ:0 "Vissarionist"
+
+ VLA:0 "Vladimir"
+ VLA_DEF:0 "the Russian Republic"
+ VLA_ADJ:0 "Vladimir"
+
+ SAK:0 "Republic of Sakha"
+ SAK_DEF:0 "the Republic of Sakha"
+ SAK_ADJ:0 "Sakha"
+
+ TAI:0 "Taiga"
+ TAI_DEF:0 "the Taiga Territories"
+ TAI_ADJ:0 "Taiga"
+
+ BRB:0 "Birobidzhan"
+ BRB_DEF:0 "the Independent District of Birobidzhan"
+ BRB_ADJ:0 "Birobidzhan"
+
+ IRK:0 "Territorial Protectorate of Irkutsk"
+ IRK_DEF:0 "the Territorial Protectorate of Irkutsk"
+ IRK_ADJ:0 "Irkutsk"
+
+ ILC: "Police Department of Irkutsk"
+ ILC_DEF: "the Squad "Irkutsk" of VS-MBD-RF"
+ ILC_ADJ: "Irkutsk"
+ 
+ KLS: "Irkutsk Police"
+ KLS_DEF: "the Loyal Forces of the Irkutsk Police"
+ KLS_ADJ: "Irkutsk"
+
+ CHU: "Far-East Government"
+ CHU_DEF: "the Far-East Government"
+ CHU_ADJ: "Chukchi"
+
+ USS: ""USS Nimitz" Remains"
+ USS_DEF: "the "USS Nimitz" Remains"
+ USS_ADJ: "American"
+ 
+ DSD: "Union of Dissidents of Russia"
+ DSD_DEF: "the Union of Dissidents of Russia"
+ DSD_ADJ: "Dissidents'"
+ 
+ FSB: "Squad "Vissarion" of FSB"
+ FSB_DEF: "the Squad "Vissarion" of FSB"
+ FSB_ADJ: "FSB'"
+
+ ILG: "Legitimate Government of Irkutsk"
+ ILG_DEF: "the Legitimate Government of Irkutsk"
+ ILG_ADJ: "Irkutsk"
+ 
+ CIK: "Communist Irkutsk"
+ CIK_DEF: "the Communist Irkutsk"
+ CIK_ADJ: "Irkutsk"
+
+ SUS: "People's Republic of Transamur"
+ SUS_DEF: "the People's Republic of Transamur"
+ SUS_ADJ: "Transamur's"
+
+ UKR: "Ukraine"
+ UKR_DEF: "the Republic of Ukraine"
+ UKR_ADJ: "Ukrainian"
+
+ SSA: "SSAU"
+ SSA_DEF: "the State Space Agency of Ukraine"
+ SSA_ADJ: "SSAU's"
+
+ COU: "Corporation "Ukraine""
+ COU_DEF: "the Corporation "Ukraine""
+ COU_ADJ: "Corporation "Ukraine"'s"
+
+ KKV: "Kharkiv"
+ KKV_DEF: "the Kharkiv Oblast"
+ KKV_ADJ: "Kharkiv"
+
+ ODS: "Odesa"
+ ODS_DEF: "the Odesa Oblast"
+ ODS_ADJ: "Odesa"
+ 
+ VNT: "Vinnytsia"
+ VNT_DEF: "the Vinnytsia Oblast"
+ VNT_ADJ: "Vinnytsia"
+
+ TRT: "Territory"
+ TRT_DEF: "the Territory"
+ TRT_ADJ: "Territory's"
+ 
+ THM: "Third Hetmanate"
+ THM_DEF: "the Third Hetmanate"
+ THM_ADJ: "Hetmanate's"
+ 
+ UMN: "Uman"
+ UMN_DEF: "the Uman City"
+ UMN_ADJ: "Uman"
+
+ HLP: "Huliaipole"
+ HLP_DEF: "the Huliaipole City"
+ HLP_ADJ: "Huliaipole"
+
+ ZKP: "Zakarpattia"
+ ZKP_DEF: "the Zakarpattia Oblast"
+ ZKP_ADJ: "Zakarpattia"
+
+ NOS: "Ossetia"
+ NOS_DEF: "the Republic of Ossetia"
+ NOS_ADJ: "Ossetian"

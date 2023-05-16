@@ -1,8 +1,12 @@
 capital = 171
 
+# Vacant
 recruit_character = CRH_sergey_krarupov
 
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
 add_ideas = {
+	CRH_Karelian_Heartland
 }
 
 set_politics = {
