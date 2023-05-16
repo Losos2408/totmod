@@ -21,7 +21,7 @@ characters = {
             }
         }
         country_leader = {
-            ideology = radicalism_default
+            ideology = slavo_aryanism
             traits = { }
             desc = x
         }

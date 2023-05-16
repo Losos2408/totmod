@@ -5,6 +5,7 @@ country_event = { #Professor Pop Up Event
 	immediate = {log = "[GetDateText]: [Root.GetName]: event KGY_scripted.1"}
 	title = KGY_scripted.1.t
 	desc = KGY_scripted.1.desc
+        picture = GFX_report_event_KGY_scripted_1
 
 	is_triggered_only = yes
 

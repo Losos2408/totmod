@@ -17,16 +17,9 @@ guiTypes = {
 			quadTextureSprite ="GFX_tiled_plain_bg"
 		}
 
-		iconType ={
-			name ="production_header_bg"
-			spriteType = "GFX_header_bg"
-			position = { x= 5 y = 07 }
-			Orientation = "UPPER_LEFT"
-		}	
-
 		instantTextboxType = {
 			name = "political_title"
-			position = { x = 45 y = 8 }
+			position = { x = 45 y = 15 }
 			textureFile = ""
 			font = "hoi_36header"
 			borderSize = {x = 0 y = 0}
@@ -499,14 +492,6 @@ guiTypes = {
 			Orientation = "UPPER_RIGHT"
 			clicksound = click_close
 			pdx_tooltip = "CLOSE"
-		}
-
-
-
-		iconType = {
-			name = "rules"
-			spriteType = "GFX_rules_sum_icon"
-			position = { x = 460 y = 7 }
 		}
 
 		buttonType = {

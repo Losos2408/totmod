@@ -140,7 +140,11 @@ ideologies = {
 			radical_nationalism = { can_be_randomly_selected = no }
 			gekokujo = { can_be_randomly_selected = no }
 			rusism = { can_be_randomly_selected = no }
+<<<<<<< Updated upstream
 			George_Yury_Right_thought = { can_be_randomly_selected = no }
+=======
+			slavo_aryanism = { can_be_randomly_selected = no }
+>>>>>>> Stashed changes
 		}
 		dynamic_faction_names = {}
 		color = { 13 13 13 }

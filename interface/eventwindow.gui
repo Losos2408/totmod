@@ -29,7 +29,7 @@ guiTypes = {
 			instantTextBoxType = {
 				name = "Title"
 				position = { x = 45 y = 130 }
-				font = "hoi4_typewriter22"
+				font = "hoi_24header"
 				borderSize = {x = 0 y = 0}
 				text = "Title text here!"
 				maxWidth = 484
@@ -48,7 +48,7 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "midsection"
-			position = { x=0 y=193 }
+			position = { x=2 y=193 }
 			size = { width = 563 height = 111 }
 			moveable = yes
 			clipping = no
@@ -62,7 +62,7 @@ guiTypes = {
 			instantTextBoxType = {
 				name = "Description"
 				position = { x = 62 y = 0 }
-				font = "hoi4_typewriter16"
+				font = "hoi_16mbs"
 				borderSize = {x = 0 y = 0}
 				text = "Long text here!"
 				maxWidth = 460
@@ -73,7 +73,7 @@ guiTypes = {
 
 		containerWindowType = {
 			name = "bottom_Window"
-			position = { x=1 y=1054 }
+			position = { x=5 y=1054 }
 			size = { width = 563 height = 244 }
 			moveable = yes
 			Orientation = UPPER_LEFT
@@ -92,12 +92,6 @@ guiTypes = {
 				alwaystransparent = yes
 			}
 
-			iconType = {
-				name ="event_pic_clip"
-				spriteType = "GFX_event_pic_clip"
-				position = { x = -3 y = 35 }
-				Orientation = "UPPER_LEFT"
-			}
 
 			gridBoxType = {
 				name = "options_grid"
@@ -634,7 +628,7 @@ guiTypes = {
 		instantTextBoxType = {
 			name = "Name"
 			position = { x = 5 y = 4 }
-			font = "hoi4_typewriter16"
+			font = "hoi_18mbs"
 			maxWidth = 340
 			maxHeight = 40
 			format = center
