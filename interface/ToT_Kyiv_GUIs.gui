@@ -1,0 +1,7 @@
+guiTypes = {
+	containerWindowType = {
+		name = "ToT_Kyiv_power_balance_container"
+		position = { x=0 y=0 }
+		size = { width = 500 height = 800 }
+	}
+}
