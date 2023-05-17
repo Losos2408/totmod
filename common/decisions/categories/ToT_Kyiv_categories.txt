@@ -1,0 +1,8 @@
+UKR_power_balance = {
+	allowed = {
+		original_tag = UKR
+	}
+	priority = 9999
+	visible_when_empty = yes
+	scripted_gui = UKR_power_balance_gui
+}
