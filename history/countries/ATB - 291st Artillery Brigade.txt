@@ -3,6 +3,8 @@ capital = 174
 # Vacant
 recruit_character = ATB_Generic_Vacant
 
+recruit_character = ATB_Alexander_Tikhonov
+
 fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
 
 set_politics = {

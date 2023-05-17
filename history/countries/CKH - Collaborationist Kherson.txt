@@ -3,6 +3,8 @@ capital = 92
 # Vacant
 recruit_character = CKH_Generic_Vacant
 
+recruit_character = CKH_Vladimir_Saldo
+
 fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
 
 set_politics = {
