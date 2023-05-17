@@ -2,6 +2,55 @@ guiTypes = {
 	containerWindowType = {
 		name = "ToT_Kyiv_power_balance_container"
 		position = { x=0 y=0 }
-		size = { width = 500 height = 800 }
+		size = { width = 510 height = 730 }
+
+		iconType = {
+			name = "party_logo"
+			position = { x=109 y=0 }
+			orientation = UPPER_LEFT
+			spriteType = "GFX_UKR_party_logo"
+		}
+
+		iconType = {
+			name = "progress_bar_1"
+			position = { x=85 y=250 }
+			orientation = UPPER_LEFT
+			spriteType = "GFX_UKR_party_balance_prog"
+		}
+
+		iconType = {
+			name = "progress_bar_2"
+			position = { x=226 y=250 }
+			orientation = UPPER_LEFT
+			spriteType = "GFX_UKR_party_balance_prog"
+		}
+
+		iconType = {
+			name = "progress_bar_3"
+			position = { x=367 y=250 }
+			orientation = UPPER_LEFT
+			spriteType = "GFX_UKR_party_balance_prog"
+		}
+
+		iconType = {
+			name = "person_1"
+			position = { x=55 y=540 }
+			orientation = UPPER_LEFT
+			spriteType = "GFX_UKR_party_balance_Oleksandr_Syrskyy"
+		}
+
+		iconType = {
+			name = "person_2"
+			position = { x=196 y=540 }
+			orientation = UPPER_LEFT
+			spriteType = "GFX_UKR_party_balance_Volodymyr_Zelenskyy"
+		}
+
+		iconType = {
+			name = "person_3"
+			position = { x=337 y=540 }
+			orientation = UPPER_LEFT
+			spriteType = "GFX_UKR_party_balance_Oleksiy_Honcharenko"
+		}
 	}
 }
