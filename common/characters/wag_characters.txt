@@ -1,0 +1,15 @@
+characters = {
+    WAG_Yevgeny_Prigozhin = {
+        name = WAG_Yevgeny_Prigozhin
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/SVV/.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

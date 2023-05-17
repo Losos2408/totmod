@@ -8,12 +8,12 @@ recruit_character = ATB_Alexander_Tikhonov
 fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
 
 set_politics = {
-	ruling_party = controlled_democracy
+	ruling_party = militarism
 	last_election = "2022.30.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	controlled_democracy = 100
+	militarism = 100
 }

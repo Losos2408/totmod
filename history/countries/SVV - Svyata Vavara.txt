@@ -3,7 +3,7 @@ capital = 117
 # Vacant
 recruit_character = SVV_Generic_Vacant
 
-promote_character = SVV_Fedir_Yaroshevych
+recruit_character = SVV_Fedir_Yaroshevych
 
 fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
 

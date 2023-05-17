@@ -2,11 +2,11 @@ state={
 	id=189
 	name="STATE_189"
 	history = {
-		owner = KKV
-		add_core_of = KKV
+		owner = DPS
+		add_core_of = DPS
 	}
 	provinces={
-		5293 5299 8064
+		3346 5293 5299 8064
 	}
 	manpower=583387
 	buildings_max_level_factor=1.000

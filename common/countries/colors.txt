@@ -316,3 +316,7 @@ WAG = {
 	color = rgb { 150 128 42 }
 	color_ui = rgb { 150 128 42 }
 }
+DPS = {
+	color = rgb { 43 81 34 }
+	color_ui = rgb { 43 81 34 }
+}
