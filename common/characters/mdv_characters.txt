@@ -3,7 +3,7 @@ characters = {
         name = MDV_Vladimir_Demirov
         portraits = {
             civilian = {
-                #large = "gfx/leaders/MDV/.png"
+                large = "gfx/leaders/MDV/Portrait_MDV_Vladimir_Demirov.png"
             }
         }
         country_leader = {
