@@ -1,0 +1,11 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_report_event_KGY_scripted_1"
+		texturefile = "gfx/event_pics/KGY/GFX_report_event_KGY_scripted_1.png"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_HRS_hirasawa_standing"
+		texturefile = "gfx/event_pics/HRS/GFX_report_event_HRS_hirasawa_standing.png"
+	}
+}

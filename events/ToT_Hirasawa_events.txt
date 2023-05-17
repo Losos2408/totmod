@@ -3,6 +3,7 @@ add_namespace = HRS_start
 country_event = { #Susumu Event
 	id = HRS_start.1
 	immediate = {log = "[GetDateText]: [Root.GetName]: event HRS_start.1"}
+	picture = GFX_report_event_HRS_hirasawa_standing
 	title = HRS_start.1.t
 	desc = HRS_start.1.desc
 
