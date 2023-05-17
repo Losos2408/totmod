@@ -45,4 +45,8 @@ spriteTypes = {
 			name = "GFX_idea_RIM_quae_dicunt"
 			texturefile = "gfx/interface/ideas/GFX_idea_RIM_quae_dicunt.png"
 	    }
+		spriteType = {
+			name = "GFX_idea_OFA_Organisation_of_Fastiv_Agreements"
+			texturefile = "gfx/interface/ideas/GFX_idea_OFA_Organisation_of_Fastiv_Agreements.png"
+	    }
 	}

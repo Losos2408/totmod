@@ -16,16 +16,38 @@ set_politics = {
 	elections_allowed = no
 }
 
-add_ideas = {
-UKR_Wake_up_Ukraine
-UKR_house_of_cards
-UKR_our_western_friends
-UKR_AFU_condition
+create_faction = OFA_Faction
+add_to_faction = VLN
+add_to_faction = ZTM
+add_to_faction = MVS
+add_to_faction = VNT
+add_to_faction = COU
+add_to_faction = ZKP
+add_to_faction = CNH
+add_to_faction = NSR
+add_to_faction = DPS
+add_to_faction = KKV
+add_to_faction = BLK
+add_to_faction = SSA
+add_to_faction = MKL
+add_to_faction = ODS
+add_to_faction = KML
+add_to_faction = RVN
+add_to_faction = CKS
+add_to_faction = UMN
+add_to_faction = OLK
 
-UKR_Denys_Shmyhal_hog
-UKR_Dmytro_Kuleba_for
-UKR_Serhiy_Marchenko_eco
-UKR_Denys_Monastyrsky_sec
+add_ideas = {
+	UKR_Wake_up_Ukraine
+	UKR_house_of_cards
+	UKR_our_western_friends
+	UKR_AFU_condition
+	OFA_Organisation_of_Fastiv_Agreements
+
+	UKR_Denys_Shmyhal_hog
+	UKR_Dmytro_Kuleba_for
+	UKR_Serhiy_Marchenko_eco
+	UKR_Denys_Monastyrsky_sec
 }
 
 set_popularities = {

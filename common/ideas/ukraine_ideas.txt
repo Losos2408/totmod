@@ -144,5 +144,17 @@ ideas = {
 				political_power_gain = -0.15
 			}		
 		}
+
+		OFA_Organisation_of_Fastiv_Agreements = {
+
+			picture = OFA_Organisation_of_Fastiv_Agreements
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				
+			}		
+		}
 	}
 }

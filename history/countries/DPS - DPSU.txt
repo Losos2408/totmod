@@ -16,6 +16,10 @@ set_politics = {
 	elections_allowed = no
 }
 
+add_ideas = {
+	OFA_Organisation_of_Fastiv_Agreements
+}
+
 set_popularities = {
 	militarism = 100
 }

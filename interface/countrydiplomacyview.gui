@@ -686,7 +686,7 @@ guiTypes = {
 
 		iconType ={
 			name ="production_header_bg"
-			spriteType = "GFX_header_bg"
+			spriteType = "GFX_category_header"
 			position = { x= 5 y = 07 }
 			Orientation = "UPPER_LEFT"
 		}
@@ -728,7 +728,7 @@ guiTypes = {
 
 		instantTextboxType = {
 			name = "diplomacy_title"
-			position = { x = 45 y = 8 }
+			position = { x = 45 y = 16 }
 			textureFile = ""
 			font = "hoi_36header"
 			borderSize = {x = 0 y = 0}

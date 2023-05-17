@@ -32,4 +32,6 @@ add_ideas = {
 	CNH_Vasyl_Vilogura_for
 	CNH_Viacheslav_Pochep_eco
 	CNH_Olga_Malets_sec
+
+	OFA_Organisation_of_Fastiv_Agreements
 }

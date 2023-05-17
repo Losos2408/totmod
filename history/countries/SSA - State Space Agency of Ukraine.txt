@@ -22,6 +22,8 @@ add_ideas = {
 	SSA_and_reality
 	SSA_big_opportunities
 	SSA_the_union_divided
+	OFA_Organisation_of_Fastiv_Agreements
+
 
 	SSA_Oleksandr_Vilkul_hog
 	SSA_Volodymyr_Ben_eco
