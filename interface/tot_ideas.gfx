@@ -16,6 +16,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/GFX_idea_ROI_Disappeared_Haimao.png"
     }
 	spriteType = {
+		name = "GFX_idea_ROI_Civil_Rights_0"
+		texturefile = "gfx/interface/ideas/GFX_idea_ROI_Civil_Rights_0.png"
+    }
+	spriteType = {
 		name = "GFX_idea_CRH_Karelian_Heartland"
 		texturefile = "gfx/interface/ideas/GFX_idea_CRH_Karelian_Heartland.dds"
     }
