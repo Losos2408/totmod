@@ -3,7 +3,7 @@ characters = {
         name = WAG_Yevgeny_Prigozhin
         portraits = {
             civilian = {
-                #large = "gfx/leaders/SVV/.png"
+                large = "gfx/leaders/WAG/Portrait_WAG_Yevgeny_Prigozhin.png"
             }
         }
         country_leader = {
