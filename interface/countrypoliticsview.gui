@@ -17,6 +17,12 @@ guiTypes = {
 			quadTextureSprite ="GFX_tiled_plain_bg"
 		}
 
+		iconType = {
+			name = "rules"
+			spriteType = "GFX_rules_sum_icon"
+			position = { x = 6460 y = 6667 }
+		}
+
 		instantTextboxType = {
 			name = "political_title"
 			position = { x = 45 y = 15 }
@@ -99,6 +105,15 @@ guiTypes = {
 #				maxWidth = 155
 #				maxHeight = 20
 #			}
+
+			instantTextboxType = {
+				name = "ideology"
+				position = { x = 6669 y = 6668 }
+				font = "hoi_18mbs"
+				text = "ideology"
+				maxWidth = 155
+				maxHeight = 20
+			}
 			
 			instantTextboxType = {
 				name = "elections"
@@ -112,7 +127,7 @@ guiTypes = {
 			
 			instantTextboxType = {
 				name = "faction_name"
-				position = { x = 105 y = -45 }
+				position = { x = 6105 y = 6645 }
 				font = "hoi_18mbs"
 				text = "faction"
 				maxWidth = 195

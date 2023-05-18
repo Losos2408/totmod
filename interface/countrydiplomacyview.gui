@@ -30,6 +30,26 @@ guiTypes = {
 				spriteType = "GFX_diplo_upper_win_bg"
 			}
 
+			instantTextboxType = {
+				name = "stability_value"
+				position = { x = 6446 y = 6642 } #position = { x = 369 y = 42 }
+				font = "hoi_16mbs"
+				text = "100%"
+				maxWidth = 44
+				maxHeight = 20
+				format = center
+			}
+	
+			instantTextboxType = {
+				name = "war_support_value"
+				position = { x = 6446 y = 6644 } #osition = { x = 414 y = 42 }
+				font = "hoi_16mbs"
+				text = "100%"
+				maxWidth = 44
+				maxHeight = 20
+				format = center
+			}
+
 			iconType = {
 				name = "diplo_country_flag"
 				quadTextureSprite ="GFX_shield_medium"
@@ -226,6 +246,15 @@ guiTypes = {
 						maxWidth = 245
 						maxHeight = 20
 						fixedsize = yes
+					}
+
+					instantTextboxType = {
+						name = "ideology_name"
+						position = { x = 6245 y = 6210 }
+						font = "hoi_16mbs"
+						text = "ideology"
+						maxWidth = 245
+						maxHeight = 20
 					}
 
 					instantTextboxType = {
