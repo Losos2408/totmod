@@ -8,4 +8,13 @@ spriteTypes = {
 		name = "GFX_report_event_HRS_hirasawa_standing"
 		texturefile = "gfx/event_pics/HRS/GFX_report_event_HRS_hirasawa_standing.png"
 	}
+
+	spriteType = {
+		name = "GFX_report_event_ROI_event_1"
+		texturefile = "gfx/event_pics/ROI/GFX_report_event_ROI_event_1.png"
+	}
+	spriteType = {
+		name = "GFX_report_event_ROI_event_2"
+		texturefile = "gfx/event_pics/ROI/GFX_report_event_ROI_event_2.png"
+	}
 }

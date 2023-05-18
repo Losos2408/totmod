@@ -24,7 +24,6 @@ add_to_faction = VNT
 add_to_faction = COU
 add_to_faction = ZKP
 add_to_faction = CNH
-add_to_faction = NSR
 add_to_faction = DPS
 add_to_faction = KKV
 add_to_faction = BLK
@@ -32,9 +31,7 @@ add_to_faction = SSA
 add_to_faction = MKL
 add_to_faction = ODS
 add_to_faction = KML
-add_to_faction = RVN
 add_to_faction = CKS
-add_to_faction = UMN
 add_to_faction = OLK
 
 add_ideas = {

@@ -1,0 +1,22 @@
+add_namespace = ROI_start
+
+country_event = { #Susumu Event
+	id = ROI_start.1
+	immediate = {log = "[GetDateText]: [Root.GetName]: event ROI_start.1"}
+	picture = GFX_report_event_ROI_event_2
+	title = ROI_start.1.t
+	desc = ROI_start.1.desc
+
+	is_triggered_only = yes
+
+	option = {
+		name = ROI_start.1.a
+		custom_effect_tooltip = ROI_start.1_tt
+		add_stability = 0.05
+		add_political_power = 10
+		add_popularity = {
+			ideology = liberalism
+			popularity = 0.04
+		}
+	}
+}
