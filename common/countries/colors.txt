@@ -320,3 +320,39 @@ DPS = {
 	color = rgb { 43 81 34 }
 	color_ui = rgb { 43 81 34 }
 }
+AZO = {
+	color = rgb { 50 44 94 }
+	color_ui = rgb { 50 44 94 }
+}
+VST = {
+	color = rgb { 43 96 165 }
+	color_ui = rgb { 43 96 165 }
+}
+OMR = {
+	color = rgb { 53 101 165 }
+	color_ui = rgb { 53 101 165 }
+}
+LUH = {
+	color = rgb { 52 47 145 }
+	color_ui = rgb { 52 47 145 }
+}
+OBR = {
+	color = rgb { 42 79 145 }
+	color_ui = rgb { 42 79 145 }
+}
+DNR = {
+	color = rgb { 29 48 145 }
+	color_ui = rgb { 29 48 145 }
+}
+RSH = {
+	color = rgb { 11 11 11 }
+	color_ui = rgb { 11 11 11 }
+}
+LNR = {
+	color = rgb { 87 134 168 }
+	color_ui = rgb { 87 134 168 }
+}
+GRK = {
+	color = rgb { 137 72 71 }
+	color_ui = rgb { 137 72 71 }
+}

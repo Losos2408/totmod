@@ -1,6 +1,10 @@
 state={
 	id=180
 	name="STATE_180"
+	history = {
+		owner = VST
+		add_core_of = VST
+	}
 	provinces={
 		4666 6334 8239 8196
 	}

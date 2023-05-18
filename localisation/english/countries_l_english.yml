@@ -262,3 +262,38 @@
  DPS_DEF:0 "the State Border Guard Service of Ukraine"
  DPS_ADJ:0 "DPSU's"
 
+ AZO:0 "Azov Regiment"
+ AZO_DEF:0 "the Separate Special Operations Detachment "Azov""
+ AZO_ADJ:0 "Azov Regiment's"
+
+ VST:0 "Operational Command "East""
+ VST_DEF:0 "the Operational Command of the Armed Forces of Ukraine "East""
+ VST_ADJ:0 "Ukrainian Donbass"
+
+ OMR:0 "54 OMBR"
+ OMR_DEF:0 "the 54th Separate Mechanized Brigade Named After Hetman Ivan Mazepa"
+ OMR_ADJ:0 "Ukrainian Donbass"
+
+ LUH:0 "Luhansk"
+ LUH_DEF:0 "the Luhansk Oblast Military-Civil Administration"
+ LUH_ADJ:0 "Luhansk"
+
+ OBR:0 "92 OMBR"
+ OBR_DEF:0 "the 92nd Separate Mechanized Brigade Named After Kish Otaman Ivan Sirko"
+ OBR_ADJ:0 "Ukrainian Donbass"
+
+ DNR:0 "Donetsk People's Republic"
+ DNR_DEF:0 "the Donetsk People's Republic"
+ DNR_ADJ:0 "DNR's"
+
+ RSH:0 "Rusich"
+ RSH_DEF:0 "the Sabotage Assault Reconnaissance Group "Rusich""
+ RSH_ADJ:0 "Rusich's"
+
+ LNR:0 "Lugansk People's Republic"
+ LNR_DEF:0 "the Lugansk People's Republic"
+ LNR_ADJ:0 "LNR's"
+
+ GRK:0 "Novorossiyan Armed Forces"
+ GRK_DEF:0 "the Novorossiyan Armed Forces"
+ GRK_ADJ:0 "Novorossiyan"

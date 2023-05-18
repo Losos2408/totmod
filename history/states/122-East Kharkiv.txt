@@ -3,8 +3,9 @@ state={
 	id=122
 	name="STATE_122"
 	history = {
-		owner = MVS
-		add_core_of = MVS
+		owner = KKV
+		add_core_of = KKV
+		#add_core_of = MVS
 	}
 	provinces={
 		4327 4909 5638 8137 10986
