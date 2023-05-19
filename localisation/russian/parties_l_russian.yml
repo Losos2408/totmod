@@ -24,3 +24,11 @@
  conservatism:0 "Консерватизм"
  liberalism:0 "Либерализм"
  controlled_democracy:0 "Контролируемая Демократия"
+
+ socialism_noun:0 "Социализм"
+ communism_noun:0 "Коммунизм"
+ militarism_noun:0 "Милитаризм"
+ radicalism_noun:0 "Радикализм"
+ conservatism_noun:0 "Консерватизм"
+ liberalism_noun:0 "Либерализм"
+ controlled_democracy_noun:0 "Контролируемая Демократия"
