@@ -12,4 +12,24 @@ characters = {
             desc = NAT_Nicola_Zanelli_desc
         }
 	}
+    NAT_Saul_Goodman = {
+        name = NAT_Saul_Goodman
+        portraits = {
+            civilian = {
+                small = "GFX_idea_NAT_minister_Saul_Goodman"
+            }
+        }
+        advisor = {
+			slot = foreign_minister
+			idea_token = NAT_Saul_Goodman_for
+			allowed = { original_tag = UKR }
+			traits = {
+				foreign_minister
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
 }
