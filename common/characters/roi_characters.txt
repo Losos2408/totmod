@@ -8,8 +8,8 @@ characters = {
         }
         country_leader = {
             ideology = provisional_government
-            traits = { }
-            desc = x
+            traits = { a_young_despot }
+            desc = POLITICS_AMIYA_DESC
         }
         country_leader = {
             ideology = left_wing_populism
@@ -36,6 +36,7 @@ characters = {
 			allowed = { original_tag = ROI }
 			traits = {
 				head_of_government
+				white_baronesa
 			}
 			ledger = civilian
 			cost = -1
@@ -48,6 +49,7 @@ characters = {
 			allowed = { original_tag = ROI }
 			traits = {
 				foreign_minister
+				there_is_no_dust_under_her_eyes
 			}
 			ledger = civilian
 			cost = -1
@@ -74,6 +76,7 @@ characters = {
 			allowed = { original_tag = ROI }
 			traits = {
 				economy_minister
+				operator_42_stars
 			}
 			ledger = civilian
 			cost = -1
@@ -95,6 +98,7 @@ characters = {
 			allowed = { original_tag = ROI }
 			traits = {
 				security_minister
+				the_whiplash
 			}
 			ledger = civilian
 			cost = -1

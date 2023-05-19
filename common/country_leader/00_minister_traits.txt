@@ -1,0 +1,24 @@
+leader_traits = {
+	white_baronesa = {
+		random = no
+		stability_factor = -0.05
+		research_speed_factor = 0.1
+		resistance_activity = 0.05
+	}
+
+	there_is_no_dust_under_her_eyes = {
+		random = no
+		opinion_gain_monthly_same_ideology_factor = -0.2
+	}
+
+	operator_42_stars = {
+		random = no
+		research_speed_factor = 0.05
+	}
+
+	the_whiplash = {
+		random = no
+		training_time_factor = -0.05
+		army_org_regain = 0.05
+	}
+}
