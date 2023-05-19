@@ -1,0 +1,15 @@
+characters = {
+    RST_Rostislav_Romanov = {
+        name = RST_Rostislav_Romanov
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/RST/Portrait_RST_Rostislav_Romanov.png"
+            }
+        }
+        country_leader = {
+            ideology = interim_goverment
+            traits = { }
+            desc = x
+        }
+	}
+}

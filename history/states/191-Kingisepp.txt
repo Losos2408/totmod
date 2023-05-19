@@ -1,0 +1,15 @@
+state={
+	id=191
+	name="STATE_191"
+	history = {
+		owner = RST
+		add_core_of = RST
+	}
+	provinces={
+		4101 5213 5425 7497 7505 7522 
+	}
+	manpower=583387
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

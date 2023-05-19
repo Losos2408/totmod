@@ -205,4 +205,8 @@ defined_text = {
 		trigger = { has_country_leader_ideology = slavo_aryanism }
 		localization_key = "slavo_aryanism"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = interim_goverment }
+		localization_key = "interim_goverment"
+	}
 }

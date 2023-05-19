@@ -356,3 +356,7 @@ GRK = {
 	color = rgb { 137 72 71 }
 	color_ui = rgb { 137 72 71 }
 }
+RST = {
+	color = rgb { 31 120 43 }
+	color_ui = rgb { 31 120 43 }
+}
