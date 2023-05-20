@@ -1,7 +1,33 @@
 ﻿l_english:
+ socialism:0 "Socialism"
+ communism:0 "Communism"
+ militarism:0 "Militarism"
+ radicalism:0 "Radicalism"
+ conservatism:0 "Conservatism"
+ liberalism:0 "Liberalism"
+ controlled_democracy:0 "Controlled Democracy"
+ goyda:0 "Goyda"
+
+ socialism_noun:0 "Socialism"
+ communism_noun:0 "Communism"
+ militarism_noun:0 "Militarism"
+ radicalism_noun:0 "Radicalism"
+ conservatism_noun:0 "Conservatism"
+ liberalism_noun:0 "Liberalism"
+ controlled_democracy_noun:0 "Controlled Democracy"
+ goyda_noun:0 "Goyda"
+
+ socialism_drift:0 "Daily Socialist Support"
+ communism_drift:0 "Daily Communist Support"
+ militarism_drift:0 "Daily Militarist Support"
+ radicalism_drift:0 "Daily Radicalist Support"
+ conservatism_drift:0 "Daily Conservative Support"
+ liberalism_drift:0 "Daily Liberal Support"
+ controlled_democracy_drift:0 "Daily Controlled Democracy Support"
+ goyda_drift:0 "Daily Goyda Support"
+
  european_liberalism:0 "European Liberalism"
  technosocialism:0 "Technosocialism"
- goyda:0 "Goyda"
  social_democracy:0 "Social Democracy"
  national_bolshevism:0 "National Bolshevism"
  national_conservatism:0 "National Conservatism"
@@ -42,8 +68,5 @@
  rusism:0 "Rusism"
  stratocratic_communism:0 "Stratocratic Communism"
  red_spartanism:0 "Red Spartanism"
-<<<<<<< Updated upstream
  George_Yury_Right_thought:0 "George Yury Right Thought"
-=======
  slavo_aryanism:0 "Slavo-Aryanism"
->>>>>>> Stashed changes
