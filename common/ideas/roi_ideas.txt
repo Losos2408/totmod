@@ -37,7 +37,7 @@ ideas = {
 			}
 			modifier = {
 				stability_factor = -0.002
-				weekly_manpower = 20000
+				weekly_manpower = 2000
 				compliance_growth_on_our_occupied_states = 0.005
 				terrain_penalty_reduction = -0.02
 				army_attack_factor = 0.1
