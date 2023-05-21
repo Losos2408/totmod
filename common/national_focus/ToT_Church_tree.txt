@@ -1,0 +1,135 @@
+shared_focus = {
+	id = CRH_In_Search_of_Canaan
+	icon = GFX_CRH_In_Search_of_Canaan
+	cost = 1
+	x = 4
+	y = 0
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus CRH_In_Search_of_Canaan"
+	}
+}
+
+shared_focus = {
+	id = CRH_The_Son
+	icon = GFX_CRH_The_Son
+	cost = 1
+	x = 0
+	y = 1
+	relative_position_id = CRH_In_Search_of_Canaan
+	prerequisite = {
+		focus = CRH_In_Search_of_Canaan
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus CRH_The_Sons"
+	}
+}
+
+shared_focus = {
+	id = CRH_The_Father
+	icon = GFX_CRH_The_father
+	cost = 1
+	x = -2
+	y = 1
+	relative_position_id = CRH_In_Search_of_Canaan
+	prerequisite = {
+		focus = CRH_In_Search_of_Canaan
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus CRH_The_Father"
+	}
+}
+
+shared_focus = {
+	id = CRH_The_Holy_Spirit
+	icon = GFX_CRH_The_Holy_Spirit
+	cost = 1
+	x = 2
+	y = 1
+	relative_position_id = CRH_In_Search_of_Canaan
+	prerequisite = {
+		focus = CRH_In_Search_of_Canaan
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus CRH_The_Holy_Spirit"
+	}
+}
+
+shared_focus = {
+	id = CRH_Heartlands_of_Karelia
+	icon = GFX_CRH_heartlands_of_karelia
+	cost = 1
+	x = 1
+	y = 2
+	relative_position_id = CRH_In_Search_of_Canaan
+	prerequisite = {
+		focus = CRH_The_Holy_Spirit
+		focus = CRH_The_Son
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus CRH_Heartlands_of_Karelia"
+	}
+}
+
+shared_focus = {
+	id = CRH_The_Modern_Routiers
+	icon = GFX_CRH_Modern_Routiers
+	cost = 1
+	x = -1
+	y = 2
+	relative_position_id = CRH_In_Search_of_Canaan
+	prerequisite = {
+		focus = CRH_The_Father
+		focus = CRH_The_Son
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus CRH_The_Modern_Routiers"
+	}
+}
+
+shared_focus = {
+	id = CRH_A_Financial_Sinner
+	icon = GFX_CRH_A_Financial_Sinner
+	cost = 1
+	x = -1
+	y = 3
+	relative_position_id = CRH_In_Search_of_Canaan
+	prerequisite = {
+		focus = CRH_The_Modern_Routiers
+		focus = CRH_Heartlands_of_Karelia
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus CRH_A_Financial_Sinner"
+	}
+}
+
+shared_focus = {
+	id = CRH_Misfortunate_Few
+	icon = GFX_CRH_Misfortunate_Few
+	cost = 1
+	x = 1
+	y = 3
+	relative_position_id = CRH_In_Search_of_Canaan
+	prerequisite = {
+		focus = CRH_The_Modern_Routiers
+		focus = CRH_Heartlands_of_Karelia
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus CRH_Misfortunate_Few"
+	}
+}
+
+shared_focus = {
+	id = CRH_Out_The_Dark_Age
+	icon = GFX_CRH_Out_of_the_Dark_Age
+	cost = 1
+	x = 0
+	y = 4
+	relative_position_id = CRH_In_Search_of_Canaan
+	prerequisite = {
+		focus = CRH_Misfortunate_Few
+		focus = CRH_A_Financial_Sinner
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus CRH_Out_The_Dark_Ages"
+	}
+}

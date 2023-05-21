@@ -435,4 +435,40 @@ spriteTypes = {
 			name = "GFX_SKO_army_of_robots"
 			texturefile = "gfx/interface/goals/SKO_army_of_robots.png"
 	    }
+		spriteType = {
+			name = "GFX_CRH_In_Search_of_Canaan"
+			texturefile = "gfx/interface/goals/In_Search_of_Canaan.png"
+	    }
+		spriteType = {
+			name = "GFX_CRH_The_Son"
+			texturefile = "gfx/interface/goals/The_Son.png"
+	    }
+		spriteType = {
+			name = "GFX_CRH_The_father"
+			texturefile = "gfx/interface/goals/The_father.png"
+	    }
+		spriteType = {
+			name = "GFX_CRH_The_Holy_Spirit"
+			texturefile = "gfx/interface/goals/The_Holy_Spirit.png"
+	    }
+		spriteType = {
+			name = "GFX_CRH_heartlands_of_karelia"
+			texturefile = "gfx/interface/goals/heartlands_of_karelia.png"
+	    }
+		spriteType = {
+			name = "GFX_CRH_Modern_Routiers"
+			texturefile = "gfx/interface/goals/Modern_Routiers.png"
+	    }
+		spriteType = {
+			name = "GFX_CRH_A_Financial_Sinner"
+			texturefile = "gfx/interface/goals/A_Financial_Sinner.png"
+	    }
+		spriteType = {
+			name = "GFX_CRH_Misfortunate_Few"
+			texturefile = "gfx/interface/goals/Misfortunate_Few.png"
+	    }
+		spriteType = {
+			name = "GFX_CRH_Out_of_the_Dark_Age"
+			texturefile = "gfx/interface/goals/Out_of_the_Dark_Age.png"
+	    }
 	}

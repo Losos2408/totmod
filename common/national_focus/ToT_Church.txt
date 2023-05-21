@@ -1,0 +1,13 @@
+
+focus_tree = {
+	id = CRH_Church
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = CRH
+		}
+	}
+	default = no
+	shared_focus = CRH_In_Search_of_Canaan
+}
