@@ -1,0 +1,15 @@
+characters = {
+    LNR_Leonid_Pasechnik = {
+        name = LNR_Leonid_Pasechnik
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/LNR/Portrait_LNR_Leonid_Pasechnik.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}
