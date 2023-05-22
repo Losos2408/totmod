@@ -12,4 +12,84 @@ characters = {
             desc = x
         }
 	}
+    RST_Elena_Antonova = {
+        name = RST_Elena_Antonova
+        portraits = {
+            civilian = {
+                small = "GFX_idea_RST_minister_Elena_Antonova"
+            }
+        }
+        advisor = {
+			slot = head_of_government
+			idea_token = RST_Elena_Antonova_hog
+			allowed = { original_tag = RST }
+			traits = {
+				head_of_government
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
+    RST_Viktor_Geshele = {
+        name = RST_Viktor_Geshele
+        portraits = {
+            civilian = {
+                small = "GFX_idea_RST_minister_Viktor_Geshele"
+            }
+        }
+        advisor = {
+			slot = foreign_minister
+			idea_token = RST_Viktor_Geshele_for
+			allowed = { original_tag = RST }
+			traits = {
+				foreign_minister
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
+    RST_Alexander_Gabitov = {
+        name = RST_Alexander_Gabitov
+        portraits = {
+            civilian = {
+                small = "GFX_idea_RST_minister_Alexander_Gabitov"
+            }
+        }
+        advisor = {
+			slot = economy_minister
+			idea_token = RST_Alexander_Gabitov_eco
+			allowed = { original_tag = RST }
+			traits = {
+				economy_minister
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
+    RST_Alexander_Vorona = {
+        name = RST_Alexander_Vorona
+        portraits = {
+            civilian = {
+                small = "GFX_idea_RST_minister_Alexander_Vorona"
+            }
+        }
+        advisor = {
+			slot = security_minister
+			idea_token = RST_Alexander_Vorona_sec
+			allowed = { original_tag = RST }
+			traits = {
+				security_minister
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
 }

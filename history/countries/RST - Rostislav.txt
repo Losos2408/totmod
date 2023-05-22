@@ -6,8 +6,16 @@ recruit_character = ROA_Generic_Vacant
 fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
 
 recruit_character = RST_Rostislav_Romanov
+recruit_character = RST_Elena_Antonova
+recruit_character = RST_Viktor_Geshele
+recruit_character = RST_Alexander_Gabitov
+recruit_character = RST_Alexander_Vorona
 
 add_ideas = {
+	RST_Elena_Antonova_hog
+	RST_Viktor_Geshele_for
+	RST_Alexander_Gabitov_eco
+	RST_Alexander_Vorona_sec
 }
 
 set_politics = {

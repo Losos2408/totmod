@@ -67,4 +67,20 @@ spriteTypes = {
 		name = "GFX_idea_NAT_minister_Saul_Goodman"
 		texturefile = "gfx/interface/ideas/ministers/NAT/GFX_idea_NAT_minister_Saul_Goodman.png"
 	}
+	spriteType = {
+		name = "GFX_idea_RST_minister_Alexander_Gabitov"
+		texturefile = "gfx/interface/ideas/ministers/RST/RST_minister_Alexander_Gabitov.png"
+	}
+	spriteType = {
+		name = "GFX_idea_RST_minister_Alexander_Vorona"
+		texturefile = "gfx/interface/ideas/ministers/RST/RST_minister_Alexander_Vorona.png"
+	}
+	spriteType = {
+		name = "GFX_idea_RST_minister_Elena_Antonova"
+		texturefile = "gfx/interface/ideas/ministers/RST/RST_minister_Elena_Antonova.png"
+	}
+	spriteType = {
+		name = "GFX_idea_RST_minister_Viktor_Geshele"
+		texturefile = "gfx/interface/ideas/ministers/RST/RST_minister_Viktor_Geshele.png"
+	}
 }
