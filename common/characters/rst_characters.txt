@@ -3,7 +3,7 @@ characters = {
         name = RST_Rostislav_Romanov
         portraits = {
             civilian = {
-                #large = "gfx/leaders/RST/Portrait_RST_Rostislav_Romanov.png"
+                large = "gfx/leaders/RST/Portrait_RST_Rostislav_Romanov.png"
             }
         }
         country_leader = {
