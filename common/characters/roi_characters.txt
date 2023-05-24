@@ -92,6 +92,13 @@ characters = {
 				small = "GFX_idea_ROI_minister_Dobermann"
 			}
 		}
+		field_marshal = {
+			skill = 5
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
 		advisor = {
 			slot = security_minister
 			idea_token = ROI_Dobermann_sec
@@ -119,5 +126,696 @@ characters = {
             traits = { }
             desc = x
         }
+	}
+
+	ROI_W = {
+		name = ROI_W
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ROI/Portrait_ROI_W.png"
+			}
+		}
+		field_marshal = {
+			skill = 5
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Ling = {
+		name = ROI_Ling
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		field_marshal = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Gladiia = {
+		name = ROI_Gladiia
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		field_marshal = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Saileach = {
+		name = ROI_Saileach
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		field_marshal = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Horn = {
+		name = ROI_Horn
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		field_marshal = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Fiammetta = {
+		name = ROI_Fiammetta
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		field_marshal = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Ash = {
+		name = ROI_Ash
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		field_marshal = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Mudrock = {
+		name = ROI_Mudrock
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		field_marshal = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Hellagur = {
+		name = ROI_Hellagur
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		field_marshal = {
+			skill = 5
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Siege = {
+		name = ROI_Siege
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		field_marshal = {
+			skill = 3
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Chen = {
+		name = ROI_Chen
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ROI/Portrait_ROI_Chen.png"
+			}
+		}
+		corps_commander = {
+			skill = 5
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Exusiai = {
+		name = ROI_Exusiai
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ROI/Portrait_ROI_Exusiai.png"
+			}
+		}
+		corps_commander = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Hoshiguma = {
+		name = ROI_Hoshiguma
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Skadi = {
+		name = ROI_Skadi
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Schwarz = {
+		name = ROI_Schwarz
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 3
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Mostima = {
+		name = ROI_Mostima
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Aak = {
+		name = ROI_Aak
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 2
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Nian = {
+		name = ROI_Nian
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Bagpipe = {
+		name = ROI_Bagpipe
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Thorns = {
+		name = ROI_Thorns
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Eunectes = {
+		name = ROI_Eunectes
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Surtr = {
+		name = ROI_Surtr
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 5
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Blemishine = {
+		name = ROI_Blemishine
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 3
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Rosmontis = {
+		name = ROI_Rosmontis
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 5
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Mountain = {
+		name = ROI_Mountain
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Dusk = {
+		name = ROI_Dusk
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Flametail = {
+		name = ROI_Flametail
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 3
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Ebenholz = {
+		name = ROI_Ebenholz
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 3
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Mlynar = {
+		name = ROI_Mlynar
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 5
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Vigil = {
+		name = ROI_Vigil
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 3
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Texas = {
+		name = ROI_Texas
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Ines = {
+		name = ROI_Ines
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Frost = {
+		name = ROI_Frost
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Blitz = {
+		name = ROI_Blitz
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Tachanka = {
+		name = ROI_Tachanka
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Leonhardt = {
+		name = ROI_Leonhardt
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 3
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Swire = {
+		name = ROI_Swire
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 2
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Nearl = {
+		name = ROI_Nearl
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Warfarin = {
+		name = ROI_Warfarin
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 3
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Specter = {
+		name = ROI_Specter
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 4
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Lappland = {
+		name = ROI_Lappland
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 3
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Ace = {
+		name = ROI_Ace
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 3
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Outcast = {
+		name = ROI_Outcast
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 3
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Misery = {
+		name = ROI_Misery
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 3
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Logos = {
+		name = ROI_Logos
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 3
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
+	ROI_Ifrit = {
+		name = ROI_Ifrit
+		portraits = {
+			civilian = {
+				#large = "gfx/leaders/ROI/.png"
+			}
+		}
+		corps_commander = {
+			skill = 1
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
 	}
 }
