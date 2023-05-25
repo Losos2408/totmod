@@ -3,7 +3,7 @@ capital = 176
 # Vacant
 recruit_character = OMB_Generic_Vacant
 
-recruit_character = OMB_Pavlo_Palysa
+recruit_character = OMB_Pavlo_Palisa
 
 fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
 

@@ -1,6 +1,6 @@
 characters = {
-    OMB_Pavlo_Palysa = {
-        name = OMB_Pavlo_Palysa
+    OMB_Pavlo_Palisa = {
+        name = OMB_Pavlo_Palisa
         portraits = {
             civilian = {
                 #large = "gfx/leaders/SVV/.png"
