@@ -1,9 +1,9 @@
-capital = 92
+capital = 183
 
 # Vacant
-recruit_character = CKH_Generic_Vacant
+recruit_character = LUH_Generic_Vacant
 
-recruit_character = CKH_Vladimir_Saldo
+recruit_character = LUH_Artem_Lysogor
 
 fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
 

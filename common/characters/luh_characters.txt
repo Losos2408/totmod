@@ -1,9 +1,9 @@
 characters = {
-    CKH_Vladimir_Saldo = {
-        name = CKH_Vladimir_Saldo
+    LUH_Artem_Lysogor = {
+        name = LUH_Artem_Lysogor
         portraits = {
             civilian = {
-                #large = "gfx/leaders/SVV/.png"
+                large = "gfx/leaders/LUH/Portrait_LUH_Artem_Lysogor.png"
             }
         }
         country_leader = {
