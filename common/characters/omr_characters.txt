@@ -1,0 +1,15 @@
+characters = {
+    OMR_Oleksiy_Maistrenko = {
+        name = OMR_Oleksiy_Maistrenko
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/OMR/Portrait_OMR_Oleksiy_Maistrenko.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}
