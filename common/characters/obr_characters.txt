@@ -1,0 +1,15 @@
+characters = {
+    OBR_Pavlo_Fedosenko = {
+        name = OBR_Pavlo_Fedosenko
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/OBR/Portrait_OBR_Pavlo_Fedosenko.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}
