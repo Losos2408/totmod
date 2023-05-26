@@ -1,0 +1,15 @@
+characters = {
+    RSH_Alexey_Milchakov = {
+        name = RSH_Alexey_Milchakov
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/RSH/Portrait_RSH_Alexey_Milchakov.png"
+            }
+        }
+        country_leader = {
+            ideology = radicalism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

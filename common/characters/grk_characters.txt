@@ -1,0 +1,15 @@
+characters = {
+    GRK_Igor_Girkin = {
+        name = GRK_Igor_Girkin
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/GRK/Portrait_GRK_Igor_Girkin.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}
