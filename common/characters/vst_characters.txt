@@ -1,0 +1,15 @@
+characters = {
+    VST_Oleh_Mikats = {
+        name = VST_Oleh_Mikats
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/VST/Portrait_VST_Oleh_Mikats.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}
