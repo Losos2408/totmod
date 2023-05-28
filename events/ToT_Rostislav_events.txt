@@ -1,0 +1,15 @@
+add_namespace = RST_start
+
+country_event = {
+	id = RST_start.1
+	immediate = {log = "[GetDateText]: [Root.GetName]: event RST_start.1"}
+	picture = GFX_report_event_RST_event_1
+	title = RST_start.1.t
+	desc = RST_start.1.desc
+
+	is_triggered_only = yes
+
+	option = {
+		name = RST_start.1.a
+	}
+}
