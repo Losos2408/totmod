@@ -1,10 +1,10 @@
 state={
 	id=194
 	name="STATE_194"
-	#history = {
-	#	owner = CCC
-	#	add_core_of = CCC
-	#}
+	history = {
+		owner = RAS
+		add_core_of = RAS
+	}
 	provinces={
 		10994 10995
 	}

@@ -360,3 +360,19 @@ RST = {
 	color = rgb { 31 120 43 }
 	color_ui = rgb { 31 120 43 }
 }
+YAS = {
+	color = rgb { 12 25 122 }
+	color_ui = rgb { 12 25 122 }
+}
+KAS = {
+	color = rgb { 12 25 122 }
+	color_ui = rgb { 12 25 122 }
+}
+RAS = {
+	color = rgb { 12 25 122 }
+	color_ui = rgb { 12 25 122 }
+}
+CNB = {
+	color = rgb { 12 25 122 }
+	color_ui = rgb { 12 25 122 }
+}

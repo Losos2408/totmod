@@ -297,3 +297,19 @@
  GRK:0 "Novorossiyan Armed Forces"
  GRK_DEF:0 "the Novorossiyan Armed Forces"
  GRK_ADJ:0 "Novorossiyan"
+
+ YAS:0 "Protection Zone of Yuzhnoukrainsk NPP"
+ YAS_DEF:0 "the Protection Zone of Yuzhnoukrainsk Nuclear Power Plant"
+ YAS_ADJ:0 "Yuzhnoukrainsk NPP"
+
+ KAS:0 "Protection Zone of Khmelnytskyi NPP"
+ KAS_DEF:0 "the Protection Zone of Khmelnytskyi Nuclear Power Plant"
+ KAS_ADJ:0 "Khmelnytskyi NPP"
+
+ RAS:0 "Protection Zone of Rivne NPP"
+ RAS_DEF:0 "the Protection Zone of Rivne Nuclear Power Plant"
+ RAS_ADJ:0 "Rivne NPP"
+
+ CNB:0 "UN Chernobyl-Pripyat"
+ CNB_DEF:0 "the United Nations Chernobyl-Pripyat Peacekeeping Mission"
+ CNB_ADJ:0 "UN Chernobyl"
