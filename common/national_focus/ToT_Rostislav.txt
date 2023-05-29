@@ -1,0 +1,12 @@
+focus_tree = {
+	id = RST_startup
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = RST
+		}
+	}
+	default = no
+	shared_focus = RST_new_1613
+}

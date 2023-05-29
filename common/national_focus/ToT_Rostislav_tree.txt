@@ -1,0 +1,641 @@
+shared_focus = {
+	id = RST_new_1613
+	icon = x
+	cost = 1
+	x = 10
+	y = 0
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_new_1613"
+	}
+}
+
+shared_focus = {
+	id = RST_strengthen_the_tsarskoye_opolcheniye
+	icon = x
+	cost = 1
+	x = -2
+	y = 1
+	relative_position_id = RST_new_1613
+	prerequisite = {
+		focus = RST_new_1613
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_strengthen_the_tsarskoye_opolcheniye"
+	}
+}
+
+shared_focus = {
+	id = RST_assert_control_of_the_territory
+	icon = x
+	cost = 1
+	x = 0
+	y = 1
+	relative_position_id = RST_new_1613
+	prerequisite = {
+		focus = RST_new_1613
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_assert_control_of_the_territory"
+	}
+}
+
+shared_focus = {
+	id = RST_deal_with_bureaucratic_chaos
+	icon = x
+	cost = 1
+	x = 2
+	y = 1
+	relative_position_id = RST_new_1613
+	prerequisite = {
+		focus = RST_new_1613
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_deal_with_bureaucratic_chaos"
+	}
+}
+
+shared_focus = {
+	id = RST_there_are_only_problems_around_us
+	icon = x
+	cost = 1
+	x = 0
+	y = 2
+	relative_position_id = RST_new_1613
+	prerequisite = {
+		focus = RST_strengthen_the_tsarskoye_opolcheniye
+	}
+	prerequisite = {
+		focus = RST_assert_control_of_the_territory
+	}
+	prerequisite = {
+		focus = RST_deal_with_bureaucratic_chaos
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_there_are_only_problems_around_us"
+	}
+}
+
+shared_focus = {
+	id = RST_state_affairs
+	icon = x
+	cost = 1
+	x = 0
+	y = 1
+	relative_position_id = RST_there_are_only_problems_around_us
+	prerequisite = {
+		focus = RST_there_are_only_problems_around_us
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_state_affairs"
+	}
+}
+
+shared_focus = {
+	id = RST_social_programs
+	icon = x
+	cost = 1
+	x = -1
+	y = 1
+	relative_position_id = RST_state_affairs
+	prerequisite = {
+		focus = RST_state_affairs
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_social_programs"
+	}
+}
+
+shared_focus = {
+	id = RST_tsar_and_the_people
+	icon = x
+	cost = 1
+	x = -1
+	y = 2
+	relative_position_id = RST_state_affairs
+	mutually_exclusive = {
+		focus = RST_tsar_and_the_aristocrats
+	}
+	prerequisite = {
+		focus = RST_social_programs
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_tsar_and_the_people"
+	}
+}
+
+shared_focus = {
+	id = RST_legacy_of_the_kadety
+	icon = x
+	cost = 1
+	x = -2
+	y = 1
+	relative_position_id = RST_tsar_and_the_people
+	mutually_exclusive = {
+		focus = RST_legacy_of_the_oktyabristy
+	}
+	prerequisite = {
+		focus = RST_tsar_and_the_people
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_legacy_of_the_kadety"
+	}
+}
+
+shared_focus = {
+	id = RST_economic_liberalism
+	icon = x
+	cost = 1
+	x = 0
+	y = 1
+	relative_position_id = RST_legacy_of_the_kadety
+	prerequisite = {
+		focus = RST_legacy_of_the_kadety
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_economic_liberalism"
+	}
+}
+
+shared_focus = {
+	id = RST_memory_of_1917
+	icon = x
+	cost = 1
+	x = 0
+	y = 2
+	relative_position_id = RST_legacy_of_the_kadety
+	prerequisite = {
+		focus = RST_economic_liberalism
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_memory_of_1917"
+	}
+}
+
+shared_focus = {
+	id = RST_legacy_of_the_oktyabristy
+	icon = x
+	cost = 1
+	x = 0
+	y = 1
+	relative_position_id = RST_tsar_and_the_people
+	mutually_exclusive = {
+		focus = RST_legacy_of_the_kadety
+	}
+	prerequisite = {
+		focus = RST_tsar_and_the_people
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_legacy_of_the_oktyabristy"
+	}
+}
+
+shared_focus = {
+	id = RST_protectionism
+	icon = x
+	cost = 1
+	x = 0
+	y = 1
+	relative_position_id = RST_legacy_of_the_oktyabristy
+	prerequisite = {
+		focus = RST_legacy_of_the_oktyabristy
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_protectionism"
+	}
+}
+
+shared_focus = {
+	id = RST_ideal_of_1905
+	icon = x
+	cost = 1
+	x = 0
+	y = 2
+	relative_position_id = RST_legacy_of_the_oktyabristy
+	prerequisite = {
+		focus = RST_protectionism
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_ideal_of_1905"
+	}
+}
+
+shared_focus = {
+	id = RST_support_the_roc
+	icon = x
+	cost = 1
+	x = 1
+	y = 1
+	relative_position_id = RST_state_affairs
+	prerequisite = {
+		focus = RST_state_affairs
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_support_the_roc"
+	}
+}
+
+shared_focus = {
+	id = RST_tsar_and_the_aristocrats
+	icon = x
+	cost = 1
+	x = 1
+	y = 2
+	relative_position_id = RST_state_affairs
+	mutually_exclusive = {
+		focus = RST_tsar_and_the_people
+	}
+	prerequisite = {
+		focus = RST_support_the_roc
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_tsar_and_the_aristocrats"
+	}
+}
+
+shared_focus = {
+	id = RST_legacy_of_the_monarchists
+	icon = x
+	cost = 1
+	x = 0
+	y = 1
+	relative_position_id = RST_tsar_and_the_aristocrats
+	mutually_exclusive = {
+		focus = RST_legacy_of_the_soyuz_russkogo_naroda
+	}
+	prerequisite = {
+		focus = RST_tsar_and_the_aristocrats
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_legacy_of_the_monarchists"
+	}
+}
+
+shared_focus = {
+	id = RST_nationalization_of_large_companies
+	icon = x
+	cost = 1
+	x = 0
+	y = 1
+	relative_position_id = RST_legacy_of_the_monarchists
+	prerequisite = {
+		focus = RST_legacy_of_the_monarchists
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_nationalization_of_large_companies"
+	}
+}
+
+shared_focus = {
+	id = RST_legacy_of_the_wise_emperors
+	icon = x
+	cost = 1
+	x = 0
+	y = 2
+	relative_position_id = RST_legacy_of_the_monarchists
+	prerequisite = {
+		focus = RST_nationalization_of_large_companies
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_legacy_of_the_wise_emperors"
+	}
+}
+
+shared_focus = {
+	id = RST_legacy_of_the_soyuz_russkogo_naroda
+	icon = x
+	cost = 1
+	x = 2
+	y = 1
+	relative_position_id = RST_tsar_and_the_aristocrats
+	mutually_exclusive = {
+		focus = RST_legacy_of_the_monarchists
+	}
+	prerequisite = {
+		focus = RST_tsar_and_the_aristocrats
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_legacy_of_the_soyuz_russkogo_naroda"
+	}
+}
+
+shared_focus = {
+	id = RST_complete_nationalization
+	icon = x
+	cost = 1
+	x = 0
+	y = 1
+	relative_position_id = RST_legacy_of_the_soyuz_russkogo_naroda
+	prerequisite = {
+		focus = RST_legacy_of_the_soyuz_russkogo_naroda
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_nationalization_of_large_companies"
+	}
+}
+
+shared_focus = {
+	id = RST_orthodoxy_autocracy_and_nationality
+	icon = x
+	cost = 1
+	x = 0
+	y = 2
+	relative_position_id = RST_legacy_of_the_soyuz_russkogo_naroda
+	prerequisite = {
+		focus = RST_complete_nationalization
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_orthodoxy_autocracy_and_nationality"
+	}
+}
+
+shared_focus = {
+	id = RST_minutes_to_midnight
+	icon = x
+	cost = 1
+	x = 0
+	y = 6
+	relative_position_id = RST_state_affairs
+	prerequisite = {
+		focus = RST_memory_of_1917
+		focus = RST_ideal_of_1905
+		focus = RST_legacy_of_the_wise_emperors
+		focus = RST_orthodoxy_autocracy_and_nationality
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_minutes_to_midnight"
+	}
+}
+
+shared_focus = {
+	id = RST_new_imperial_army
+	icon = x
+	cost = 1
+	x = -8
+	y = 1
+	relative_position_id = RST_there_are_only_problems_around_us
+	prerequisite = {
+		focus = RST_there_are_only_problems_around_us
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_new_imperial_army"
+	}
+}
+
+shared_focus = {
+	id = RST_a_professional_army
+	icon = x
+	cost = 1
+	x = -1
+	y = 1
+	relative_position_id = RST_new_imperial_army
+	mutually_exclusive = {
+		focus = RST_save_the_opolcheniye
+	}
+	prerequisite = {
+		focus = RST_new_imperial_army
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_new_imperial_army"
+	}
+}
+
+shared_focus = {
+	id = RST_save_the_opolcheniye
+	icon = x
+	cost = 1
+	x = 1
+	y = 1
+	relative_position_id = RST_new_imperial_army
+	mutually_exclusive = {
+		focus = RST_a_professional_army
+	}
+	prerequisite = {
+		focus = RST_new_imperial_army
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_save_the_opolcheniye"
+	}
+}
+
+shared_focus = {
+	id = RST_new_officers
+	icon = x
+	cost = 1
+	x = -1
+	y = 2
+	relative_position_id = RST_new_imperial_army
+	prerequisite = {
+		focus = RST_a_professional_army
+		focus = RST_save_the_opolcheniye
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_new_officers"
+	}
+}
+
+shared_focus = {
+	id = RST_boost_propaganda
+	icon = x
+	cost = 1
+	x = 1
+	y = 2
+	relative_position_id = RST_new_imperial_army
+	prerequisite = {
+		focus = RST_a_professional_army
+		focus = RST_save_the_opolcheniye
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_boost_propaganda"
+	}
+}
+
+shared_focus = {
+	id = RST_quality_not_quantity
+	icon = x
+	cost = 1
+	x = -2
+	y = 3
+	relative_position_id = RST_new_imperial_army
+	prerequisite = {
+		focus = RST_new_officers
+	}
+	prerequisite = {
+		focus = RST_boost_propaganda
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_quality_not_quantity"
+	}
+}
+
+shared_focus = {
+	id = RST_buy_foreign_weapons
+	icon = x
+	cost = 1
+	x = 0
+	y = 3
+	relative_position_id = RST_new_imperial_army
+	prerequisite = {
+		focus = RST_new_officers
+	}
+	prerequisite = {
+		focus = RST_boost_propaganda
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_buy_foreign_weapons"
+	}
+}
+
+shared_focus = {
+	id = RST_lessons_from_minin_and_pozharsky
+	icon = x
+	cost = 1
+	x = 2
+	y = 3
+	relative_position_id = RST_new_imperial_army
+	prerequisite = {
+		focus = RST_new_officers
+	}
+	prerequisite = {
+		focus = RST_boost_propaganda
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_buy_foreign_weapons"
+	}
+}
+
+shared_focus = {
+	id = RST_the_army_is_ready
+	icon = x
+	cost = 1
+	x = 0
+	y = 4
+	relative_position_id = RST_new_imperial_army
+	prerequisite = {
+		focus = RST_quality_not_quantity
+	}
+	prerequisite = {
+		focus = RST_buy_foreign_weapons
+	}
+	prerequisite = {
+		focus = RST_lessons_from_minin_and_pozharsky
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_the_army_is_ready"
+	}
+}
+
+shared_focus = {
+	id = RST_create_okhranka
+	icon = x
+	cost = 1
+	x = 8
+	y = 1
+	relative_position_id = RST_there_are_only_problems_around_us
+	prerequisite = {
+		focus = RST_there_are_only_problems_around_us
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_create_okhranka"
+	}
+}
+
+shared_focus = {
+	id = RST_dont_go_overboard
+	icon = x
+	cost = 1
+	x = -1
+	y = 1
+	relative_position_id = RST_create_okhranka
+	mutually_exclusive = {
+		focus = RST_any_dissent_is_a_threat
+	}
+	prerequisite = {
+		focus = RST_create_okhranka
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_dont_go_overboard"
+	}
+}
+
+shared_focus = {
+	id = RST_any_dissent_is_a_threat
+	icon = x
+	cost = 1
+	x = 1
+	y = 1
+	relative_position_id = RST_create_okhranka
+	mutually_exclusive = {
+		focus = RST_dont_go_overboard
+	}
+	prerequisite = {
+		focus = RST_create_okhranka
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_any_dissent_is_a_threat"
+	}
+}
+
+shared_focus = {
+	id = RST_freedom_of_speech
+	icon = x
+	cost = 1
+	x = -2
+	y = 2
+	relative_position_id = RST_create_okhranka
+	prerequisite = {
+		focus = RST_dont_go_overboard
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_freedom_of_speech"
+	}
+}
+
+shared_focus = {
+	id = RST_imperial_truth
+	icon = x
+	cost = 1
+	x = 2
+	y = 2
+	relative_position_id = RST_create_okhranka
+	prerequisite = {
+		focus = RST_any_dissent_is_a_threat
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_imperial_truth"
+	}
+}
+
+shared_focus = {
+	id = RST_kill_terrorists_in_the_outhouse
+	icon = x
+	cost = 1
+	x = 0
+	y = 2
+	relative_position_id = RST_create_okhranka
+	prerequisite = {
+		focus = RST_dont_go_overboard
+		focus = RST_any_dissent_is_a_threat
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_kill_terrorists_in_the_outhouse"
+	}
+}
+
+shared_focus = {
+	id = RST_the_power_of_his_majesty
+	icon = x
+	cost = 1
+	x = 0
+	y = 3
+	relative_position_id = RST_create_okhranka
+	prerequisite = {
+		focus = RST_freedom_of_speech
+		focus = RST_imperial_truth
+	}
+	prerequisite = {
+		focus = RST_kill_terrorists_in_the_outhouse
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus RST_the_power_of_his_majesty"
+	}
+}
