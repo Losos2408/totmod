@@ -3,7 +3,7 @@ characters = {
         name = RAS_Pavlo_Kovtoniuk
         portraits = {
             civilian = {
-                #large = "gfx/leaders/SVV/.png"
+                large = "gfx/leaders/RAS/Portrait_RAS_Pavlo_Kovtoniuk.png"
             }
         }
         country_leader = {
