@@ -1,0 +1,15 @@
+state={
+	id=193
+	name="STATE_193"
+	#history = {
+	#	owner = CCC
+	#	add_core_of = CCC
+	#}
+	provinces={
+		10992 10993
+	}
+	manpower=36492
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}
