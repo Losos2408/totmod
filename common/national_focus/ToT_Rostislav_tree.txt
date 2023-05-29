@@ -6,6 +6,7 @@ shared_focus = {
 	y = 0
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus RST_new_1613"
+		country_event = RST_start.1
 	}
 }
 
