@@ -6,7 +6,6 @@ shared_focus = {
 	y = 0
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus RST_new_1613"
-		country_event = RST_start.1
 	}
 }
 
@@ -237,7 +236,7 @@ shared_focus = {
 
 shared_focus = {
 	id = RST_tsar_and_the_aristocrats
-	icon = x
+	icon = GFX_RST_tsar_and_the_aristocrats
 	cost = 1
 	x = 1
 	y = 2
@@ -336,7 +335,7 @@ shared_focus = {
 
 shared_focus = {
 	id = RST_orthodoxy_autocracy_and_nationality
-	icon = x
+	icon = GFX_RST_orthodoxy_autocracy_and_nationality
 	cost = 1
 	x = 0
 	y = 2
@@ -369,7 +368,7 @@ shared_focus = {
 
 shared_focus = {
 	id = RST_new_imperial_army
-	icon = x
+	icon = GFX_RST_new_imperial_army
 	cost = 1
 	x = -8
 	y = 1
@@ -379,6 +378,7 @@ shared_focus = {
 	}
 	completion_reward = {
 		log = "[GetDateText]: [Root.GetName]: Focus RST_new_imperial_army"
+		country_event = RST_start.1
 	}
 }
 

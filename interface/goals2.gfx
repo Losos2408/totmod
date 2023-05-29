@@ -471,4 +471,16 @@ spriteTypes = {
 			name = "GFX_CRH_Out_of_the_Dark_Age"
 			texturefile = "gfx/interface/goals/Out_of_the_Dark_Age.png"
 	    }
+		spriteType = {
+			name = "GFX_RST_new_imperial_army"
+			texturefile = "gfx/interface/goals/RST_new_imperial_army.png"
+	    }
+		spriteType = {
+			name = "GFX_RST_orthodoxy_autocracy_and_nationality"
+			texturefile = "gfx/interface/goals/RST_orthodoxy_autocracy_and_nationality.png"
+	    }
+		spriteType = {
+			name = "GFX_RST_tsar_and_the_aristocrats"
+			texturefile = "gfx/interface/goals/RST_tsar_and_the_aristocrats.png"
+	    }
 	}
