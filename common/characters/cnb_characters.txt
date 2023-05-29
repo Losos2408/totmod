@@ -3,7 +3,7 @@ characters = {
         name = CNB_United_Nations_Operational_Authority
         portraits = {
             civilian = {
-                #large = "gfx/leaders/SVV/.png"
+                large = "gfx/leaders/CNB/Portrait_CNB_United_Nations_Operational_Authority.png"
             }
         }
         country_leader = {
