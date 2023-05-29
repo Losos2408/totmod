@@ -1,0 +1,19 @@
+capital = 136
+
+# Vacant
+recruit_character = NKB_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
+recruit_character = NKB_Nikolai_Panin
+
+set_politics = {
+	ruling_party = militarism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	militarism = 100
+}

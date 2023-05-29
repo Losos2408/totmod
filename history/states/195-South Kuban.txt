@@ -1,6 +1,10 @@
 state={
 	id=195
 	name="STATE_195"
+	history = {
+		owner = SKB
+		add_core_of = SKB
+	}
 	provinces={
 		2443 2571 2885 3282 3815 5508 5896 6481 6592 6792 8382 8397 8400 8421 8424 8426 8428 8442
 	}

@@ -1,0 +1,15 @@
+characters = {
+    KRD_Dmitry_Enteo = {
+        name = KRD_Dmitry_Enteo
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/NKB/Portrait.png"
+            }
+        }
+        country_leader = {
+            ideology = theocracy
+            traits = { }
+            desc = x
+        }
+	}
+}

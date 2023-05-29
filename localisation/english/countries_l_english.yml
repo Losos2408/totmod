@@ -313,3 +313,15 @@
  CNB:0 "UN Chernobyl-Pripyat"
  CNB_DEF:0 "the United Nations Chernobyl-Pripyat Peacekeeping Mission"
  CNB_ADJ:0 "UN Chernobyl"
+
+ NKB:0 "North Kuban Operational Front"
+ NKB_DEF:0 "the North Kuban Operational Front"
+ NKB_ADJ:0 "North Kuban"
+
+ SKB:0 "Kuban Directory"
+ SKB_DEF:0 "the Kuban Directory"
+ SKB_ADJ:0 "South Kuban"
+
+ KRD:0 "Yekaterinodar"
+ KRD_DEF:0 "the Yekaterinodar Government of National Salvation"
+ KRD_ADJ:0 "Yekaterinodar"

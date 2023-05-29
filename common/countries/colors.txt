@@ -376,3 +376,15 @@ CNB = {
 	color = rgb { 12 25 122 }
 	color_ui = rgb { 12 25 122 }
 }
+NKB = {
+	color = rgb { 39 48 122 }
+	color_ui = rgb { 39 48 122 }
+}
+SKB = {
+	color = rgb { 59 122 59 }
+	color_ui = rgb { 59 122 59 }
+}
+KRD = {
+	color = rgb { 130 0 86 }
+	color_ui = rgb { 130 0 86 }
+}

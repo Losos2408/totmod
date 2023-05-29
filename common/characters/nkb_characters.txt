@@ -1,0 +1,15 @@
+characters = {
+    NKB_Nikolai_Panin = {
+        name = NKB_Nikolai_Panin
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/NKB/Portrait.png"
+            }
+        }
+        country_leader = {
+            ideology = personalistic_dictatorship
+            traits = { }
+            desc = x
+        }
+	}
+}

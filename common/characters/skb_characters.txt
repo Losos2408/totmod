@@ -1,0 +1,15 @@
+characters = {
+    SKB_Veneamin_Kondratev = {
+        name = SKB_Veneamin_Kondratev
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/NKB/Portrait.png"
+            }
+        }
+        country_leader = {
+            ideology = national_conservatism
+            traits = { }
+            desc = x
+        }
+	}
+}
