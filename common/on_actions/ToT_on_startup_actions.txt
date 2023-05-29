@@ -4,6 +4,10 @@ on_actions = {
 			KGY = {
 				country_event = { id = KGY_scripted.1 days = 164 }
 			}
+
+			CNB = {
+				country_lock_all_division_template = yes
+			}
 		}
 	}
 }

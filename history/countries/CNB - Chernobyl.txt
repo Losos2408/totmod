@@ -14,6 +14,13 @@ set_politics = {
 	elections_allowed = no
 }
 
+add_ideas = {
+	CNB_in_the_service_of_peace
+	CNB_unfamiliar_lands
+	CNB_structural_integrity_concerns
+	CNB_lonely_place
+}
+
 set_popularities = {
 	militarism = 100
 }

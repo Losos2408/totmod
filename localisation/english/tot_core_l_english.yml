@@ -2,6 +2,7 @@
  top_level:0 "Head of Government"
  minister:0 "Ministers"
  minister_Generic_Vacant:0 "Vacancy"
+ cannot_train_units_tt:0 "§RCannot train units, disband units, or edit unit templates.§!"
  SEPARATION_LINE:0 "--------------\n"
  MENU_MESSAGES_DISABLE_ALL:0 "Disable all"
  FILTER:0 "Filter"
