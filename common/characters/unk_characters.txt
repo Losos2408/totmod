@@ -3,11 +3,11 @@ characters = {
         name = UNK_Ushiromiya_Kinzo
         portraits = {
             civilian = {
-                #large = "gfx/leaders/SVV/.png"
+                large = "gfx/leaders/UNK/Portrait_UNK_Ushiromiya_Kinzo.png"
             }
         }
         country_leader = {
-            ideology = militarism_default
+            ideology = personalistic_dictatorship
             traits = { }
             desc = x
         }
