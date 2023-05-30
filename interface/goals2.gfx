@@ -483,4 +483,20 @@ spriteTypes = {
 			name = "GFX_RST_tsar_and_the_aristocrats"
 			texturefile = "gfx/interface/goals/RST_tsar_and_the_aristocrats.png"
 	    }
+		spriteType = {
+			name = "GFX_RST_new_1613"
+			texturefile = "gfx/interface/goals/RST_new_1613.png"
+	    }
+		spriteType = {
+			name = "GFX_RST_assert_control_of_the_territory"
+			texturefile = "gfx/interface/goals/RST_assert_control_of_the_territory.png"
+	    }
+		spriteType = {
+			name = "GFX_RST_deal_with_bureaucratic_chaos"
+			texturefile = "gfx/interface/goals/RST_deal_with_bureaucratic_chaos.png"
+	    }
+		spriteType = {
+			name = "GFX_RST_strengthen_the_tsarskoye_opolcheniye"
+			texturefile = "gfx/interface/goals/RST_strengthen_the_tsarskoye_opolcheniye.png"
+	    }
 	}

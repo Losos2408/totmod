@@ -1,6 +1,6 @@
 shared_focus = {
 	id = RST_new_1613
-	icon = x
+	icon = GFX_RST_new_1613
 	cost = 1
 	x = 10
 	y = 0
@@ -11,7 +11,7 @@ shared_focus = {
 
 shared_focus = {
 	id = RST_strengthen_the_tsarskoye_opolcheniye
-	icon = x
+	icon = GFX_RST_strengthen_the_tsarskoye_opolcheniye
 	cost = 1
 	x = -2
 	y = 1
@@ -26,7 +26,7 @@ shared_focus = {
 
 shared_focus = {
 	id = RST_assert_control_of_the_territory
-	icon = x
+	icon = GFX_RST_assert_control_of_the_territory
 	cost = 1
 	x = 0
 	y = 1
@@ -41,7 +41,7 @@ shared_focus = {
 
 shared_focus = {
 	id = RST_deal_with_bureaucratic_chaos
-	icon = x
+	icon = GFX_RST_deal_with_bureaucratic_chaos
 	cost = 1
 	x = 2
 	y = 1
