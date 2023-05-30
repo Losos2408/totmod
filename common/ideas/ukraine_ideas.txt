@@ -156,5 +156,58 @@ ideas = {
 				
 			}		
 		}
+
+		CNB_in_the_service_of_peace = {
+
+			picture = x
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				custom_modifier_tooltip = cannot_train_units_tt
+				custom_modifier_tooltip = CNB_in_the_service_of_peace_tt
+			}		
+		}
+
+		CNB_unfamiliar_lands = {
+
+			picture = x
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				max_dig_in_factor = -0.5
+				max_planning_factor = -0.5
+				planning_speed = -0.5
+				army_defence_factor = -0.5
+				army_org_factor = -0.5
+			}		
+		}
+
+		CNB_structural_integrity_concerns = {
+
+			picture = x
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				
+			}		
+		}
+
+		CNB_lonely_place = {
+
+			picture = x
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				
+			}		
+		}
 	}
 }

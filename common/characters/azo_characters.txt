@@ -1,0 +1,15 @@
+characters = {
+    AZO_Bohdan_Krotevych = {
+        name = AZO_Bohdan_Krotevych
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/AZO/Portrait_AZO_Bohdan_Krotevych.png"
+            }
+        }
+        country_leader = {
+            ideology = radicalism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

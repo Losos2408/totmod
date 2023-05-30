@@ -388,3 +388,7 @@ KRD = {
 	color = rgb { 130 0 86 }
 	color_ui = rgb { 130 0 86 }
 }
+UNK = {
+	color = rgb { 125 46 46 }
+	color_ui = rgb { 125 46 46 }
+}

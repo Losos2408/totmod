@@ -5,7 +5,7 @@ recruit_character = SKB_Generic_Vacant
 
 fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
 
-recruit_character = SKB_Veneamin_Kondratev
+recruit_character = SKB_Veniamin_Kondratiev
 
 set_politics = {
 	ruling_party = militarism

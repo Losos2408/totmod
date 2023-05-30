@@ -1,0 +1,15 @@
+characters = {
+    UNK_Ushiromiya_Kinzo = {
+        name = UNK_Ushiromiya_Kinzo
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/UNK/Portrait_UNK_Ushiromiya_Kinzo.png"
+            }
+        }
+        country_leader = {
+            ideology = personalistic_dictatorship
+            traits = { }
+            desc = x
+        }
+	}
+}

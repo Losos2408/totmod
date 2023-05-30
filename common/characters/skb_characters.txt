@@ -1,6 +1,6 @@
 characters = {
-    SKB_Veneamin_Kondratev = {
-        name = SKB_Veneamin_Kondratev
+    SKB_Veniamin_Kondratiev = {
+        name = SKB_Veniamin_Kondratiev
         portraits = {
             civilian = {
                 #large = "gfx/leaders/NKB/Portrait.png"

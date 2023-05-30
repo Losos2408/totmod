@@ -49,4 +49,20 @@ spriteTypes = {
 			name = "GFX_idea_OFA_Organisation_of_Fastiv_Agreements"
 			texturefile = "gfx/interface/ideas/GFX_idea_OFA_Organisation_of_Fastiv_Agreements.png"
 	    }
+		spriteType = {
+			name = "GFX_idea_CNB_in_the_service_of_peace"
+			texturefile = "gfx/interface/ideas/GFX_idea_CNB_in_the_service_of_peace.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_CNB_unfamiliar_lands"
+			texturefile = "gfx/interface/ideas/GFX_idea_CNB_unfamiliar_lands.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_CNB_structural_integrity_concerns"
+			texturefile = "gfx/interface/ideas/GFX_idea_CNB_structural_integrity_concerns.png"
+	    }
+		spriteType = {
+			name = "GFX_idea_CNB_lonely_place"
+			texturefile = "gfx/interface/ideas/GFX_idea_CNB_lonely_place.png"
+	    }
 	}

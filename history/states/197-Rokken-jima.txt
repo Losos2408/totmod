@@ -1,0 +1,15 @@
+state={
+	id=197
+	name="STATE_197"
+	history = {
+		owner = UNK
+		add_core_of = UNK
+	}
+	provinces={
+		10996
+	}
+	manpower = 20
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
