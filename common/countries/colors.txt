@@ -392,3 +392,7 @@ UNK = {
 	color = rgb { 125 46 46 }
 	color_ui = rgb { 125 46 46 }
 }
+BTI = {
+	color = rgb { 164 138 23 }
+	color_ui = rgb { 164 138 23 }
+}

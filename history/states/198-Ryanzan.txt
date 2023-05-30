@@ -1,0 +1,15 @@
+state={
+	id=198
+	name="STATE_198"
+	history = {
+		owner = BTI
+		add_core_of = BTI
+	}
+	provinces={
+		1555 1867 3324 6035
+	}
+	manpower = 20
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

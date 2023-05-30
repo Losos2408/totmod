@@ -1,0 +1,15 @@
+characters = {
+    DNR_Denis_Pushilin = {
+        name = DNR_Denis_Pushilin
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/DNR/Portrait_DNR_Denis_Pushilin.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}
