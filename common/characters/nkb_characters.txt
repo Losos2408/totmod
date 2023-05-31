@@ -3,7 +3,7 @@ characters = {
         name = NKB_Nikolai_Panin
         portraits = {
             civilian = {
-                large = "gfx/leaders/NKB/Portrait_NKB_Nikolai_Panin.png.png"
+                large = "gfx/leaders/NKB/Portrait_NKB_Nikolai_Panin.png"
             }
         }
         country_leader = {

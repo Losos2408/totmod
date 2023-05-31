@@ -140,6 +140,10 @@ spriteTypes = {
 			name = "GFX_ideology_slavo_aryanism"
 			texturefile = "gfx/interface/ideologies/slavo_aryanism_subid.png"
 	    }
+		spriteType = {
+			name = "GFX_ideology_personalistic_dictatorship_umineko"
+			texturefile = "gfx/interface/ideologies/personalistic_dictatorship_umineko.png"
+	    }
 	}
 
 
