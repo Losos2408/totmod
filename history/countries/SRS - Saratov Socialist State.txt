@@ -1,0 +1,19 @@
+capital = 199
+
+# Vacant
+recruit_character = SRS_Generic_Vacant
+
+recruit_character = SRS_Nikolai_Bondarenko
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
+set_politics = {
+	ruling_party = socialism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	socialism = 100
+}

@@ -1,0 +1,15 @@
+characters = {
+    SRS_Nikolai_Bondarenko = {
+        name = SRS_Nikolai_Bondarenko
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/SVV/.png"
+            }
+        }
+        country_leader = {
+            ideology = socialism_of_the_21st_century
+            traits = { }
+            desc = x
+        }
+	}
+}

@@ -396,3 +396,7 @@ BTI = {
 	color = rgb { 164 138 23 }
 	color_ui = rgb { 164 138 23 }
 }
+SRS = {
+	color = rgb { 137 0 11 }
+	color_ui = rgb { 137 0 11 }
+}
