@@ -1,0 +1,15 @@
+state={
+	id=203
+	name="STATE_203"
+	#history = {
+	#	owner = GRK
+	#	add_core_of = GRK
+	#}
+	provinces={
+		744 2719 5059 6343
+	}
+	manpower = 1221292
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
