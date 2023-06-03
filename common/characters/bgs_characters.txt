@@ -1,0 +1,15 @@
+characters = {
+    BGS_Dmitry_Dyachenko = {
+        name = BGS_Dmitry_Dyachenko
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/ORS/.png"
+            }
+        }
+        country_leader = {
+            ideology = radicalism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

@@ -1,0 +1,15 @@
+characters = {
+    ORS_Sergey_Akulinin = {
+        name = ORS_Sergey_Akulinin
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/ORS/.png"
+            }
+        }
+        country_leader = {
+            ideology = radicalism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

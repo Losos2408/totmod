@@ -1,0 +1,19 @@
+capital = 201
+
+# Vacant
+recruit_character = ORB_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
+recruit_character = ORS_Sergey_Salmin
+
+set_politics = {
+	ruling_party = conservatism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	conservatism = 100
+}

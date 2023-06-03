@@ -1,0 +1,19 @@
+capital = 203
+
+# Vacant
+recruit_character = BGS_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
+recruit_character = BGS_Dmitry_Dyachenko
+
+set_politics = {
+	ruling_party = radicalism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	radicalism = 100
+}

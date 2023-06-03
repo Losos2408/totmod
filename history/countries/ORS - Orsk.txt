@@ -1,0 +1,19 @@
+capital = 200
+
+# Vacant
+recruit_character = ORS_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
+recruit_character = ORS_Sergey_Akulinin
+
+set_politics = {
+	ruling_party = radicalism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	radicalism = 100
+}

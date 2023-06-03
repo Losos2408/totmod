@@ -1,0 +1,15 @@
+characters = {
+    ORS_Sergey_Salmin = {
+        name = ORS_Sergey_Salmin
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/ORS/.png"
+            }
+        }
+        country_leader = {
+            ideology = conservatism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

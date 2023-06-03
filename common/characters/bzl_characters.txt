@@ -1,0 +1,15 @@
+characters = {
+    BZL_Vladimir_Peskov = {
+        name = BZL_Vladimir_Peskov
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/ORS/.png"
+            }
+        }
+        country_leader = {
+            ideology = controlled_democracy_default
+            traits = { }
+            desc = x
+        }
+	}
+}
