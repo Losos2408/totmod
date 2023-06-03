@@ -339,7 +339,7 @@
  SRS_ADJ:0 "Socialist Saratov"
 
  ORS:0 "Orsk"
- ORS_DEF:0 "the Orsk Law of National Salvation"
+ ORS_DEF:0 "the Orsk Government of National Salvation"
  ORS_ADJ:0 "Orsk"
 
  ORB:0 "Oreburg"
@@ -353,3 +353,7 @@
  BGS:0 "Buguruslan"
  BGS_DEF:0 "the People's Republic of Buguruslan"
  BGS_ADJ:0 "Buguruslan"
+
+ BSK:0 "Bashkortostan"
+ BSK_DEF:0 "the Republic of Bashkortostan"
+ BSK_ADJ:0 "Bashkortostan"
