@@ -337,3 +337,19 @@
  SRS:0 "Saratov Socialist State"
  SRS_DEF:0 "the Saratov Socialist State"
  SRS_ADJ:0 "Socialist Saratov"
+
+ ORS:0 "Orsk"
+ ORS_DEF:0 "the Orsk Law of National Salvation"
+ ORS_ADJ:0 "Orsk"
+
+ ORB:0 "Oreburg"
+ ORB_DEF:0 "the Republic of Orenburg"
+ ORB_ADJ:0 "Oreburg"
+
+ BZL:0 "Buzuluk"
+ BZL_DEF:0 "the Free State of Buzuluk"
+ BZL_ADJ:0 "Buzuluk"
+
+ BGS:0 "Buguruslan"
+ BGS_DEF:0 "the People's Republic of Buguruslan"
+ BGS_ADJ:0 "Buguruslan"

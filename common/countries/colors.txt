@@ -400,3 +400,19 @@ SRS = {
 	color = rgb { 137 0 11 }
 	color_ui = rgb { 137 0 11 }
 }
+ORB = {
+	color = rgb { 117 0 10 }
+	color_ui = rgb { 117 0 10 }
+}
+ORS = {
+	color = rgb { 144 126 20 }
+	color_ui = rgb { 144 126 20 }
+}
+BZL = {
+	color = rgb { 28 0 130 }
+	color_ui = rgb { 28 0 130 }
+}
+BGS = {
+	color = rgb { 40 93 15 }
+	color_ui = rgb { 40 93 15 }
+}
