@@ -420,3 +420,7 @@ KMR = {
 	color = rgb { 138 121 60 }
 	color_ui = rgb { 138 121 60 }
 }
+SRT = {
+	color = rgb { 46 78 132 }
+	color_ui = rgb { 46 78 132 }
+}

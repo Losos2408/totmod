@@ -1,0 +1,15 @@
+characters = {
+    SRT_Irina_Bolmosova = {
+        name = SRT_Irina_Bolmosova
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/SRT/Portrait_SRT_Irina_Bolmosova.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}
