@@ -1,0 +1,15 @@
+characters = {
+    KMR_Georgy_Sidorov = {
+        name = KMR_Georgy_Sidorov
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/KMR/Portrait_KMR_Georgy_Sidorov.png"
+            }
+        }
+        country_leader = {
+            ideology = slavo_aryanism
+            traits = { }
+            desc = x
+        }
+	}
+}

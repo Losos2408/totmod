@@ -416,3 +416,7 @@ BGS = {
 	color = rgb { 40 93 15 }
 	color_ui = rgb { 40 93 15 }
 }
+KMR = {
+	color = rgb { 138 121 60 }
+	color_ui = rgb { 138 121 60 }
+}

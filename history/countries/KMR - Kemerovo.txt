@@ -1,0 +1,19 @@
+capital = 204
+
+# Vacant
+recruit_character = KMR_Generic_Vacant
+
+recruit_character = KMR_Georgy_Sidorov
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
+set_politics = {
+	ruling_party = radicalism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	radicalism = 100
+}
