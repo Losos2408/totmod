@@ -1,9 +1,9 @@
 characters = {
-    ORS_Sergey_Salmin = {
-        name = ORS_Sergey_Salmin
+    ORB_Sergey_Salmin = {
+        name = ORB_Sergey_Salmin
         portraits = {
             civilian = {
-                #large = "gfx/leaders/ORS/.png"
+                large = "gfx/leaders/ORB/Portrait_ORB_Sergey_Salmin.png"
             }
         }
         country_leader = {

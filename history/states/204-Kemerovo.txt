@@ -1,0 +1,15 @@
+state={
+	id=204
+	name="STATE_204"
+	#history = {
+	#	owner = BGS
+	#	add_core_of = BGS
+	#}
+	provinces={
+		487 1079 1619 3533 6065 8483 8512 8541
+	}
+	manpower = 1221292
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

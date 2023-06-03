@@ -5,7 +5,7 @@ recruit_character = ORB_Generic_Vacant
 
 fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
 
-recruit_character = ORS_Sergey_Salmin
+recruit_character = ORB_Sergey_Salmin
 
 set_politics = {
 	ruling_party = conservatism
