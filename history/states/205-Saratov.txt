@@ -1,0 +1,15 @@
+state={
+	id=205
+	name="STATE_205"
+	#history = {
+	#	owner = SRS
+	#	add_core_of = SRS
+	#}
+	provinces={
+		881 1821 2252 3142 3575 4821 5184 6093 8158 8183 8246 8248
+	}
+	manpower = 1221292
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
