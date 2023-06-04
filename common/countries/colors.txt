@@ -424,3 +424,7 @@ SRT = {
 	color = rgb { 46 78 132 }
 	color_ui = rgb { 46 78 132 }
 }
+KRG = {
+	color = rgb { 65 100 42 }
+	color_ui = rgb { 65 100 42 }
+}

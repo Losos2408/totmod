@@ -1,0 +1,15 @@
+characters = {
+    KRG_Pavel_Rusin = {
+        name = KRG_Pavel_Rusin
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/KRG/Portrait_KRG_Pavel_Rusin.png"
+            }
+        }
+        country_leader = {
+            ideology = absolute_monarchy
+            traits = { }
+            desc = x
+        }
+	}
+}
