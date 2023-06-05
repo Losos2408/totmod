@@ -67,9 +67,9 @@
  SUS_DEF:0 "the People's Republic of Transamur"
  SUS_ADJ:0 "Transamur's"
 
- UKR:0 "Ukraine"
- UKR_DEF:0 "the Republic of Ukraine"
- UKR_ADJ:0 "Ukrainian"
+ KYV:0 "Ukraine"
+ KYV_DEF:0 "the Republic of Ukraine"
+ KYV_ADJ:0 "Ukrainian"
 
  SSA:0 "DKAU"
  SSA_DEF:0 "the State Space Agency of Ukraine"

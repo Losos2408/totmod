@@ -1,11 +1,11 @@
 scripted_gui = {
-	UKR_power_balance_gui = {
+	KYV_power_balance_gui = {
 		window_name = ToT_Kyiv_power_balance_container
 		context_type = decision_category
 		parent_window_token = decision_tab
 
 		visible = {
-			original_tag = UKR
+			original_tag = KYV
 		}
 	}
 }

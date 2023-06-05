@@ -1,23 +1,23 @@
 spriteTypes = {
 	spriteType = {
-		name = "GFX_UKR_party_logo"
-		texturefile = "gfx/interface/Kyiv/party_balance/UKR_party_logo.png"
+		name = "GFX_KYV_party_logo"
+		texturefile = "gfx/interface/Kyiv/party_balance/KYV_party_logo.png"
 	}
 	spriteType = {
-		name = "GFX_UKR_party_balance_prog"
-		texturefile = "gfx/interface/Kyiv/party_balance/UKR_party_balance_prog.png"
+		name = "GFX_KYV_party_balance_prog"
+		texturefile = "gfx/interface/Kyiv/party_balance/KYV_party_balance_prog.png"
 	}
 	spriteType = {
-		name = "GFX_UKR_party_balance_Oleksandr_Syrskyy"
-		texturefile = "gfx/interface/Kyiv/party_balance/UKR_Oleksandr_Syrskyy.png"
+		name = "GFX_KYV_party_balance_Oleksandr_Syrskyy"
+		texturefile = "gfx/interface/Kyiv/party_balance/KYV_Oleksandr_Syrskyy.png"
 	}
 	spriteType = {
-		name = "GFX_UKR_party_balance_Oleksiy_Honcharenko"
-		texturefile = "gfx/interface/Kyiv/party_balance/UKR_Oleksiy_Honcharenko.png"
+		name = "GFX_KYV_party_balance_Oleksiy_Honcharenko"
+		texturefile = "gfx/interface/Kyiv/party_balance/KYV_Oleksiy_Honcharenko.png"
 	}
 	spriteType = {
-		name = "GFX_UKR_party_balance_Volodymyr_Zelenskyy"
-		texturefile = "gfx/interface/Kyiv/party_balance/UKR_Volodymyr_Zelenskyy.png"
+		name = "GFX_KYV_party_balance_Volodymyr_Zelenskyy"
+		texturefile = "gfx/interface/Kyiv/party_balance/KYV_Volodymyr_Zelenskyy.png"
 	}
 	
 }

@@ -22,7 +22,7 @@ characters = {
         advisor = {
 			slot = foreign_minister
 			idea_token = NAT_Saul_Goodman_for
-			allowed = { original_tag = UKR }
+			allowed = { original_tag = NAT }
 			traits = {
 				foreign_minister
 			}

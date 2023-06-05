@@ -1,28 +1,28 @@
 characters = {
-    UKR_Volodymyr_Zelenskyy = {
-        name = UKR_Volodymyr_Zelenskyy
+    KYV_Volodymyr_Zelenskyy = {
+        name = KYV_Volodymyr_Zelenskyy
         portraits = {
             civilian = {
-                large = "gfx/leaders/UKR/Volodymyr_Zelenskyy.png"
+                large = "gfx/leaders/KYV/Volodymyr_Zelenskyy.png"
             }
         }
         country_leader = {
             ideology = big_tent_party
             traits = {  }
-            desc = UKR_Volodymyr_Zelenskyy_desc
+            desc = KYV_Volodymyr_Zelenskyy_desc
         }
 	}
-    UKR_Denys_Shmyhal = {
-        name = UKR_Denys_Shmyhal
+    KYV_Denys_Shmyhal = {
+        name = KYV_Denys_Shmyhal
         portraits = {
             civilian = {
-                small = "GFX_idea_UKR_minister_Denys_Shmyhal"
+                small = "GFX_idea_KYV_minister_Denys_Shmyhal"
             }
         }
         advisor = {
 			slot = head_of_government
-			idea_token = UKR_Denys_Shmyhal_hog
-			allowed = { original_tag = UKR }
+			idea_token = KYV_Denys_Shmyhal_hog
+			allowed = { original_tag = KYV }
 			traits = {
 				head_of_government
 			}
@@ -32,17 +32,17 @@ characters = {
 			ai_will_do = { factor = 0 }
 		}
 	}
-    UKR_Dmytro_Kuleba = {
-        name = UKR_Dmytro_Kuleba
+    KYV_Dmytro_Kuleba = {
+        name = KYV_Dmytro_Kuleba
         portraits = {
             civilian = {
-                small = "GFX_idea_UKR_minister_Dmytro_Kuleba"
+                small = "GFX_idea_KYV_minister_Dmytro_Kuleba"
             }
         }
         advisor = {
 			slot = foreign_minister
-			idea_token = UKR_Dmytro_Kuleba_for
-			allowed = { original_tag = UKR }
+			idea_token = KYV_Dmytro_Kuleba_for
+			allowed = { original_tag = KYV }
 			traits = {
 				foreign_minister
 			}
@@ -52,17 +52,17 @@ characters = {
 			ai_will_do = { factor = 0 }
 		}
 	}
-    UKR_Serhiy_Marchenko = {
-        name = UKR_Serhiy_Marchenko
+    KYV_Serhiy_Marchenko = {
+        name = KYV_Serhiy_Marchenko
         portraits = {
             civilian = {
-                small = "GFX_idea_UKR_minister_Serhiy_Marchenko"
+                small = "GFX_idea_KYV_minister_Serhiy_Marchenko"
             }
         }
         advisor = {
 			slot = economy_minister
-			idea_token = UKR_Serhiy_Marchenko_eco
-			allowed = { original_tag = UKR }
+			idea_token = KYV_Serhiy_Marchenko_eco
+			allowed = { original_tag = KYV }
 			traits = {
 				economy_minister
 			}
@@ -72,17 +72,17 @@ characters = {
 			ai_will_do = { factor = 0 }
 		}
 	}
-    UKR_Denys_Monastyrsky = {
-        name = UKR_Denys_Monastyrsky
+    KYV_Denys_Monastyrsky = {
+        name = KYV_Denys_Monastyrsky
         portraits = {
             civilian = {
-                small = "GFX_idea_UKR_minister_Denys_Monastyrsky"
+                small = "GFX_idea_KYV_minister_Denys_Monastyrsky"
             }
         }
         advisor = {
 			slot = security_minister
-			idea_token = UKR_Denys_Monastyrsky_sec
-			allowed = { original_tag = UKR }
+			idea_token = KYV_Denys_Monastyrsky_sec
+			allowed = { original_tag = KYV }
 			traits = {
 				security_minister
 			}

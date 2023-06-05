@@ -35,20 +35,20 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_idea_UKR_minister_Denys_Monastyrsky"
-		texturefile = "gfx/interface/ideas/ministers/UKR/UKR_minister_Denys_Monastyrsky.png"
+		name = "GFX_idea_KYV_minister_Denys_Monastyrsky"
+		texturefile = "gfx/interface/ideas/ministers/KYV/KYV_minister_Denys_Monastyrsky.png"
 	}
 	spriteType = {
-		name = "GFX_idea_UKR_minister_Denys_Shmyhal"
-		texturefile = "gfx/interface/ideas/ministers/UKR/UKR_minister_Denys_Shmyhal.png"
+		name = "GFX_idea_KYV_minister_Denys_Shmyhal"
+		texturefile = "gfx/interface/ideas/ministers/KYV/KYV_minister_Denys_Shmyhal.png"
 	}
 	spriteType = {
-		name = "GFX_idea_UKR_minister_Dmytro_Kuleba"
-		texturefile = "gfx/interface/ideas/ministers/UKR/UKR_minister_Dmytro_Kuleba.png"
+		name = "GFX_idea_KYV_minister_Dmytro_Kuleba"
+		texturefile = "gfx/interface/ideas/ministers/KYV/KYV_minister_Dmytro_Kuleba.png"
 	}
 	spriteType = {
-		name = "GFX_idea_UKR_minister_Serhiy_Marchenko"
-		texturefile = "gfx/interface/ideas/ministers/UKR/UKR_minister_Serhiy_Marchenko.png"
+		name = "GFX_idea_KYV_minister_Serhiy_Marchenko"
+		texturefile = "gfx/interface/ideas/ministers/KYV/KYV_minister_Serhiy_Marchenko.png"
 	}
 
 	spriteType = {

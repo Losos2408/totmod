@@ -1,13 +1,13 @@
 capital = 124
 
 # Vacant
-recruit_character = UKR_Generic_Vacant
+recruit_character = KYV_Generic_Vacant
 
-recruit_character = UKR_Volodymyr_Zelenskyy
-recruit_character = UKR_Denys_Shmyhal
-recruit_character = UKR_Dmytro_Kuleba
-recruit_character = UKR_Serhiy_Marchenko
-recruit_character = UKR_Denys_Monastyrsky
+recruit_character = KYV_Volodymyr_Zelenskyy
+recruit_character = KYV_Denys_Shmyhal
+recruit_character = KYV_Dmytro_Kuleba
+recruit_character = KYV_Serhiy_Marchenko
+recruit_character = KYV_Denys_Monastyrsky
 
 set_politics = {
 	ruling_party = controlled_democracy
@@ -35,16 +35,16 @@ add_to_faction = CKS
 add_to_faction = OLK
 
 add_ideas = {
-	UKR_Wake_up_Ukraine
-	UKR_house_of_cards
-	UKR_our_western_friends
-	UKR_AFU_condition
+	KYV_Wake_up_KYVaine
+	KYV_house_of_cards
+	KYV_our_western_friends
+	KYV_AFU_condition
 	OFA_Organisation_of_Fastiv_Agreements
 
-	UKR_Denys_Shmyhal_hog
-	UKR_Dmytro_Kuleba_for
-	UKR_Serhiy_Marchenko_eco
-	UKR_Denys_Monastyrsky_sec
+	KYV_Denys_Shmyhal_hog
+	KYV_Dmytro_Kuleba_for
+	KYV_Serhiy_Marchenko_eco
+	KYV_Denys_Monastyrsky_sec
 }
 
 set_popularities = {

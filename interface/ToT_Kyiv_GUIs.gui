@@ -8,49 +8,49 @@ guiTypes = {
 			name = "party_logo"
 			position = { x=109 y=0 }
 			orientation = UPPER_LEFT
-			spriteType = "GFX_UKR_party_logo"
+			spriteType = "GFX_KYV_party_logo"
 		}
 
 		iconType = {
 			name = "progress_bar_1"
 			position = { x=85 y=250 }
 			orientation = UPPER_LEFT
-			spriteType = "GFX_UKR_party_balance_prog"
+			spriteType = "GFX_KYV_party_balance_prog"
 		}
 
 		iconType = {
 			name = "progress_bar_2"
 			position = { x=226 y=250 }
 			orientation = UPPER_LEFT
-			spriteType = "GFX_UKR_party_balance_prog"
+			spriteType = "GFX_KYV_party_balance_prog"
 		}
 
 		iconType = {
 			name = "progress_bar_3"
 			position = { x=367 y=250 }
 			orientation = UPPER_LEFT
-			spriteType = "GFX_UKR_party_balance_prog"
+			spriteType = "GFX_KYV_party_balance_prog"
 		}
 
 		iconType = {
 			name = "person_1"
 			position = { x=55 y=540 }
 			orientation = UPPER_LEFT
-			spriteType = "GFX_UKR_party_balance_Oleksandr_Syrskyy"
+			spriteType = "GFX_KYV_party_balance_Oleksandr_Syrskyy"
 		}
 
 		iconType = {
 			name = "person_2"
 			position = { x=196 y=540 }
 			orientation = UPPER_LEFT
-			spriteType = "GFX_UKR_party_balance_Volodymyr_Zelenskyy"
+			spriteType = "GFX_KYV_party_balance_Volodymyr_Zelenskyy"
 		}
 
 		iconType = {
 			name = "person_3"
 			position = { x=337 y=540 }
 			orientation = UPPER_LEFT
-			spriteType = "GFX_UKR_party_balance_Oleksiy_Honcharenko"
+			spriteType = "GFX_KYV_party_balance_Oleksiy_Honcharenko"
 		}
 	}
 }

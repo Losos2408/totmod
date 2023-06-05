@@ -1,20 +1,8 @@
 ideas = {
 	country = {
-		UKR_Wake_up_Ukraine = {
+		KYV_Wake_up_Ukraine = {
 
-			picture = UKR_Wake_up_Ukraine
-
-			allowed = {
-				always = no
-			}
-			modifier = {
-
-			}			
-		}
-
-		UKR_house_of_cards = {
-
-			picture = UKR_house_of_cards
+			picture = KYV_Wake_up_Ukraine
 
 			allowed = {
 				always = no
@@ -24,9 +12,9 @@ ideas = {
 			}			
 		}
 
-		UKR_our_western_friends = {
+		KYV_house_of_cards = {
 
-			picture = UKR_our_western_friends
+			picture = KYV_house_of_cards
 
 			allowed = {
 				always = no
@@ -36,9 +24,21 @@ ideas = {
 			}			
 		}
 
-		UKR_AFU_condition = {
+		KYV_our_western_friends = {
 
-			picture = UKR_AFU_condition
+			picture = KYV_our_western_friends
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+
+			}			
+		}
+
+		KYV_AFU_condition = {
+
+			picture = KYV_AFU_condition
 
 			allowed = {
 				always = no
