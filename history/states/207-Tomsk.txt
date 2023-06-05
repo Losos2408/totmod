@@ -6,7 +6,7 @@ state={
 		add_core_of = TOM
 	}
 	provinces={
-		487 1404 4728 6398 8461
+		487 1404 1614 2378 3230 4204 4540 4728 4774 5997 6398 8420 8461 8438
 	}
 	manpower = 1221292
 	state_category = rural
