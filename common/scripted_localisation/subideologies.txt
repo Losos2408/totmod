@@ -221,4 +221,24 @@ defined_text = {
 		trigger = { has_country_leader_ideology = socialism_of_the_21st_century }
 		localization_key = "socialism_of_the_21st_century"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = national_liberalism }
+		localization_key = "national_liberalism"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = technocratic_corporatism }
+		localization_key = "technocratic_corporatism"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = social_conservatism }
+		localization_key = "social_conservatism"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = indoctrination_dictatorship }
+		localization_key = "indoctrination_dictatorship"
+	}
+	text = {
+		trigger = { has_country_leader_ideology = clerical_fascism }
+		localization_key = "clerical_fascism"
+	}
 }

@@ -7,7 +7,7 @@ characters = {
             }
         }
         country_leader = {
-            ideology = radicalism_default
+            ideology = indoctrination_dictatorship
             traits = { }
             desc = x
         }

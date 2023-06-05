@@ -11,6 +11,7 @@ ideologies = {
 			avant_garde_patriotism = { can_be_randomly_selected = no }
 			paternalist_zionism = { can_be_randomly_selected = no }
 			principatus = { can_be_randomly_selected = no }
+			technocratic_corporatism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 100 100 100 }
@@ -34,6 +35,7 @@ ideologies = {
 			libertarianism = { can_be_randomly_selected = no }
 			depressive_liberalism = { can_be_randomly_selected = no }
 			gamer_liberalism = { can_be_randomly_selected = no }
+			national_liberalism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 81 146 156 }
@@ -51,6 +53,7 @@ ideologies = {
 		types = {
 			conservatism_default = {}
 			silent_conservatism = { can_be_randomly_selected = no }
+			social_conservatism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 63 62 138 }
@@ -146,6 +149,8 @@ ideologies = {
 			rusism = { can_be_randomly_selected = no }
 			George_Yury_Right_thought = { can_be_randomly_selected = no }
 			slavo_aryanism = { can_be_randomly_selected = no }
+			indoctrination_dictatorship = { can_be_randomly_selected = no }
+			clerical_fascism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 13 13 13 }

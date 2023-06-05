@@ -428,3 +428,7 @@ KRG = {
 	color = rgb { 65 100 42 }
 	color_ui = rgb { 65 100 42 }
 }
+TOM = {
+	color = rgb { 84 114 69 }
+	color_ui = rgb { 84 114 69 }
+}

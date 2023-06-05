@@ -1,12 +1,12 @@
 state={
-	id=204
-	name="STATE_204"
+	id=207
+	name="STATE_207"
 	history = {
-		owner = KMR
-		add_core_of = KMR
+		owner = TOM
+		add_core_of = TOM
 	}
 	provinces={
-		1079 1619 1679 3533 5825 6065 8483 8512 8541
+		487 1404 4728 6398 8461
 	}
 	manpower = 1221292
 	state_category = rural

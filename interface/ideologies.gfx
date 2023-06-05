@@ -144,6 +144,10 @@ spriteTypes = {
 			name = "GFX_ideology_personalistic_dictatorship_umineko"
 			texturefile = "gfx/interface/ideologies/personalistic_dictatorship_umineko.png"
 	    }
+		spriteType = {
+			name = "GFX_ideology_socialism_of_the_21st_century"
+			texturefile = "gfx/interface/ideologies/socialism_of_the_21st_century.png"
+	    }
 	}
 
 
