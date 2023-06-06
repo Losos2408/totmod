@@ -432,3 +432,7 @@ TOM = {
 	color = rgb { 84 114 69 }
 	color_ui = rgb { 84 114 69 }
 }
+KTM = {
+	color = rgb { 96 0 17 }
+	color_ui = rgb { 96 0 17 }
+}
