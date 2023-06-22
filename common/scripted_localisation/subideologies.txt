@@ -241,4 +241,8 @@ defined_text = {
 		trigger = { has_country_leader_ideology = clerical_fascism }
 		localization_key = "clerical_fascism"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = stalinism }
+		localization_key = "stalinism"
+	}
 }

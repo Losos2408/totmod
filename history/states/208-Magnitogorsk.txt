@@ -1,0 +1,15 @@
+state={
+	id=208
+	name="STATE_208"
+	history = {
+		owner = AVN
+		add_core_of = AVN
+	}
+	provinces={
+		1059 3669 4009 6751 8267 
+	}
+	manpower = 1221292
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

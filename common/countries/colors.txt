@@ -436,3 +436,7 @@ KTM = {
 	color = rgb { 96 0 17 }
 	color_ui = rgb { 96 0 17 }
 }
+AVN = {
+	color = rgb { 127 32 25 }
+	color_ui = rgb { 127 32 25 }
+}

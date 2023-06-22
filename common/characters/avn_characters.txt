@@ -1,0 +1,15 @@
+characters = {
+    AVN_Yury_Mukhin = {
+        name = AVN_Yury_Mukhin
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/AVN/Portrait_AVN_Yury_Mukhin.png"
+            }
+        }
+        country_leader = {
+            ideology = stalinism
+            traits = { }
+            desc = x
+        }
+	}
+}

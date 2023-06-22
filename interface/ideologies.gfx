@@ -148,6 +148,10 @@ spriteTypes = {
 			name = "GFX_ideology_socialism_of_the_21st_century"
 			texturefile = "gfx/interface/ideologies/socialism_of_the_21st_century.png"
 	    }
+		spriteType = {
+			name = "GFX_ideology_stalinism"
+			texturefile = "gfx/interface/ideologies/stalinism.png"
+	    }
 	}
 
 
