@@ -7,7 +7,7 @@ characters = {
             }
         }
         country_leader = {
-            ideology = goyda_default
+            ideology = zaum_futurism
             traits = { }
             desc = x
         }

@@ -5,10 +5,10 @@
  AST_Vasily_Kandinsky: "Василий Кандинский"
  AST_Osip_Mandelshtam: "Осип Мандельштам"
 
- AST_Vladimir_Mayakovsky_hog_desc: "§YСопрезидент 317-Земли\nZaum Futurism§!\n--------------\n§L§!"
- AST_Mikhail_Kuzmin_for_desc: "§YСопрезидент 317-Земли\nZaum Futurism§!\n--------------\n§L§!"
- AST_Vasily_Kandinsky_eco_desc: "§YСопрезидент 317-Земли\nZaum Futurism§!\n--------------\n§L§!"
- AST_Osip_Mandelshtam_sec_desc: "§YСопрезидент 317-Земли\nZaum Futurism§!\n--------------\n§L§!"
+ AST_Vladimir_Mayakovsky_hog_desc: "§YСопрезидент 317-Земли\nЛевый Футуризм§!\n--------------\n§L§!"
+ AST_Mikhail_Kuzmin_for_desc: "§YСопрезидент 317-Земли\nЗаум Футуризм§!\n--------------\n§L§!"
+ AST_Vasily_Kandinsky_eco_desc: "§YСопрезидент 317-Земли\nЗаум Футуризм§!\n--------------\n§L§!"
+ AST_Osip_Mandelshtam_sec_desc: "§YСопрезидент 317-Земли\nЗаум Футуризм§!\n--------------\n§L§!"
  
  AST_communism_party: "317ПП - Реалисты"
  AST_communism_party_long: "317-Пространственное Правительство - Реалисты"
