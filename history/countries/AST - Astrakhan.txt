@@ -1,0 +1,21 @@
+capital = 139
+
+# Vacant
+recruit_character = AST_Generic_Vacant
+
+recruit_character = AST_Velimir_Khlebnikov
+recruit_character = AST_Vladimir_Mayakovsky
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
+set_politics = {
+	ruling_party = goyda
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	communism = 50
+	goyda = 50
+}

@@ -1,0 +1,28 @@
+characters = {
+    AST_Velimir_Khlebnikov = {
+        name = AST_Velimir_Khlebnikov
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/AST/Portrait_AST_Velimir_Khlebnikov.png"
+            }
+        }
+        country_leader = {
+            ideology = goyda_default
+            traits = { }
+            desc = x
+        }
+	}
+    AST_Vladimir_Mayakovsky = {
+        name = AST_Vladimir_Mayakovsky
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/AST/Portrait_AST_Vladimir_Mayakovsky.png"
+            }
+        }
+        country_leader = {
+            ideology = left_wing_futurism
+            traits = { }
+            desc = x
+        }
+	}
+}

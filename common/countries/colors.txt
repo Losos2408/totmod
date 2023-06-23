@@ -440,3 +440,7 @@ AVN = {
 	color = rgb { 127 32 25 }
 	color_ui = rgb { 127 32 25 }
 }
+AST = {
+	color = rgb { 39 77 135 }
+	color_ui = rgb { 39 77 135 }
+}

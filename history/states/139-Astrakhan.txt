@@ -1,7 +1,10 @@
-
 state={
 	id=139
 	name="STATE_139"
+	history = {
+		owner = AST
+		add_core_of = AST
+	}
 	provinces={
 		882 2224 3141 3603 3647 4392 4435 8473 8485 8500 8502 
 	}
