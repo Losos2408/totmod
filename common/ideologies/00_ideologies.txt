@@ -169,6 +169,7 @@ ideologies = {
 	goyda = {
 		types = {
 			goyda_default = {}
+			zaum_futurism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 92 24 88 }

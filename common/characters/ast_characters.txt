@@ -17,6 +17,7 @@ characters = {
         portraits = {
             civilian = {
                 large = "gfx/leaders/AST/Portrait_AST_Vladimir_Mayakovsky.png"
+                small = "GFX_idea_AST_minister_Vladimir_Mayakovsky"
             }
         }
         country_leader = {
@@ -24,5 +25,77 @@ characters = {
             traits = { }
             desc = x
         }
+        advisor = {
+			slot = head_of_government
+			idea_token = AST_Vladimir_Mayakovsky_hog
+			allowed = { original_tag = AST }
+			traits = {
+				head_of_government
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
+    AST_Mikhail_Kuzmin = {
+        name = AST_Mikhail_Kuzmin
+        portraits = {
+            civilian = {
+                small = "GFX_idea_AST_minister_Mikhail_Kuzmin"
+            }
+        }
+        advisor = {
+			slot = foreign_minister
+			idea_token = AST_Mikhail_Kuzmin_for
+			allowed = { original_tag = AST }
+			traits = {
+				foreign_minister
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
+    AST_Vasily_Kandinsky = {
+        name = AST_Vasily_Kandinsky
+        portraits = {
+            civilian = {
+                small = "GFX_idea_AST_minister_Vasily_Kandinsky"
+            }
+        }
+        advisor = {
+			slot = economy_minister
+			idea_token = AST_Vasily_Kandinsky_eco
+			allowed = { original_tag = AST }
+			traits = {
+				economy_minister
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
+	}
+    AST_Osip_Mandelshtam = {
+        name = AST_Osip_Mandelshtam
+        portraits = {
+            civilian = {
+                small = "GFX_idea_AST_minister_Osip_Mandelstam"
+            }
+        }
+        advisor = {
+			slot = security_minister
+			idea_token = AST_Osip_Mandelshtam_sec
+			allowed = { original_tag = AST }
+			traits = {
+				security_minister
+			}
+			ledger = civilian
+			cost = -1
+			can_be_fired = no
+			ai_will_do = { factor = 0 }
+		}
 	}
 }

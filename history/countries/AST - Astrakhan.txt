@@ -5,6 +5,9 @@ recruit_character = AST_Generic_Vacant
 
 recruit_character = AST_Velimir_Khlebnikov
 recruit_character = AST_Vladimir_Mayakovsky
+recruit_character = AST_Mikhail_Kuzmin
+recruit_character = AST_Vasily_Kandinsky
+recruit_character = AST_Osip_Mandelshtam
 
 fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
 
@@ -18,4 +21,11 @@ set_politics = {
 set_popularities = {
 	communism = 50
 	goyda = 50
+}
+
+add_ideas = {
+	AST_Vladimir_Mayakovsky_hog
+	AST_Mikhail_Kuzmin_for
+	AST_Vasily_Kandinsky_eco
+	AST_Osip_Mandelshtam_sec
 }

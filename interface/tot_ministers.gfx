@@ -83,4 +83,20 @@ spriteTypes = {
 		name = "GFX_idea_RST_minister_Viktor_Geshele"
 		texturefile = "gfx/interface/ideas/ministers/RST/RST_minister_Viktor_Geshele.png"
 	}
+	spriteType = {
+		name = "GFX_idea_AST_minister_Mikhail_Kuzmin"
+		texturefile = "gfx/interface/ideas/ministers/AST/AST_minister_Mikhail_Kuzmin.png"
+	}
+	spriteType = {
+		name = "GFX_idea_AST_minister_Osip_Mandelstam"
+		texturefile = "gfx/interface/ideas/ministers/AST/AST_minister_Osip_Mandelstam.png"
+	}
+	spriteType = {
+		name = "GFX_idea_AST_minister_Vasily_Kandinsky"
+		texturefile = "gfx/interface/ideas/ministers/AST/AST_minister_Vasily_Kandinsky.png"
+	}
+	spriteType = {
+		name = "GFX_idea_AST_minister_Vladimir_Mayakovsky"
+		texturefile = "gfx/interface/ideas/ministers/AST/AST_minister_Vladimir_Mayakovsky.png"
+	}
 }

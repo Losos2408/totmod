@@ -249,4 +249,8 @@ defined_text = {
 		trigger = { has_country_leader_ideology = left_wing_futurism }
 		localization_key = "left_wing_futurism"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = zaum_futurism }
+		localization_key = "zaum_futurism"
+	}
 }

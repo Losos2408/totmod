@@ -1,8 +1,16 @@
 ﻿l_english:
  AST_Velimir_Khlebnikov: "Velimir Khlebnikov"
  AST_Vladimir_Mayakovsky: "Vladimir Mayakovsky"
+ AST_Mikhail_Kuzmin: "Mikhail Kuzmin"
+ AST_Vasily_Kandinsky: "Vasily Kandinsky"
+ AST_Osip_Mandelshtam: "Osip Mandelshtam"
+
+ AST_Vladimir_Mayakovsky_hog_desc: "§YCo-President of 317 Earth\nZaum Futurism§!\n--------------\n§L§!"
+ AST_Mikhail_Kuzmin_for_desc: "§YCo-President of 317 Earth\nZaum Futurism§!\n--------------\n§L§!"
+ AST_Vasily_Kandinsky_eco_desc: "§YCo-President of 317 Earth\nZaum Futurism§!\n--------------\n§L§!"
+ AST_Osip_Mandelshtam_sec_desc: "§YCo-President of 317 Earth\nZaum Futurism§!\n--------------\n§L§!"
  
- AST_communism_party: "317 PP - Realisty"
- AST_communism_party_long: "317 Prostranstvennoe Pravitelstvo - Realisty"
- AST_goyda_party: "317 PP - Idealisty"
- AST_goyda_party_long: "317 Prostranstvennoe Pravitelstvo - Idealisty"
+ AST_communism_party: "317PP - Realisty"
+ AST_communism_party_long: "317-Prostranstvennoe Pravitelstvo - Realisty"
+ AST_goyda_party: "317PP - Idealisty"
+ AST_goyda_party_long: "317-Prostranstvennoe Pravitelstvo - Idealisty"
