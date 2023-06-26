@@ -152,6 +152,14 @@ spriteTypes = {
 			name = "GFX_ideology_stalinism"
 			texturefile = "gfx/interface/ideologies/stalinism.png"
 	    }
+		spriteType = {
+			name = "GFX_ideology_zaum_futurism"
+			texturefile = "gfx/interface/ideologies/zaum_futurism.png"
+	    }
+		spriteType = {
+			name = "GFX_ideology_left_wing_futurism"
+			texturefile = "gfx/interface/ideologies/left_wing_futurism.png"
+	    }
 	}
 
 

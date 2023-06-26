@@ -1,0 +1,14 @@
+characters = {
+    NHR_Damir_Martinovic = {
+        name = NHR_Damir_Martinovic
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/NHR/Portrait_NHR_Damir_Martinovic.png"
+            }
+        }
+        country_leader = {
+            ideology = liberalism_default
+            traits = { }
+        }
+	}
+}

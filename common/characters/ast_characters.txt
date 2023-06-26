@@ -9,7 +9,7 @@ characters = {
         country_leader = {
             ideology = zaum_futurism
             traits = { }
-            desc = x
+            desc = POLITICS_VELIMIR_KHLEBNIKOV_DESC
         }
 	}
     AST_Vladimir_Mayakovsky = {
@@ -82,7 +82,7 @@ characters = {
         name = AST_Osip_Mandelshtam
         portraits = {
             civilian = {
-                small = "GFX_idea_AST_minister_Osip_Mandelstam"
+                small = "GFX_idea_AST_minister_Osip_Mandelshtam"
             }
         }
         advisor = {
