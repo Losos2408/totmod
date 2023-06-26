@@ -8,7 +8,7 @@ characters = {
         }
         country_leader = {
             ideology = zaum_futurism
-            traits = { }
+            traits = { king_of_time }
             desc = POLITICS_VELIMIR_KHLEBNIKOV_DESC
         }
 	}
@@ -31,6 +31,7 @@ characters = {
 			allowed = { original_tag = AST }
 			traits = {
 				head_of_government
+                a_cloud_in_pants
 			}
 			ledger = civilian
 			cost = -1
@@ -51,6 +52,7 @@ characters = {
 			allowed = { original_tag = AST }
 			traits = {
 				foreign_minister
+                trout_breaks_the_ice
 			}
 			ledger = civilian
 			cost = -1
@@ -71,6 +73,7 @@ characters = {
 			allowed = { original_tag = AST }
 			traits = {
 				economy_minister
+                red_with_a_trajectory
 			}
 			ledger = civilian
 			cost = -1

@@ -21,4 +21,20 @@ leader_traits = {
 		training_time_factor = -0.05
 		army_org_regain = 0.05
 	}
+
+	a_cloud_in_pants = {
+		random = no
+		stability_factor = 0.1
+	}
+
+	trout_breaks_the_ice = {
+		random = no
+		opinion_gain_monthly = 2
+	}
+
+	red_with_a_trajectory = {
+		random = no
+		stability_factor = -0.05
+		political_power_gain = 0.5
+	}
 }

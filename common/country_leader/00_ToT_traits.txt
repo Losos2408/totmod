@@ -19,5 +19,14 @@ leader_traits = {
 			factor = 1
 		}
 	}
+
+	king_of_time = {
+		random = no
+		political_power_gain = 0.2
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
 	
 }
