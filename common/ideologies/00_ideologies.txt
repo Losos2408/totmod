@@ -153,6 +153,7 @@ ideologies = {
 			slavo_aryanism = { can_be_randomly_selected = no }
 			indoctrination_dictatorship = { can_be_randomly_selected = no }
 			clerical_fascism = { can_be_randomly_selected = no }
+			millenarianism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 13 13 13 }

@@ -253,4 +253,8 @@ defined_text = {
 		trigger = { has_country_leader_ideology = zaum_futurism }
 		localization_key = "zaum_futurism"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = millenarianism }
+		localization_key = "millenarianism"
+	}
 }

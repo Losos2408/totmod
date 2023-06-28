@@ -1,0 +1,19 @@
+capital = 210
+
+# Vacant
+recruit_character = NHR_Generic_Vacant
+
+recruit_character = NHR_Damir_Martinovic
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
+set_politics = {
+	ruling_party = liberalism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	liberalism = 100
+}

@@ -1,0 +1,15 @@
+characters = {
+    DSV_Alexander_Belov = {
+        name = DSV_Alexander_Belov
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/DSV/Portrait_DSV_Alexander_Belov.png"
+            }
+        }
+        country_leader = {
+            ideology = millenarianism
+            traits = { }
+            desc = x
+        }
+	}
+}

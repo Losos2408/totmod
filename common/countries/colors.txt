@@ -444,3 +444,11 @@ AST = {
 	color = rgb { 14 61 132 }
 	color_ui = rgb { 14 61 132 }
 }
+DSV = {
+	color = rgb { 76 116 60 }
+	color_ui = rgb { 76 116 60 }
+}
+NHR = {
+	color = rgb { 55 44 150 }
+	color_ui = rgb { 55 44 150 }
+}
