@@ -168,6 +168,10 @@ spriteTypes = {
 			name = "GFX_ideology_liberalism_default"
 			texturefile = "gfx/interface/ideologies/liberalism.png"
 	    }
+		spriteType = {
+			name = "GFX_ideology_gachism"
+			texturefile = "gfx/interface/ideologies/gachism.png"
+	    }
 	}
 
 
