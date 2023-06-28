@@ -160,6 +160,14 @@ spriteTypes = {
 			name = "GFX_ideology_left_wing_futurism"
 			texturefile = "gfx/interface/ideologies/left_wing_futurism.png"
 	    }
+		spriteType = {
+			name = "GFX_ideology_communism_default"
+			texturefile = "gfx/interface/ideologies/communism.png"
+	    }
+		spriteType = {
+			name = "GFX_ideology_liberalism_default"
+			texturefile = "gfx/interface/ideologies/liberalism.png"
+	    }
 	}
 
 
