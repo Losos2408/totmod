@@ -327,7 +327,7 @@ characters = {
 		name = ROI_Skadi
 		portraits = {
 			civilian = {
-				#large = "gfx/leaders/ROI/.png"
+				large = "gfx/leaders/ROI/Portrait_ROI_Skadi.png"
 			}
 		}
 		corps_commander = {
@@ -362,21 +362,6 @@ characters = {
 		}
 		corps_commander = {
 			skill = 4
-			attack_skill = 5
-			defense_skill = 5
-			planning_skill = 5
-			logistics_skill = 5
-		}
-	}
-	ROI_Aak = {
-		name = ROI_Aak
-		portraits = {
-			civilian = {
-				#large = "gfx/leaders/ROI/.png"
-			}
-		}
-		corps_commander = {
-			skill = 2
 			attack_skill = 5
 			defense_skill = 5
 			planning_skill = 5
@@ -482,21 +467,6 @@ characters = {
 		}
 		corps_commander = {
 			skill = 5
-			attack_skill = 5
-			defense_skill = 5
-			planning_skill = 5
-			logistics_skill = 5
-		}
-	}
-	ROI_Mountain = {
-		name = ROI_Mountain
-		portraits = {
-			civilian = {
-				#large = "gfx/leaders/ROI/.png"
-			}
-		}
-		corps_commander = {
-			skill = 4
 			attack_skill = 5
 			defense_skill = 5
 			planning_skill = 5
