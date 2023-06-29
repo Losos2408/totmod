@@ -127,6 +127,7 @@ ideologies = {
 			red_spartanism = { can_be_randomly_selected = no }
 			stalinism = { can_be_randomly_selected = no }
 			left_wing_futurism = { can_be_randomly_selected = no }
+			marxism = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 120 13 26 }

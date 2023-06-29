@@ -257,4 +257,8 @@ defined_text = {
 		trigger = { has_country_leader_ideology = millenarianism }
 		localization_key = "millenarianism"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = marxism }
+		localization_key = "marxism"
+	}
 }
