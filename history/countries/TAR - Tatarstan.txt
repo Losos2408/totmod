@@ -1,0 +1,20 @@
+capital = 212
+
+# Vacant
+recruit_character = TAR_Generic_Vacant
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
+recruit_character = TAR_Rustam_Minnikhanov
+
+
+set_politics = {
+	ruling_party = controlled_democracy
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	controlled_democracy = 100
+}

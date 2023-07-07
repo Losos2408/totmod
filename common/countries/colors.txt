@@ -452,3 +452,11 @@ NHR = {
 	color = rgb { 55 44 150 }
 	color_ui = rgb { 55 44 150 }
 }
+TAR = {
+	color = rgb { 67 127 33 }
+	color_ui = rgb { 67 127 33 }
+}
+TTN = {
+	color = rgb { 39 73 19 }
+	color_ui = rgb { 39 73 19 }
+}

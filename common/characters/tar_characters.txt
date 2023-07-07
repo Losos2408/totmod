@@ -1,0 +1,15 @@
+characters = {
+    TAR_Rustam_Minnikhanov = {
+        name = TAR_Rustam_Minnikhanov
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/TAR/.png"
+            }
+        }
+        country_leader = {
+            ideology = controlled_democracy_default
+            traits = { }
+            desc = x
+        }
+	}
+}

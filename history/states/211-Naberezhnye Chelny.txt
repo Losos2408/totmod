@@ -1,0 +1,15 @@
+state={
+	id=211
+	name="STATE_211"
+	history = {
+		owner = TTN
+		add_core_of = TTN
+	}
+	provinces={
+		99 870 1318 1786 2372 2408 3710 4370 5256 5588 5872 6389 8150 8203 8221
+	}
+	manpower = 2000000
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

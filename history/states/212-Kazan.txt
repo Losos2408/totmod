@@ -1,0 +1,15 @@
+state={
+	id=212
+	name="STATE_212"
+	history = {
+		owner = TAR
+		add_core_of = TAR
+	}
+	provinces={
+		1499 2166 3005 3801 4353 5375 6546 6712 8066 8111 8126
+	}
+	manpower = 2001625
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

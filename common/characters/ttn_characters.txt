@@ -1,0 +1,15 @@
+characters = {
+    TTN_Rafis_Kashapov = {
+        name = TTN_Rafis_Kashapov
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/TAR/.png"
+            }
+        }
+        country_leader = {
+            ideology = national_liberalism
+            traits = { }
+            desc = x
+        }
+	}
+}
