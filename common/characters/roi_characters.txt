@@ -368,6 +368,21 @@ characters = {
 			logistics_skill = 5
 		}
 	}
+	ROI_Aak = {
+		name = ROI_Aak
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ROI/Portrait_ROI_Aak.png"
+			}
+		}
+		corps_commander = {
+			skill = 2
+			attack_skill = 5
+			defense_skill = 5
+			planning_skill = 5
+			logistics_skill = 5
+		}
+	}
 	ROI_Nian = {
 		name = ROI_Nian
 		portraits = {
