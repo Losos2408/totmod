@@ -397,3 +397,31 @@
  TTN:0 "Free Republic of Tatarstan"
  TTN_DEF:0 "the Free Republic of Tatarstan"
  TTN_ADJ:0 "Nationalist Tatar"
+
+ CRB:0 "Crimean Bridge Zone"
+ CRB_DEF:0 "the Crimean Bridge Zone"
+ CRB_ADJ:0 "Crimean Bridge Zone's"
+
+ NOK:0 "49 OA"
+ NOK_DEF:0 "the 49th Combined Arms Army"
+ NOK_ADJ:0 "Russian Crimea"
+
+ ATS:0 "Atesh"
+ ATS_DEF:0 "the Atesh"
+ ATS_ADJ:0 "Atesh"
+
+ BSF:0 "Black Sea Fleet"
+ BSF_DEF:0 "the Black Sea Fleet"
+ BSF_ADJ:0 "Black Sea Fleet's"
+
+ KRM:0 "Republic of Crimea"
+ KRM_DEF:0 "the Republic of Crimea"
+ KRM_ADJ:0 "Russian Crimean"
+
+ SDK:0 "22 AK"
+ SDK_DEF:0 "the 22nd Army Corps"
+ SDK_ADJ:0 "Russian Crimean"
+
+ FDS:0 "205 OMSBR"
+ FDS_DEF:0 "the 205th Separate Cossack Motor Rifle Brigade"
+ FDS_ADJ:0 "Russian Crimean"

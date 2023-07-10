@@ -460,3 +460,31 @@ TTN = {
 	color = rgb { 39 73 19 }
 	color_ui = rgb { 39 73 19 }
 }
+CRB = {
+	color = rgb { 41 75 160 }
+	color_ui = rgb { 41 75 160 }
+}
+NOK = {
+	color = rgb { 23 66 140 }
+	color_ui = rgb { 23 66 140 }
+}
+ATS = {
+	color = rgb { 168 146 25 }
+	color_ui = rgb { 168 146 25 }
+}
+BSF = {
+	color = rgb { 10 10 10 }
+	color_ui = rgb { 10 10 10 }
+}
+KRM = {
+	color = rgb { 54 112 176 }
+	color_ui = rgb { 39 73 19 }
+}
+SDK = {
+	color = rgb { 36 74 140 }
+	color_ui = rgb { 36 74 140 }
+}
+FDS = {
+	color = rgb { 26 68 140 }
+	color_ui = rgb { 26 68 140 }
+}

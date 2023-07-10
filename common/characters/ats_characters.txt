@@ -1,0 +1,15 @@
+characters = {
+    ATS_Kuzma_Skriabin = {
+        name = ATS_Kuzma_Skriabin
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/ATS/.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

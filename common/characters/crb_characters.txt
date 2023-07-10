@@ -1,0 +1,15 @@
+characters = {
+    CRB_Sergey_Aksyonov = {
+        name = CRB_Sergey_Aksyonov
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/CRB/.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

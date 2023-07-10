@@ -1,0 +1,15 @@
+characters = {
+    NOK_Yakov_Rezantsev = {
+        name = NOK_Yakov_Rezantsev
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/NOK/.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

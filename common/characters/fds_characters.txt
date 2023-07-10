@@ -1,0 +1,15 @@
+characters = {
+    FDS_Eduard_Shandura = {
+        name = FDS_Eduard_Shandura
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/KRM/.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

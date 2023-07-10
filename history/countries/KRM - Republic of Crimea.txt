@@ -1,0 +1,19 @@
+capital = 132
+
+# Vacant
+recruit_character = KRM_Generic_Vacant
+
+recruit_character = KRM_Dmitry_Medvedev
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
+set_politics = {
+	ruling_party = militarism
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	militarism = 100
+}

@@ -1,0 +1,15 @@
+characters = {
+    KRM_Dmitry_Medvedev = {
+        name = KRM_Dmitry_Medvedev
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/KRM/Portrait_KRM_Dmitry_Medvedev.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

@@ -1,0 +1,15 @@
+characters = {
+    BFS_Viktor_Sokolov = {
+        name = BFS_Viktor_Sokolov
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/BSF/.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

@@ -1,0 +1,15 @@
+characters = {
+    SDK_Arkady_Marzoev = {
+        name = SDK_Arkady_Marzoev
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/KRM/.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

@@ -6,9 +6,9 @@ state={
 	history={
 		buildings = {
 			infrastructure = 2
-
 		}
-
+		owner = FDS
+		add_core_of = FDS
 	}
 
 	provinces={
