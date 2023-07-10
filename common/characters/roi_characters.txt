@@ -147,7 +147,7 @@ characters = {
 		name = ROI_Ling
 		portraits = {
 			civilian = {
-				#large = "gfx/leaders/ROI/.png"
+				large = "gfx/leaders/ROI/Portrait_ROI_Ling.png"
 			}
 		}
 		field_marshal = {
@@ -162,7 +162,7 @@ characters = {
 		name = ROI_Gladiia
 		portraits = {
 			civilian = {
-				#large = "gfx/leaders/ROI/.png"
+				large = "gfx/leaders/ROI/Portrait_ROI_Gladiia.png"
 			}
 		}
 		field_marshal = {
@@ -477,7 +477,7 @@ characters = {
 		name = ROI_Rosmontis
 		portraits = {
 			civilian = {
-				#large = "gfx/leaders/ROI/.png"
+				large = "gfx/leaders/ROI/Portrait_ROI_Rosmontis.png"
 			}
 		}
 		corps_commander = {
