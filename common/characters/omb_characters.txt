@@ -3,7 +3,7 @@ characters = {
         name = OMB_Pavlo_Palisa
         portraits = {
             civilian = {
-                #large = "gfx/leaders/SVV/.png"
+                large = "gfx/leaders/OMB/Portrait_OMB_Pavlo_Palisa.png"
             }
         }
         country_leader = {
