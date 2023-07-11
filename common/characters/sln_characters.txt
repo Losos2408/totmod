@@ -1,0 +1,15 @@
+characters = {
+    SLN_Solntseslav_Ognenniy = {
+        name = SLN_Solntseslav_Ognenniy
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/SLN/.png"
+            }
+        }
+        country_leader = {
+            ideology = slavo_aryanism
+            traits = { }
+            desc = x
+        }
+	}
+}

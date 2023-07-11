@@ -488,3 +488,7 @@ FDS = {
 	color = rgb { 26 68 140 }
 	color_ui = rgb { 26 68 140 }
 }
+SLN = {
+	color = rgb { 152 153 41 }
+	color_ui = rgb { 152 153 41 }
+}
