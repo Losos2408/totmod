@@ -1,15 +1,15 @@
 characters = {
-    SUM_Taras_Savchenko = {
-        name = SUM_Taras_Savchenko
+    SUM_Chaos = {
+        name = SUM_Chaos
         portraits = {
             civilian = {
-                large = "gfx/leaders/SUM/Portrait_SUM_Taras_Savchenko.png"
+                large = "gfx/leaders/Anarchy.png"
             }
         }
         country_leader = {
-            ideology = controlled_democracy_default
+            ideology = deep_anarchy
             traits = { }
-            desc = x
+            desc = POLITICS_SUMY_CHAOS_DESC
         }
 	}
 }
