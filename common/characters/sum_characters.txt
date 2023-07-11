@@ -3,7 +3,7 @@ characters = {
         name = SUM_Chaos
         portraits = {
             civilian = {
-                large = "gfx/leaders/Portrait_Anarchy.png"
+                large = "gfx/leaders/SUM/Portrait_SUM_Chaos.png"
             }
         }
         country_leader = {
