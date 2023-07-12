@@ -5,8 +5,6 @@ recruit_character = DPS_Generic_Vacant
 
 recruit_character = DPS_Valeriy_Vavryniuk
 
-recruit_character = DPS_Alexander_Tikhonov
-
 fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
 
 set_politics = {

@@ -1,9 +1,9 @@
 characters = {
-    ATB_Alexander_Tikhonov = {
-        name = ATB_Alexander_Tikhonov
+    ATB_Andranik_Gasparyan = {
+        name = ATB_Andranik_Gasparyan
         portraits = {
             civilian = {
-                #large = "gfx/leaders/SVV/.png"
+                large = "gfx/leaders/ATB/Portrait_ATB_Andranik_Gasparyan.png"
             }
         }
         country_leader = {
