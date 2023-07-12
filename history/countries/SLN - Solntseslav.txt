@@ -1,7 +1,7 @@
 capital = 91
 
 # Vacant
-recruit_character = SLN_Solntseslav_Ognenniy
+recruit_character = SLN_Solntseslav_Ognennyy
 
 fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
 

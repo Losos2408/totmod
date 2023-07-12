@@ -1,6 +1,6 @@
 characters = {
-    SLN_Solntseslav_Ognenniy = {
-        name = SLN_Solntseslav_Ognenniy
+    SLN_Solntseslav_Ognennyy = {
+        name = SLN_Solntseslav_Ognennyy
         portraits = {
             civilian = {
                 #large = "gfx/leaders/SLN/.png"

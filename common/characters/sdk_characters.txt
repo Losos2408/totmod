@@ -3,7 +3,7 @@ characters = {
         name = SDK_Arkady_Marzoev
         portraits = {
             civilian = {
-                #large = "gfx/leaders/KRM/.png"
+                large = "gfx/leaders/SDK/Portrait_SDK_Arkady_Marzoev.png"
             }
         }
         country_leader = {
