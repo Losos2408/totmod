@@ -261,4 +261,8 @@ defined_text = {
 		trigger = { has_country_leader_ideology = marxism }
 		localization_key = "marxism"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = juche }
+		localization_key = "juche"
+	}
 }

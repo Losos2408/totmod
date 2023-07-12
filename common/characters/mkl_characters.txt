@@ -7,7 +7,7 @@ characters = {
             }
         }
         country_leader = {
-            ideology = controlled_democracy_default
+            ideology = juche
             traits = { }
             desc = x
         }

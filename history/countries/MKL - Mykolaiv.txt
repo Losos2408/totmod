@@ -8,7 +8,7 @@ fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
 recruit_character = MKL_Vitaliy_Kim
 
 set_politics = {
-	ruling_party = controlled_democracy
+	ruling_party = radicalism
 	last_election = "2022.30.9"
 	election_frequency = 48
 	elections_allowed = no
@@ -16,8 +16,10 @@ set_politics = {
 
 add_ideas = {
 	OFA_Organisation_of_Fastiv_Agreements
+	MKL_north_korean_model
+	MKL_juche_without_communism_or_nationalism
 }
 
 set_popularities = {
-	controlled_democracy = 100
+	radicalism = 100
 }

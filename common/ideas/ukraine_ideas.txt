@@ -209,5 +209,29 @@ ideas = {
 				
 			}		
 		}
+
+		MKL_north_korean_model = {
+
+			picture = x
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				
+			}		
+		}
+
+		MKL_juche_without_communism_or_nationalism = {
+
+			picture = x
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				
+			}		
+		}
 	}
 }
