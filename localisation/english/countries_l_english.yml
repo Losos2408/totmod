@@ -423,5 +423,9 @@
  SDK_ADJ:0 "Russian Crimean"
 
  FDS:0 "205 OMSBR"
- FDS_DEF:0 "the 205th Separate Cossack Motor Rifle Brigade"
+ FDS_DEF:0 "the 205th Separate Motor Rifle Brigade"
  FDS_ADJ:0 "Russian Crimean"
+
+ SLN:0 "Aryan State"
+ SLN_DEF:0 "the Aryan State"
+ SLN_ADJ:0 "Aryan Odesa"
