@@ -1,4 +1,4 @@
-capital = 174
+capital = 207
 
 # Vacant
 recruit_character = TOM_Generic_Vacant

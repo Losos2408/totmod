@@ -1,4 +1,4 @@
-capital = 174
+capital = 208
 
 # Vacant
 recruit_character = AVN_Generic_Vacant
