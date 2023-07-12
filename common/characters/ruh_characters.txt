@@ -1,0 +1,15 @@
+characters = {
+    RUH_Sergey_Surovikin = {
+        name = RUH_Sergey_Surovikin
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/RUH/Portrait_RUH_Sergey_Surovikin.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}
