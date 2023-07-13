@@ -1,0 +1,15 @@
+characters = {
+    JOJ_Kujo_Jotaro = {
+        name = JOJ_Kujo_Jotaro
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/JOJ/.png"
+            }
+        }
+        country_leader = {
+            ideology = provisional_government
+            traits = { }
+            desc = x
+        }
+	}
+}

@@ -437,3 +437,7 @@
  EVA:0 "NERV"
  EVA_DEF:0 "the NERV Research & Development Zone"
  EVA_ADJ:0 "NERV's"
+
+ JOJ:0 "Chernihiv Detachment"
+ JOJ_DEF:0 "the Speedwagon Foundation Chernihiv Detachment"
+ JOJ_ADJ:0 "Speedwagon Foundation's"

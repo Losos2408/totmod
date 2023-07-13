@@ -500,3 +500,7 @@ EVA = {
 	color = rgb { 150 1 18 }
 	color_ui = rgb { 150 1 18 }
 }
+JOJ = {
+	color = rgb { 144 102 54 }
+	color_ui = rgb { 144 102 54 }
+}
