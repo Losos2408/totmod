@@ -3,7 +3,7 @@ characters = {
         name = EVA_Ikari_Gendo
         portraits = {
             civilian = {
-                #large = "gfx/leaders/EVA/.png"
+                large = "gfx/leaders/EVA/Portrait_EVA_Ikari_Gendo.png"
             }
         }
         country_leader = {
