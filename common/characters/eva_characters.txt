@@ -1,0 +1,15 @@
+characters = {
+    EVA_Ikari_Gendo = {
+        name = EVA_Ikari_Gendo
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/EVA/.png"
+            }
+        }
+        country_leader = {
+            ideology = militarism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

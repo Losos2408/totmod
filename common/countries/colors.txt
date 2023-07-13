@@ -496,3 +496,7 @@ EKB = {
 	color = rgb { 70 69 128 }
 	color_ui = rgb { 70 69 128 }
 }
+EVA = {
+	color = rgb { 150 1 18 }
+	color_ui = rgb { 150 1 18 }
+}

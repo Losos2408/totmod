@@ -433,3 +433,7 @@
  EKB:0 "Ekaterinburg"
  EKB_DEF:0 "the Ekaterinburg Provisional Government"
  EKB_ADJ:0 "Ekaterinburg's"
+
+ EKB:0 "NERV"
+ EKB_DEF:0 "the NERV Research & Development Zone"
+ EKB_ADJ:0 "NERV's"
