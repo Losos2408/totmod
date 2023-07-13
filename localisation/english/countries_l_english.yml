@@ -434,6 +434,6 @@
  EKB_DEF:0 "the Ekaterinburg Provisional Government"
  EKB_ADJ:0 "Ekaterinburg's"
 
- EKB:0 "NERV"
- EKB_DEF:0 "the NERV Research & Development Zone"
- EKB_ADJ:0 "NERV's"
+ EVA:0 "NERV"
+ EVA_DEF:0 "the NERV Research & Development Zone"
+ EVA_ADJ:0 "NERV's"
