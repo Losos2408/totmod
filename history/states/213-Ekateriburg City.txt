@@ -1,0 +1,19 @@
+
+state={
+	id=213
+	name="STATE_213"
+
+	history={
+		owner = EKB
+		add_core_of = EKB
+
+	}
+
+	provinces={
+		4873 5209 6454 
+	}
+	manpower=2001625
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -12,6 +12,7 @@ ideologies = {
 			paternalist_zionism = { can_be_randomly_selected = no }
 			principatus = { can_be_randomly_selected = no }
 			technocratic_corporatism = { can_be_randomly_selected = no }
+			transitioning_government = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 100 100 100 }

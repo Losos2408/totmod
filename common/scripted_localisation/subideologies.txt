@@ -265,4 +265,8 @@ defined_text = {
 		trigger = { has_country_leader_ideology = juche }
 		localization_key = "juche"
 	}
+	text = {
+		trigger = { has_country_leader_ideology = transitioning_government }
+		localization_key = "transitioning_government"
+	}
 }

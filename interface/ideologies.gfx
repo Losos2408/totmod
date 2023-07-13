@@ -188,6 +188,10 @@ spriteTypes = {
 			name = "GFX_ideology_stratocratic_communism"
 			texturefile = "gfx/interface/ideologies/stratocratic_communism.png"
 	    }
+		spriteType = {
+			name = "GFX_ideology_transitioning_government"
+			texturefile = "gfx/interface/ideologies/transitioning_government.png"
+	    }
 	}
 
 

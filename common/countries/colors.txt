@@ -492,3 +492,7 @@ SLN = {
 	color = rgb { 152 153 41 }
 	color_ui = rgb { 152 153 41 }
 }
+EKB = {
+	color = rgb { 70 69 128 }
+	color_ui = rgb { 70 69 128 }
+}

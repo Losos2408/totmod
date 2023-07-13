@@ -1,0 +1,21 @@
+capital = 213
+
+# Vacant
+recruit_character = EKB_Generic_Vacant
+
+recruit_character = EKB_Leonid_Ivashov
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
+set_politics = {
+	ruling_party = controlled_democracy
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	controlled_democracy = 53
+	militarism = 20
+	conservatism = 27
+}

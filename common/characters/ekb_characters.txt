@@ -1,0 +1,15 @@
+characters = {
+    EKB_Leonid_Ivashov = {
+        name = EKB_Leonid_Ivashov
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/EKB/Portrait_EKB_Leonid_Ivashov.png"
+            }
+        }
+        country_leader = {
+            ideology = transitioning_government
+            traits = { }
+            desc = x
+        }
+	}
+}
