@@ -552,7 +552,7 @@ characters = {
 		name = ROI_Vigil
 		portraits = {
 			civilian = {
-				#large = "gfx/leaders/ROI/.png"
+				large = "gfx/leaders/ROI/Portrait_ROI_Vigil.png"
 			}
 		}
 		corps_commander = {
