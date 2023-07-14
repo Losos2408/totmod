@@ -15,7 +15,6 @@ set_politics = {
 }
 
 add_ideas = {
-	OFA_Organisation_of_Fastiv_Agreements
 	MKL_north_korean_model
 	MKL_juche_without_communism_or_nationalism
 }
