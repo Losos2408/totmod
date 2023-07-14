@@ -1,0 +1,23 @@
+capital = 219
+
+# Vacant
+recruit_character = OMS_Generic_Vacant
+
+recruit_character = OMS_Egor_Letov
+recruit_character = OMS_Denis_Chernukhin
+
+fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
+
+set_politics = {
+	ruling_party = controlled_democracy
+	last_election = "2022.30.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	controlled_democracy = 30
+	liberalism = 30
+	socialism = 30
+	goyda = 10
+}

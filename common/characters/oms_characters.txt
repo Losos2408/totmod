@@ -1,0 +1,28 @@
+characters = {
+    OMS_Egor_Letov = {
+        name = OMS_Egor_Letov
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/OMS/Portrait_OMS_Egor_Letov.png"
+            }
+        }
+        country_leader = {
+            ideology = controlled_democracy_default
+            traits = { }
+            desc = x
+        }
+	}
+    OMS_Denis_Chernukhin = {
+        name = OMS_Denis_Chernukhin
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/OMS/Portrait_OMS_Denis_Chernukhin.png"
+            }
+        }
+        country_leader = {
+            ideology = goyda_default
+            traits = { }
+            desc = x
+        }
+	}
+}

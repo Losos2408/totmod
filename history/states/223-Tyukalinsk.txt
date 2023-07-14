@@ -1,0 +1,19 @@
+
+state={
+	id=223
+	name="STATE_223"
+
+	history={
+		owner = OMS
+		add_core_of = OMS
+
+	}
+
+	provinces={
+		3 602 4801 5605 8347 
+	}
+	manpower=2001625
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}
