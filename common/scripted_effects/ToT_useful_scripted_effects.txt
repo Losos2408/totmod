@@ -71,3 +71,128 @@ fill_empty_minister_nochecks = {
 		currenttag = "[THIS.GetTag]"
 	}
 }
+
+TOT_unify_west_ukraine = {
+	annex_country = {
+		target = KYV
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = CNB
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = ZTM
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = RVN
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = VLN
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = RAS
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = KAS
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = COU
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = ZKP
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = UIA
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = TRT
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = KML
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = VNT
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = UMN
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = CKS
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = NSR
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = SUM
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = JOJ
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = CNH
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = OLK
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = KRV
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = MKL
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = YAS
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = SLN
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = ODS
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = RIM
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = EVA
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = SSA
+		transfer_troops = yes
+	}
+	annex_country = {
+		target = KKV
+		transfer_troops = yes
+	}
+	meta_effect = {
+		text = {
+			set_cosmetic_tag = [TAG]_unification
+		}
+		TAG = "[ROOT.GetTag]"
+	}
+}
