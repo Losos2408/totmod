@@ -101,6 +101,10 @@ spriteTypes = {
 			texturefile = "gfx/interface/ideologies/piracy.png"
 	    }
 		spriteType = {
+			name = "GFX_ideology_paternalistic_zionism"
+			texturefile = "gfx/interface/ideologies/paternalistic_zionism.png"
+	    }
+		spriteType = {
 			name = "GFX_ideology_depressive_liberalism"
 			texturefile = "gfx/interface/ideologies/depressive_liberalism.png"
 	    }
