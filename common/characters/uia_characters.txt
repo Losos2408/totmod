@@ -9,7 +9,7 @@ characters = {
         country_leader = {
             ideology = radical_nationalism
             traits = { }
-            desc = x
+            desc = POLITICS_ANDRIY_BILETSKYY_DESC
         }
 	}
 }
