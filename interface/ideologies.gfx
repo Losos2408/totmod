@@ -196,6 +196,10 @@ spriteTypes = {
 			name = "GFX_ideology_transitioning_government"
 			texturefile = "gfx/interface/ideologies/transitioning_government.png"
 	    }
+		spriteType = {
+			name = "GFX_ideology_militarism_default"
+			texturefile = "gfx/interface/ideologies/militarism.png"
+	    }
 	}
 
 
