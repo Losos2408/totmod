@@ -6,7 +6,7 @@ state={
 		add_core_of = UNK
 	}
 	provinces={
-		10996
+		9364
 	}
 	manpower = 20
 	state_category = rural
