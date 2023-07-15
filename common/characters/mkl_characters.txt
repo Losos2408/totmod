@@ -9,7 +9,7 @@ characters = {
         country_leader = {
             ideology = juche
             traits = { }
-            desc = x
+            desc = POLITICS_VITALIY_KIM_DESC
         }
 	}
 }
