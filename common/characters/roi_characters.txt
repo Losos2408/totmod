@@ -267,7 +267,7 @@ characters = {
 		name = ROI_Siege
 		portraits = {
 			civilian = {
-				#large = "gfx/leaders/ROI/.png"
+				large = "gfx/leaders/ROI/Portrait_ROI_Siege.png"
 			}
 		}
 		field_marshal = {
@@ -702,7 +702,7 @@ characters = {
 		name = ROI_Specter
 		portraits = {
 			civilian = {
-				#large = "gfx/leaders/ROI/.png"
+				large = "gfx/leaders/ROI/Portrait_ROI_Specter.png"
 			}
 		}
 		corps_commander = {
