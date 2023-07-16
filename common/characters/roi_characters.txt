@@ -417,7 +417,7 @@ characters = {
 		name = ROI_Thorns
 		portraits = {
 			civilian = {
-				#large = "gfx/leaders/ROI/.png"
+				large = "gfx/leaders/ROI/Portrait_ROI_Thorns.png"
 			}
 		}
 		corps_commander = {
@@ -432,7 +432,7 @@ characters = {
 		name = ROI_Eunectes
 		portraits = {
 			civilian = {
-				#large = "gfx/leaders/ROI/.png"
+				large = "gfx/leaders/ROI/Portrait_ROI_Eunectes.png"
 			}
 		}
 		corps_commander = {
@@ -582,7 +582,7 @@ characters = {
 		name = ROI_Ines
 		portraits = {
 			civilian = {
-				#large = "gfx/leaders/ROI/.png"
+				large = "gfx/leaders/ROI/Portrait_ROI_Ines.png"
 			}
 		}
 		corps_commander = {
