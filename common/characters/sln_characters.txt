@@ -9,7 +9,7 @@ characters = {
         country_leader = {
             ideology = slavo_aryanism
             traits = { }
-            desc = x
+            desc = POLITICS_SOLNTSESLAV_OGNENNYY_DESC
         }
 	}
 }
