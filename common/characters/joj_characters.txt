@@ -9,7 +9,7 @@ characters = {
         country_leader = {
             ideology = provisional_government
             traits = { }
-            desc = x
+            desc = POLITICS_KUJO_JOTARO_DESC
         }
 	}
 }

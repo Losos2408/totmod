@@ -9,7 +9,7 @@ characters = {
         country_leader = {
             ideology = left_wing_agrarianism
             traits = { }
-            desc = x
+            desc = POLITICS_OLEH_LIASHKO_DESC
         }
 	}
     CNH_Vladyslav_Atroshenko = {
