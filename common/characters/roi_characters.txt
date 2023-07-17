@@ -237,7 +237,7 @@ characters = {
 		name = ROI_Mudrock
 		portraits = {
 			civilian = {
-				#large = "gfx/leaders/ROI/.png"
+				large = "gfx/leaders/ROI/Portrait_ROI_Mudrock.png"
 			}
 		}
 		field_marshal = {
@@ -492,7 +492,7 @@ characters = {
 		name = ROI_Blemishine
 		portraits = {
 			civilian = {
-				#large = "gfx/leaders/ROI/.png"
+				large = "gfx/leaders/ROI/Portrait_ROI_Blemishine.png"
 			}
 		}
 		corps_commander = {
@@ -537,7 +537,7 @@ characters = {
 		name = ROI_Flametail
 		portraits = {
 			civilian = {
-				#large = "gfx/leaders/ROI/.png"
+				large = "gfx/leaders/ROI/Portrait_ROI_Flametail.png"
 			}
 		}
 		corps_commander = {
@@ -747,7 +747,7 @@ characters = {
 		name = ROI_Lappland
 		portraits = {
 			civilian = {
-				#large = "gfx/leaders/ROI/.png"
+				large = "gfx/leaders/ROI/Portrait_ROI_Lappland.png"
 			}
 		}
 		corps_commander = {
