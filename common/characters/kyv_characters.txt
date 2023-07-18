@@ -9,7 +9,7 @@ characters = {
         country_leader = {
             ideology = big_tent_party
             traits = {  }
-            desc = KYV_Volodymyr_Zelenskyy_desc
+            desc = POLITICS_VOLODYMYR_ZELENSKYY_DESC
         }
 	}
     KYV_Denys_Shmyhal = {
