@@ -16,7 +16,7 @@ characters = {
         name = CNB_Paul_LaCamera
         portraits = {
             civilian = {
-                #large = "gfx/leaders/CNB/Portrait_.png"
+                large = "gfx/leaders/CNB/Portrait_CNB_Paul_LaCamera.png"
             }
         }
         field_marshal = {
