@@ -1,0 +1,22 @@
+spriteTypes = {
+	progressbartype = {
+		name = "GFX_CNB_charlatan_bar"
+		textureFile1 = "gfx/interface/Chernobyl/charlatan/bar_filler.png"
+		textureFile2 = "gfx/interface/Chernobyl/charlatan/bar_empty.png"
+		size = { x = 185 y = 52 }
+		effectFile = "gfx/FX/progress.lua"
+		horizontal = yes
+	}
+	spriteType = {
+		name = "GFX_CNB_research_bar"
+		texturefile = "gfx/interface/Chernobyl/charlatan/research.png"
+	}
+	spriteType = {
+		name = "GFX_CNB_equipment_bar"
+		texturefile = "gfx/interface/Chernobyl/charlatan/equipment.png"
+	}
+	spriteType = {
+		name = "GFX_CNB_military_presence_bar"
+		texturefile = "gfx/interface/Chernobyl/charlatan/military_presence.png"
+	}
+}

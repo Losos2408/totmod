@@ -1,0 +1,8 @@
+CNB_charlatan_doctrine = {
+	allowed = {
+		original_tag = CNB
+	}
+	priority = 9999
+	visible_when_empty = yes
+	scripted_gui = CNB_charlatan_gui
+}

@@ -1,0 +1,58 @@
+guiTypes = {
+	containerWindowType = {
+		name = "ToT_CNB_charlatan_container"
+		position = { x=0 y=0 }
+		size = { width = 510 height = 730 }
+
+		containerWindowType = {
+			name = "ToT_CNB_research_bar_container"
+			position = { x=88 y=0 }
+
+			iconType = {
+				name = "research_bar_outline"
+				position = { x=0 y=0 }
+				orientation = UPPER_LEFT
+				spriteType = "GFX_CNB_research_bar"
+			}
+
+			iconType = {
+				name = "research_bar"
+				position = { x=75 y=53 }
+				orientation = UPPER_LEFT
+				spriteType = "GFX_CNB_charlatan_bar"
+			}
+
+			instantTextBoxType = {
+				name = "research_text"
+				position = { x=12 y=126 }
+				font = "hoi_16mbs"
+				text = "CNB_research_text"
+				maxWidth = 300
+			}
+		}
+
+		containerWindowType = {
+			name = "ToT_CNB_equipment_bar_container"
+			position = { x=88 y=250 }
+
+			iconType = {
+				name = "equipment_bar_outline"
+				position = { x=0 y=0 }
+				orientation = UPPER_LEFT
+				spriteType = "GFX_CNB_equipment_bar"
+			}
+		}
+
+		containerWindowType = {
+			name = "ToT_CNB_military_presence_bar_container"
+			position = { x=88 y=500 }
+
+			iconType = {
+				name = "military_presence_bar_outline"
+				position = { x=0 y=0 }
+				orientation = UPPER_LEFT
+				spriteType = "GFX_CNB_military_presence_bar"
+			}
+		}
+	}
+}

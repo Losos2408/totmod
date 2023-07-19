@@ -1,0 +1,11 @@
+scripted_gui = {
+	CNB_charlatan_gui = {
+		window_name = ToT_CNB_charlatan_container
+		context_type = decision_category
+		parent_window_token = decision_tab
+
+		visible = {
+			original_tag = CNB
+		}
+	}
+}
