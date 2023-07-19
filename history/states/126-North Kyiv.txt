@@ -7,18 +7,16 @@ state={
 		owner = CNB
 		add_core_of = CNB
 		victory_points = {
-			6441 
+			5976 1
 		}
-		buildings = {
-			infrastructure = 2
-
+		victory_points = {
+			6441 2
 		}
-
 	}
 	provinces={
 		5510 5976 6441 
 	}
-	manpower = 1348134 
+	manpower = 99027 
 	
 	state_category = town
 	buildings_max_level_factor=1.000
