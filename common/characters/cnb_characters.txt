@@ -48,7 +48,7 @@ characters = {
         name = CNB_Jochen_Deuer
         portraits = {
             civilian = {
-                #large = "gfx/leaders/CNB/Portrait_.png"
+                large = "gfx/leaders/CNB/Portrait_CNB_Jochen_Deuer.png"
             }
         }
         corps_commander = {
