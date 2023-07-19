@@ -4,6 +4,12 @@ capital = 126
 recruit_character = CNB_Generic_Vacant
 
 recruit_character = CNB_United_Nations_Operational_Authority
+recruit_character = CNB_Paul_LaCamera
+recruit_character = CNB_Donn_H_Hill
+recruit_character = CNB_Jochen_Deuer
+recruit_character = CNB_Joseph_E_A_Chestnut
+recruit_character = CNB_Nathan_M_Sempala_Ntege
+recruit_character = CNB_Kevin_Vanyo
 
 fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
 

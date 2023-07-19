@@ -12,4 +12,100 @@ characters = {
             desc = x
         }
 	}
+    CNB_Paul_LaCamera = {
+        name = CNB_Paul_LaCamera
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/CNB/Portrait_.png"
+            }
+        }
+        field_marshal = {
+            skill = 8
+            traits = { bureaucratic_obligations war_hero infantry_officer }
+            attack_skill = 8
+            defense_skill = 7
+            planning_skill = 9
+            logistics_skill = 7
+        }
+	}
+    CNB_Donn_H_Hill = {
+        name = CNB_Donn_H_Hill
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/CNB/Portrait_.png"
+            }
+        }
+        corps_commander = {
+            skill = 6
+            traits = { career_officer trait_cautious }
+            attack_skill = 6
+            defense_skill = 8
+            planning_skill = 7
+            logistics_skill = 8
+        }
+	}
+    CNB_Jochen_Deuer = {
+        name = CNB_Jochen_Deuer
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/CNB/Portrait_.png"
+            }
+        }
+        corps_commander = {
+            skill = 6
+            traits = { skilled_staffer }
+            attack_skill = 5
+            defense_skill = 6
+            planning_skill = 9
+            logistics_skill = 8
+        }
+	}
+    CNB_Joseph_E_A_Chestnut = {
+        name = CNB_Joseph_E_A_Chestnut
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/CNB/Portrait_.png"
+            }
+        }
+        corps_commander = {
+            skill = 5
+            traits = { skilled_staffer organizer logistics_wizard }
+            attack_skill = 4
+            defense_skill = 7
+            planning_skill = 8
+            logistics_skill = 9
+        }
+	}
+    CNB_Nathan_M_Sempala_Ntege = {
+        name = CNB_Nathan_M_Sempala_Ntege
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/CNB/Portrait_.png"
+            }
+        }
+        corps_commander = {
+            skill = 6
+            traits = { skilled_staffer }
+            attack_skill = 6
+            defense_skill = 4
+            planning_skill = 8
+            logistics_skill = 6
+        }
+	}
+    CNB_Kevin_Vanyo = {
+        name = CNB_Kevin_Vanyo
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/CNB/Portrait_.png"
+            }
+        }
+        corps_commander = {
+            skill = 6
+            traits = { armor_officer }
+            attack_skill = 5
+            defense_skill = 6
+            planning_skill = 7
+            logistics_skill = 5
+        }
+	}
 }
