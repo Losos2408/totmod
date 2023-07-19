@@ -7,5 +7,17 @@ scripted_gui = {
 		visible = {
 			original_tag = CNB
 		}
+
+		properties = {
+			research_bar = {
+				frame = CNB_charlatan_research_progress
+			}
+			equipment_bar = {
+				frame = CNB_charlatan_equipment_progress
+			}
+			military_presence_bar = {
+				frame = CNB_charlatan_military_presence_progress
+			}
+		}
 	}
 }
