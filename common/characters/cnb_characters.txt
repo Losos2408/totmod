@@ -32,7 +32,7 @@ characters = {
         name = CNB_Donn_H_Hill
         portraits = {
             civilian = {
-                #large = "gfx/leaders/CNB/Portrait_.png"
+                large = "gfx/leaders/CNB/Portrait_CNB_Donn_H_Hill.png"
             }
         }
         corps_commander = {
