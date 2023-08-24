@@ -1,0 +1,15 @@
+characters = {
+    BLG_Gusman_Khalipov = {
+        name = BLG_Gusman_Khalipov
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/BLG/.png"
+            }
+        }
+        country_leader = {
+            ideology = national_liberalism
+            traits = { }
+            desc = x
+        }
+	}
+}

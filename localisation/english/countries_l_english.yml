@@ -394,8 +394,8 @@
  TAR_DEF:0 "the Republic of Tatarstan"
  TAR_ADJ:0 "Tatar"
 
- TTN:0 "Free Republic of Tatarstan"
- TTN_DEF:0 "the Free Republic of Tatarstan"
+ TTN:0 "National Republic of Tatarstan"
+ TTN_DEF:0 "the National Republic of Tatarstan"
  TTN_ADJ:0 "Nationalist Tatar"
 
  CRB:0 "Crimean Bridge Zone"
@@ -445,3 +445,11 @@
  OMS:0 "Omsk"
  OMS_DEF:0 "the Free Omsk Republic"
  OMS_ADJ:0 "Omsk's"
+
+ TTS:0 "Tatar Socialist Republic"
+ TTS_DEF:0 "the Tatar Socialist Republic"
+ TTS_ADJ:0 "Communist Tatar"
+
+ BLG:0 "Bulgar State"
+ BLG_DEF:0 "the Bulgar State"
+ BLG_ADJ:0 "Bulgar"

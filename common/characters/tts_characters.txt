@@ -1,0 +1,15 @@
+characters = {
+    TTS_Mansur_Garifullin = {
+        name = TTS_Mansur_Garifullin
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/TTS/.png"
+            }
+        }
+        country_leader = {
+            ideology = communism_default
+            traits = { }
+            desc = x
+        }
+	}
+}

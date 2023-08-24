@@ -1,20 +1,20 @@
-capital = 211
+capital = 225
 
 # Vacant
-recruit_character = TTN_Generic_Vacant
+recruit_character = TTS_Generic_Vacant
 
 fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
 
-recruit_character = TTN_Rafis_Kashapov
+recruit_character = TTS_Mansur_Garifullin
 
 
 set_politics = {
-	ruling_party = militarism
+	ruling_party = communism
 	last_election = "2022.30.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	militarism = 100
+	communism = 100
 }

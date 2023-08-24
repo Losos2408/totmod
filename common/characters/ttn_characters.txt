@@ -7,7 +7,7 @@ characters = {
             }
         }
         country_leader = {
-            ideology = national_liberalism
+            ideology = national_conservatism
             traits = { }
             desc = x
         }

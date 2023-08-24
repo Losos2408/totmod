@@ -1,20 +1,20 @@
-capital = 211
+capital = 224
 
 # Vacant
-recruit_character = TTN_Generic_Vacant
+recruit_character = BLG_Generic_Vacant
 
 fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
 
-recruit_character = TTN_Rafis_Kashapov
+recruit_character = BLG_Gusman_Khalipov
 
 
 set_politics = {
-	ruling_party = militarism
+	ruling_party = liberalism
 	last_election = "2022.30.9"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	militarism = 100
+	liberalism = 100
 }

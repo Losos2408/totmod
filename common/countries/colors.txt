@@ -508,3 +508,11 @@ OMS = {
 	color = rgb { 110 73 128 }
 	color_ui = rgb { 110 73 128 }
 }
+TTS = {
+	color = rgb { 135 0 9 }
+	color_ui = rgb { 135 0 9 }
+}
+BLG = {
+	color = rgb { 55 118 130 }
+	color_ui = rgb { 55 118 130 }
+}

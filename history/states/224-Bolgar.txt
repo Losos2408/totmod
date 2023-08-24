@@ -1,0 +1,17 @@
+state={
+	id=224
+	name="STATE_224"
+
+	history={
+		owner = BLG
+		add_core_of = BLG
+	}
+
+	provinces={
+		2372 8111 8126
+	}
+	manpower=2001625
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

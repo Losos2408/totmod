@@ -1,12 +1,12 @@
 state={
-	id=211
-	name="STATE_211"
+	id=225
+	name="STATE_225"
 	history = {
-		owner = TTN
-		add_core_of = TTN
+		owner = TTS
+		add_core_of = TTS
 	}
 	provinces={
-		99 1318 1771 2408 5256 5872 6700 8148 8150
+		870 1786 3710 4370 5588 6389 8203 8221
 	}
 	manpower = 2000000
 	state_category = rural

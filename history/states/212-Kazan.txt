@@ -6,7 +6,7 @@ state={
 		add_core_of = TAR
 	}
 	provinces={
-		1499 2166 3005 3801 4353 5375 6546 6712 8066 8111 8126
+		1499 2166 3005 3801 4353 5375 6546 6712 8066
 	}
 	manpower = 2001625
 	state_category = rural
