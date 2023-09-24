@@ -6,7 +6,7 @@ state={
 		add_core_of = KMR
 	}
 	provinces={
-		1079 1619 1679 3533 5825 6065 8483 8512 8541
+		1619 1679 3533 5825 6065 8483 8512 8541
 	}
 	manpower = 1221292
 	state_category = rural
