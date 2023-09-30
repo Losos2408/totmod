@@ -8,8 +8,8 @@ characters = {
         }
         country_leader = {
             ideology = military_mandate
-            traits = { }
-            desc = x
+            traits = { retainer_of_loyalty }
+            desc = BSB_Saeki_Ryuji_desc
         }
 	}
     BSB_Nanami_Sakurai = {
@@ -20,7 +20,7 @@ characters = {
             }
         }
         country_leader = {
-            ideology = personalistic_dictatorship
+            ideology = yakuza
             traits = { }
             desc = x
         }
@@ -33,7 +33,20 @@ characters = {
             }
         }
         country_leader = {
-            ideology = securitocracy
+            ideology = radicalism_default
+            traits = { }
+            desc = x
+        }
+	}
+    BSB_Andrew_Gattuso = {
+        name = BSB_Andrew_Gattuso
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/BSB/.png"
+            }
+        }
+        country_leader = {
+            ideology = controlled_democracy_default
             traits = { }
             desc = x
         }

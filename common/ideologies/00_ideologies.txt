@@ -55,6 +55,7 @@ ideologies = {
 			conservatism_default = {}
 			silent_conservatism = { can_be_randomly_selected = no }
 			social_conservatism = { can_be_randomly_selected = no }
+			yakuza = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 63 62 138 }

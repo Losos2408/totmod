@@ -1,0 +1,63 @@
+ideas = {
+	country = {
+		BSB_The_Snake_Keeper = {
+
+			picture = BSB_The_Snake_Keeper
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				stability_factor = 0.10
+				political_power_gain = -0.30
+				command_power_gain = -0.20
+				weekly_manpower = 250
+			}			
+		}
+
+		BSB_Clans_Situation_0 = {
+
+			picture = BSB_Clans_Situation_0
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				stability_factor = -0.15
+				war_support_factor = -0.1
+				weekly_manpower = 250
+				custom_modifier_tooltip = BSB_Clans_Situation_0_tooltip
+			}			
+		}
+
+		BSB_The_Legacy_of_the_Buried_Dragon = {
+
+			picture = BSB_The_Legacy_of_the_Buried_Dragon
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				research_speed_factor = 0.10
+				custom_modifier_tooltip = BSB_The_Legacy_of_the_Buried_Dragon_tooltip
+			}			
+		}
+
+		BSB_In_the_Lineage_of_Izanami = {
+
+			picture = BSB_In_the_Lineage_of_Izanami
+
+			allowed = {
+				always = no
+			}
+			modifier = {
+				army_defence_factor = 0.20
+				army_attack_factor = 0.15
+				army_speed_factor = 0.1
+				army_org_regain = 0.1
+				recruitable_population_factor = -0.8
+				training_time_factor = 0.15
+			}			
+		}
+	}
+}

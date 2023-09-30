@@ -29,4 +29,13 @@ leader_traits = {
 		}
 	}
 	
+	retainer_of_loyalty = {
+		random = no
+		stability_factor = 0.05
+		political_power_gain = -0.05
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
 }

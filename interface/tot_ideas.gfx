@@ -23,5 +23,21 @@ spriteTypes = {
 		name = "GFX_idea_CRH_Karelian_Heartland"
 		texturefile = "gfx/interface/ideas/GFX_idea_CRH_Karelian_Heartland.dds"
     }
+	spriteType = {
+		name = "GFX_idea_BSB_The_Snake_Keeper"
+		texturefile = "gfx/interface/ideas/GFX_idea_BSB_The_Snake_Keeper.png"
+    }
+	spriteType = {
+		name = "GFX_idea_BSB_Clans_Situation_0"
+		texturefile = "gfx/interface/ideas/GFX_idea_BSB_Clans_Situation_0.png"
+    }
+	spriteType = {
+		name = "GFX_idea_BSB_The_Legacy_of_the_Buried_Dragon"
+		texturefile = "gfx/interface/ideas/GFX_idea_BSB_The_Legacy_of_the_Buried_Dragon.png"
+    }
+	spriteType = {
+		name = "GFX_idea_BSB_In_the_Lineage_of_Izanami"
+		texturefile = "gfx/interface/ideas/GFX_idea_BSB_In_the_Lineage_of_Izanami.png"
+    }
 }
 

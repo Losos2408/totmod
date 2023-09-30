@@ -1,9 +1,11 @@
-capital = 226
+capital = 227
 
 # Vacant
 recruit_character = BSB_Generic_Vacant
-
 recruit_character = BSB_Saeki_Ryuji
+recruit_character = BSB_Nanami_Sakurai
+recruit_character = BSB_Von_Schneider
+recruit_character = BSB_Andrew_Gattuso
 
 BSB_Saeki_Ryuji = {
 	promote_character = {
@@ -13,6 +15,13 @@ BSB_Saeki_Ryuji = {
 
 fill_empty_minister_nochecks = yes # Please remove if you're adding ministers.
 
+add_ideas = {
+	BSB_In_the_Lineage_of_Izanami
+	BSB_The_Legacy_of_the_Buried_Dragon
+	BSB_Clans_Situation_0
+	BSB_The_Snake_Keeper
+
+}
 set_politics = {
 	ruling_party = militarism
 	last_election = "2022.30.9"
@@ -21,5 +30,8 @@ set_politics = {
 }
 
 set_popularities = {
-	militarism = 100
+	militarism = 64
+	controlled_democracy = 9
+	conservatism = 20
+	radicalism = 7
 }

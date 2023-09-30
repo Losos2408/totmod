@@ -1,14 +1,14 @@
 state={
-	id=226
-	name="STATE_226"
+	id=227
+	name="STATE_227"
 	history = {
 		owner = BSB
 		add_core_of = BSB
 	}
 	provinces={
-		2528 3308 3616 3902 5846 7000 7008 7030 7033 7049 7063
+		2619 2011 7015
 	}
-	manpower = 1000
+	manpower = 7000
 	state_category = wasteland
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
