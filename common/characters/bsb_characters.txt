@@ -1,0 +1,41 @@
+characters = {
+    BSB_Saeki_Ryuji = {
+        name = BSB_Saeki_Ryuji
+        portraits = {
+            civilian = {
+                large = "gfx/leaders/BSB/Portrait_BSB_Saeki_Ryuji.png"
+            }
+        }
+        country_leader = {
+            ideology = military_mandate
+            traits = { }
+            desc = x
+        }
+	}
+    BSB_Nanami_Sakurai = {
+        name = BSB_Nanami_Sakurai
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/BSB/.png"
+            }
+        }
+        country_leader = {
+            ideology = personalistic_dictatorship
+            traits = { }
+            desc = x
+        }
+	}
+    BSB_Von_Schneider = {
+        name = BSB_Von_Schneider
+        portraits = {
+            civilian = {
+                #large = "gfx/leaders/BSB/.png"
+            }
+        }
+        country_leader = {
+            ideology = securitocracy
+            traits = { }
+            desc = x
+        }
+	}
+}

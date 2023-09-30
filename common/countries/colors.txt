@@ -516,3 +516,7 @@ BLG = {
 	color = rgb { 55 118 130 }
 	color_ui = rgb { 55 118 130 }
 }
+BSB = {
+	color = rgb { 36 68 53 }
+	color_ui = rgb { 36 68 53 }
+}

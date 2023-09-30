@@ -1,0 +1,15 @@
+state={
+	id=226
+	name="STATE_226"
+	history = {
+		owner = BSB
+		add_core_of = BSB
+	}
+	provinces={
+		2011 2528 2619 3308 3616 3902 5846 7000 7008 7015 7030 7033 7049 7063
+	}
+	manpower = 8000
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
