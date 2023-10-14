@@ -136,6 +136,7 @@ characters = {
 			}
 		}
 		field_marshal = {
+			desc = COMMANDER_W_DESC
 			skill = 5
 			attack_skill = 5
 			defense_skill = 3
