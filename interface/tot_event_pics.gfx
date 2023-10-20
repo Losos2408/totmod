@@ -19,4 +19,8 @@ spriteTypes = {
 		name = "GFX_report_event_RST_event_1"
 		texturefile = "gfx/event_pics/RST/GFX_report_event_RST_event_1.png"
 	}
+	spriteType = {
+		name = "GFX_report_event_eva_ushiromiya_photo"
+		texturefile = "gfx/event_pics/UNK/GFX_report_event_eva_ushiromiya_photo.png"
+	}
 }

@@ -145,8 +145,8 @@ spriteTypes = {
 			texturefile = "gfx/interface/ideologies/slavo_aryanism_subid.png"
 	    }
 		spriteType = {
-			name = "GFX_ideology_personalistic_dictatorship_umineko"
-			texturefile = "gfx/interface/ideologies/personalistic_dictatorship_umineko.png"
+			name = "GFX_ideology_house_of_ushiromiya"
+			texturefile = "gfx/interface/ideologies/house_of_ushiromiya.png"
 	    }
 		spriteType = {
 			name = "GFX_ideology_socialism_of_the_21st_century"

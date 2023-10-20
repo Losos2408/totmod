@@ -83,7 +83,7 @@ ideologies = {
 			national_patriotism = { can_be_randomly_selected = no }
 			interim_goverment = { can_be_randomly_selected = no }
 			personalistic_dictatorship = { can_be_randomly_selected = no }
-			personalistic_dictatorship_umineko = { can_be_randomly_selected = no }
+			house_of_ushiromiya = { can_be_randomly_selected = no }
 		}
 		dynamic_faction_names = {}
 		color = { 55 55 55 }

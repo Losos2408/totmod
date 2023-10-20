@@ -214,8 +214,8 @@ defined_text = {
 		localization_key = "personalistic_dictatorship"
 	}
 	text = {
-		trigger = { has_country_leader_ideology = personalistic_dictatorship_umineko }
-		localization_key = "personalistic_dictatorship_umineko"
+		trigger = { has_country_leader_ideology = house_of_ushiromiya }
+		localization_key = "house_of_ushiromiya"
 	}
 	text = {
 		trigger = { has_country_leader_ideology = socialism_of_the_21st_century }

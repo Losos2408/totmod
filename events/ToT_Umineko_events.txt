@@ -1,0 +1,29 @@
+add_namespace = UNK
+
+country_event = { #Battler meets Ange
+	id = UNK.1
+	immediate = {log = "[GetDateText]: [Root.GetName]: event UNK.1"}
+	title = UNK.1.t
+	desc = UNK.1.desc
+	picture = GFX_report_event_ROI_event_2
+
+	is_triggered_only = yes
+
+	option = {
+		name = UNK.1.a
+	}
+}
+
+country_event = { #Eva's disappearance
+	id = UNK.2
+	immediate = {log = "[GetDateText]: [Root.GetName]: event UNK.2"}
+	title = UNK.2.t
+	desc = UNK.2.desc
+	picture = GFX_report_event_eva_ushiromiya_photo
+
+	is_triggered_only = yes
+
+	option = {
+		name = UNK.2.a
+	}
+}

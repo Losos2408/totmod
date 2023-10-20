@@ -7,7 +7,7 @@ characters = {
             }
         }
         country_leader = {
-            ideology = personalistic_dictatorship_umineko
+            ideology = house_of_ushiromiya
             traits = { }
             desc = x
         }
