@@ -27,4 +27,8 @@ spriteTypes = {
 		name = "GFX_report_event_great_cold_report"
 		texturefile = "gfx/event_pics/great_cold/GFX_report_event_great_cold_report.png"
 	}
+	spriteType = {
+		name = "GFX_report_event_chess_board"
+		texturefile = "gfx/event_pics/UNK/GFX_report_event_chess_board.png"
+	}
 }

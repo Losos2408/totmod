@@ -27,3 +27,17 @@ country_event = { #Eva's disappearance
 		name = UNK.2.a
 	}
 }
+
+country_event = { #Bern's debut
+	id = UNK.3
+	immediate = {log = "[GetDateText]: [Root.GetName]: event UNK.3"}
+	title = UNK.3.t
+	desc = UNK.3.desc
+	picture = GFX_report_event_chess_board
+
+	is_triggered_only = yes
+
+	option = {
+		name = UNK.3.a
+	}
+}
