@@ -7,7 +7,7 @@ state={
 		add_core_of = ROI
 	}
 	provinces={
-		7083
+		7084
 	}
 	manpower=307257
 	buildings_max_level_factor=1.000

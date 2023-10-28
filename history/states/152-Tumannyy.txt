@@ -7,7 +7,7 @@ state={
 		add_core_of = CCC
 	}
 	provinces={
-		1447 2691 5229 7077 7125 7084 7141
+		1447 2691 5229 7125 7083 7141
 	}
 	manpower=307257
 	buildings_max_level_factor=1.000
